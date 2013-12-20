@@ -1,0 +1,28 @@
+{
+  "id":23,
+  "name":"Via Sagunto",
+  "desc":"      <blockquote>Our new house is really nice, eh? What did I tell you?<\/blockquote>      <cite><em>Mamma Roma<\/em><\/cite>      <p>It is the INA-Casa del Tuscolano quarter that Mamma Roma is aiming for to rise socially. This neighbourhood, a manifesto of Italian urban rationalism, was constructed in 1961 thanks to the Fanfani law in favour of social housing. But these modern new residential complexes brought no solution to the issues of social origin, and moving into this new quarter would not spare Ettore from a tragic end. <em>'Certain urbanistic and social choices are fraught with consequence for the most modest people, and material progress brought by modernity is a delusion. Misfortune, as Pasolini explains in his film, does not necessarily come from the fact that the Capital impoverishes, but from the fact that material well-being is accompanied by a loss of humanity.'<\/em> (Eugenio Renzi).<\/p>      ",
+  "latLng":[
+    41.857861,
+    12.551314
+  ],
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "comment":{
+    
+  },
+  "m":[
+    {
+      "type":"video",
+      "id":2381358462001,
+      "wide":1,
+      "caption":"Excerpt from Mamma Roma (Pier Paolo Pasolini, 1962)",
+      "rights":"\u00a9 Mediaset"
+    }
+  ],
+  "trello":"kBTK9evY",
+  "lang":"en"
+}

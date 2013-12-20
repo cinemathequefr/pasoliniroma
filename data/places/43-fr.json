@@ -1,0 +1,14 @@
+{
+  "id":43,
+  "address":"Largo Arenula, 00186 Roma",
+  "desc":"      PLACER LE CONTENU ICI      ",
+  "latLng":[
+    41.894817,
+    12.476393
+  ],
+  "cat":{
+    "id":9,
+    "name":"La derni\u00e8re journ\u00e9e"
+  },
+  "lang":"fr"
+}

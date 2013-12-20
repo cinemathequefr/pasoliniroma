@@ -1,0 +1,16 @@
+{
+  "id":30,
+  "name":"Torre Angela",
+  "desc":"      PLACER LE CONTENU ICI      ",
+  "latLng":[
+    41.869305,
+    12.613678
+  ],
+  "pos":6482,
+  "cat":{
+    "id":6,
+    "name":"Des oiseaux, petits et gros"
+  },
+  "trello":"RlPufcVs",
+  "lang":"fr"
+}

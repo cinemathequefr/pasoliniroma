@@ -1,0 +1,50 @@
+{
+  "id":17,
+  "name":"Via dei Gordiani",
+  "desc":"[Via dei Gordiani]",
+  "latLng":[
+    41.886129,
+    12.554196
+  ],
+  "date":1961,
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"17-2",
+      "width":1600,
+      "height":987,
+      "caption":"[La via dei Gordiani]",
+      "rights":"\u00a9 Carlo Riccardi \/ Archivio Riccardi"
+    },
+    {
+      "type":"img",
+      "id":"17-1",
+      "width":1600,
+      "height":1104,
+      "caption":"[Pier Paolo Pasolini et Franco Citti pendant une pause, sur le tournage d'Accattone]",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"17-3",
+      "width":1600,
+      "height":1070,
+      "caption":"[Pier Paolo Pasolini et Franco Citti pendant une pause, sur le tournage d'Accattone]",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2380419919001,
+      "wide":0,
+      "caption":"[Fragment d'Accattone (Pier Paolo Pasolini, 1961)]",
+      "rights":"\u00a9 SNC \/ SND"
+    }
+  ],
+  "trello":"iWfW5w7g",
+  "lang":"it"
+}

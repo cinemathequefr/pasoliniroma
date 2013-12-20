@@ -1,0 +1,27 @@
+{
+  "id":51,
+  "name":"Platja d'Ostia",
+  "desc":"      <p>Durant la nit de l'1 al 2 de novembre de 1975 el cos atro\u00e7ment mutilat de Pier Paolo Pasolini \u00e9s descobert a la platja d'Ostia. Les condicions de la seva mort encara continuen poc clares, encara que el presumpte assass\u00ed, Giuseppe (Pino) Pelosi, va donar en el seu moment una versi\u00f3 detallada d'aquella nit tr\u00e0gica.<\/p>      <p>En comen\u00e7ar la nit, Pasolini sopa amb Ninetto Davoli al restaurant Pommidoro (Piazza dei Sanniti, 44). Despr\u00e9s ha d'anar, diu, a una cita.<\/p>      <p>En la seva primera versi\u00f3 Pelosi explica que es va trobar amb Pasolini als voltants de l'estaci\u00f3 de Termini. Despr\u00e9s haurien voltat amb el cotxe per Roma i haurien recalat a \u00abAl Biondo Tevere\u00bb (Via Ostiense, 178), un restaurant popular situat a la carretera que condueix a la platja d'Ostia.<\/p>      <p>La seva narraci\u00f3 est\u00e0 esquitxada d'incoher\u00e8ncies i parts fosques. Davant la tesi d'una simple viol\u00e8ncia homosexual que hagu\u00e9s acabat malament, la d'un parany organitzat \u00e9s molt m\u00e9s probable. Hi ha molt\u00edssimes zones d'ombra en el recorregut dels dos homes i en el desenvolupament real de la nit.<\/p>      <p>La hip\u00f2tesi m\u00e9s versemblant \u00e9s que la mort de Pasolini no es redueix a un simple esdeveniment homosexual, sin\u00f3 que remet a una forma de linxament d'un home comprom\u00e8s, activista, provocador, la veu \u00fanica del qual, potent, contestat\u00e0ria i realment influent, era un perill per al poder itali\u00e0 d'aquell moment.<\/p>      <p>Modificant les seves primeres declaracions, Pelosi va parlar m\u00e9s tard dels dos germans Borsellino, vinculats amb l'extrema dreta, i de dos o tres desconeguts sicilians.<\/p>      <p>La just\u00edcia ha reobert diverses vegades les investigacions en els \u00faltims anys.<\/p>      ",
+  "latLng":[
+    41.741721,
+    " 12.249034"
+  ],
+  "pos":10166,
+  "date":"1975-11-01",
+  "cat":{
+    "id":9,
+    "name":"L'\u00faltim dia"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"51-1",
+      "width":1596,
+      "height":1045,
+      "caption":"El cad\u00e0ver de Pier Paolo Pasolini a la platja d'Ostia",
+      "rights":"\u00a9 Archivi Farabola"
+    }
+  ],
+  "trello":"BvQzudQ9",
+  "lang":"ca"
+}

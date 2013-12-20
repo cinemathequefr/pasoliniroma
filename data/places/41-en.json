@@ -1,0 +1,26 @@
+{
+  "id":41,
+  "name":"Villa at Sabaudia",
+  "desc":"      <blockquote>Aside from Rome, we spent a lot of time in Sabaudia. Our houses were adjoining and shared a terrace and a garden. We often had lunch or dinner together. The Citti brothers came frequently. Ninetto was almost always present...<\/blockquote>      <cite>Dacia Maraini<\/cite>      <p>At the end of his life, Pasolini had two houses built on the outskirts of Rome in two diametrically opposed directions, each an hour and a half from the city by car: <a href='#!\/en\/map\/40'>the tower of Chia<\/a> and the house in Sabaudia, built with Alberto Moravia, a veritable architectural and urbanistic fantasy.<\/p>      <p>At first glance, this choice is intriguing: Sabaudia is a small city thought up by the fascist regime, which paradoxically had the ambition of creating new cities, pure creations of the regime, especially in Latium. This contradiction, both urban and philosophical, was fundamental: cultural life and, in particular architectural, was especially rich under fascism. After the fall of Mussolini, the Italian left long turned its back on this fascist symbol. For Pasolini, urbanism and the architecture of Sabaudia reflected not fascist ideology but, on the contrary, values much more rooted in Italian tradition, values that fascism had not succeeded in eradicating. He liked the human-scale of this 'metaphysical, Chirico-esque' city.<\/p>      <p>This reflection was part of a more general reinterpretation of Italian society, politics and History. Living in Sabaudia meant going to the roots of fascism, as well as the occasion to analyze the respective influences of authoritarian power and Christian Democracy. Pasolini would develop this discourse in a fantastic documentary, <em>La Forma della citt\u00e0 [The Form of the City].<\/em><\/p>      ",
+  "latLng":[
+    41.25252,
+    13.034988
+  ],
+  "pos":9312,
+  "cat":{
+    "id":1,
+    "name":"Houses"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"41-1",
+      "width":1013,
+      "height":696,
+      "caption":"[La villa de Sabaudia]",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    }
+  ],
+  "trello":"TxrL5d9K",
+  "lang":"en"
+}

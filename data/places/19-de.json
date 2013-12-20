@@ -1,0 +1,42 @@
+{
+  "id":19,
+  "name":"Ponte Testaccio",
+  "desc":"[Ponte Testaccio]",
+  "latLng":[
+    41.875373,
+    " 12.470834"
+  ],
+  "date":1961,
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"19-1",
+      "width":1626,
+      "height":1200,
+      "caption":"[Visite de Federico Fellini sur le tournage d'Accattone]",
+      "rights":"\u00a9 Tazio Secchiaroli \/ David Secchiaroli"
+    },
+    {
+      "type":"img",
+      "id":"19-2",
+      "width":1642,
+      "height":1200,
+      "caption":"[Visite de Federico Fellini sur le tournage d'Accattone]",
+      "rights":"\u00a9 Tazio Secchiaroli \/ David Secchiaroli"
+    },
+    {
+      "type":"video",
+      "id":2380420008001,
+      "wide":0,
+      "caption":"[Fragment d'Accattone (Pier Paolo Pasolini, 1961)]",
+      "rights":"\u00a9 SNC \/ SND"
+    }
+  ],
+  "trello":"FwUxnWJv",
+  "lang":"de"
+}

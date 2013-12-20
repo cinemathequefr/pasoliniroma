@@ -1,0 +1,25 @@
+{
+  "id":39,
+  "name":"Studi della RAI",
+  "address":"Viale Giuseppe Mazzini, 14, 00195 Roma",
+  "latLng":[
+    41.91764,
+    " 12.467064"
+  ],
+  "pos":8607,
+  "cat":{
+    "id":3,
+    "name":"Politica"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"39-1",
+      "width":856,
+      "height":568,
+      "caption":"[Si\u00e8ge de la RAI]"
+    }
+  ],
+  "trello":"DUcrzwlX",
+  "lang":"it"
+}

@@ -1,0 +1,35 @@
+{
+  "id":10,
+  "name":"Casa de Laura Betti, via del Babuino, 68",
+  "address":"Via del Babuino, 68, 00187 Roma",
+  "desc":"      <blockquote>Cuando llegu\u00e9 a Roma para cantar, fui buscando textos y eso llam\u00f3 la atenci\u00f3n de los escritores. Frecuent\u00e9 el c\u00edrculo intelectual. Una noche, Alberto Moravia trajo a Pier Paolo a mi casa. Enseguida me pareci\u00f3 interesante. Se quedaba por all\u00ed, en un rinc\u00f3n, observ\u00e1ndome detr\u00e1s de sus gafas de sol. Me plant\u00e9 enfrente de \u00e9l, le quit\u00e9 las gafas y con una voz muy a lo Marlene Dietrich, le pregunt\u00e9: \u00ab\u00bfQu\u00e9 pasa? \u00bfLe doy miedo?\u00bb. Fue un flechazo.<\/blockquote>      <cite>Laura Betti en <em>Lib\u00e9ration<\/em>, 2 de agosto de 2004<\/cite>      <blockquote>Piensa que la primera vez que me ba\u00f1\u00e9 en una ba\u00f1era fue en casa de Laura Betti cuando viv\u00eda en via del Babuino. Yo no hab\u00eda visto nunca una ba\u00f1era, me parec\u00eda un ata\u00fad. Luego me met\u00ed dentro, entonces se usaba Badedas, y la llen\u00e9 de jab\u00f3n, sumergi\u00e9ndome en aquella espuma. De todas formas en aquel momento ya conoc\u00eda a Alberto Moravia, Elsa Morante, Sandro Penna, Enzo Siciliano, ya hab\u00eda entrado en aquel mundo.<\/blockquote>      <cite>Ninetto Davoli, entrevistado por Gianni Borgna en septiembre de 2012<\/cite>      <p>Laura Betti, figura de la noche romana, se convierte r\u00e1pidamente en la musa de Pasolini, hasta el punto de que viven un tiempo juntos, en particular en el piso de la via del Babuino. \u00c9l redefine en la \u00e9poca el concepto de pareja, pues Pasolini vive con Betti una relaci\u00f3n en la que se mezclan la amistad, el amor y la colaboraci\u00f3n art\u00edstica. Trabajar\u00e1n juntos en los plat\u00f3s de <em>Teorema<\/em>, <em>Edipo rey<\/em> y <em>Loscuentos de Canterbury<\/em>.<\/p>      <p>En una carta a Godard, Pasolini habla de Laura Betti como de su <em>\u00ab esposa no carnal \u00bb<\/em>.<\/p>      ",
+  "latLng":[
+    41.907787,
+    12.479884
+  ],
+  "pos":4306,
+  "cat":{
+    "id":8,
+    "name":"Vida social e intelectual"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"10-1",
+      "width":1260,
+      "height":1200,
+      "caption":"Laura Betti en su primer piso, ense\u00f1ando el cartel del espect\u00e1culo Giro a vuoto, 1960",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"10-2",
+      "width":1600,
+      "height":1073,
+      "caption":"Laura Betti en su primer piso",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    }
+  ],
+  "trello":"Sb6Sfsrq",
+  "lang":"es"
+}

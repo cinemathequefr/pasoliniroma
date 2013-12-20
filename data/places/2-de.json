@@ -1,0 +1,28 @@
+{
+  "id":2,
+  "name":"Piazza Costaguti",
+  "address":"Piazza Costaguti, 14, 00186 Roma",
+  "desc":"[Piazza Costaguti]",
+  "latLng":[
+    41.893620,
+    12.476747
+  ],
+  "date":1950,
+  "pos":762,
+  "cat":{
+    "id":1,
+    "name":"H\u00e4user"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"2-1",
+      "width":1019,
+      "height":960,
+      "caption":"Piazza Costaguti",
+      "rights":"\u00a9 Francesco Pierangeli"
+    }
+  ],
+  "trello":"yJBnbec4",
+  "lang":"de"
+}

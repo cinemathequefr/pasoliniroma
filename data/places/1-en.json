@@ -1,0 +1,28 @@
+{
+  "id":1,
+  "name":"Piazza Mattei",
+  "address":"Piazza Mattei, 00186 Roma",
+  "desc":"      <p>A few streets from his first flat was the Piazza Mattei and its famous Turtle Fountain, which Pasolini cherished and would describe in his <em>Ali dagli occhi azzurri (Al\u00ec blue eyes)<\/em>, a collection of short stories published in 1965. In it, he depicts the Roman nights and evokes in particular, the Place of Turtles and its ephebes, 'gleaming, madly gleaming, penetrating the night with their nudity. The boys that Sunday deposits in the new streets like scum are a thousand leagues from the pure, seductive sacred firmness of this nude. One can now love only statues'.<\/p>      <p>No doubt that these modestly bare young men beckoned to the singularity of his eros.<\/p>      <p>He also evoked this period in the preface to a collection of poetry, in 1970: <em>'In Rome, I first lived at Piazza Costaguti, near the Portico d'Ottavia (the ghetto!), then went into the ghetto delle borgate near the Rebibbia Prison, in a house that remained definitively roofless (13,000 lire rent a month). For two years, I was unemployed and desperate, one of those who end up as suicides. Then I found a teaching position in a private school in <a href='#!\/en\/map\/4'>Ciampino<\/a> for 27,000 lire a month.'<\/em><\/p>      ",
+  "latLng":[
+    41.893887,
+    12.477525
+  ],
+  "date":1950,
+  "pos":763,
+  "cat":{
+    "id":2,
+    "name":"Pasolini writer"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"1-1",
+      "width":1600,
+      "height":1199,
+      "caption":"Piazza Mattei, the Turtle Fountain",
+      "rights":"\u00a9 Archivio Storico Capitolino \u2013 Biblioteca Romana"
+    }
+  ],
+  "trello":"VMcQZ3f7",
+  "lang":"en"
+}

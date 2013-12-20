@@ -1,0 +1,39 @@
+{
+  "id":22,
+  "name":"Ponte Sant'Angelo",
+  "latLng":[
+    41.901788,
+    " 12.466462"
+  ],
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"22-1",
+      "width":1600,
+      "height":1036,
+      "caption":"[Foto de plat\u00f3 d'Accattone]",
+      "rights":"\u00a9 Cicconi"
+    },
+    {
+      "type":"video",
+      "id":2381118286001,
+      "wide":0,
+      "caption":"[Fragment d'Accattone (Pier Paolo Pasolini, 1961)]",
+      "rights":"\u00a9 SNC \/ SND"
+    },
+    {
+      "type":"video",
+      "id":2380420004001,
+      "wide":0,
+      "caption":"[Extrait du documentaire A futura memoria (Ivo Barnab\u00f2 Micheli, 1986)]",
+      "rights":"\u00a9 1986 Antea Film srl \/ 23 Giugno srl \u00a9 2003 Ripley's Film srl - All rights reserved"
+    }
+  ],
+  "trello":"x38yMZYH",
+  "lang":"it"
+}

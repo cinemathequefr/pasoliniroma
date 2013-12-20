@@ -1,0 +1,49 @@
+{
+  "id":38,
+  "name":"Valle Giulia, facult\u00e9 d'architecture",
+  "desc":"      <p>La fin des ann\u00e9es 1960 est pour Pier Paolo Pasolini le lieu d'une d\u00e9sillusion croissante face \u00e0 l'\u00e9volution de l'Italie contemporaine. Lui qui a tant milit\u00e9 pour la reconnaissance du petit peuple des bas-fonds de Rome assiste impuissant \u00e0 l'av\u00e8nement d'une soci\u00e9t\u00e9 de consommation qu'il ex\u00e8cre. Rien ne semble selon lui pouvoir arr\u00eater ce processus de d\u00e9shumanisation.<\/p>      <p>Pas m\u00eame les manifestations estudiantines de 1968, qu'il per\u00e7oit comme un simple d\u00e9cha\u00eenement de fils de bourgeois en mal d'action. C'est autour de la facult\u00e9 d'architecture, \u00e0 Valle Giulia (dans le quartier de Parioli, pr\u00e8s de la villa Borghese) que se concentrent les heurts, tr\u00e8s violents, entre la police et les \u00e9tudiants. Alors qu'il s'appr\u00eate \u00e0 sortir <em>Th\u00e9or\u00e8me<\/em>, Pasolini publie un po\u00e8me dans la revue \u2013&nbsp;au tirage confidentiel&nbsp;\u2013 qu'il co-\u00e9dite avec Alberto Moravia, <em>Nuovi Argomenti<\/em>. Le po\u00e8me oppose les jeunes policiers, issus du prol\u00e9tariat du sud de l'Italie, aux bourgeois r\u00e9volt\u00e9s de 68. L'hebdomadaire <em>L'Espresso<\/em> flaire le scoop et d\u00e9cide de publier le po\u00e8me, avec un autre titre, mystificateur&nbsp;: \u00ab&nbsp;Je vous hais, chers \u00e9tudiants&nbsp;\u00bb. Un titre fonci\u00e8rement diff\u00e9rent, du titre original&nbsp;: \u00ab&nbsp;Le PCI aux jeunes gens&nbsp;\u00bb.<\/p>      <p>La confusion est totale, et le sens premier du po\u00e8me \u2013&nbsp;infiniment plus complexe que son titre r\u00e9ducteur&nbsp;\u2013 est compl\u00e8tement d\u00e9voy\u00e9. Les relations entre Pasolini et la jeunesse \u00e9tudiante se raidissent alors s\u00e9rieusement...<\/p>      ",
+  "latLng":[
+    41.918648,
+    12.480033
+  ],
+  "pos":7365,
+  "cat":{
+    "id":3,
+    "name":"Politique"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"38-2",
+      "width":1600,
+      "height":1196,
+      "caption":"Incidents entre \u00e9tudiants et forces de l'ordre \u00e0 la Facult\u00e9 d'architecture, Valle Giulia",
+      "rights":"\u00a9 Contrasto"
+    },
+    {
+      "type":"img",
+      "id":"38-3",
+      "width":1600,
+      "height":1067,
+      "caption":"Incidents entre \u00e9tudiants et forces de l'ordre \u00e0 la Facult\u00e9 d'architecture, Valle Giulia"
+    },
+    {
+      "type":"img",
+      "id":"38-4",
+      "width":1600,
+      "height":1067,
+      "caption":"Incidents entre \u00e9tudiants et forces de l'ordre \u00e0 la Facult\u00e9 d'architecture, Valle Giulia",
+      "rights":"\u00a9 Contrasto"
+    },
+    {
+      "type":"img",
+      "id":"38-5",
+      "width":803,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini assiste \u00e0 une assembl\u00e9e des Jeunesses Communistes 8 ans plus tard, en 1974. Au second plan, Gianni Borgna et Antonio Semerari",
+      "rights":"\u00a9 Istituto Luce Historical Archive"
+    }
+  ],
+  "trello":"yJhmZcaq",
+  "lang":"fr"
+}

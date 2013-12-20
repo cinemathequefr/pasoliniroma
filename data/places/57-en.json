@@ -1,0 +1,44 @@
+{
+  "id":57,
+  "name":"\u201cLa Nuova Pesa\u201d gallery, Guttuso exhibition",
+  "address":"Via del Vantaggio, 46, 00186 Roma",
+  "desc":"      <blockquote>In my room (a simple<br \/>small bed with flowered blankets<br \/>woven by Calabrese or Sardinian women),<br \/>I would hang my collection<br \/>of paintings that I still love: next to'In my room (a simple<br \/>small bed with flowered blankets<br \/>woven by Calabrese or Sardinian women),<br \/>I would hang my collection<br \/>of paintings that I still love: next to<br \/>my Zigaina, I'd like a fine Morandi,<br \/>a Mafai, from '40, a De Pisis,<\/blockquote>      <blockquote>a little Rosai, a large Guttuso\u2026<\/blockquote>      <cite>'My Desire for Wealth', poem by Pier Paolo Pasolini from <em>The Religion of My Time<\/em>, 1961<\/cite>      <p>Over the years, Pasolini's cultural and social life shifted from the <em>borgate<\/em> to the centre of Rome. The poet assiduously frequented <a href='#!\/en\/map\/9'>the bars<\/a>, <a href='#!\/en\/map\/13'>restaurants<\/a>, theatres... as well as the art galleries. Impassioned by painting, he became friends in particular with Renato Guttuso, a painter adulated at the time.<\/p>      ",
+  "latLng":[
+    41.908777,
+    12.474909
+  ],
+  "date":"1962-01-17",
+  "pos":5130,
+  "cat":{
+    "id":8,
+    "name":"Social and intellectual life"
+  },
+  "trello":"LMFMNbqT",
+  "m":[
+    {
+      "type":"img",
+      "id":"57-2",
+      "width":1200,
+      "height":1209,
+      "caption":"Pier Paolo Pasolini at the Guttuso exhibition",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"57-1",
+      "width":1772,
+      "height":1802,
+      "caption":"Renato Guttuso. Crucifixion",
+      "rights":"\u00a9 Galleria nazionale d'arte moderna"
+    },
+    {
+      "type":"img",
+      "id":"57-3",
+      "width":1200,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini and Renato Guttuso",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    }
+  ],
+  "lang":"en"
+}

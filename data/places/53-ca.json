@@ -1,0 +1,25 @@
+{
+  "id":53,
+  "name":"Mercat ambulant de la Porta Portese",
+  "desc":"      <p>El mercat ambulant de <em>Mamma Roma<\/em>, s\u00edmbol de la mis\u00e8ria i la picaresca dels <em>borgate<\/em>, \u00e9s tamb\u00e9 el decorat del cinqu\u00e8 cap\u00edtol de <em>Ragazzi di vita<\/em> de Pasolini.<\/p>      <p>A la pel\u00b7l\u00edcula, Ettore ven els discos de la seva mare, amb els quals ella el va ensenyar a ballar, en una parada del mercat ambulant de la Porta Portese. A la novel\u00b7la, Ricetto acaba a la pres\u00f3 de menors del mateix barri despr\u00e9s d'haver com\u00e8s l'en\u00e8sim furt.<\/p>      ",
+  "latLng":[
+    41.883728,
+    " 12.473832"
+  ],
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "m":[
+    {
+      "type":"video",
+      "id":2381452413001,
+      "wide":1,
+      "caption":"Fragment de Mamma Roma (Pier Paolo Pasolini, 1962)",
+      "rights":"\u00a9 Mediaset"
+    }
+  ],
+  "trello":"LpYBN96a",
+  "lang":"ca"
+}

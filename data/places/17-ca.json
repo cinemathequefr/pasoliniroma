@@ -1,0 +1,50 @@
+{
+  "id":17,
+  "name":"Via dei Gordiani",
+  "desc":"      <p>L'elecci\u00f3 del Pineto per filmar Accattone no \u00e9s cap casualitat. De fet, la Villa Gordiani \u00e9s a pocs carrers de la via Montecuccoli. En aquest carrer, lluny dels tradicionals estudis de Cinecitt\u00e0, Rossellini havia rodat uns anys abans <em>Roma, citt\u00e0 aperta<\/em>, i en particular l'escena de la mort d'Anna Magnani, sobre la qual Pasolini va escriure un p\u0153ma despr\u00e9s de tornar a veure la pel\u00b7l\u00edcula poc temps despr\u00e9s d'arribar a Roma, al <a href='#!\/ca\/map\/5'>cinema \u201cTeatro Nuovo\u201d<\/a>. L'her\u00e8ncia cinematogr\u00e0fica ve acompanyada per una refer\u00e8ncia geogr\u00e0fica: uns deu metres separen el decorat natural de les dues pel\u00b7l\u00edcules.<\/p>      <p>Avui dia el Pineto ha canviat molt. S'ha convertit en un barri de moda, en el qual abunden els pintors i els artistes joves.<\/p>      <blockquote>Su una strada miserabile, circondata da baracche, vecchie casette, piena di ragazzini stracciati, sotto un sole furioso, c'era una triste, desolata campanella che suonava a morto. Accattone avanzava per la strada tramortita dal sole. Era proprio un accattone, in canottiera \u2013 senza maglietta \u2013 coi calzoni impolverati. Nel collo, non c'era pi\u00f9 la grossa catenella d'oro. Alle dita non c'era pi\u00f9 neanche un anello. Al polso non c'era pi\u00f9 n\u00e9 bracciale n\u00e9 orologio. nudo come un v\u00e8rmine. Camminava, per la strada, vuota, accecata, sotto la campanella che suonava a morto.<\/blockquote>      <cite>Fragment del gui\u00f3<\/cite>      ",
+  "latLng":[
+    41.886129,
+    12.554196
+  ],
+  "date":1961,
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"17-2",
+      "width":1600,
+      "height":987,
+      "caption":"La via dei Gordiani",
+      "rights":"\u00a9 Carlo Riccardi \/ Archivio Riccardi"
+    },
+    {
+      "type":"img",
+      "id":"17-1",
+      "width":1600,
+      "height":1104,
+      "caption":"Franco Citti i Pier Paolo Pasolini durant el rodatge de Accattone",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"17-3",
+      "width":1600,
+      "height":1070,
+      "caption":"Franco Citti i Pier Paolo Pasolini durant el rodatge de Accattone",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2380419919001,
+      "wide":0,
+      "caption":"Fragment d'Accattone (Pier Paolo Pasolini, 1961)",
+      "rights":"\u00a9 SNC \/ SND"
+    }
+  ],
+  "trello":"iWfW5w7g",
+  "lang":"ca"
+}

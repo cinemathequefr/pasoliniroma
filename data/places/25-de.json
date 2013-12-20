@@ -1,0 +1,34 @@
+{
+  "id":25,
+  "name":"Piazza Tommaso de Cristoforis",
+  "desc":"[Piazza Tommaso de Cristoforis]",
+  "latLng":[
+    41.900578,
+    12.534721
+  ],
+  "date":1962,
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"25-1",
+      "width":1600,
+      "height":1055,
+      "caption":"[Ettore Garofolo, Anna Magnani et Pier Paolo Pasolini sur le plateau de Mamma Roma]",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2324676534001,
+      "wide":1,
+      "caption":"[Extrait de Mamma Roma (Pier Paolo Pasolini, 1962)]",
+      "rights":"\u00a9 Mediaset"
+    }
+  ],
+  "trello":"fSElUnPG",
+  "lang":"de"
+}

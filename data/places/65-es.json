@@ -1,0 +1,25 @@
+{
+  "id":65,
+  "name":"Via Casilina Vecchia (Ponte Casilino):  Las mil y una noches",
+  "desc":"      <p>Pi\u00e9rdanse sin rumbo siguiendo a \u017dilda, un artista callejero de Rennes, cuyos <em>collages<\/em> convocan a los fantasmas de Pasolini en las esquinas de las callejuelas romanas.<\/p>      ",
+  "latLng":[
+    41.886097,
+    12.526415
+  ],
+  "cat":{
+    "id":10,
+    "name":"\u017dilda"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"65-1",
+      "width":1300,
+      "height":864,
+      "caption":"Les Mille et une nuits",
+      "rights":"\u00a9 \u017dilda"
+    }
+  ],
+  "lang":"es"
+}

@@ -1,0 +1,28 @@
+{
+  "id":61,
+  "name":"Casal Bruciato",
+  "address":"Casal Bruciato",
+  "desc":"      <p><em>Mamma Roma<\/em> est <em>le<\/em> film de cette Rome populaire qui cherche \u00e0 se conformer \u00e0 la nouvelle situation \u00e9conomique des ann\u00e9es 60. Anna Magnani y campe une prostitu\u00e9e, une marginale qui tente tant bien que mal de s'adapter aux bouleversements de la soci\u00e9t\u00e9 italienne, de s'int\u00e9grer, pour son fils, \u00e0 la petite bourgeoisie. Naturellement, ses tentatives vont \u00e9chouer. Et son fils, Ettore, mis en prison pour un menu larcin, finira pratiquement liquid\u00e9 par une soci\u00e9t\u00e9 indiff\u00e9rente.<\/p>      <p>Avec ce second film, Pasolini fait \u0153uvre d'anthropologue, de sociologue, et pas seulement de po\u00e8te. Le choix des lieux de tournage refl\u00e8te la situation sociale r\u00e9elle du pays. \u00c0 l'inverse du <a href='#!\/fr\/map\/16'>Pigneto mis\u00e9rable d'<em>Accattone<\/em><\/a>, les quartiers de <em>Mamma Roma<\/em> sont ceux du d\u00e9veloppement urbain de Rome. Le Casal Bruciato, par exemple, est embl\u00e9matique du nouvel essor de l'Italie d'alors.<\/p>      <p>Mamma Roma et son fils n'arriveront finalement pas \u00e0 s'int\u00e9grer \u00e0 cette nouvelle donne sociale, et aux quartiers qui la symbolisent. Ils resteront des marginaux. Pour Pasolini, cet \u00e9chec a valeur d'exemplarit\u00e9 \u2013 pour lui qui a toujours \u00e9t\u00e9 contre la conformit\u00e9, le <em>qualunquismo<\/em>.<\/p>      ",
+  "latLng":[
+    41.906797,
+    12.546773
+  ],
+  "date":1962,
+  "pos":5201,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"61-1",
+      "width":1600,
+      "height":1189,
+      "caption":"Anna Magnani et Roberto Rossellini sur le tournage de Mamma Roma",
+      "rights":"\u00a9 Angelo Novi \/ Archivio Pier Paolo Pasolini"
+    }
+  ],
+  "lang":"fr"
+}

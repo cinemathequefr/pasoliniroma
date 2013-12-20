@@ -1,0 +1,36 @@
+{
+  "id":9,
+  "name":"Canova Caf\u00e9",
+  "address":"Piazza del Popolo, 16-17, 00187 Roma",
+  "desc":"      <p>A neighbour of Rosati, the Caff\u00e8 Canova was another epicentre of Roman intellectual life. On the terrace, Pasolini got together with the writers, poets, filmmakers, scriptwriters who were his friends\u2026 It was from these circles that Federico Fellini would largely take inspiration for <em>La Dolce vita<\/em>. And even though Pasolini did not wish to appear in the film's credits, it is common knowledge that he is to be credited for at least the episode with Anouk Aim\u00e9e and for the thoroughly Pasolinian orgy scene. For the last scene, there is a difference between the script written by Pasolini, where Mastroianni talks with the young girl, and the script filmed by Fellini, in which they communicate only by gestures, separated by a stretch of the sea.<\/p>      <blockquote>I called Pasolini after reading Ragazzi di vita to express my enthusiasm to him. He was very likeable and spoke of I Vitelloni and La Strada in flattering terms. Only later, when the script of Le notti di Cabiria was ready, did I think it a good idea to have him read it and ask linguistic advice as to certain slang ways of speaking. The rendezvous was at the Canova bar in the Piazza del Popolo. I saw him arrive, and he immediately looked very likeable with his dusty little face of a young mason, a small proletarian face of a bantamweight suburban boxer. He accepted the proposition of collaboration enthusiastically, a quality that immediately made him familiar to me. He was a generous, immediate man.<\/blockquote>      <cite>Federico Fellini<\/cite>      <p>In fact, Pasolini collaborated on the writing of numerous scripts before starting to make his own films, including those of <em>The Big Night<\/em> (Mauro Bolognini, largely inspired by <em>Ragazzi di vita<\/em>), <em>Handsome Antonio<\/em> (Bolognini again), Mario Soldati's <em>The River Girl<\/em> or, again for Fellini, <em>The Nights of Cabiria<\/em> \u2013 co-written with Ennio Flaiano, a figure in Roman intellectual nightlife.<\/p>      ",
+  "latLng":[
+    41.907803,
+    12.479585
+  ],
+  "date":1957,
+  "pos":3377,
+  "cat":{
+    "id":8,
+    "name":"Social and intellectual life"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"9-1",
+      "width":1600,
+      "height":1128,
+      "caption":"Pier Paolo Pasolini and Federico Fellini on The Nights of Cabiria set",
+      "rights":"\u00a9 Pierluigi Praturlon \/ Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"9-2",
+      "width":1591,
+      "height":1058,
+      "caption":"Marcello Mastroianni, Anouk Aim\u00e9e and Pier Paolo Pasolini on the La Dolce vita set",
+      "rights":"\u00a9 Reporters Associati srl"
+    }
+  ],
+  "trello":"VSYHrQ2f",
+  "lang":"en"
+}

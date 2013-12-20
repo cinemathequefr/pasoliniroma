@@ -1,0 +1,35 @@
+{
+  "id":40,
+  "name":"La tour de Chia",
+  "desc":"      <blockquote>Si je n'avais pas trouv\u00e9 un endroit d'une beaut\u00e9 aussi exceptionnelle (une tour dans un bois de ch\u00eanes donnant sur une vall\u00e9e), je ne me serais sans doute jamais d\u00e9cid\u00e9 \u00e0 aller r\u00e9sider souvent \u00e0 la campagne. Ma d\u00e9cision n'a pas \u00e9t\u00e9 d'ordre pratique, mais esth\u00e9tique. Une fois les choses faites, je me suis aper\u00e7u qu'il s'agit en r\u00e9alit\u00e9 d'un retour. Toute mon enfance a \u00e9t\u00e9 paysanne et champ\u00eatre. De surcro\u00eet, je ne parviens nulle part \u00e0 travailler aussi bien que dans ce bois de ch\u00eanes si parfaitement archa\u00efque. Je dis bien \u00ab&nbsp;\u00e0 travailler&nbsp;\u00bb, pas \u00ab&nbsp;\u00e0 vivre&nbsp;\u00bb. J'aime en effet vivre dans une grande ville. Mais je n'aurais jamais imagin\u00e9 que les villes italiennes deviendraient des lieux si horribles.<\/blockquote>      <cite>Pier Paolo Pasolini, texte in\u00e9dit, 1975<\/cite>      <p>Pier Paolo Pasolini d\u00e9couvre la tour de Chia au printemps 1964, pendant le tournage de <em>L'\u00c9vangile selon saint Matthieu<\/em>. Alors qu'il tourne la sc\u00e8ne du bapt\u00eame de J\u00e9sus, en bas du torrent de Chia, il est pris de doute sur le style de la premi\u00e8re semaine de tournage. Apr\u00e8s une nuit de crise, il d\u00e9cide de changer de style et de retourner la sc\u00e8ne en h\u00e9licopt\u00e8re, \u00e0 la verticale. La production n'en a pas les moyens&nbsp;: il d\u00e9cide alors de gravir les pentes du torrent et de filmer la sc\u00e8ne depuis le sommet, \u00e0 la longue focale. Il tombe alors sur les restes de cette tour m\u00e9di\u00e9vale, d'o\u00f9 la vue lui rappelle un paysage de L'Arioste. Il n'aura de cesse de l'acqu\u00e9rir. Il y parvient au d\u00e9but des ann\u00e9es 70 et fait alors construire, adoss\u00e9e aux murs en ruines, une maison pour \u00e9crire et pour peindre, mais aussi parfois pour recevoir des amis.<\/p>      <p>C'est \u00e0 cette p\u00e9riode qu'il d\u00e9cide de se remettre \u00e0 la peinture, comme \u00e0 ses d\u00e9buts frioulans, et il se fait construire une annexe, en contrebas de la maison, con\u00e7ue comme un atelier de peintre. La demeure est assez asc\u00e9tique, meubl\u00e9e sobrement, avec de larges baies vitr\u00e9es donnant directement sur le paysage. C'est l\u00e0 qu'il \u00e9crit une bonne part de ses <em>\u00c9crits corsaires<\/em> et de nombreuses pages de <em>P\u00e9trole<\/em>, son dernier roman rest\u00e9 inachev\u00e9.<\/p>      <p>C'est aussi dans la tour de Chia qu'un jeune photographe, Dino Pedriali, prend quelques-unes des photos les plus repr\u00e9sentatives de cette p\u00e9riode de la vie de Pasolini.<\/p>      ",
+  "latLng":[
+    42.466045,
+    12.309065
+  ],
+  "date":1970,
+  "pos":8340,
+  "cat":{
+    "id":1,
+    "name":"Maisons, d\u00e9m\u00e9nagements"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"40-2",
+      "width":1600,
+      "height":1180,
+      "caption":"Tournage de L'\u00c9vangile selon saint Matthieu, en bas du torrent de Chia",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"40-1",
+      "width":519,
+      "height":768,
+      "caption":"Pier Paolo Pasolini devant la tour de Chia",
+      "rights":"\u00a9 Deborah Beer \/ Archivio fotografico Cinemazero"
+    }
+  ],
+  "trello":"tll8DI8s",
+  "lang":"fr"
+}

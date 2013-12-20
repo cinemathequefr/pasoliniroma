@@ -1,0 +1,28 @@
+{
+  "id":61,
+  "name":"Casal Bruciato",
+  "address":"Casal Bruciato",
+  "desc":"      <p><em>Mamma Roma<\/em> \u00e9s la pel\u00b7l\u00edcula d'aquella Roma popular que intenta adaptar-se a la nova situaci\u00f3 econ\u00f2mica dels anys seixanta. Anna Magnani hi interpreta una prostituta, un \u00e9sser marginal que fa el que pot per adaptar-se als canvis que capgiren la societat italiana, per integrar-se, pel seu fill, en la petita burgesia. No ho aconseguir\u00e0, \u00e9s clar. I el seu fill, Ettore, empresonat per un petit furt, acabar\u00e0 pr\u00e0cticament liquidat per una societat indiferent.<\/p>      <p>Amb aquesta segona pel\u00b7l\u00edcula, Pasolini actua com a antrop\u00f2leg, com a soci\u00f2leg, i no \u00fanicament com a poeta. L'elecci\u00f3 dels llocs del rodatge reflecteix la situaci\u00f3 real del pa\u00eds. Contr\u00e0riament <a href='#!\/ca\/map\/16'>al miserable Pigneto d'<em>Accattone<\/em><\/a>, els barris de <em>Mamma Roma<\/em> s\u00f3n els del desenvolupament urb\u00e0 de Roma. El Casal Bruciato, per exemple, \u00e9s emblem\u00e0tic de la nova volada de la It\u00e0lia del moment.<\/p>      <p>Mamma Roma i el seu fill no aconseguiran integrar-se en aquesta nova societat ni tampoc en els barris que la simbolitzen. Continuaran sent uns marginats. Per a Pasolini, aquest frac\u00e0s t\u00e9 el valor de l'exemplaritat, per a ell que sempre ha estat en contra del conformisme, del <em>qualunquisme<\/em>.<\/p>      ",
+  "latLng":[
+    41.906797,
+    12.546773
+  ],
+  "date":1962,
+  "pos":5201,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"61-1",
+      "width":1600,
+      "height":1189,
+      "caption":"Anna Magnani i Roberto Rossellini durant el rodatge de Mamma Roma",
+      "rights":"\u00a9 Angelo Novi \/ Archivio Pier Paolo Pasolini"
+    }
+  ],
+  "lang":"ca"
+}

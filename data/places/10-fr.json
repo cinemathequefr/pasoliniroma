@@ -1,0 +1,35 @@
+{
+  "id":10,
+  "name":"Chez Laura Betti, via del Babuino, 68",
+  "address":"Via del Babuino, 68, 00187 Roma",
+  "desc":"      <blockquote>Quand je suis arriv\u00e9e \u00e0 Rome pour chanter, j'ai cherch\u00e9 des textes, ce qui a intrigu\u00e9 les \u00e9crivains. J'ai fr\u00e9quent\u00e9 le milieu intellectuel. Un soir, Alberto Moravia a amen\u00e9 Pier Paolo chez moi. Il m'a tout de suite int\u00e9ress\u00e9e&nbsp;: il restait l\u00e0, dans un coin, \u00e0 me regarder derri\u00e8re ses lunettes noires. Je me suis plant\u00e9e devant lui, je lui ai enlev\u00e9 ses lunettes et, avec une voix tr\u00e8s Marlene Dietrich, je lui ai demand\u00e9&nbsp;: \u00ab&nbsp;Alors, vous avez peur de moi&nbsp;?&nbsp;\u00bb Ce fut un coup de foudre.<\/blockquote>      <cite>Laura Betti dans <em>Lib\u00e9ration<\/em>, 2 ao\u00fbt 2004<\/cite>      <blockquote>Figure-toi que mon premier bain dans une baignoire, je l'ai fait chez Laura Betti quand elle habitait rue del Babuino. Moi j'avais jamais vu de baignoire, \u00e7a m'faisait penser \u00e0 un cercueil. Et puis j'suis entr\u00e9 dedans, \u00e0 l'\u00e9poque on utilisait du Badedas, et je l'ai remplie de savon, en m'enfon\u00e7ant dans cette mousse. En tout cas, \u00e0 ce moment-l\u00e0 je connaissais d\u00e9j\u00e0 Alberto Moravia, Elsa Morante, Sandro Penna, Enzo Siciliano, j'\u00e9tais d\u00e9j\u00e0 entr\u00e9 dans ce monde-l\u00e0.<\/blockquote>      <cite>Ninetto Davoli, interview\u00e9 par Gianni Borgna en septembre 2012<\/cite>      <p>Laura Betti, figure de la nuit romaine, devient rapidement l'\u00e9g\u00e9rie de Pier Paolo Pasolini, au point de partager un temps sa vie, notamment dans son appartement de la via del Babuino. Le duo a red\u00e9fini \u00e0 l'\u00e9poque la notion de couple, Pasolini vivant avec Betti une relation m\u00ealant amiti\u00e9, amour et collaboration artistique. Tous deux se retrouveront notamment sur les plateaux de <em>Th\u00e9or\u00e8me<\/em>, <em>\u0152dipe Roi<\/em> et des <em>Contes de Canterbury<\/em>.<\/p>      <p>Dans une lettre \u00e0 Godard, Pasolini parlera de Laura Betti comme de son <em>\u00ab&nbsp;\u00e9pouse non charnelle&nbsp;\u00bb<\/em>.<\/p>      ",
+  "latLng":[
+    41.907787,
+    12.479884
+  ],
+  "pos":4306,
+  "cat":{
+    "id":8,
+    "name":"Vie sociale et intellectuelle"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"10-1",
+      "width":1260,
+      "height":1200,
+      "caption":"Laura Betti dans son premier appartement, montrant l'affiche du spectacle Giro a vuoto, 1960",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"10-2",
+      "width":1600,
+      "height":1073,
+      "caption":"Laura Betti dans son premier appartement",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    }
+  ],
+  "trello":"Sb6Sfsrq",
+  "lang":"fr"
+}

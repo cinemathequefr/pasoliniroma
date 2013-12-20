@@ -1,0 +1,67 @@
+{
+  "id":29,
+  "name":"Le Palais de Justice, Piazza Cavour",
+  "desc":"      <blockquote>L'accusation \u00e9tait celle d'insulte \u00e0 la religion. Beaucoup plus juste aurait \u00e9t\u00e9 d'accuser le r\u00e9alisateur d'avoir insult\u00e9 les valeurs de la petite et moyenne bourgeoisie italienne.<\/blockquote>      <cite>Alberto Moravia<\/cite>      <p>Le proc\u00e8s intent\u00e9 \u00e0 Pasolini pour <a href='#!\/fr\/map\/34'><em>La Ricotta<\/em><\/a> prend rapidement une tournure plus qu'absurde&nbsp;: souhaitant donner plus de force \u00e0 son r\u00e9quisitoire, l'avocat g\u00e9n\u00e9ral fait apporter dans la salle du tribunal une table de montage pour analyser les s\u00e9quences incrimin\u00e9es du film, l'objet du d\u00e9lit. Dans un premier temps, le magistrat r\u00e9ussit tout de m\u00eame \u00e0 faire confisquer le film, puis \u00e0 en faire supprimer le segment r\u00e9alis\u00e9 par Pasolini. <em>RoGoPaG<\/em>, film \u00e0 sketches, au titre form\u00e9 des premi\u00e8res syllabes de Rossellini, Godard, Pasolini et Gregoretti, ses r\u00e9alisateurs, est ainsi amput\u00e9 de son \u00e9pisode fondamental, de presque une demi-heure. Pasolini est \u00e9galement condamn\u00e9 \u00e0 quatre mois avec sursis en premi\u00e8re instance le 7 mars 1963. Finalement, le r\u00e9alisateur parvient \u00e0 s'expliquer, et est acquitt\u00e9 le 6 mai 1964 par la cour d'appel. Au final, le proc\u00e8s de <em>La Ricott<\/em>a se prolongera pr\u00e8s de six ans, en plusieurs instances et sous plusieurs motifs, et se terminera le 23 f\u00e9vrier 1968 par l'acquittement de Pasolini, qui obtiendra m\u00eame des dommages et int\u00e9r\u00eats.<\/p>      <p>Pour Pasolini, ce proc\u00e8s est v\u00e9ritablement d\u00e9terminant \u2013 au point qu'il d\u00e9cide de tourner <em>L'\u00c9vangile selon saint Matthieu<\/em> pour montrer que, m\u00eame ath\u00e9e, il respecte la religion comme id\u00e9ologie du peuple. Car en Italie, dans des r\u00e9gions comme le Frioul, ou dans la Rome populaire, la religion s'apparente \u00e0 une philosophie de la vie populaire. Et il ira jusqu'\u00e0 modifier radicalement son style, estimant que l'on ne peut pas filmer l'histoire de <em>L'\u00c9vangile...<\/em> comme on restitue la Rome d'<a href='#!\/fr\/map\/16'><em>Accattone<\/em><\/a>. En ce sens, <em>L'\u00c9vangile<\/em> est un film diff\u00e9rent d'<em>Accattone<\/em> dont le point de vue est frontal, quasi m\u00e9di\u00e9val, dans sa repr\u00e9sentation esth\u00e9tique du monde. <em>L'\u00c9vangile...<\/em> est ainsi plus dynamique, tourn\u00e9 avec une sorte de libert\u00e9 dans les mouvements de cam\u00e9ra absente de ses premiers films.<\/p>      ",
+  "latLng":[
+    41.905743,
+    12.469485
+  ],
+  "date":"4 octobre 1962",
+  "pos":5389,
+  "cat":{
+    "id":3,
+    "name":"Politique"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"29-1",
+      "width":1101,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini se rendant au Palais de Justice de Rome pour le proc\u00e8s de La Ricotta",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"29-2",
+      "width":1600,
+      "height":1085,
+      "caption":"Pier Paolo Pasolini pendant une audience au proc\u00e8s de La Ricotta",
+      "rights":"\u00a9 Carlo Riccardi \/ Archivio Riccardi"
+    },
+    {
+      "type":"img",
+      "id":"29-3",
+      "width":1600,
+      "height":1193,
+      "caption":"Pier Paolo Pasolini avec notamment Alberto Moravia pendant le proc\u00e8s de La Ricotta",
+      "rights":"\u00a9 DUfoto \/ Foto Scala \/ Cineteca di Bologna"
+    },
+    {
+      "type":"img",
+      "id":"29-4",
+      "width":1600,
+      "height":1159,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"29-5",
+      "width":1587,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"29-6",
+      "width":1600,
+      "height":1059,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Archivi Farabola"
+    }
+  ],
+  "trello":"L0lrIAiD",
+  "lang":"fr"
+}

@@ -1,0 +1,25 @@
+{
+  "id":53,
+  "name":"Mercadillo de la Porta Portese",
+  "desc":"      <p>El mercadillo de <em>Mamma Roma<\/em>, s\u00edmbolo de la miseria y de la picaresca de los <em>borgate<\/em>, es tambi\u00e9n el decorado del quinto cap\u00edtulo de <em>Ragazzi di vita<\/em> de Pier Paolo Pasolini.<\/p>       <p>En la pel\u00edcula, Ettore vende los discos de su madre, con los que ella le ense\u00f1\u00f3 a bailar, a un puesto del mercadillo de la Porta Portese. En la novela, Ricetto acaba en la c\u00e1rcel de menores del mismo barrio despu\u00e9s de haber cometido un en\u00e9simo hurto.<\/p>      ",
+  "latLng":[
+    41.883728,
+    " 12.473832"
+  ],
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "m":[
+    {
+      "type":"video",
+      "id":2381452413001,
+      "wide":1,
+      "caption":"Fragmento de Mamma Roma (Pier Paolo Pasolini, 1962)",
+      "rights":"\u00a9 Mediaset"
+    }
+  ],
+  "trello":"LpYBN96a",
+  "lang":"es"
+}

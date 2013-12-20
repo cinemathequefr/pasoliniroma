@@ -1,0 +1,50 @@
+{
+  "id":16,
+  "name":"Via Fanfulla da Lodi",
+  "address":"Via Fanfulla da Lodi, 00176 Roma, Italie",
+  "desc":"[Via Fanfulla da Lodi]",
+  "latLng":[
+    41.889809,
+    12.530284
+  ],
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"16-2",
+      "width":1600,
+      "height":1198,
+      "caption":"[Pier Paolo Pasolini sur le tournage d'Accattone]",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"16-1",
+      "width":1600,
+      "height":1181,
+      "caption":"[Pier Paolo Pasolini sur le tournage d'Accattone]",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"16-3",
+      "width":1735,
+      "height":1200,
+      "caption":"[Pier Paolo Pasolini sur le tournage d'Accattone]",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2380416892001,
+      "wide":0,
+      "caption":"[Fragment d'Accattone (Pier Paolo Pasolini, 1961)]",
+      "rights":"\u00a9 SNC \/ SND"
+    }
+  ],
+  "trello":"tBbON3r3",
+  "lang":"it"
+}

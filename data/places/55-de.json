@@ -1,0 +1,26 @@
+{
+  "id":55,
+  "name":"Via del Monte delle Capre",
+  "desc":"[Via del Monte delle Capre]",
+  "latLng":[
+    41.845013,
+    12.431436
+  ],
+  "pos":6482,
+  "cat":{
+    "id":6,
+    "name":"Gro\u00dfe V\u00f6gel, kleine V\u00f6gel"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"55-1",
+      "width":1600,
+      "height":1139,
+      "caption":"[Tot\u00f2 et Pier Paolo Pasolini durant le tournage des Oiseaux, petits et gros]",
+      "rights":"\u00a9 Divo Cavicchioli \/ Reporters Associati srl"
+    }
+  ],
+  "trello":"IfDzCwaF",
+  "lang":"de"
+}

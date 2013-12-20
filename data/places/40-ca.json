@@ -1,0 +1,35 @@
+{
+  "id":40,
+  "name":"La torre de Chia",
+  "desc":"     <blockquote>Probablement si no hagu\u00e9s trobat un lloc  de bellesa excepcional (una torre en un bosc de roures sobre una vall) no m'hauria decidit mai a anar-me'n a viure sovint al camp. La decisi\u00f3 ha estat est\u00e8tica, no pr\u00e0ctica. Despr\u00e9s m'he adonat que es tractava en realitat d'un retorn. La meva inf\u00e0ncia va ser del tot pagesa i campestre. A m\u00e9s, enlloc no treballo millor que en aquell rac\u00f3 de roures tan perfectament arcaic. Dic treballar, no viure. A mi m'agrada viure en una gran ciutat. I mai no m'hauria imaginat que les grans ciutats italianes es convertirien en llocs tan horribles.<\/blockquote>      <cite>Text in\u00e8dit, 1975<\/cite>      <p>Pier Paolo Pasolini descobreix la torre de Chia a la primavera de 1964, durant el rodatge de <em>L'Evangeli segons sant Mateu<\/em>. Mentre roda l'escena del bateig de Jes\u00fas, a la part de baix del torrent de Chia, s'omple de dubtes sobre l'estil de la primera setmana de rodatge. Despr\u00e9s d'una nit de crisi decideix canviar d'estil i tornar a rodar l'escena des d'un helic\u00f2pter, en vertical. Per\u00f2 la producci\u00f3 no es pot permetre aquest luxe: decideix llavors pujar pels pendents del torrent i filmar l'escena des de dalt amb teleobjectiu. Aleshores es topa amb les restes d'aquesta torre medieval, i el que veu des d'all\u00e0 li recorda un paisatge d'Ariosto. No es rendir\u00e0 fins a comprar-la. Ho aconsegueix al principi dels anys setanta i hi fa construir, adossada als murs en ru\u00efna, una casa on escriure i pintar, i tamb\u00e9 a vegades rebre els seus amics.<\/p>      <p>Durant aquest per\u00edode decideix tornar a la pintura, com quan vivia al Fri\u00fcl, i construeix una depend\u00e8ncia, sota la casa, dissenyada com a estudi de pintura. La casa \u00e9s m\u00e9s aviat asc\u00e8tica, amb grans finestrals que s'obren directament sobre el paisatge. Hi escriu bona part dels seus <em>Escrits corsaris<\/em> i moltes p\u00e0gines de <em>Petroli<\/em>, la seva \u00faltima novel\u00b7la inacabada.<\/p>      <p>A la torre de Chia un jove fot\u00f2graf, Dino Pedriali, pren algunes de les fotos m\u00e9s representatives d'aquest per\u00edode de la vida de Pasolini.<\/p>      ",
+  "latLng":[
+    42.466045,
+    12.309065
+  ],
+  "date":1970,
+  "pos":8340,
+  "cat":{
+    "id":1,
+    "name":"Cases, mudances"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"40-2",
+      "width":1600,
+      "height":1180,
+      "caption":"Rodatge de L'Evangeli segons sant Mateu, a la part baixa del torrent de Chia",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"40-1",
+      "width":519,
+      "height":768,
+      "caption":"Pier Paolo Pasolini davant de la torre de Chia",
+      "rights":"\u00a9 Deborah Beer \/ Archivio fotografico Cinemazero"
+    }
+  ],
+  "trello":"tll8DI8s",
+  "lang":"ca"
+}

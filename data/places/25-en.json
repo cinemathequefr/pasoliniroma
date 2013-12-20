@@ -1,0 +1,34 @@
+{
+  "id":25,
+  "name":"Piazza Tommaso de Cristoforis",
+  "desc":"      <blockquote>There's our house. Do you see? That window up there in full sun. You see underwear hung out, on the top floor. It's only for a few days. After, you'll see, the house\u2026 A nice house. You'll find only good-looking people. In a nice neighbourhood.<\/blockquote>      <cite><em>Mamma Roma<\/em><\/cite>      <p>With his second film (but such was also the case with <a href='#!\/en\/map\/16'><em>Accattone<\/em><\/a>), the filmmaker firmly differentiated himself from the naturalist heritage of his masters, <a href='#!\/en\/map\/5'>Roberto Rossellini<\/a> and Vittorio De Sica, reckoning that their neo-realistic style corresponded to a world view that was totally a thing of the past by the early 1960s. He took the radical opposite course and endeavoured to breath grandeur and lyricism into these precarious, cobbled together urban spaces, despised by architects and city planners.<\/p>      ",
+  "latLng":[
+    41.900578,
+    12.534721
+  ],
+  "date":1962,
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"25-1",
+      "width":1600,
+      "height":1055,
+      "caption":"Ettore Garofolo, Anna Magnani and Pier Paolo Pasolini on the set of Mamma Roma",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2324676534001,
+      "wide":1,
+      "caption":"Excerpt from Mamma Roma (Pier Paolo Pasolini, 1962)",
+      "rights":"\u00a9 Mediaset"
+    }
+  ],
+  "trello":"fSElUnPG",
+  "lang":"en"
+}

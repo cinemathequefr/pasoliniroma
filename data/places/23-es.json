@@ -1,0 +1,28 @@
+{
+  "id":23,
+  "name":"Via Sagunto",
+  "desc":"      <blockquote>\u00bfVerdad que es bonita nuestra nueva casa? \u00bfQu\u00e9 te hab\u00eda dicho?<\/blockquote>      <cite><em>Mamma Roma<\/em><\/cite>      <p>Para ascender en la escala social, Mamma Roma aspira a instalarse en el barrio del INA-Casa del Tuscolano. Este barrio, manifiesto del racionalismo urbano italiano, se constituy\u00f3 en 1961 gracias a la ley Fanfani, que favorec\u00eda las viviendas sociales. Pero estos nuevos barrios modernos no aportan ninguna soluci\u00f3n a las cuestiones de origen social, e instalarse en este nuevo barrio no impedir\u00e1 a Ettore acabar tr\u00e1gicamente. <em>\u00ab&nbsp;Algunas decisiones urban\u00edsticas y sociales tienen consecuencias desastrosas para los m\u00e1s modestos, y el progreso material que ha tra\u00eddo la modernidad es un enga\u00f1o. La desgracia \u2013&nbsp;explica Pasolini en su pel\u00edcula&nbsp;\u2013 no es atribuible forzosamente al hecho de que el capital empobrece, sino a que el bienestar material viene acompa\u00f1ado de una p\u00e9rdida de humanidad.&nbsp;\u00bb<\/em> (Eugenio Renzi)<\/p>      ",
+  "latLng":[
+    41.857861,
+    12.551314
+  ],
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "comment":{
+    
+  },
+  "m":[
+    {
+      "type":"video",
+      "id":2381358462001,
+      "wide":1,
+      "caption":"Fragmento de Mamma Roma (Pier Paolo Pasolini, 1962)",
+      "rights":"\u00a9 Mediaset"
+    }
+  ],
+  "trello":"kBTK9evY",
+  "lang":"es"
+}

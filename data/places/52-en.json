@@ -1,0 +1,35 @@
+{
+  "id":52,
+  "name":"Campo de' Fiori: Pasolini's funeral",
+  "desc":"      <p>The choice of this place is symbolic: it is there that the philosopher-physicist Giordano Bruno, accused of heresy by the Inquisition, was sentenced to be burned at the stake in 1600. It is also and above all an emblematic address in Pasolini's daily life: Laura Betti lived on <a href='#!\/en\/map\/11'>Via di Montoro<\/a>, a nearby lane, and La Carbonara was one of the favourite restaurants of Pasolini and his intellectual friends.<\/p>      <p>The day of the burial, intellectuals as well as the people of Rome turned out en masse: the funeral was grandiose and drew Moravia, Rosi, Bertolucci, Betti, and Morante as well as the people of the <em>borgate<\/em> that Pasolini so loved. Alberto Moravia spoke, followed by Gianni Borgna, and gave a highly moving speech, without notes.<\/p>      <p><em>'The image pursues me of Pasolini running, fleeing something that has no face and which is what killed him, a symbolic image of our country, an image that must push us to improve our country as Pasolini himself would have wished.'<\/em><\/p>      <p><em>'A society that kills its poets is a sick society,'<\/em> he added.<\/p>      <p>The crowd responded with emotion, passionately. The funeral turned into a political demonstration, the people having grasped that the affair was infinitely more complex than what the media was willing to tell them about it.<\/p>      <p>Pasolini is now buried alongside his mother, in twin tombs, in the small cemetery of Casarsa della Delizia, the maternal village in Friuli. His father and brother are buried in another section of the same cemetery.<\/p>      ",
+  "address":{
+    
+  },
+  "latLng":[
+    41.895502,
+    " 12.472004"
+  ],
+  "pos":10166,
+  "date":"1975-11-05",
+  "cat":{
+    "id":9,
+    "name":"The last day"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"52-1",
+      "width":1600,
+      "height":980,
+      "caption":"Piazza Campo de' Fiori",
+      "rights":"\u00a9 Agenzia Fotogramma"
+    },
+    {
+      "type":"video",
+      "id":2384281328001,
+      "wide":0
+    }
+  ],
+  "trello":"PJk8yZRF",
+  "lang":"en"
+}

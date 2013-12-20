@@ -1,0 +1,16 @@
+{
+  "id":30,
+  "name":"Torre Angela",
+  "desc":"[Torre Angela]",
+  "latLng":[
+    41.869305,
+    12.613678
+  ],
+  "pos":6482,
+  "cat":{
+    "id":6,
+    "name":"Ocellets i ocellots"
+  },
+  "trello":"RlPufcVs",
+  "lang":"ca"
+}

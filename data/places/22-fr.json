@@ -1,0 +1,40 @@
+{
+  "id":22,
+  "name":"Pont Saint-Ange",
+  "desc":"      <p>Tourn\u00e9 dans les faubourgs de Rome, le premier film de Pier Paolo Pasolini fait quelques incursions en centre-ville. D\u00e9j\u00e0 entrevus sept ans plus t\u00f4t dans <em>Le Cheik blanc<\/em> de Federico Fellini (la sc\u00e8ne du suicide avort\u00e9 de Wanda), les berges du Tibre et le pont San'Angelo servent \u00e0 nouveau de d\u00e9cor de cin\u00e9ma. Et offrent \u00e0 <em>Accattone<\/em> ses premiers plans.<\/p>      <p>C'est depuis ce pont qui donne sur le Ch\u00e2teau Saint-Ange, la \u00ab&nbsp;grosse b\u00eate vaticane&nbsp;\u00bb, que le h\u00e9ros d\u00e9cide de plonger. Un acte de bravoure insens\u00e9, tout sauf gratuit. Franco Citti le rappelle dans le documentaire <em>A futura Memoria<\/em>&nbsp;: le plongeon d'Accattone est aussi un moyen pour le prol\u00e9tariat romain de rappeler son existence \u00e0 la bourgeoisie du centre-ville. Si Accattone venait \u00e0 mourir dans sa banlieue, personne n'en saurait jamais rien. Mais l\u00e0, en plein c\u0153ur de Rome, il expose son existence mis\u00e9rable et son libre-arbitre aux yeux de tous.<\/p>      ",
+  "latLng":[
+    41.901788,
+    " 12.466462"
+  ],
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"22-1",
+      "width":1600,
+      "height":1036,
+      "caption":"Photo de plateau d'Accattone",
+      "rights":"\u00a9 Cicconi"
+    },
+    {
+      "type":"video",
+      "id":2381118286001,
+      "wide":0,
+      "caption":"Extrait d'Accattone (Pier Paolo Pasolini, 1961)",
+      "rights":"\u00a9 SNC \/ SND"
+    },
+    {
+      "type":"video",
+      "id":2380420004001,
+      "wide":0,
+      "caption":"Extrait du documentaire A futura memoria (Ivo Barnab\u00f2 Micheli, 1986)",
+      "rights":"\u00a9 1986 Antea Film srl \/ 23 Giugno srl \u00a9 2003 Ripley's Film srl - All rights reserved"
+    }
+  ],
+  "trello":"x38yMZYH",
+  "lang":"fr"
+}

@@ -1,0 +1,39 @@
+{
+  "id":35,
+  "name":"Environs de l'\u00e9glise Santa Passera, quartier Portuense",
+  "desc":"      <p>Quand il m'a propos\u00e9 de jouer dans<em> Uccellacci e Uccellini<\/em>, je lui ai dit non tout de suite.<\/p>      <p>\u00ab&nbsp;Allons, disait Pier Paolo, c'est une belle exp\u00e9rience.<\/p>      <p>Nan mais attends, je r\u00e9pondais, faut pas qu'je cause par hasard&nbsp;? J'me rappelle m\u00eame pas ce que j'ai bouff\u00e9 hier.&nbsp;\u00bb<\/p>      <p>Et Pier Paolo&nbsp;: \u00ab&nbsp;Nino, tu es pay\u00e9, tu sais.<\/p>      <p>\u2013 J'suis pay\u00e9&nbsp;?<\/p>      <p>\u2013 Bien s\u00fbr, on te donnera au moins 800 000 lires, peut-\u00eatre un million.<\/p>      <p>\u2013 Combien&nbsp;? Et qu'est-ce que j'dois faire&nbsp;? Avec qui j'dois bosser&nbsp;?<\/p>      <p>\u2013 Tu dois bosser avec Tot\u00f2.<\/p>      <p>\u2013 Arr\u00eate, Tot\u00f2, celui du cin\u00e9ma&nbsp;?<\/p>      <p>\u2013 Oui, lui-m\u00eame.&nbsp;\u00bb<\/p>      <p>Pour moi, Tot\u00f2, c'\u00e9tait un mythe, j'allais au cin\u00e9ma, je m'achetais du pain d'\u00e9pices, je le regardais, avec Charlot, avec Laurel et Hardy. Mais \u00e7a me faisait vraiment bizarre&nbsp;: non seulement j'allais avoir la chance de travailler avec Tot\u00f2, mais en plus on me payait&nbsp;!<\/p>      ",
+  "latLng":[
+    41.858394,
+    12.46056
+  ],
+  "pos":6482,
+  "cat":{
+    "id":6,
+    "name":"Des oiseaux, petits et gros"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"35-1",
+      "width":1600,
+      "height":1139,
+      "caption":"Tot\u00f2 et Nincetto Davoli sur le plateau de La Ricotta"
+    },
+    {
+      "type":"img",
+      "id":"35-2",
+      "width":1186,
+      "height":1200,
+      "caption":"Tot\u00f2 et Nincetto Davoli sur le plateau de La Ricotta"
+    },
+    {
+      "type":"img",
+      "id":"35-3",
+      "width":862,
+      "height":1200,
+      "caption":"Affiche de La Ricotta"
+    }
+  ],
+  "trello":"y9R9GQnc",
+  "lang":"fr"
+}

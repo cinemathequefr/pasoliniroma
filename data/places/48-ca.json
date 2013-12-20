@@ -1,0 +1,34 @@
+{
+  "id":48,
+  "name":"Pis de Elsa Morante i Alberto Moravia, via dell'Oca, 27",
+  "address":"Via dell'Oca, 27, 00186 Roma",
+  "desc":"      <p>\u00c9s en aquest carrer on Pier Paolo Pasolini va a visitar els seus amics \u00edntims: la parella d'escriptors Elsa Morante i Alberto Moravia, que ha conegut el 1955. Aquestes dues figures de la vida intel\u00b7lectual italiana han convertit el seu pis en un dels focus culturals de la ciutat. Viuran en aquest pis fins a la seva separaci\u00f3, el 1962. Neix entre ells una complicitat indefectible, feta d'emulaci\u00f3 ideol\u00f2gica, de debats sobre l'estat de la societat italiana i d'obertura sobre el m\u00f3n. Els tres junts viatgen a \u00c0frica i l'\u00cdndia, i la narraci\u00f3 d'aquests viatges donar\u00e0 lloc, anys m\u00e9s tard, a la publicaci\u00f3 de <em>L'odore dell'India<\/em>.<\/p>      <p>Un dia que el seu pare l'insta a anar a la universitat, Bernardo Bertolucci li respon contundent: <em>\u00ab La meva universitat \u00e9s anar a sopar cada nit a casa d'Elsa Morante i Alberto Moravia amb Pier Paolo Pasolini \u00bb<\/em>.<\/p>      ",
+  "latLng":[
+    41.909791,
+    12.475802
+  ],
+  "cat":{
+    "id":8,
+    "name":"Vida social i intel\u00b7lectual"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"48-1",
+      "width":1082,
+      "height":1200,
+      "caption":"Elsa Morante al seu pis de la via dell'Oca, 27",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    },
+    {
+      "type":"img",
+      "id":"48-2",
+      "width":907,
+      "height":1200,
+      "caption":"Alberto Moravia, Pier Paolo Pasolini i Roberto Rossellini",
+      "rights":"\u00a9 Fotoarchivi & Multimedia"
+    }
+  ],
+  "trello":"imyf2duA",
+  "lang":"ca"
+}

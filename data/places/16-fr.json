@@ -1,0 +1,50 @@
+{
+  "id":16,
+  "name":"Via Fanfulla da Lodi",
+  "address":"Via Fanfulla da Lodi, 00176 Roma, Italie",
+  "desc":"      <p>1960, c'est l'ann\u00e9e de <a href='#!\/fr\/map\/9'><em>La Dolce vita<\/em><\/a> de Federico Fellini et des Jeux olympiques de Rome...<\/p>      <p>C'est durant cet \u00e9t\u00e9 particulier que Pier Paolo Pasolini imagine les d\u00e9cors et le sc\u00e9nario d'<em>Accattone<\/em>, l'\u00e9vocation d'un marginal, priv\u00e9 de tout, au comportement instinctif, presque animal. Alors que l'Italie conna\u00eet un boom \u00e9conomique sans pr\u00e9c\u00e9dent, <em>Accattone<\/em> se concentre sur une autre Rome, pauvre, marginalis\u00e9e, en dehors des canaux officiels. C'est un film sur la culture sous-prol\u00e9taire, qui perdure malgr\u00e9 les changements soci\u00e9taux et urbains de ce d\u00e9but de d\u00e9cennie.<\/p>      <p>Pour \u00e9voquer ces disparit\u00e9s, Pasolini d\u00e9cide tourner son premier film dans la \u00ab&nbsp;semi-banlieue&nbsp;\u00bb de Rome, notamment dans le quartier du Pigneto. Au moment du tournage, le secteur est d\u00e9sol\u00e9 et mis\u00e9rable \u2013&nbsp;alors que c'est paradoxalement un quartier assez central&nbsp;: la via Fanfulla da Lodi, d\u00e9cor principal du film, est situ\u00e9e \u00e0 proximit\u00e9 de la Porta Maggiore et de <a href='#!\/fr\/map\/50'>la gare de Termini<\/a>. En choisissant sciemment ce quartier d\u00e9favoris\u00e9, Pasolini parle, aussi, en creux, du tiers monde, qu'il a eu l'occasion de d\u00e9couvrir lors de son premier voyage en Afrique et en Inde avec Alberto Moravia, juste avant le tournage d'<em>Accattone<\/em>.<\/p>      <blockquote>C'\u00e9taient des journ\u00e9es merveilleuses, o\u00f9 l'\u00e9t\u00e9 br\u00fblait encore dans toute sa puret\u00e9, \u00e0 peine vid\u00e9, en son int\u00e9rieur, de sa furie. La via Fanfulla da Lodi, au milieu du Pigneto, avec ses masures basses, ses murs l\u00e9zard\u00e9s, \u00e9tait d'une majest\u00e9 granuleuse, dans son extr\u00eame petitesse&nbsp;; une pauvre petite rue humble et inconnue, perdue sous le soleil, dans une Rome qui n'\u00e9tait pas Rome. Nous l'avons envahie&nbsp;: une douzaine d'acteurs, l'op\u00e9rateur, les machinistes, les ing\u00e9nieurs du son. Mais comme il n'y avait pas les \u00ab&nbsp;\u00e9quipes&nbsp;\u00bb&nbsp;\u2013&nbsp;dont je n'ai jamais voulu entendre parler&nbsp;\u2013&nbsp;le tournage avait un air tranquille&nbsp;: nous avions l'air d'ouvriers dispers\u00e9s parmi les autres ouvriers qui travaillaient dans les petits ateliers du Pigneto.<\/blockquote>      <cite>Pier Paolo Pasolini \u00e0 propos du tournage d'<em>Accattone<\/em> (\u00ab&nbsp;Le 4  octobre&nbsp;\u00bb, <em>Il Giorno<\/em>, 16 octobre 1960)<\/cite>      ",
+  "latLng":[
+    41.889809,
+    12.530284
+  ],
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"16-2",
+      "width":1600,
+      "height":1198,
+      "caption":"Pier Paolo Pasolini sur le tournage d'Accattone",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"16-1",
+      "width":1600,
+      "height":1181,
+      "caption":"Pier Paolo Pasolini sur le tournage d'Accattone",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"16-3",
+      "width":1735,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini sur le tournage d'Accattone",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2380416892001,
+      "wide":0,
+      "caption":"Extrait d'Accattone (Pier Paolo Pasolini, 1961)",
+      "rights":"\u00a9 SNC \/ SND"
+    }
+  ],
+  "trello":"tBbON3r3",
+  "lang":"fr"
+}

@@ -1,0 +1,27 @@
+{
+  "id":15,
+  "name":"Cementerio de Testaccio",
+  "address":"Via Caio Cestio, 6",
+  "desc":"      <p>A diferencia de hoy, el Testaccio era un barrio muy popular en los a\u00f1os cincuenta, en parte gracias a la iniciativa de Ernesto Nathan, alcalde de Roma a principios de siglo, cuyas posiciones pol\u00edticas y religiosas contrastan radicalmente con las de sus predecesores en el cargo: ingl\u00e9s, jud\u00edo, mas\u00f3n y anticlerical, decide en el umbral del siglo convertir el centro de la capital en un modelo de miscel\u00e1nea social y ofrece a las clases desfavorecidas la oportunidad de vivir en barrios como el Testaccio.<\/p>      <p>De un modo bastante l\u00f3gico, en este barrio ut\u00f3pico descansan los restos de Antonio Gramsci, m\u00e1s concretamente en el cementerio de los Ingleses. Escritor y miembro fundador del Partido comunista italiano, Gramsci manten\u00eda una relaci\u00f3n muy particular y personal con el comunismo, una interpretaci\u00f3n radical que no encajaba con la l\u00ednea dogm\u00e1tica del partido.<\/p>      <p>Pasolini, que mantiene tambi\u00e9n una relaci\u00f3n cr\u00edtica con el comunismo, no pod\u00eda sino identificarse con el te\u00f3rico marxista. Se inclinaba por la convicci\u00f3n de Gramsci quien, a diferencia de la ortodoxia marxista, pensaba que la clase campesina ten\u00eda un papel que cumplir en el proceso revolucionario.<\/p>      <p>Con <em>Las cenizas de Gramsci<\/em>, firma una obra po\u00e9tica que manifiesta su inagotable pasi\u00f3n social. Formidable descripci\u00f3n de la Roma existente justo despu\u00e9s de la guerra, la obra expresa l\u00edmpidamente la po\u00e9tica pasoliniana, su \u00ab esc\u00e1ndalo de la contradicci\u00f3n \u00bb, su \u00ab comunismo \u00bb, que se dirige mucho m\u00e1s a Cristo que a Marx. Es un homenaje conmovedor, y una gran obra ideol\u00f3gica, que anuncia a su modo el final del comunismo.<\/p>      ",
+  "latLng":[
+    41.876408,
+    12.479472
+  ],
+  "pos":3288,
+  "cat":{
+    "id":2,
+    "name":"Pasolini escritor"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"15-1",
+      "width":786,
+      "height":1200,
+      "caption":"Tumba de Antonio Gramsci, cementerio de Testaccio",
+      "rights":"\u00a9 Francesco Pierangeli"
+    }
+  ],
+  "trello":"2TBhRRiX",
+  "lang":"es"
+}

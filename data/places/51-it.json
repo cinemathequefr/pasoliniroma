@@ -1,0 +1,27 @@
+{
+  "id":51,
+  "name":"[Platja d'Ostia]",
+  "desc":"[Platja d'Ostia]",
+  "latLng":[
+    41.741721,
+    " 12.249034"
+  ],
+  "pos":10166,
+  "date":"1975-11-01",
+  "cat":{
+    "id":9,
+    "name":"L'ultima giornata"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"51-1",
+      "width":1596,
+      "height":1045,
+      "caption":"[Le cadavre de Pier Paolo Pasolini sur la plage d'Ostie]",
+      "rights":"\u00a9 Archivi Farabola"
+    }
+  ],
+  "trello":"BvQzudQ9",
+  "lang":"it"
+}

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+        <meta property="og:title" content="Pasolini Roma" />
+        <meta property="og:url" content="http://www.pasoliniroma.com/" />
+        <meta property="og:image" content="http://www.pasoliniroma.com/css/images/thumb200x200v2.png" />
+        <!--<meta property="og:description" content="An interactive map companion to the PASOLINI ROMA exhibition: explore Rome and its 'borgate' through the eyes of Pier Paolo Pasolini." />-->
+        <meta property="og:description" content="Une carte interactive en accompagnement de l'exposition PASOLINI ROMA : explorez Rome et ses faubourgs à travers le regard de Pier Paolo Pasolini." />
+        <title>Pasolini Roma</title>
+        <link rel="shortcut icon" href="//www.pasoliniroma.com/favicon.ico">
+        <link rel="canonical" href="http://www.pasoliniroma.com" />
+        <link rel="image_src" href="css/images/thumb200x200v2.png" />
+        <!-- 
+        <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic&amp;subset=latin,latin-ext">
+        <link rel="stylesheet" href="css/normalize.css" />
+        <link rel="stylesheet" href="css/jquery.mCustomScrollbar.css" />
+        <link rel="stylesheet" href="css/jquery.dropdown.css" />
+        <link rel="stylesheet" href="css/common.css" />
+        <link rel="stylesheet" href="css/timeline.css" />
+        <link rel="stylesheet" href="css/jquery.modal.css" />
+         -->
+        <link rel="stylesheet" href="css/combined.css" />
+
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-33368336-2']);
+            _gaq.push(['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </head>
+    <body>
+        <div id="container">
+            <div id="map-canvas"></div>
+            <div class="maptitle"><h1>Pasolini Roma</h1></div>
+            <div id="pane"></div>
+            <div id="index">
+                <div class="indextitle"><h1>Pasolini Roma</h1></div>
+                <div id="logos">
+                    <a href="http://www.cccb.org/ca/exposicio-pasolini_roma-43159" target="_blank"><img src="logos/CCCB.png" alt="CCCB" /></a><a href="http://www.cinematheque.fr" target="_blank"><img src="logos/CF.png" alt="La Cinémathèque française" /></a><a href="http://www.palazzoesposizioni.it" target="_blank"><img src="logos/PDE.png" alt="Palazzo delle esposizioni" /></a><a href="http://www.berlinerfestspiele.de" target="_blank"><img src="logos/MGB.png" alt="Martin Gropius Bau" /></a><img src="logos/EU.png" alt="EU" />
+                </div>
+            </div>
+            <div id="page">
+                <div id="pagei">
+                </div>
+            </div>
+            <div id="nav">
+                <div id="menu" data-dropdown="#dropdown1">Menu</div>
+                <ul id="lang">
+                    <li class="sprite lang" id="langen" data-lang="en" title="English">English</li>
+                    <li class="sprite lang" id="langca" data-lang="ca" title="Català">Català</li>
+                    <li class="sprite lang" id="langes" data-lang="es" title="Castellano">Castellano</li>
+                    <li class="sprite lang" id="langfr" data-lang="fr" title="Français">Français</li>
+                    <li class="sprite lang disabled" id="langit" data-lang="it" title="Italiano">Italiano</li>
+                    <li class="sprite lang disabled" id="langde" data-lang="de" title="Deutsch">Deutsch</li>
+                </ul>
+            </div>
+        </div>
+        <div class="modal"></div>
+        <div id="overlay">
+            <div id="overlay-close" class="sprite"></div>
+            <div id="overlay-view"></div>
+            <div id="overlay-caption"></div>
+        </div>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/jquery-1.10.1.min.js"><\/script>');</script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js"></script>
+        <script>window._ || document.write('<script src="js/underscore-1.4.4.min.js"><\/script>');</script>
+        <script src="js/plugins/jquery.modal.min.js"></script>
+        <script src="js/plugins/combined.js"></script>
+        <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyD_02GGse05OEUOZZwitYDVrhSiWaW16P8&amp;sensor=false"></script>
+        <script src="js/plugins/infobox.js"></script>
+        <script src="js/jquery.seqLoad.js"></script>
+        <script src="js/plugins/jquery.mCustomScrollbar.min.js"></script>
+        <script src="js/timeline.js"></script>
+        <script src="js/fullscreen.js"></script>
+        <script src="js/application.js"></script>
+        <div id="dropdown1" class="dropdown dropdown-tip"></div>
+    </body>
+</html>

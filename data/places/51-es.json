@@ -1,0 +1,27 @@
+{
+  "id":51,
+  "name":"Playa de Ostia",
+  "desc":"      <p>En la noche del 1 al 2 de noviembre de 1975 el cuerpo atrozmente mutilado de Pier Paolo Pasolini es descubierto en la playa de Ostia. Las condiciones de su muerte siguen todav\u00eda poco claras, aunque su presunto asesino, Giuseppe (Pino) Pelosi, dio en su tiempo una versi\u00f3n detallada de aquella noche tr\u00e1gica.<\/p>      <p>Al empezar la noche, Pasolini cena con Ninetto Davoli en el restaurante Pommidoro (Piazza dei Sanniti, 44). Luego tiene que acudir, dice, a una cita.<\/p>      <p>En su primera versi\u00f3n, Pelosi cuenta que se encontr\u00f3 con Pasolini en los alrededores de la estaci\u00f3n Termini. Despu\u00e9s, habr\u00edan dado una vuelta en coche por Roma y habr\u00edan recalado en el \u00abAl Biondo Tevere\u00bb (Via Ostiense, 178), restaurante popular sito en la carretera que conduce a la playa de Ostia.<\/p>      <p>Su narraci\u00f3n est\u00e1 salpicada de incoherencias y de partes oscuras. Frente a la tesis de una simple violencia homosexual que hubiera acabado mal, la de una trampa organizada es mucho m\u00e1s probable. Hay much\u00edsimas zonas de sombra en el recorrido de ambos hombres y en el desarrollo de la noche.<\/p>      <p>La hip\u00f3tesis m\u00e1s veros\u00edmil es que la muerte de Pasolini no se reduce a un simple suceso homosexual, sino que remite a una forma de linchamiento de un hombre comprometido, activista, provocador, cuya voz \u00fanica, potente, contestataria y realmente influyente era un peligro para el poder italiano de aquel entonces.<\/p>      <p>Modificando sus primeras declaraciones, Pelosi habl\u00f3 m\u00e1s tarde de los dos hermanos Borsellino, vinculados con la extrema derecha, y de dos o tres desconocidos sicilianos.<\/p>      <p>La justicia reabri\u00f3 varias veces las investigaciones en los \u00faltimos a\u00f1os.<\/p>      ",
+  "latLng":[
+    41.741721,
+    " 12.249034"
+  ],
+  "pos":10166,
+  "date":"1975-11-01",
+  "cat":{
+    "id":9,
+    "name":"El \u00faltimo d\u00eda"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"51-1",
+      "width":1596,
+      "height":1045,
+      "caption":"El cad\u00e1ver de Pier Paolo Pasolini en la playa de Ostia",
+      "rights":"\u00a9 Archivi Farabola"
+    }
+  ],
+  "trello":"BvQzudQ9",
+  "lang":"es"
+}

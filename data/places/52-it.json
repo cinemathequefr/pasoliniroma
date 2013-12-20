@@ -1,0 +1,34 @@
+{
+  "id":52,
+  "name":"Campo de' Fiori: i funerali di Pasolini",
+  "address":{
+    
+  },
+  "latLng":[
+    41.895502,
+    " 12.472004"
+  ],
+  "pos":10166,
+  "date":"1975-11-05",
+  "cat":{
+    "id":9,
+    "name":"L'ultima giornata"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"52-1",
+      "width":1600,
+      "height":980,
+      "caption":"Piazza Campo de' Fiori",
+      "rights":"\u00a9 Agenzia Fotogramma"
+    },
+    {
+      "type":"video",
+      "id":2384281328001,
+      "wide":0
+    }
+  ],
+  "trello":"PJk8yZRF",
+  "lang":"it"
+}

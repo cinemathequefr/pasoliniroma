@@ -1,0 +1,26 @@
+{
+  "id":11,
+  "name":"Chez Laura Betti, via di Montoro, 8",
+  "address":"Via di Montoro, 8, 00186 Roma",
+  "desc":"      <p>Laura Betti d\u00e9m\u00e9nage plus tard au 8, via di Montoro. C'est \u00e0 quelques rues de ce second appartement que seront c\u00e9l\u00e9br\u00e9es les fun\u00e9railles de Pier Paolo Pasolini&nbsp;: sur le <a href='#!\/fr\/map\/52'>Campo de' Fiori<\/a>.<\/p>      <p>Cet appartement de via di Montoro, avec sa belle terrasse, son ascenseur qui donnait directement dans le s\u00e9jour, a \u00e9t\u00e9 le dernier \u00ab&nbsp;salon&nbsp;\u00bb de la vie intellectuelle romaine, o\u00f9 personne n'aurait os\u00e9 se d\u00e9rober aux invitations de \u00ab&nbsp;la Betti&nbsp;\u00bb \u00e0 partager les spaghetti qu'elle pr\u00e9parait elle-m\u00eame pour ses convives. Tout le cin\u00e9ma italien, tous les \u00e9crivains, tous les intellectuels de passage ont particip\u00e9 \u00e0 ces soir\u00e9es amicales.<\/p>      <p>Apr\u00e8s la disparition de son ami, Laura Betti se consacrera \u00e0 sa m\u00e9moire, au sein de la Fondation Pier Paolo Pasolini, jusqu'\u00e0 sa mort en 2004.<\/p>      ",
+  "latLng":[
+    41.896221,
+    12.469907
+  ],
+  "cat":{
+    "id":8,
+    "name":"Vie sociale et intellectuelle"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"11-1",
+      "width":1570,
+      "height":1048,
+      "caption":"Laura Betti dans son second appartement, via di Montoro",
+      "rights":"\u00a9 Gabinetto Vieusseux"
+    }
+  ],
+  "trello":"dkewYSAJ",
+  "lang":"fr"
+}

@@ -1,0 +1,41 @@
+{
+  "id":56,
+  "name":"Torre Righetti, colina de Montecucco",
+  "desc":"      <blockquote>Cuando me lo propuso dije enseguida que no.<br \/>\u00abAnda \u2013&nbsp;dec\u00eda Pier Paolo&nbsp;\u2013, es una buena cosa.\u00bb<br \/> \u00abPero a ver \u2013&nbsp;respond\u00eda yo&nbsp;\u2013, \u00bfpor casualidad tengo que hablar? Yo ni siquiera me acuerdo de lo que com\u00ed ayer.\u00bb<br \/>Y Pier Paolo: \u00abNinetto, mira que te pagan.\u00bb<br \/> \u00ab\u00bfMe pagan?\u00bb<br \/> \u00abClaro, te dar\u00e1n al menos ochocientas mil liras, quiz\u00e1 un mill\u00f3n.\u00bb<br \/>\u00ab\u00bfQu\u00e9 me dan? \u00bfY qu\u00e9 debo hacer? \u00bfCon qui\u00e9n tengo que trabajar?\u00bb<br \/>\u00abTienes que trabajar con Tot\u00f2.\u00bb<br \/>\u00ab\u00bfQui\u00e9n, Tot\u00f2, el del cine?\u00bb<br \/>\u00abS\u00ed, \u00e9l.\u00bb<br \/>Para m\u00ed Tot\u00f2 era un mito, yo iba al cine, me compraba chucher\u00edas, me ve\u00eda sus pel\u00edculas, con las de Charlot y el Gordo y el Flaco. Pero me parec\u00eda raro. No solo ten\u00eda la suerte de trabajar con Tot\u00f2, \u00a1encima me pagaban!<\/blockquote>      <cite>Ninetto Davoli<\/cite>      ",
+  "latLng":[
+    41.836656,
+    12.443968
+  ],
+  "pos":6482,
+  "cat":{
+    "id":6,
+    "name":"Uccellacci e uccellini"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"35-1",
+      "width":1600,
+      "height":1139,
+      "caption":"Tot\u00f2 y Ninetto Davoli durante el rodaje de Uccellacci e uccellini",
+      "rights":"\u00a9 Archivio Storico del Cinema \/ AFE"
+    },
+    {
+      "type":"img",
+      "id":"35-2",
+      "width":1186,
+      "height":1200,
+      "caption":"Tot\u00f2 y Ninetto Davoli durante el rodaje de Uccellacci e uccellini",
+      "rights":"\u00a9 Divo Cavicchioli \/ Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"35-3",
+      "width":862,
+      "height":1200,
+      "caption":"Cartel de Uccellacci e uccellini"
+    }
+  ],
+  "trello":"y9R9GQnc",
+  "lang":"es"
+}

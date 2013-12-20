@@ -1,0 +1,27 @@
+{
+  "id":4,
+  "name":"Francesco Petrarca secondary school, Ciampino",
+  "desc":"      <blockquote>So I had finally found a job that paid 25,000 lire a month: happy and desperate, every morning I faced a long commute that ended in late afternoon under a sun that was beginning to go down over the endless, terrible suburbs. But I was thinking. My consolation was to think. Thinking was my richness and privilege. More than half my poems were thought out or written on the train.<\/blockquote>      <cite>Pier Palo Pasolini, <em>Un paese di temporali e di primule<\/em><\/cite>      <p>In the spring of 1951, Pasolini found a job in the small town of Ciampino, through the intervention of a poet friend. Paradoxically, he was hired by the town's private secondary school (Francesco Petrarca) and not by its public school that. The months went by, and Pier Paolo Pasolini met young people who were particularly gifted, in particular Vincenzo Cerami who would be his assistant on <a href='#!\/en\/map\/36'><em>Uccellacci e uccellini<\/em><\/a>, and later on, Roberto Benigni's scriptwriter, notably for <em>Life is Beautiful<\/em>.<\/p>      <p>Every day, Pasolini set off by bus and train: Ponte Mammolo, Rebibbia, Termini station, Ciampino. Then the return... Or practically three hours' commute per day. This long daily travel is mentioned by Pasolini in <em>The Ashes of Gramsci<\/em> and in <em>The Religion of My Time<\/em>, in which he evokes his 'friend the bus window', a reference to those hours of travel from which Pasolini profited to think novels and poems.<\/p>      ",
+  "latLng":[
+    41.799444,
+    " 12.603002"
+  ],
+  "date":1952,
+  "pos":1521,
+  "cat":{
+    "id":2,
+    "name":"Pasolini writer"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"4-1",
+      "width":606,
+      "height":900,
+      "caption":"Students of Pier Paolo Pasolini in Ciampino",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    }
+  ],
+  "trello":"ggJxMW2L",
+  "lang":"en"
+}

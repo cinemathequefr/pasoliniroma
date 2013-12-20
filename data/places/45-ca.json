@@ -1,0 +1,16 @@
+{
+  "id":45,
+  "name":"Estaci\u00f3 de Roma Termini",
+  "latLng":[
+    41.900833,
+    12.501944
+  ],
+  "pos":10166,
+  "date":"1975-11-01",
+  "cat":{
+    "id":9,
+    "name":"L'\u00faltim dia"
+  },
+  "trello":"pljUhi9v",
+  "lang":"ca"
+}

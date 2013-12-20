@@ -1,0 +1,39 @@
+{
+  "id":13,
+  "name":"[Fiaschetteria Beltrame (Da Cesaretto)]",
+  "address":"Via della Croce, 39, Roma",
+  "desc":"[Fiaschetteria Beltrame (Da Cesaretto)]",
+  "latLng":[
+    41.906246,
+    12.479922
+  ],
+  "date":1961,
+  "cat":{
+    "id":8,
+    "name":"Soziale und intellektuelle Leben"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"13-1",
+      "width":1600,
+      "height":1056,
+      "caption":"[Alberto Moravia, Pier Paolo Pasolini et Laura Betti d\u00eenant \u00e0 la Fiaschetteria Beltrame]",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    },
+    {
+      "type":"img",
+      "id":"13-2",
+      "width":1600,
+      "height":1065,
+      "caption":"[Alberto Moravia, Pier Paolo Pasolini et Laura Betti d\u00eenant \u00e0 la Fiaschetteria Beltrame]",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    }
+  ],
+  "pos":4868,
+  "comment":{
+    
+  },
+  "trello":"imyf2duA",
+  "lang":"de"
+}

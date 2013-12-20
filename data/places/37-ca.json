@@ -1,0 +1,41 @@
+{
+  "id":37,
+  "name":"El barri de la EUR, via Eufrate, 9",
+  "address":"Via Eufrate, 9, 00144 Roma",
+  "desc":"      <p>Amb una posici\u00f3 ja m\u00e9s folgada, Pasolini es pot permetre un pis gran al barri tranquil i residencial de l'EUR (Esposizione Universale di Roma, una zona constru\u00efda en els anys trenta per acollir l'Exposici\u00f3 Universal de 1942, que no va tenir lloc).<\/p>      <p>S'hi installa el 1963 amb la seva mare i la seva cosina, Graziella Chiarcossi, que s'ha reunit definitivament amb ells en el n\u00famero 9 del via Eufrate. El barri, sobre un tur\u00f3, \u00e9s m\u00e9s aviat burg\u00e8s, protegit. La vista que ofereix mostra el que queda del camp i de les granges, per\u00f2 tamb\u00e9 les grans obres de construcci\u00f3 de la perif\u00e8ria i, fins i tot, quan el temps ho permet, el mar i la platja d'Ostia. No queda gaire lluny de la gran c\u00fapula de l'esgl\u00e9sia de Sant Pere i Sant Pau, i t\u00e9 un petit jard\u00ed penjant en qu\u00e8 la mare pot cultivar les plantes que vulgui.<\/p>      <p>Si es t\u00e9 en compte el recorregut rom\u00e0 de Pasolini, l'EUR \u00e9s una tria estranya. El barri, modern i visionari, ha estat dissenyat i pensat pels feixistes, contr\u00e0riament als <em>borgate<\/em> i al centre animat de la ciutat. Aquest trasllat marca d'alguna manera un tomb en la vida de Pasolini, entre la seva decisi\u00f3 d'establir-se a Roma el 1950 i l'\u00faltima fase de la seva vida, m\u00e9s tensa, que coincideix amb les reflexions dels <em>Escrits corsaris<\/em> o de la novel\u00b7la <em>Petroli<\/em>.<\/p>      <p>Orientat cap al mar, com una obertura sobre el m\u00f3n, aquest pis ser\u00e0 el seu \u00faltim domicili. Els primers versos del poema \u00abLa recerca d'una casa\u00bb (en el poemari <em>Poesia in forma di rosa<\/em>) adquireixen aix\u00ed un car\u00e0cter premonitori: \u00abEstic buscant la casa de la meva sepultura...\u00bb.<\/p>      ",
+  "latLng":[
+    41.832489,
+    12.457924
+  ],
+  "date":1963,
+  "pos":5538,
+  "cat":{
+    "id":1,
+    "name":"Cases, mudances"
+  },
+  "trello":"wlr9ZNF5",
+  "m":[
+    {
+      "type":"img",
+      "id":"37-1",
+      "width":845,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini i la seva mare al seu pis de l'EUR, via Eufrate, 9",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    },
+    {
+      "type":"video",
+      "id":2381449889001,
+      "wide":0,
+      "caption":"Fragment de Pasolini l'enrag\u00e9 (Jean-Andr\u00e9 Fieschi, 1966)",
+      "rights":"\u00a9 INA"
+    },
+    {
+      "type":"video",
+      "id":2292442024001,
+      "wide":0,
+      "caption":"Fragment del documental Pier Paolo Pasolini : vivre et encore plus (Michel Random, 1974)"
+    }
+  ],
+  "lang":"ca"
+}

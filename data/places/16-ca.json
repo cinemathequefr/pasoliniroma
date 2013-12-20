@@ -1,0 +1,50 @@
+{
+  "id":16,
+  "name":"Via Fanfulla da Lodi",
+  "address":"Via Fanfulla da Lodi, 00176 Roma, Italie",
+  "desc":"      <p>El 1960 \u00e9s l'any de <a href='#!\/ca\/map\/9'><em>La Dolce vita<\/em><\/a> de Federico Fellini i dels Jocs Ol\u00edmpics de Roma...<\/p>      <p>Durant aquell estiu tan especial, Pasolini imagina els decorats i el gui\u00f3 d'Accattone, l'evocaci\u00f3 d'un noi marginat, mancat de tot, de comportament instintiu, gaireb\u00e9 animal. It\u00e0lia viu un auge econ\u00f2mic sense precedents, per\u00f2 Accattone se centra en una altra Roma, una Roma pobra, marginal, exclosa dels canals oficials. Es tracta d'una pel\u00b7l\u00edcula sobre la cultura del subproletariat, que perdura malgrat els canvis socials i urbans del principi de la d\u00e8cada.<\/p>      <p>Per tal de narrar aquestes disparitats, Pasolini decideix rodar la seva primera pel\u00b7l\u00edcula en un \u00absemisuburbi\u00bb de Roma, concretament al barri del Pigneto. En el moment del rodatge la zona est\u00e0 desolada, \u00e9s miserable, tot i ser, paradoxalment, un barri relativament c\u00e8ntric: la via Fanfulla da Lodi, decorat principal de la pel\u00b7l\u00edcula, \u00e9s a prop de la Porta Maggiorey de <a href='#!\/ca\/map\/50'>l'estaci\u00f3 de Termini<\/a>. En triar volunt\u00e0riament aquest barri desfavorit, Pasolini parla tamb\u00e9, de passada, del Tercer M\u00f3n, que ha tingut ocasi\u00f3 de descobrir durant el seu primer viatge a l'\u00c0frica i a l'\u00cdndia amb Alberto Moravia, just abans del rodatge d'<em>Accattone<\/em>.<\/p>      <blockquote>Eren uns dies espl\u00e8ndids, en qu\u00e8 l'estiu encara cremava pur\u00edssim, nom\u00e9s una mica buidat per dintre, de la seva f\u00faria. Via Fanfulla da Lodi, al mig del Pigneto, amb les casetes baixes, les parets escrostades, era d'una granulosa grandiositat en la seva extrema petitesa; un pobre, humil, desconegut carrer\u00f3, perdut sota el sol, en una Roma que no era Roma. L'hav\u00edem omplert: una dotzena d'actors, l'operador, els maquinistes, els t\u00e8cnics de so. Per\u00f2 com que no hi havia les \u00abcapelletes\u00bb \u2013de les quals jo mai no he volgut sentir a parlar\u2013, l'operaci\u00f3 tenia un aire tranquil: semblaven treballadors entremig d'altres treballadors que feien feina als modestos tallers del Pigneto.<\/blockquote>      <cite>Pier Paolo Pasolini, sobre el rodatge d'<em>Accattone<\/em> \u00abEl 4 d'octubre\u00bb a <em>Il Giorno<\/em>, 16 d'octubre de 1960<\/cite>      ",
+  "latLng":[
+    41.889809,
+    12.530284
+  ],
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"16-2",
+      "width":1600,
+      "height":1198,
+      "caption":"Pier Paolo Pasolini durant el rodatge de Accattone",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"16-1",
+      "width":1600,
+      "height":1181,
+      "caption":"Franco Citti, Pier Paolo Pasolini i Bernardo Bertolucci durant el rodatge de Accattone",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"16-3",
+      "width":1735,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini durant el rodatge de Accattone",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2380416892001,
+      "wide":0,
+      "caption":"Fragment d'Accattone (Pier Paolo Pasolini, 1961)",
+      "rights":"\u00a9 SNC \/ SND"
+    }
+  ],
+  "trello":"tBbON3r3",
+  "lang":"ca"
+}

@@ -1,0 +1,43 @@
+{
+  "id":57,
+  "name":"Galleria \u201cLa Nuova Pesa\u201d, mostra Guttuso",
+  "address":"Via del Vantaggio, 46, 00186 Roma",
+  "latLng":[
+    41.908777,
+    12.474909
+  ],
+  "date":"1962-01-17",
+  "pos":5130,
+  "cat":{
+    "id":8,
+    "name":"Vita sociale et intellettuale"
+  },
+  "trello":"LMFMNbqT",
+  "m":[
+    {
+      "type":"img",
+      "id":"57-2",
+      "width":1200,
+      "height":1209,
+      "caption":"[Pier Paolo Pasolini a l'exposici\u00f3 Guttuso]",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"57-1",
+      "width":1772,
+      "height":1802,
+      "caption":"Renato Guttuso. Crocifissione",
+      "rights":"\u00a9 Galleria nazionale d'arte moderna"
+    },
+    {
+      "type":"img",
+      "id":"57-3",
+      "width":1200,
+      "height":1200,
+      "caption":"[Renato Guttuso y Pier Paolo Pasolini]",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    }
+  ],
+  "lang":"it"
+}

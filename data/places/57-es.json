@@ -1,0 +1,44 @@
+{
+  "id":57,
+  "name":"Galleria \u201cLa Nuova Pesa\u201d, mostra Guttuso",
+  "address":"Via del Vantaggio, 46, 00186 Roma",
+  "desc":"      <blockquote>En la alcoba (una simple<br \/>camita con colcha de flores<br \/>tejidas por mujeres calabresas o sardas)<br \/>colgar\u00eda la colecci\u00f3n<br \/>de cuadros que a\u00fan amo: al lado <br \/>de mi Zigaina querr\u00eda un hermoso Morandi,<br \/>un Mafai del cuarenta, un De Pisis,<br \/>un peque\u00f1o Rosai, un gran Guttuso...<\/blockquote>      <cite><em>\u00abMi deseo de riqueza\u00bb<\/em>, poema de Pier Paolo Pasolini publicado en <em>La religione del mio tempo<\/em>, 1961<\/cite>      <p>Con los a\u00f1os, la vida cultural y social de Pasolini se desplaza desde los <em>borgate<\/em> hacia el centro de Roma. El poeta frecuenta mucho <a href='#!\/es\/map\/9'>los bares<\/a>, <a href='#!\/es\/map\/13'>los restaurantes<\/a>, los teatros\u2026 pero tambi\u00e9n las galer\u00edas de arte. Apasionado por la pintura, establece lazos de amistad con, entre otros, Renato Guttuso, un pintor entonces encumbrado.<\/p>      ",
+  "latLng":[
+    41.908777,
+    12.474909
+  ],
+  "date":"1962-01-17",
+  "pos":5130,
+  "cat":{
+    "id":8,
+    "name":"Vida social e intelectual"
+  },
+  "trello":"LMFMNbqT",
+  "m":[
+    {
+      "type":"img",
+      "id":"57-2",
+      "width":1200,
+      "height":1209,
+      "caption":"Pier Paolo Pasolini en la exposici\u00f3n Guttuso",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"57-1",
+      "width":1772,
+      "height":1802,
+      "caption":"Renato Guttuso. Crucifixi\u00f3n",
+      "rights":"\u00a9 Galleria nazionale d'arte moderna"
+    },
+    {
+      "type":"img",
+      "id":"57-3",
+      "width":1200,
+      "height":1200,
+      "caption":"Renato Guttuso y Pier Paolo Pasolini",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    }
+  ],
+  "lang":"es"
+}

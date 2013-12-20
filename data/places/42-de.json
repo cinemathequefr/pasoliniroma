@@ -1,0 +1,32 @@
+{
+  "id":42,
+  "name":"[Quartiere di Torpignattara]",
+  "desc":"[Quartiere di Torpignattara]",
+  "latLng":[
+    41.873650,
+    12.545013
+  ],
+  "pos":8766,
+  "cat":{
+    "id":2,
+    "name":"Pasolini Schriftsteller"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"42-1",
+      "width":886,
+      "height":1132,
+      "caption":"[Extrait du manuscrit de P\u00e9trole]"
+    },
+    {
+      "type":"img",
+      "id":"42-2",
+      "width":835,
+      "height":1200,
+      "caption":"[Couverture de l'\u00e9dition fran\u00e7aise de P\u00e9trole]"
+    }
+  ],
+  "trello":"oG8xV8yx",
+  "lang":"de"
+}

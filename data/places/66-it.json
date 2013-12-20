@@ -1,0 +1,25 @@
+{
+  "id":66,
+  "name":"[Porta Maggiore: Pocilga]",
+  "desc":"[Porta Maggiore: Pocilga]",
+  "latLng":[
+    41.891833,
+    12.514077
+  ],
+  "cat":{
+    "id":10,
+    "name":"\u017dilda"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"66-1",
+      "width":1300,
+      "height":797,
+      "caption":"Porcherie",
+      "rights":"\u00a9 \u017dilda"
+    }
+  ],
+  "lang":"it"
+}

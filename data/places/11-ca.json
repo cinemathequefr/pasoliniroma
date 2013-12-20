@@ -1,0 +1,26 @@
+{
+  "id":11,
+  "name":"Casa de Laura Betti, via di Montoro, 8",
+  "address":"Via di Montoro, 8, 00186 Roma",
+  "desc":"      <p>M\u00e9s tard, Laura Betti s'installa al n\u00famero 8 de la via di Montoro. Els funerals de Pier Paolo Pasolini tindran lloc a pocs carrers d'aquest segon apartament, al Campo de' Fiori.<\/p>      <p>Aquest pis de la via di Montoro, amb una bonica terrassa i un ascensor que obria directament a la sala d'estar, va ser l'\u00faltim \u00absal\u00f3\u00bb de la vida intel\u00b7lectual romana. A ning\u00fa se li hauria passat pel cap rebutjar una invitaci\u00f3 de \u00abla Betti\u00bb per compartir els espaguetis que preparava en persona per als seus convidats. Tot el cinema itali\u00e0, tots els escriptors, tots els intel\u00b7lectuals de pas van participar en aquestes vetllades entre amics.<\/p>      <p>Despr\u00e9s de la mort de l'amic, Laura Betti dedicar\u00e0 la vida a recordar la seva mem\u00f2ria en el marc de la Fundaci\u00f3 Pier Paolo Pasolini, fins que va morir el 2004.<\/p>      <p>Aquest lloc encara existeix.<\/p>      ",
+  "latLng":[
+    41.896221,
+    12.469907
+  ],
+  "cat":{
+    "id":8,
+    "name":"Vida social i intel\u00b7lectual"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"11-1",
+      "width":1570,
+      "height":1048,
+      "caption":"Laura Betti al seu pis de via di Montoro",
+      "rights":"\u00a9 Gabinetto Vieusseux"
+    }
+  ],
+  "trello":"dkewYSAJ",
+  "lang":"ca"
+}

@@ -1,0 +1,18 @@
+{
+  "id":44,
+  "name":"[Trattoria Pommidoro]",
+  "address":"Piazza dei Sanniti, 44, 00185 Roma",
+  "desc":"[Trattoria Pommidoro]",
+  "latLng":[
+    41.898552,
+    12.516679
+  ],
+  "pos":10166,
+  "date":"1975-11-01",
+  "cat":{
+    "id":9,
+    "name":"The last day"
+  },
+  "trello":"x9GzizeU",
+  "lang":"en"
+}

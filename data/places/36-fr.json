@@ -1,0 +1,31 @@
+{
+  "id":36,
+  "name":"Fiumicino",
+  "desc":"      <p><em>Uccellacci e uccellini<\/em> n'est pas un film de quartiers, comme ont pu l'\u00eatre <a href='#!\/fr\/map\/16'><em>Accattone<\/em><\/a> ou <a href='#!\/fr\/map\/61'><em>Mamma Roma<\/em><\/a>. Le troisi\u00e8me film de Pasolini dessine des lignes de fuite. Les deux h\u00e9ros, camp\u00e9s par Tot\u00f2 et Ninetto, s'\u00e9loignent de plus en plus du centre pour arpenter les diff\u00e9rents cercles d'une p\u00e9riph\u00e9rie romaine en plein bouleversement dans les ann\u00e9es 60&nbsp;: les bidonvilles o\u00f9 poussent de pauvres b\u00e2timents en b\u00e9ton, le grand chantier du p\u00e9riph\u00e9rique (l'<em>anulare<\/em>), les restes de campagne et de fermes vou\u00e9s \u00e0 dispara\u00eetre rapidement.<\/p>      <p>Ce faisant, le cin\u00e9aste montre une Rome en pleine transformation non seulement id\u00e9ologique, politique, intellectuelle, mais aussi physique. Une capitale qui est en train de \u00ab&nbsp;coloniser&nbsp;\u00bb la campagne et le reste de l'Italie. En filmant le boulevard p\u00e9riph\u00e9rique, l'autoroute vers Fiumicino (l'a\u00e9roport construit pour les Jeux olympiques de 1960), Pasolini d\u00e9crit sa ville comme une cit\u00e9 dont il lui faudra d\u00e9sormais fuir le devenir, en allant le plus loin possible, dans le tiers monde, chercher une alternative&nbsp;: Cuba, Istanbul, l'Afrique, l'Asie...<\/p>      ",
+  "latLng":[
+    41.764141,
+    12.238770
+  ],
+  "pos":6482,
+  "cat":{
+    "id":6,
+    "name":"Des oiseaux, petits et gros"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"36-1",
+      "width":1600,
+      "height":1155,
+      "caption":"Tot\u00f2, Ninetto Davoli et Pier Paolo Pasolini sur le plateau de Des Oiseaux, petits et gros",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2381579825001,
+      "wide":1,
+      "caption":"Extrait de Des oiseaux, petits et gros (Pier Paolo Pasolini, 1966)"
+    }
+  ],
+  "lang":"fr"
+}

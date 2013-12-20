@@ -1,0 +1,26 @@
+{
+  "id":50,
+  "name":"Rome Termini railway station",
+  "desc":"      <blockquote>You can't imagine what my poor mother is reduced to. I can no longer stand to see her suffer in such an inhuman, unspeakable way. I've decided to take her to Rome as of tomorrow, at my father's instigation, and entrust her to my uncle; I'll be unable to stay in Rome, because my uncle made it clear that he couldn't put me up, but I hope that for my mother things will be different. From Rome, I don't know where I'll go, perhaps to Florence. As you see, I find myself in a very sad situation (....). So if you want to write me something, my address, at least for a few days, will be: c\/o Gino Colussi, via Porta Pincinia, 34 Rome. After that, I don't know where I'll go or what I'll do. My life is at a more-than-decisive turning point.<\/blockquote>      <cite>Last letter written in Casarsa, 27 January 1950, sent to his friend Silvana Mauri<\/cite>      <p>Pasolini and his mother left their house in Casarsa in the evening and arrived at the Termini station on a freezing morning of 28 January 1950... <em>'Poor as a cat in the Coliseum,'<\/em> as he would later write in one of his first and most famous Roman poems.<\/p>      ",
+  "latLng":[
+    41.898492,
+    " 12.506111"
+  ],
+  "cat":{
+    "id":1,
+    "name":"Houses"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"50-1",
+      "width":1280,
+      "height":885,
+      "caption":"Rome Termini railway station"
+    }
+  ],
+  "date":"1950-01-28",
+  "pos":758,
+  "trello":"LsZjg4gU",
+  "lang":"en"
+}

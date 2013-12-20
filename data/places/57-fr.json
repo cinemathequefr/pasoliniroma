@@ -1,0 +1,44 @@
+{
+  "id":57,
+  "name":"Galerie \u201cLa Nuova Pesa\u201d, exposition Guttuso",
+  "address":"Via del Vantaggio, 46, 00186 Roma",
+  "desc":"      <blockquote>Dans ma chambre (un simple<br \/>petit lit, avec des couvertures fleuries<br \/>tiss\u00e9es par des femmes calabraises ou sardes),<br \/>j'accrocherais ma collection<br \/>de tableaux que j'aime encore&nbsp;: \u00e0 c\u00f4t\u00e9<br \/>de mon Zigaina, je voudrais un beau Morandi,<br \/>un Mafai, de quarante, un De Pisis,<br \/>un petit Rosai, un grand Guttuso...<\/blockquote>      <cite>\u00ab&nbsp;Mon d\u00e9sir de Richesse&nbsp;\u00bb, po\u00e8me de Pier Paolo Pasolini publi\u00e9 dans <em>La Religione del mio tempo<\/em>, 1961<\/cite>      <p>Au fil des ann\u00e9es, la vie culturelle et sociale de Pasolini se d\u00e9place des <em>borgate<\/em> vers le centre de Rome. <a href='#!\/fr\/map\/9'>Les bars<\/a>, <a href='#!\/fr\/map\/13'>les restaurants<\/a>, les th\u00e9\u00e2tres... mais aussi les galeries d'art. Passionn\u00e9 de peinture, il se lie notamment d'amiti\u00e9 avec Renato Guttuso, peintre alors adul\u00e9.<\/p>      ",
+  "latLng":[
+    41.908777,
+    12.474909
+  ],
+  "date":"1962-01-17",
+  "pos":5130,
+  "cat":{
+    "id":8,
+    "name":"Vie sociale et intellectuelle"
+  },
+  "trello":"LMFMNbqT",
+  "m":[
+    {
+      "type":"img",
+      "id":"57-2",
+      "width":1200,
+      "height":1209,
+      "caption":"Pier Paolo Pasolini \u00e0 l'exposition Guttuso",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"57-1",
+      "width":1772,
+      "height":1802,
+      "caption":"Renato Guttuso. Crucifixion",
+      "rights":"\u00a9 Galleria nazionale d'arte moderna"
+    },
+    {
+      "type":"img",
+      "id":"57-3",
+      "width":1200,
+      "height":1200,
+      "caption":"Renato Guttuso et Pier Paolo Pasolini",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    }
+  ],
+  "lang":"fr"
+}

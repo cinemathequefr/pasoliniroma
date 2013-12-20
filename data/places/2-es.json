@@ -1,0 +1,28 @@
+{
+  "id":2,
+  "name":"Piazza Costaguti",
+  "address":"Piazza Costaguti, 14, 00186 Roma",
+  "desc":"      <p>A su llegada a Roma, Pasolini descubre una capital contrastada, a la vez muy piadosa \u2013es el a\u00f1o del jubileo de P\u00edo XII\u2013 y locamente pagana: las riberas del T\u00edber y el gueto, donde la sexualidad se vive muy libremente, contrastan radicalmente con el Friul de su infancia. Su t\u00edo le presta una habitaci\u00f3n por un tiempo en la plaza Costaguti, en el gueto jud\u00edo.<\/p>      <p>El poeta vive a dos pasos de la isla Tiberina y del Trastevere, en medio de los ragazzi, chicos duros nada avergonzados de sus deseos, que viven de peque\u00f1os robos en las orillas del T\u00edber. A mil leguas de la Roma burguesa y religiosa del jubileo de P\u00edo XII.<\/p>      <p>A escasos metros est\u00e1 la Piazza Mattei y su \u00abfuente de las tortugas\u00bb.<\/p>      ",
+  "latLng":[
+    41.893620,
+    12.476747
+  ],
+  "date":1950,
+  "pos":762,
+  "cat":{
+    "id":1,
+    "name":"Casas, mudanzas"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"2-1",
+      "width":1019,
+      "height":960,
+      "caption":"Piazza Costaguti",
+      "rights":"\u00a9 Francesco Pierangeli"
+    }
+  ],
+  "trello":"yJBnbec4",
+  "lang":"es"
+}

@@ -1,0 +1,25 @@
+{
+  "id":53,
+  "name":"March\u00e9 aux puces de Porta Portese",
+  "desc":"      <p>Le march\u00e9 aux puces de <em>Mamma Roma<\/em>, symbole de la mis\u00e8re et de la d\u00e9brouille des <em>borgate<\/em>, sert aussi de d\u00e9cor au cinqui\u00e8me chapitre du <em>Raggazzi di Vita<\/em> de Pasolini.<\/p>      <p>Dans le film, c'est dans une \u00e9choppe de Porta Portese qu'Ettore vient revendre les disques de sa m\u00e8re, ceux-l\u00e0 m\u00eame sur lesquels elle lui a appris \u00e0 danser. Dans le roman, c'est dans la prison pour mineurs du m\u00eame quartier qu'atterrit Ricetto, apr\u00e8s avoir commis un \u00e9ni\u00e8me larcin.<\/p>      ",
+  "latLng":[
+    41.883728,
+    " 12.473832"
+  ],
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "m":[
+    {
+      "type":"video",
+      "id":2381452413001,
+      "wide":1,
+      "caption":"Extrait de Mamma Roma (Pier Paolo Pasolini, 1962)",
+      "rights":"\u00a9 Mediaset"
+    }
+  ],
+  "trello":"LpYBN96a",
+  "lang":"fr"
+}

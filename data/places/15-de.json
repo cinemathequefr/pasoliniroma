@@ -1,0 +1,27 @@
+{
+  "id":15,
+  "name":"[Cementiri protestant]",
+  "address":"Via Caio Cestio, 6",
+  "desc":"[Cementiri protestant]",
+  "latLng":[
+    41.876408,
+    12.479472
+  ],
+  "pos":3288,
+  "cat":{
+    "id":2,
+    "name":"Pasolini Schriftsteller"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"15-1",
+      "width":786,
+      "height":1200,
+      "caption":"[Tombe d'Antonio Gramsci, cimeti\u00e8re de Testaccio]",
+      "rights":"\u00a9 Francesco Pierangeli"
+    }
+  ],
+  "trello":"2TBhRRiX",
+  "lang":"de"
+}

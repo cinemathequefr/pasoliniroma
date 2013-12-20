@@ -1,0 +1,35 @@
+{
+  "id":52,
+  "name":"Campo de' Fiori: el funeral de Pasolini",
+  "desc":"      <p>La elecci\u00f3n de esta plaza es simb\u00f3lica: all\u00ed es donde el fil\u00f3sofo y f\u00edsico Giordano Bruno, acusado de herej\u00eda por la Inquisici\u00f3n, fue condenado a la hoguera y ejecutado en 1600. Es adem\u00e1s, principalmente, un lugar emblem\u00e1tico de la vida cotidiana de Pasolini. Laura Betti viv\u00eda en la <a href='#!\/es\/map\/11'>Via di Montoro<\/a>, una callejuela cercana. Y La Carbonara era uno de los restaurantes preferidos de Pasolini y de sus amigos intelectuales.<\/p>      <p>El d\u00eda del entierro, los intelectuales pero tambi\u00e9n el pueblo de Roma acuden en masa. El funeral es grandioso y atrae por igual a Moravia, Rosi, Bertolucci, Betti, Morante y a la gente de los <em>borgate<\/em> a la que tanto quiso Pasolini. Alberto Moravia toma la palabra \u2013 seguido por Gianni Borgna \u2013 y pronuncia un discurso conmovedor, sin notas.<\/p>      <p><em>\u00abMe persigue la imagen de Pasolini corriendo, huyendo de algo que no tiene rostro y que lo mat\u00f3, una imagen simb\u00f3lica de nuestro pa\u00eds, una imagen que debe incitarnos a mejorar nuestro pa\u00eds, tal y como Pasolini en persona hubiera querido.\u00bb<\/em><\/p>      <p><em>\u00abUna sociedad que mata a sus poetas es una sociedad enferma\u00bb<\/em>, a\u00f1ade.<\/p>      <p>La muchedumbre responde emocionada, con pasi\u00f3n. El funeral se convierte en una manifestaci\u00f3n pol\u00edtica ya que el pueblo ha comprendido que el asunto es much\u00edsimo m\u00e1s complejo de lo que dejan traslucir los medios de comunicaci\u00f3n.<\/p>      <p>Pasolini est\u00e1 ahora enterrado al lado de su madre. Ocupan dos tumbas gemelas del peque\u00f1o cementerio de Casarsa della Delizia, el pueblo de la madre en Friul. El padre y el hermano est\u00e1n enterrados en otra parcela del mismo cementerio.<\/p>      ",
+  "address":{
+    
+  },
+  "latLng":[
+    41.895502,
+    " 12.472004"
+  ],
+  "pos":10166,
+  "date":"1975-11-05",
+  "cat":{
+    "id":9,
+    "name":"El \u00faltimo d\u00eda"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"52-1",
+      "width":1600,
+      "height":980,
+      "caption":"Piazza Campo de' Fiori",
+      "rights":"\u00a9 Agenzia Fotogramma"
+    },
+    {
+      "type":"video",
+      "id":2384281328001,
+      "wide":0
+    }
+  ],
+  "trello":"PJk8yZRF",
+  "lang":"es"
+}

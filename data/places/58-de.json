@@ -1,0 +1,36 @@
+{
+  "id":58,
+  "name":"[Casa de Sandro Penna, via delle Mole D\u00e8 Fiorentini]",
+  "address":"Via delle Mole D\u00e8 Fiorentini, 00186 Roma",
+  "desc":"[Casa de Sandro Penna, via delle Mole D\u00e8 Fiorentini]",
+  "latLng":[
+    41.900121,
+    12.464616
+  ],
+  "date":1957,
+  "pos":3499,
+  "cat":{
+    "id":8,
+    "name":"Soziale und intellektuelle Leben"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"58-1",
+      "width":1600,
+      "height":1184,
+      "caption":"Sandro Penna",
+      "rights":"\u00a9 Contrasto"
+    },
+    {
+      "type":"img",
+      "id":"58-2",
+      "width":821,
+      "height":1200,
+      "caption":"Sandro Penna",
+      "rights":"\u00a9 Contrasto"
+    }
+  ],
+  "lang":"de"
+}

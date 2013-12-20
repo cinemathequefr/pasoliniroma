@@ -1,0 +1,53 @@
+{
+  "id":54,
+  "name":"Quartier de Quarticciolo",
+  "address":{
+    
+  },
+  "desc":"      <blockquote>Pier Paolo est devenu romain, m\u00eame s'il a gard\u00e9 envers Rome une certaine distance critique et linguistique. Il a acquis une connaissance profonde du romanesco, mais il va de soi qu'il ne le parlait pas comme Sergio Citti ou moi&nbsp;; il en faisait un usage litt\u00e9raire, il se servait du discours indirect libre \u00e0 la mani\u00e8re de Gadda&nbsp;; dans une certaine mesure, il mimait ce dialecte. Il vous faisait sentir toute la saveur de cette r\u00e9alit\u00e9, mais il en donnait une repr\u00e9sentation qui n'avait rien de naturaliste.<\/blockquote>      <cite>Entretien avec Vincenzo Cerami, ancien \u00e9l\u00e8ve de Pasolini \u00e0 <a href='#!\/fr\/map\/4'>Ciampino<\/a>, sc\u00e9nariste, \u00e9crivain.<\/cite>      <p>Les \u00e9crits et les films de Pasolini ont cr\u00e9\u00e9 un nouvel imaginaire de la capitale italienne. Pasolini ne s'est pas content\u00e9 d'int\u00e9grer la ville comme toile de fond de ses romans et de ses films, il a \u00ab&nbsp;refond\u00e9&nbsp;\u00bb Rome par la litt\u00e9rature et le cin\u00e9ma. En fr\u00e9quentant la jeunesse des <em>borgate<\/em> -&nbsp;celle du Quarticciolo par exemple&nbsp;- il a donn\u00e9 une existence et une dignit\u00e9 litt\u00e9raire au langage romanesco qui, gr\u00e2ce \u00e0 lui, est entr\u00e9 dans la grande culture italienne.<\/p>      ",
+  "latLng":[
+    41.89164,
+    " 12.576513"
+  ],
+  "pos":2007,
+  "cat":{
+    "id":2,
+    "name":"Pasolini \u00e9crivain"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"54-1",
+      "width":1663,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Federico Garolla \/ Archivi Farabola"
+    },
+    {
+      "type":"img",
+      "id":"54-2",
+      "width":1840,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Federico Garolla \/ Archivi Farabola"
+    },
+    {
+      "type":"img",
+      "id":"54-3",
+      "width":1815,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Federico Garolla \/ Archivi Farabola"
+    },
+    {
+      "type":"img",
+      "id":"54-4",
+      "width":1784,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Federico Garolla \/ Archivi Farabola"
+    }
+  ],
+  "trello":"vlbC9kEL",
+  "lang":"fr"
+}

@@ -1,0 +1,27 @@
+{
+  "id":51,
+  "name":"Plage d'Ostie",
+  "desc":"      <p>Dans la nuit du 1er au 2 novembre 1975, on retrouve le corps atrocement mutil\u00e9 de Pier Paolo Pasolini sur la plage d'Ostie. Les conditions de sa mort restent encore aujourd'hui tr\u00e8s floues, m\u00eame si son assassin pr\u00e9sum\u00e9, Giuseppe (Pino) Pelosi, a livr\u00e9 \u00e0 l'\u00e9poque une version d\u00e9taill\u00e9e de cette soir\u00e9e tragique.<\/p>      <p>En d\u00e9but de soir\u00e9e, Pasolini d\u00eene avec Ninetto Davoli au restaurant Pommidoro (Piazza dei Sanniti, 44). Puis il se rend, dit-il, \u00e0 un rendez-vous.<\/p>      <p>Dans sa premi\u00e8re version, Pelosi raconte avoir rencontr\u00e9 Pasolini aux abords de la gare de Termini, Puis ils auraient fait un tour en voiture \u00e0 travers Rome, et se seraient finalement all\u00e9s au \u00ab&nbsp;Al Biondo Tevere&nbsp;\u00bb (Via Ostiense, 178), un restaurant populaire sur la route en direction de la plage d'Ostie.<\/p>      <p>Ce r\u00e9cit laisse la part belle aux incoh\u00e9rences et aux zones d'ombres, et, contre la th\u00e8se de la simple violence homosexuelle ayant mal tourn\u00e9e, c'est celle du guet-apens organis\u00e9 qui est la plus probable. Il y a beaucoup de zones d'ombres dans le parcours des deux hommes et dans le d\u00e9roulement r\u00e9el de la soir\u00e9e.<\/p>      <p>L'hypoth\u00e8se la plus vraisemblable est que sa mort ne se r\u00e9duit pas \u00e0 un simple fait divers homosexuel, mais rel\u00e8ve plut\u00f4t d'une forme de lynchage d'un homme engag\u00e9, militant, provocateur, dont la voix unique, forte, contestataire et particuli\u00e8rement influente, \u00e9tait dangereuse pour le pouvoir italien alors en place.<\/p>      <p>Revenu sur ses d\u00e9clarations premi\u00e8res, Pelosi a \u00e9voqu\u00e9 par la suite les deux fr\u00e8res Borsellino, li\u00e9s \u00e0 l'extr\u00eame droite, et deux ou trois inconnus, Siciliens.<\/p>      <p>La magistrature a rouvert plusieurs fois l'enqu\u00eate au cours des derni\u00e8res ann\u00e9es.<\/p>      ",
+  "latLng":[
+    41.741721,
+    " 12.249034"
+  ],
+  "pos":10166,
+  "date":"1975-11-01",
+  "cat":{
+    "id":9,
+    "name":"La derni\u00e8re journ\u00e9e"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"51-1",
+      "width":1596,
+      "height":1045,
+      "caption":"Le cadavre de Pier Paolo Pasolini sur la plage d'Ostie",
+      "rights":"\u00a9 Archivi Farabola"
+    }
+  ],
+  "trello":"BvQzudQ9",
+  "lang":"fr"
+}

@@ -1,0 +1,15 @@
+{
+  "id":43,
+  "name":"[Casa delle Culture di Roma]",
+  "address":"Largo Arenula, 00186 Roma",
+  "desc":"[Casa delle Culture di Roma]",
+  "latLng":[
+    41.894817,
+    12.476393
+  ],
+  "cat":{
+    "id":9,
+    "name":"Der letzte Tag"
+  },
+  "lang":"de"
+}

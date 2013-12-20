@@ -1,0 +1,17 @@
+{
+  "id":45,
+  "name":"Gare de Rome Termini",
+  "desc":"      PLACER LE CONTENU ICI      ",
+  "latLng":[
+    41.900833,
+    12.501944
+  ],
+  "pos":10166,
+  "date":"1975-11-01",
+  "cat":{
+    "id":9,
+    "name":"La derni\u00e8re journ\u00e9e"
+  },
+  "trello":"pljUhi9v",
+  "lang":"fr"
+}

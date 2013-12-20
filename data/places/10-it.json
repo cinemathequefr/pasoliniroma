@@ -1,0 +1,34 @@
+{
+  "id":10,
+  "name":"Chez Laura Betti, via del Babuino, 68",
+  "address":"Via del Babuino, 68, 00187 Roma",
+  "latLng":[
+    41.907787,
+    12.479884
+  ],
+  "pos":4306,
+  "cat":{
+    "id":8,
+    "name":"Vita sociale et intellettuale"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"10-1",
+      "width":1260,
+      "height":1200,
+      "caption":"[Laura Betti dans son premier appartement, montrant l'affiche du spectacle Giro a vuoto, 1960]",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"10-2",
+      "width":1600,
+      "height":1073,
+      "caption":"[Laura Betti dans son premier appartement]",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    }
+  ],
+  "trello":"Sb6Sfsrq",
+  "lang":"it"
+}

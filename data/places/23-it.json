@@ -1,0 +1,28 @@
+{
+  "id":23,
+  "name":"Via Sagunto",
+  "desc":"[Via Sagunto]",
+  "latLng":[
+    41.857861,
+    12.551314
+  ],
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "comment":{
+    
+  },
+  "m":[
+    {
+      "type":"video",
+      "id":2381358462001,
+      "wide":1,
+      "caption":"[Extrait de Mamma Roma (Pier Paolo Pasolini, 1962)]",
+      "rights":"\u00a9 Mediaset"
+    }
+  ],
+  "trello":"kBTK9evY",
+  "lang":"it"
+}

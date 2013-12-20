@@ -1,0 +1,27 @@
+{
+  "id":5,
+  "name":"Cin\u00e9ma \u201cTeatro Nuovo\u201d",
+  "address":"Largo Ascianghi, 1, 00192 Roma",
+  "desc":"      <p>En 1953, Pier Paolo Pasolini r\u00e9side toujours \u00e0 <a href='#!\/fr\/map\/3'>Ponte Mammolo<\/a>. Si c'est dans les faubourgs qu'il multiplie les rencontres qui changeront sa vie, il n'en fr\u00e9quente pas moins le centre-ville, et notamment le Trastevere. Pasolini s'en souviendra d'ailleurs dans son deuxi\u00e8me film&nbsp;: c'est dans un restaurant du Trastevere, Da Meo Patacca, qui existe encore aujourd'hui, que Mamma Roma r\u00e9ussit par chantage \u00e0 faire embaucher son fils Ettore.<\/p>      <p>De nos jours, le Trastevere est un quartier chic mais, en 1953, c'est encore un secteur populaire, o\u00f9 se d\u00e9veloppent notamment de forts sentiments anti-cl\u00e9ricaux et anti-papistes qui ne laissent pas Pasolini insensible. C'est aussi et surtout dans ce quartier, au 1 du Largo Ascianghi, au cin\u00e9ma Teatro Nuovo, que Pasolini revoit <em>Rome, ville ouverte<\/em>, de Roberto Rossellini. Un choc esth\u00e9tique, que le cin\u00e9aste en devenir \u00e9voque dans le po\u00e8me <em>\u00ab&nbsp;La Religion de mon temps&nbsp;\u00bb&nbsp;:<\/em><\/p>      <blockquote>Mais quel coup au c\u0153ur, quand sur un panneau<br \/>d\u00e9lav\u00e9... Je m'approche, je regarde la couleur<br \/>d\u00e9j\u00e0 d'une autre \u00e9poque, qu'a le chaud visage<br \/>ovale de l'h\u00e9ro\u00efne, la salet\u00e9<br \/>h\u00e9ro\u00efque de la pauvre affiche ternie.<br \/>J'entre aussit\u00f4t&nbsp;: secou\u00e9 par une clameur int\u00e9rieure,<br \/>d\u00e9cid\u00e9 \u00e0 trembler dans le souvenir,<br \/>\u00e0 consommer la gloire de mon geste.<br \/>J'entre dans l'enceinte, pour la derni\u00e8re s\u00e9ance,<br \/>sans vie, avec des spectateurs gris,<br \/>des parents, des amis, dispers\u00e9s dans les rang\u00e9es,<br \/>perdus dans l'ombre en cercles distincts<br \/>et blanch\u00e2tres, dans le frais r\u00e9ceptacle...<br \/>Aussit\u00f4t, aux premiers cadrages,<br \/>me transporte et ravit... l'intermittence<br \/>du c\u0153ur. Je me retrouve dans les voies<br \/>obscures de la m\u00e9moire, dans les chambres<br \/>myst\u00e9rieuses o\u00f9 l'homme est physiquement autre,<br \/>et le pass\u00e9 le baigne de ses pleurs...<br \/>Et pourtant rendu expert par un long usage,<br \/>je ne perds pas les fils&nbsp;: voici... la Casilina<br \/>sur laquelle s'ouvrent tristement<br \/>les portes de la ville de Rossellini...<br \/>voici l'\u00e9pique paysage n\u00e9or\u00e9aliste,<br \/>avec les fils t\u00e9l\u00e9graphiques, les pav\u00e9s, les pins,<br \/>les murettes d\u00e9cr\u00e9pies, la foule<br \/>mystique perdue dans son affairement quotidien,<br \/>les formes obscures de la domination nazie...<br \/>Comme un embl\u00e8me, d\u00e9sormais, le hurlement de la Magnani,<br \/>sous les m\u00e8ches dans leur d\u00e9sordre absolu,<br \/>retentit dans les panoramiques d\u00e9sesp\u00e9r\u00e9s,<br \/>et dans ses coups d'\u0153il vifs et muets<br \/>se concentre le sentiment de la trag\u00e9die.<br \/>C'est l\u00e0 que se dissout et se mutile<br \/>le pr\u00e9sent, et que le chant des a\u00e8des s'assourdit.<\/blockquote>      <p>Par une douce ironie, et une forme de logique esth\u00e9tique et politique, le cin\u00e9ma Nuovo a depuis \u00e9t\u00e9 rachet\u00e9 par Nanni Moretti, autre grande figure du cin\u00e9ma italien engag\u00e9, qui en a fait son repaire, le fameux cin\u00e9ma Nuovo Sacher.<\/p>      ",
+  "latLng":[
+    41.884579,
+    12.472401
+  ],
+  "date":1953,
+  "pos":1827,
+  "cat":{
+    "id":8,
+    "name":"Vie sociale et intellectuelle"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"5-1",
+      "width":856,
+      "height":1200,
+      "caption":"Affiche de Rome, ville ouverte (Roberto Rossellini, 1945)"
+    }
+  ],
+  "trello":"FLR8ypxt",
+  "lang":"fr"
+}

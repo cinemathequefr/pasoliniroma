@@ -1,0 +1,49 @@
+{
+  "id":38,
+  "name":"Valle Giulia, School of Architecture",
+  "desc":"      <p>For Pasolini, the end of the1960s was a time of growing disillusionment in face of the evolution of contemporary Italy. He who had militated so much for the recognition of the lower classes in the seediest parts of Rome helplessly witnessed the advent of a consumer society that he abhorred. In his opinion, nothing seemed capable of stopping this process of dehumanization.<\/p>      <p>Not even the student demonstrations of 1968, which he perceived as a simple outburst of bourgeois young people craving action. It was around the architecture school at Valle Giulia (in the Parioli district, near the Villa Borghese) that the very violent clashes between police and students were concentrated. Whilst getting ready for the release of <em>Teorema<\/em>, Pasolini published a poem in <em>Nuovi Argomenti<\/em>, the review \u2013&nbsp;with a narrow readership&nbsp;\u2013 that he co-edited with Alberto Moravia. The poem contrasted the young policemen, coming from the proletariat of southern Italy, with the bourgeois rebels of '68. The weekly <em>L'Espresso<\/em> smelled a scoop and decided to publish the poem, with another title, a hoax: 'I hate you, dear students', a title fundamentally different from the original: 'The PCI [Italian Communist Party] to the young'.<\/p>      <p>The confusion was total, and the primary meaning of the poem \u2013&nbsp;infinitely more complex than its reductive title&nbsp;\u2013 was completely distorted. Relations between Pasolini and students then stiffened seriously...<\/p>      ",
+  "latLng":[
+    41.918648,
+    12.480033
+  ],
+  "pos":7365,
+  "cat":{
+    "id":3,
+    "name":"Politics"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"38-2",
+      "width":1600,
+      "height":1196,
+      "caption":"Incidents at the School of architecture, Valle Giulia",
+      "rights":"\u00a9 Contrasto"
+    },
+    {
+      "type":"img",
+      "id":"38-3",
+      "width":1600,
+      "height":1067,
+      "caption":"Incidents at the School of architecture, Valle Giulia"
+    },
+    {
+      "type":"img",
+      "id":"38-4",
+      "width":1600,
+      "height":1067,
+      "caption":"Incidents at the School of architecture, Valle Giulia",
+      "rights":"\u00a9 Contrasto"
+    },
+    {
+      "type":"img",
+      "id":"38-5",
+      "width":803,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini at an Italian Communist Youth meeting held later, in 1974. Gianni Borgna and Antonio Semerari can be seen in the background",
+      "rights":"\u00a9 Istituto Luce Historical Archive"
+    }
+  ],
+  "trello":"yJhmZcaq",
+  "lang":"en"
+}

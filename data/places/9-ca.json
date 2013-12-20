@@ -1,0 +1,36 @@
+{
+  "id":9,
+  "name":"Caf\u00e8 Canova",
+  "address":"Piazza del Popolo, 16-17, 00187 Roma",
+  "desc":"     <p>Ve\u00ed del <a href='#!\/es\/map\/8'>caf\u00e8 Rosati <\/a>, el caf\u00e8 Canova \u00e9s un altre epicentre de la vida intel\u00b7lectual romana. A la terrassa, Pasolini es troba amb els seus amics escriptors, poetes, cineastes, guionistes\u2026 Federico Fellini s'inspirara \u00e0mpliament en aquests cercles per a <em>La Dolce vita<\/em>. I, encara que Pasolini no va voler que el seu nom const\u00e9s en els cr\u00e8dits de la pel\u00b7l\u00edcula, \u00e9s del domini p\u00fablic que se li deu almenys l'episodi amb Anouk Aim\u00e9e i l'escena de l'orgia. A l'\u00faltima escena, amb la jove, hi ha una difer\u00e8ncia entre el gui\u00f3 escrit per Pasolini, en el qual Mastroianni dialoga amb ella, i la filmaci\u00f3 de Fellini, en la qual solament es parlen per gestos perqu\u00e8 els separa un bra\u00e7 de mar.<\/p>      <blockquote>Vaig cridar Pasolini despr\u00e9s de llegir Ragazzi di vita per expressar-li el meu entusiasme. Va ser molt simp\u00e0tic, va lloar I vitelloni i La strada. M\u00e9s tard, quan el gui\u00f3 de Les nits de Cab\u00edria va estar acabat, em va semblar una bona idea que el lleg\u00eds perqu\u00e8 em don\u00e9s consells ling\u00fc\u00edstics en alguns moments d'argot. Hav\u00edem quedat al bar Canova de la Piazza del Popolo. El vaig veure arribar i de seguida se'm va fer molt simp\u00e0tic amb aquella carona polsegosa de paleta jove, una carona de proletari, de pes ploma, de boxador dels suburbis. Va acceptar la meva oferta de col\u00b7laboraci\u00f3 amb entusiasme, una virtut que va fer que em sent\u00eds de seguida c\u00f2mode amb ell. Era un home gener\u00f3s, proper.<\/blockquote>       <cite>Federico Fellini<\/cite>      <p>De fet, Pasolini va col\u00b7laborar en l'escriptura de nombrosos guions abans d'emprendre la realitzaci\u00f3 de les seves pr\u00f2pies pell\u00edcules. Consten els de <em>La notte brava<\/em> (pel\u00b7l\u00edcula de Mauro Bolognini, \u00e0mpliament inspirada en <em>Ragazzi di vita<\/em>), el d'<em>El bello Antonio<\/em> (tamb\u00e9 de Mauro Bolognini), el de <em>La donna del fiume<\/em> de Mario Soldati i, una altra vegada per a Fellini, el de <em>Les nits de Cab\u00edria<\/em> \u2013coescrita amb Ennio Flaiano, figura de la nit intel\u00b7lectual romana.<\/p>      ",
+  "latLng":[
+    41.907803,
+    12.479585
+  ],
+  "date":1957,
+  "pos":3377,
+  "cat":{
+    "id":8,
+    "name":"Vida social i intel\u00b7lectual"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"9-1",
+      "width":1600,
+      "height":1128,
+      "caption":"Pier Paolo Pasolini i Federico Fellini durant el rodatge de Les Nits de la Cabiria",
+      "rights":"\u00a9 Pierluigi Praturlon \/ Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"9-2",
+      "width":1591,
+      "height":1058,
+      "caption":"Marcello Mastroianni, Anouk Aim\u00e9e i Pier Paolo Pasolini durant el rodatge de La Dolce vita",
+      "rights":"\u00a9 Reporters Associati srl"
+    }
+  ],
+  "trello":"VSYHrQ2f",
+  "lang":"ca"
+}

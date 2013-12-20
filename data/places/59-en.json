@@ -1,0 +1,53 @@
+{
+  "id":59,
+  "name":"Via Ettore Giovenale",
+  "address":"Via Ettore Giovenale",
+  "desc":"       <p>It was on via Ettore Giovenale that Accattone's house was located.<\/p>       <p>Reality meets fiction since it was also in this quarter that Franco Citti, the main actor of the film, lived. And it was in these street, which he had walked innumerable times over the years, that Pasolini imagined his characters of young thugs.<\/p>      <blockquote>The characters in <em>Accattone<\/em> were all thieves, pimps, burglars, or people who lived from hand to mouth: it was a film, to be honest, about the underworld. Naturally, there was also, all round, the world of the people of the inner Roman suburbs, involved, I indeed want it, in the tacit complicity with the underground but which, in the final analysis, is normally hardworking (for a pitiful salary: think of Sabino, Accattone's brother). But, as an author and Italian citizen, in the film, I was in no way pronouncing a negative judgement on these underworld characters: all their flaws seemed to me not only human but pardonable, as well as perfectly justifiable from a social point of view. The flaws of men who refer to a 'different' scale of values in relation to that of the bourgeoisie: men who are 'themselves' in an absolute way, as I said.<\/blockquote>      <cite>Text by Pasolini, printed in <em>Corriere della Sera<\/em>, 8 October 1975<\/cite>      <blockquote>Pasolini chose the actors in the street and took us as we were. Some of us arrived late on the set in the morning, preferring to go steal to be able to eat... Others simply did not come because they had been arrested the night before.<\/blockquote>      <cite>Franco Citti, lead actor in the film<\/cite>       ",
+  "latLng":[
+    41.889841,
+    12.531637
+  ],
+  "date":1961,
+  "pos":4839,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"59-1",
+      "width":1600,
+      "height":1067,
+      "caption":"Pier Paolo Pasolini and Franco Citti on the set of Accattone",
+      "rights":"\u00a9 Angelo Pennoni \/ Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"59-2",
+      "width":1600,
+      "height":1078,
+      "caption":"Pier Paolo Pasolini on the set of Accattone",
+      "rights":"\u00a9 Angelo Pennoni \/ Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2381449887001,
+      "wide":0,
+      "caption":"Excerpt from Accattone (Pier Paolo Pasolini, 1961)",
+      "rights":"\u00a9 SNC \/ SND"
+    },
+    {
+      "type":"video",
+      "id":2381452408001,
+      "wide":0,
+      "caption":"Excerpt from A futura memoria (Ivo Barnab\u00f2 Micheli, 1986)",
+      "rights":"\u00a9 1986 Antea Film srl \/ 23 Giugno srl \u00a9 2003 Ripley's Film srl - All rights reserved"
+    }
+  ],
+  "comment":{
+    
+  },
+  "lang":"en"
+}

@@ -1,0 +1,50 @@
+{
+  "id":17,
+  "name":"Via dei Gordiani",
+  "desc":"      <p>Le choix du Pigneto pour tourner <em>Accattone<\/em> n'est pas innocent. Ainsi, la via dei Gordiani se trouve \u00e0 quelques rues de la via Montecuccoli. C'est dans cette rue, loin des traditionnels studios de Cinecitt\u00e0, que Roberto Rossellini a tourn\u00e9 quelques ann\u00e9es plus t\u00f4t son <em>Rome ville ouverte<\/em> \u2013&nbsp;notamment la sc\u00e8ne de la mort de Pina (Anna Magnani) sur laquelle Pasolini a \u00e9crit un po\u00e8me apr\u00e8s avoir revu le film \u00e0 son arriv\u00e9e \u00e0 Rome, au <a href='#!\/fr\/map\/5'>cin\u00e9ma \u201cTeatro Nuovo\u201d<\/a>. L'h\u00e9ritage cin\u00e9matographique se double d'une r\u00e9f\u00e9rence g\u00e9ographique&nbsp;: une dizaine de m\u00e8tres seulement s\u00e9parent les d\u00e9cors naturels des deux films.<\/p>      <p>De nos jours, le Pigneto a bien chang\u00e9&nbsp;: il est devenu un quartier \u00e0 la mode, o\u00f9 fourmillent peintres et jeunes artistes.<\/p>      <blockquote>Su una strada miserabile, circondata da baracche, vecchie casette, piena di ragazzini stracciati, sotto un sole furioso, c'era una triste,<br \/>desolata campanella che suonava a morto.<br \/>Accattone avanzava per la strada tramortita dal sole.<br \/>Era proprio un accattone, in canottiera \u2013&nbsp;senza maglietta&nbsp;\u2013 coi calzoni impolverati.<br \/>Nel collo, non c'era pi\u00f9 la grossa catenella d'oro.<br \/>Alle dita non c'era pi\u00f9 neanche un anello.<br \/>Al polso non c'era pi\u00f9 n\u00e9 bracciale n\u00e9 orologio. Nudo come un v\u00e8rmine.<br \/>Camminava, per la strada, vuota, accecata, sotto la campanella che suonava a morto.<\/blockquote>      <cite>Extrait du sc\u00e9nario d'<em>Accattone<\/em><\/cite>      ",
+  "latLng":[
+    41.886129,
+    12.554196
+  ],
+  "date":1961,
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"17-2",
+      "width":1600,
+      "height":987,
+      "caption":"La via dei Gordiani",
+      "rights":"\u00a9 Carlo Riccardi \/ Archivio Riccardi"
+    },
+    {
+      "type":"img",
+      "id":"17-1",
+      "width":1600,
+      "height":1104,
+      "caption":"Pier Paolo Pasolini et Franco Citti pendant une pause, sur le tournage d'Accattone",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"17-3",
+      "width":1600,
+      "height":1070,
+      "caption":"Pier Paolo Pasolini et Franco Citti pendant une pause, sur le tournage d'Accattone",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2380419919001,
+      "wide":0,
+      "caption":"Extrait d'Accattone (Pier Paolo Pasolini, 1961)",
+      "rights":"\u00a9 SNC \/ SND"
+    }
+  ],
+  "trello":"iWfW5w7g",
+  "lang":"fr"
+}

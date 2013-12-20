@@ -1,0 +1,42 @@
+{
+  "id":19,
+  "name":"Ponte Testaccio",
+  "desc":"      <p>The production of Pasolini's first film was not as simple and fast as he would have preferred. <em>Accattone<\/em> was initially to have been produced by Federico Fellini whose ambition, after the triumph of <a href='#!\/en\/map\/9'><em>La Dolce vita<\/em><\/a>, was to become a producer. After successful script collaborations, the prospect of working with his friend again delighted Pasolini. But the project fell through: after viewing the first rushes, Fellini judged that the poet Pasolini, wanting to become a filmmaker, was on the wrong track. Pasolini's disappointment was tremendous, even though it did not tarnish the friendship linking the two men. After Fellini's refusal, Pasolini made his first trip to Africa to 'nurse his narcissistic wound'.<\/p>      <p>Moreover, Fellini would subsequently admit his error of judgement and encourage Pasolini, visiting him on the set. He would even ardently support him during <a href='#!\/en\/map\/60'>the film's turbulent release<\/a>.<\/p>       <p>It was finally Alfredo Bini, a young, almost unknown producer, who took over the production and helped Pasolini out. The days of shooting could then go on more calmly.<\/p>      <p>Up until the final scenes shot in Testaccio, where the film ends tragically. Anything but a coincidence: a working-class, utopian sector created by Ernesto Nathan, <a href='#!\/en\/map\/15'>the final abode of Gramsci<\/a>, and Elsa Morante's childhood neighbourhood, Testaccio is one of the emblematic quarters of Pasolini's Rome.<\/p>      ",
+  "latLng":[
+    41.875373,
+    " 12.470834"
+  ],
+  "date":1961,
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"19-1",
+      "width":1626,
+      "height":1200,
+      "caption":"Federico Fellini on the set of Accattone",
+      "rights":"\u00a9 Tazio Secchiaroli \/ David Secchiaroli"
+    },
+    {
+      "type":"img",
+      "id":"19-2",
+      "width":1642,
+      "height":1200,
+      "caption":"Federico Fellini on the set of Accattone",
+      "rights":"\u00a9 Tazio Secchiaroli \/ David Secchiaroli"
+    },
+    {
+      "type":"video",
+      "id":2380420008001,
+      "wide":0,
+      "caption":"Excerpt from Accattone (Pier Paolo Pasolini, 1961)",
+      "rights":"\u00a9 SNC \/ SND"
+    }
+  ],
+  "trello":"FwUxnWJv",
+  "lang":"en"
+}

@@ -1,0 +1,57 @@
+{
+  "id":26,
+  "name":"Cimetero di Verano, Tiburtino",
+  "address":"Via Del verano, 39",
+  "latLng":[
+    41.901718,
+    12.519929
+  ],
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"26-1",
+      "width":1600,
+      "height":1071,
+      "caption":"[Pier Paolo Pasolini et Anna Magnani sur le plateau de Mamma Roma]",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"26-2",
+      "width":1200,
+      "height":1202,
+      "caption":"[Pier Paolo Pasolini et Anna Magnani sur le plateau de Mamma Roma]",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"26-3",
+      "width":1200,
+      "height":1252,
+      "caption":"[Pier Paolo Pasolini et Anna Magnani sur le plateau de Mamma Roma]",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"26-4",
+      "width":1200,
+      "height":1200,
+      "caption":"[Pier Paolo Pasolini et Anna Magnani sur le plateau de Mamma Roma]",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"video",
+      "id":2381358461001,
+      "wide":0,
+      "caption":"[Extrait du documentaire A futura memoria (Ivo Barnab\u00f2 Micheli, 1986)]",
+      "rights":"\u00a9 1986 Antea Film srl \/ 23 Giugno srl \u00a9 2003 Ripley's Film srl - All rights reserved"
+    }
+  ],
+  "trello":"A7UFifoJ",
+  "lang":"it"
+}

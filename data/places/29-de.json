@@ -1,0 +1,67 @@
+{
+  "id":29,
+  "name":"[Il Palazzaccio, Piazza Cavour]",
+  "desc":"[Il Palazzaccio, Piazza Cavour]",
+  "latLng":[
+    41.905743,
+    12.469485
+  ],
+  "date":"4 octobre 1962",
+  "pos":5389,
+  "cat":{
+    "id":3,
+    "name":"Politik"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"29-1",
+      "width":1101,
+      "height":1200,
+      "caption":"[Pier Paolo Pasolini se rendant au Palais de Justice de Rome pour le proc\u00e8s de La Ricotta]",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"29-2",
+      "width":1600,
+      "height":1085,
+      "caption":"[Pier Paolo Pasolini pendant une audience au proc\u00e8s de La Ricotta]",
+      "rights":"\u00a9 Carlo Riccardi \/ Archivio Riccardi"
+    },
+    {
+      "type":"img",
+      "id":"29-3",
+      "width":1600,
+      "height":1193,
+      "caption":"[Pier Paolo Pasolini avec notamment Alberto Moravia pendant le proc\u00e8s de La Ricotta]",
+      "rights":"\u00a9 DUfoto \/ Foto Scala \/ Cineteca di Bologna"
+    },
+    {
+      "type":"img",
+      "id":"29-4",
+      "width":1600,
+      "height":1159,
+      "caption":"[Pier Paolo Pasolini]",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"29-5",
+      "width":1587,
+      "height":1200,
+      "caption":"[Pier Paolo Pasolini]",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"29-6",
+      "width":1600,
+      "height":1059,
+      "caption":"[Pier Paolo Pasolini]",
+      "rights":"\u00a9 Archivi Farabola"
+    }
+  ],
+  "trello":"L0lrIAiD",
+  "lang":"de"
+}

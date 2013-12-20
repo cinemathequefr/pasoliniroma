@@ -1,0 +1,67 @@
+{
+  "id":29,
+  "name":"Il Palazzaccio, Piazza Cavour: judici de La Ricotta",
+  "desc":"      <blockquote>Se l'acusava d'haver insultat la religi\u00f3. Hauria estat molt m\u00e9s exacte acusar el cineasta d'haver insultat els valors de la petita i mitjana burgesia italiana.<\/blockquote>      <cite>Alberto Moravia<\/cite>      <p>El judici pren un gir m\u00e9s que absurd. Per donar m\u00e9s for\u00e7a a la seva acusaci\u00f3, el fiscal fa installar a la sala del tribunal una taula de muntatge per tal d'analitzar les seq\u00fc\u00e8ncies imputades de la pel\u00b7l\u00edcula objecte del delicte. Al principi, el magistrat aconsegueix retirar el film. Despr\u00e9s aconsegueix que se suprimeixi la part dirigida per Pasolini.<\/p>       <p>RoGoPaG \u00e9s una cinta una formada per esquetxos. El t\u00edtol \u00e9s un compendi de les primeres s\u00edllabes de Rossellini, Godard, Pasolini i Gregoretti, els seus directors. Arran del judici es veu amputada del seu episodi fonamental, de gaireb\u00e9 mitja hora de durada. A m\u00e9s, Pasolini \u00e9s condemnat a quatre mesos de pres\u00f3 condicional en primera inst\u00e0ncia el 7 de mar\u00e7 de 1963. Finalment el director aconseguir\u00e0 explicar-se i ser\u00e0 absolt el 6 de maig de 1964 pel tribunal d'apellaci\u00f3. En total, el judici de <a href='#!\/ca\/map\/34'><em>La Ricotta<\/em><\/a> dura gaireb\u00e9 sis anys, en diferents inst\u00e0ncies i causes. Acaba el 23 de febrer de 1968 amb l'absoluci\u00f3 de Pasolini, que arriba a cobrar  fins i tot una indemnitzaci\u00f3 per danys i perjudicis.<\/p>      <p>Per a Pasolini aquest judici \u00e9s determinant, fins al punt que decideix rodar <em>L'Evangeli segons sant Mateu<\/em> per demostrar que, encara que ell sigui ateu, respecta la religi\u00f3 com a ideologia popular. Perqu\u00e8 a It\u00e0lia, en regions com el Fri\u00fcl o a la Roma popular, la religi\u00f3 equival a una filosofia de la vida del poble. Fins i tot modificar\u00e0 radicalment el seu estil, conven\u00e7ut que no es pot filmar la hist\u00f2ria de L'Evangeli de la mateixa manera que es reconstrueix la Roma d'<a href='#!\/ca\/map\/16'><em>Accattone<\/em><\/a>. En aquest sentit, <em>L'evangeli<\/em>... \u00e9s una pel\u00b7l\u00edcula diferent d'Accattone, amb un punt de vista frontal, gaireb\u00e9 medieval, en la seva representaci\u00f3 est\u00e8tica del m\u00f3n. <em>L'evangeli<\/em>... \u00e9s m\u00e9s din\u00e0mica, filmada amb una llibertat en els moviments de c\u00e0mera que no tenien les primeres pell\u00edcules.<\/p>      ",
+  "latLng":[
+    41.905743,
+    12.469485
+  ],
+  "date":"4 octobre 1962",
+  "pos":5389,
+  "cat":{
+    "id":3,
+    "name":"Pol\u00edtica"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"29-1",
+      "width":1101,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"29-2",
+      "width":1600,
+      "height":1085,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Carlo Riccardi \/ Archivio Riccardi"
+    },
+    {
+      "type":"img",
+      "id":"29-3",
+      "width":1600,
+      "height":1193,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 DUfoto \/ Foto Scala \/ Cineteca di Bologna"
+    },
+    {
+      "type":"img",
+      "id":"29-4",
+      "width":1600,
+      "height":1159,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"29-5",
+      "width":1587,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"29-6",
+      "width":1600,
+      "height":1059,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Archivi Farabola"
+    }
+  ],
+  "trello":"L0lrIAiD",
+  "lang":"ca"
+}

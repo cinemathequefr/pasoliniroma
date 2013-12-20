@@ -1,0 +1,42 @@
+{
+  "id":3,
+  "name":"Ponte Mammolo",
+  "address":"Via Giovanni Tagliere, 3, 00156 Roma",
+  "desc":"[Ponte Mammolo]",
+  "latLng":[
+    41.932308,
+    12.567709
+  ],
+  "date":1951,
+  "pos":1276,
+  "cat":{
+    "id":1,
+    "name":"H\u00e4user"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"3-1",
+      "width":783,
+      "height":729,
+      "caption":"[L'appartement de Ponte Mammolo, via Giovanni Tagliere, 3]",
+      "rights":"\u00a9 Romano Siciliani \/ Imago Mundi"
+    },
+    {
+      "type":"video",
+      "id":2325854985001,
+      "wide":0,
+      "caption":"[Fragment de Pasolini l'enrag\u00e9 (Jean-Andr\u00e9 Fieschi, 1966)]",
+      "rights":"\u00a9 INA"
+    },
+    {
+      "type":"video",
+      "id":2380419928001,
+      "wide":0,
+      "caption":"[Fragment Vivre et encore plus (Michel Random, 1976)]",
+      "rights":"\u00a9 INA"
+    }
+  ],
+  "trello":"AQhC7GQy",
+  "lang":"de"
+}

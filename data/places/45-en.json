@@ -1,0 +1,16 @@
+{
+  "id":45,
+  "name":"Rome Termini railway station",
+  "latLng":[
+    41.900833,
+    12.501944
+  ],
+  "pos":10166,
+  "date":"1975-11-01",
+  "cat":{
+    "id":9,
+    "name":"The last day"
+  },
+  "trello":"pljUhi9v",
+  "lang":"en"
+}

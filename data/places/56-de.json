@@ -1,0 +1,41 @@
+{
+  "id":56,
+  "name":"[Torre Righetti, tur\u00f3 de Montecucco]",
+  "desc":"[Torre Righetti, tur\u00f3 de Montecucco]",
+  "latLng":[
+    41.836656,
+    12.443968
+  ],
+  "pos":6482,
+  "cat":{
+    "id":6,
+    "name":"Gro\u00dfe V\u00f6gel, kleine V\u00f6gel"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"35-1",
+      "width":1600,
+      "height":1139,
+      "caption":"[Tot\u00f2 et Ninetto Davoli durant le tournage de Des oiseaux, petits et gros]",
+      "rights":"\u00a9 Archivio Storico del Cinema \/ AFE"
+    },
+    {
+      "type":"img",
+      "id":"35-2",
+      "width":1186,
+      "height":1200,
+      "caption":"[Tot\u00f2 et Ninetto Davoli durant le tournage de Des oiseaux, petits et gros]",
+      "rights":"\u00a9 Divo Cavicchioli \/ Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"35-3",
+      "width":862,
+      "height":1200,
+      "caption":"[Affiche de Des oiseaux, petits et gros]"
+    }
+  ],
+  "trello":"y9R9GQnc",
+  "lang":"de"
+}

@@ -1,0 +1,27 @@
+{
+  "id":5,
+  "name":"Cine \u201cTeatro Nuovo\u201d",
+  "address":"Largo Ascianghi, 1, 00192 Roma",
+  "desc":"      <p>En 1953 Pasolini sigue viviendo en <a href='#!\/es\/map\/3'>Ponte Mammolo<\/a>. En los suburbios se multiplican los encuentros que le cambiar\u00e1n la vida, pero tambi\u00e9n frecuenta el centro de la ciudad, en particular el Trastevere. Pasolini lo recordar\u00e1 en su segunda pel\u00edcula: <em>Mamma Roma<\/em> consigue, recurriendo al chantaje, hacer que contraten a su hijo Ettore en un restaurante del Trastevere, Meo Pataca, que todav\u00eda existe.<\/p>      <p>Hoy en d\u00eda el Trastevere es un barrio elegante, pero en el a\u00f1o 1953 segu\u00eda siendo una zona popular que albergaba en particular fuertes sentimientos anticlericales y antipapistas, que no dejan indiferente a Pasolini. Tambi\u00e9n es en este barrio, en el n\u00famero 1 de Largo Ascianghi, en el cine Teatro Nuovo, donde Pasolini vuelve a ver <em>Roma, ciudad abierta<\/em>, de Roberto Rossellini. Le causa una honda impresi\u00f3n est\u00e9tica, a la que alude el futuro cineasta en el poema <em>La religione del mio tempo<\/em>:<\/p>      <blockquote>Pero qu\u00e9 vuelco el coraz\u00f3n cuando en una cartelera<br \/>desva\u00edda... Me acerco, miro el tono<br \/>ya de otro tiempo, el rostro c\u00e1lido,<br \/>oval, de la hero\u00edna, la suciedad<br \/>heroica del pobre, opaco cartel.<br \/>Entro en seguida: sacudido por un interno clamor, <br \/>decidido a temblar en el recuerdo, a consumar<br \/>la gloria de mi gesto. Entro en el recinto,<br \/>al \u00faltimo pase, sin vida,<br \/>con gente gris, parientes,<br \/>amigos, dispersos en los bancos,<br \/>perdidos por la sombra en c\u00edrculos distintos<br \/>y claros, en el fresco refugio...<br \/>En seguida, con el primer encuadre,<br \/>me envuelve y arrebata l'intermittence<br \/>du c\u0153ur. Me encuentro en las oscuras<br \/>calles de la memoria, en estancias<br \/>misteriosas donde el hombre f\u00edsicamente es otro<br \/>y el pasado lo ba\u00f1a con su llanto...<br \/>Y, sin embargo, experto por la costumbre, no <br \/>ierdo<br \/>el hilo: aqu\u00ed est\u00e1 la Casilina,<br \/>sobre la que tristemente se abren<br \/>las puertas de la ciudad de Rossellini...<br \/>aqu\u00ed, el \u00e9pico paisaje neorrealista,<br \/>los hilos de tel\u00e9grafo, el empedrado, los pinos,<br \/>las tapias desconchadas, la m\u00edstica<br \/>muchedumbre sumida en la faena diaria,<br \/>la sombr\u00eda forma de la dominaci\u00f3n nazi...<br \/>Casi emblema ya, el grito de la Magnani,<br \/>bajo los mechones revueltos y absolutos,<br \/>resuena en las desesperadas panor\u00e1micas<br \/>y condensa en sus miradas expresivas y mudas<br \/>el sentido de la tragedia.<br \/>Ah\u00ed es donde se disuelve y mutila<br \/>el presente, donde el canto de los aedos se ensordece.<\/blockquote>      <p>Dulce iron\u00eda y, de alg\u00fan modo, l\u00f3gica est\u00e9tica y pol\u00edtica: el Cinema Nuovo ser\u00e1 m\u00e1s tarde adquirido por Nanni Moretti, otra gran figura del cine italiano comprometido, que hizo de \u00e9l su cuartel general, el famoso cine Nuovo Sacher.<\/p>      ",
+  "latLng":[
+    41.884579,
+    12.472401
+  ],
+  "date":1953,
+  "pos":1827,
+  "cat":{
+    "id":8,
+    "name":"Vida social e intelectual"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"5-1",
+      "width":856,
+      "height":1200,
+      "caption":"Cartel de Roma, ciudad abierta (Roberto Rossellini, 1945)"
+    }
+  ],
+  "trello":"FLR8ypxt",
+  "lang":"es"
+}

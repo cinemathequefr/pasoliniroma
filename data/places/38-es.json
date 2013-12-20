@@ -1,0 +1,49 @@
+{
+  "id":38,
+  "name":"Valle Giulia, facultad de arquitectura",
+  "desc":"      <p>El final de los a\u00f1os sesenta es para Pasolini el lugar de una desilusi\u00f3n creciente frente a la evoluci\u00f3n de la Italia contempor\u00e1nea. \u00c9l, que tanto milit\u00f3 a favor del reconocimiento del pueblo llano de los bajos fondos de Roma, asiste impotente al advenimiento de una sociedad del consumo que detesta. Seg\u00fan \u00e9l, nada podr\u00e1 detener este proceso de deshumanizaci\u00f3n, ni siquiera las manifestaciones estudiantiles de 1968, que percibe como una simple efervescencia de hijos de burgueses con ganas de armarla.<\/p>      <p>Los choques, muy violentos, entre la polic\u00eda y los estudiantes, se concentran en torno a la Facultad de Arquitectura, en Valle Giulia (en el barrio de Parioli, cerca de la Villa Borghese). A punto de estrenar <em>Teorema<\/em>, Pasolini publica un poema en <em>Nuovi Argomenti<\/em>, la revista \u2013&nbsp;de tiraje muy limitado&nbsp;\u2013 que coedita con Alberto Moravia. El poema opone los j\u00f3venes polic\u00edas, originarios del proletariado del sur de Italia, a los burgueses sublevados del 68. La revista semanal <em>L'Espresso<\/em> se huele un notici\u00f3n y decide publicar el poema con otro t\u00edtulo, enga\u00f1oso: \u00ab&nbsp;Os odio, queridos estudiantes&nbsp;\u00bb. Un titulo completamente distinto del original: \u00ab&nbsp;El PCI a los j\u00f3venes&nbsp;\u00bb.<\/em><\/p>      <p>La confusi\u00f3n es absoluta, y el sentido inicial del poema, infinitamente m\u00e1s complejo que su t\u00edtulo reductor, completamente falseado. Las relaciones entre Pasolini y la juventud estudiantil se enfr\u00edan seriamente...<\/p>      ",
+  "latLng":[
+    41.918648,
+    12.480033
+  ],
+  "pos":7365,
+  "cat":{
+    "id":3,
+    "name":"Pol\u00edtica"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"38-2",
+      "width":1600,
+      "height":1196,
+      "caption":"Incidentes entre estudiantes y las fuerzas de seguridad en la Facultad de Arquitectura ",
+      "rights":"\u00a9 Contrasto"
+    },
+    {
+      "type":"img",
+      "id":"38-3",
+      "width":1600,
+      "height":1067,
+      "caption":"Incidentes entre estudiantes y las fuerzas de seguridad en la Facultad de Arquitectura "
+    },
+    {
+      "type":"img",
+      "id":"38-4",
+      "width":1600,
+      "height":1067,
+      "caption":"Incidentes entre estudiantes y las fuerzas de seguridad en la Facultad de Arquitectura ",
+      "rights":"\u00a9 Contrasto"
+    },
+    {
+      "type":"img",
+      "id":"38-5",
+      "width":803,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini asiste a una asamblea de las Juventudes Comunistas 8 a\u00f1os m\u00e1s tarde, en 1974. En segundo plano, Gianni Borgna y Antonio Semerari",
+      "rights":"\u00a9 Istituto Luce Historical Archive"
+    }
+  ],
+  "trello":"yJhmZcaq",
+  "lang":"es"
+}

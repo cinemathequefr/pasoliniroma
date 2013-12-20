@@ -1,0 +1,41 @@
+{
+  "id":37,
+  "name":"El barrio de la EUR, via Eufrate, 9",
+  "address":"Via Eufrate, 9, 00144 Roma",
+  "desc":"      <p>Disfrutando ya de una posici\u00f3n m\u00e1s holgada, Pasolini puede permitirse un gran piso en el barrio tranquilo y residencial de la EUR (Esposizione Universale di Roma, una zona construida en los a\u00f1os treinta para albergar la Exposici\u00f3n Universal de 1942, que no tuvo lugar).<\/p>      <p>Se instala all\u00ed en 1963 con su madre y su prima, Graziella Chiarcossi, que se ha reunido con ellos definitivamente en el n\u00famero 9 de la via Eufrate. El barrio, sobre una colina, es m\u00e1s bien burgu\u00e9s, protegido. La vista muestra lo que queda del campo y de las granjas, pero tambi\u00e9n las grandes obras de construcci\u00f3n de la periferia e incluso, cuando el tiempo lo permite, el mar y la playa de Ostia. El piso no queda muy lejos de la gran c\u00fapula de la iglesia de San Pedro y San Pablo, y tiene un peque\u00f1o jard\u00edn colgante en el que la madre puede cultivar plantas a su antojo.<\/p>      <p>Comparada con el recorrido romano de Pasolini, la EUR es una elecci\u00f3n extra\u00f1a. El barrio, moderno y visionario, ha sido dise\u00f1ado y pensado por los fascistas, contrariamente a los <em>borgate<\/em> y al centro animado de la ciudad. Esta mudanza marca de alguna manera un giro en la vida de Pasolini, entre su decisi\u00f3n de establecerse en Roma en 1950 y la \u00faltima fase de su vida, m\u00e1s tensa, que coincide con las reflexiones de los <em>Escritos corsarios<\/em> o de la novela <em>Petr\u00f3leo<\/em>.<\/p>      <p>Aunque orientado hacia el mar, como una abertura sobre el mundo, este piso ser\u00e1 su \u00faltimo domicilio. Los primeros versos del poema <em>\u00abLa b\u00fasqueda de una casa\u00bb<\/em> (en el poemario <em>Poesia in forma di rosa<\/em>) adquieren as\u00ed un car\u00e1cter premonitorio: <em>\u00abEstoy buscando la casa de mi sepultura...\u00bb<\/em>.<\/p>      ",
+  "latLng":[
+    41.832489,
+    12.457924
+  ],
+  "date":1963,
+  "pos":5538,
+  "cat":{
+    "id":1,
+    "name":"Casas, mudanzas"
+  },
+  "trello":"wlr9ZNF5",
+  "m":[
+    {
+      "type":"img",
+      "id":"37-1",
+      "width":845,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini y su madre en su piso de de l'EUR, via Eufrate, 9",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    },
+    {
+      "type":"video",
+      "id":2381449889001,
+      "wide":0,
+      "caption":"Fragmento de Pasolini l'enrag\u00e9 (Jean-Andr\u00e9 Fieschi, 1966)",
+      "rights":"\u00a9 INA"
+    },
+    {
+      "type":"video",
+      "id":2292442024001,
+      "wide":0,
+      "caption":"Fragmento del documental Pier Paolo Pasolini : vivre et encore plus (Michel Random, 1974)"
+    }
+  ],
+  "lang":"es"
+}
