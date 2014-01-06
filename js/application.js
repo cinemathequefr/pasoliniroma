@@ -44,7 +44,7 @@
             size: 22,
             url: "css/images/markers22.png"
         },
-        langs: ["fr", "en", "es", "ca"],
+        langs: ["fr", "en", "es", "ca", "it"],
         map: {
             id: "map-canvas",
             infoboxPixelOffset: new gm.Size(-75, -11), // Offset of the infobox's bottom-left corner relative to the marker's center
