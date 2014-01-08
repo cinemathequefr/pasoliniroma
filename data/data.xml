@@ -495,6 +495,15 @@
       <p>In 1959, Pasolini and his parents moved into this same building.</p>
 
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Attilio Bertolucci era un grande poeta che Pasolini conosceva e ammirava già prima del suo arrivo a Roma. I due si erano conosciuti in Emilia-Romagna (Attilio era originario di Parma, Pasolini di Bologna, e tra le due città ci sono 100 chilometri).</p>
+      <p>Negli anni cinquanta, la famiglia Bertolucci vive a Monteverde Vecchio, poco distante da <a href="#!/it/map/6">Monteverde Nuovo</a>. E proprio a via Giacinto Carini 45, Pasolini incontra per la prima volta il giovane figlio di Attilio, Bernardo Bertolucci. Quest'ultimo ha raccontato spesso come in quella prima occasione avesse scambiato Pasolini per un ladro e l'avesse lasciato sul pianerottolo davanti alla porta, fino a quando il padre gli disse: «Corri ad aprire la porta, Pasolini è un bravissimo poeta!» Inizia così un rapporto di iniziazione in cui Pasolini suscita in Bernardo la vocazione per il cinema e lo accompagna nel suo percorso. Qualche anno dopo, nel 1962, Pasolini proporrà a Bernardo Bertolucci di fargli da aiuto regista nel suo primo film, <a href="#!/it/map/16"><em>Accattone</em></a>. Bertolucci inizialmente rifiuta, è spaventato dalla propria inesperienza e spiega a Pasolini <em>«Non l'ho mai fatto, non lo so fare»</em>, ma Pasolini replica: <em>«Neanch'io»</em>.</p>
+      <p>A 21 anni Bernardo Bertolucci girerà il suo primo lungometraggio, <em>La Commare secca</em>, basato su un soggetto scritto da Pasolini prima di <em>Accattone</em>, da lui involontariamente ereditato.</p>
+      <p>Nel 1959, Pasolini si trasferisce col padre e la madre nello stesso palazzo di via Carini.</p>
+      ]]></desc>
+
+
+
       <latLng>41.883453,12.461021</latLng>
       <date>1959</date>
       <pos>4168</pos>
@@ -504,12 +513,14 @@
         <caption xml:lang="es">Pier Paolo Pasolini en su piso de Monteverde Vecchio, via Giacinto Carini, 45</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini al seu pis de Monteverde Vecchio, via Giacinto Carini, 45</caption>
         <caption xml:lang="en">Pier Paolo Pasolini in his Monteverde Vecchio flat, via Giacinto Carini, 45</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini nel suo appartamento di Monteverde Vecchio, via Giacinto Carini, 45</caption>
       </m>
       <m type="img" id="7-2" width="749" height="1200">
         <caption xml:lang="fr">Pier Paolo Pasolini et sa mère dans leur appartement de Monteverde Vecchio, via Giacinto Carini, 45</caption>
         <caption xml:lang="es">Pier Paolo Pasolini Pasolini y su madre en su piso de Monteverde Vecchio, via Giacinto Carini, 45</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini i la seva mare al seu pis de Monteverde Vecchio, via Giacinto Carini, 45</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and his mother in their Monteverde Vecchio flat, via Giacinto Carini, 45</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e la madre nell'appartamento di Monteverde Vecchio, via Giacinto Carini, 45</caption>
       </m>
       <trello>WVHaNWAV</trello>
     </place>
@@ -556,6 +567,13 @@
       <cite>Ugo Pirro, scriptwriter of Pietro Germi's <em>Investigation of a Citizen</em> above Suspicion and Vittorio de Sica's <em>The Garden of the Finzi-Continis</em></cite>
 
       ]]></desc>
+      
+      <desc xml:lang="it"><![CDATA[
+      <p>Come il <a href="#!/it/map/9">caffè Canova</a> o i ristoranti Il Bolognese e <a href="#!/it/map/13">Beltramme</a>, negli anni cinquanta il caffè Rosati è uno dei luoghi emblematici della vita intellettuale romana. Dopo le prime a teatro o al termine della proiezione dei film di De Sica o <a href="#!/it/map/5">Rossellini</a>, tutta la Roma che conta, gli artisti e gli intellettuali si ritrovano qui. Pier Paolo Pasolini frequenta il caffè Rosati insieme ad altri amici, tra i quali <a href="#!/it/map/10">Laura Betti</a>, Elsa Morante, Alberto Moravia, Giorgio Bassani, Carmelo Bene, Bernardo Bertolucci o Italo Calvino, trascorrendo serate animate da accese discussioni.</p>
+      <blockquote>Qui negli anni cinquanta si potevano incontrare Pier Paolo Pasolini ed Elsa Morante, ma anche molti giovani pittori e cineasti, in un clima culturale di cui solo molti anni dopo ho avuto modo di apprezzare appieno la vivacità.</blockquote>
+      <cite>Ugo Pirro, sceneggiatore di <em>Indagine su un cittadino al di sopra di ogni sospetto</em>, di Elio Petri e del <em>Giardino dei Finzi-Contini</em>, di Vittorio De Sica</cite>
+      ]]></desc>
+
       <latLng>41.910099,12.476106</latLng>
       <date>1956</date>
       <pos>3026</pos>
@@ -566,6 +584,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini en la terraza del café Rosati</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini a la terrassa del cafè Rosati</caption>
         <caption xml:lang="en">Pier Paolo Pasolini on the café Rosati terrace</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini al caffè Rosati</caption>
         <rights>© Archivi Farabola</rights>
       </m>
       <m type="img" id="8-2" width="1178" height="1200">
@@ -576,6 +595,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini e Italo Calvino en la terraza del Café Rosati</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini i Italo Calvino a la terrassa del cafè Rosati</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Italo Calvino on the cafè Rosati terrace</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e Italo Calvino al caffè Rosati</caption>
         <rights>© Archivio storico Istituto Luce Cinecittà srl</rights>
       </m>
     </place>
@@ -630,6 +650,12 @@
       <p>In fact, Pasolini collaborated on the writing of numerous scripts before starting to make his own films, including those of <em>The Big Night</em> (Mauro Bolognini, largely inspired by <em>Ragazzi di vita</em>), <em>Handsome Antonio</em> (Bolognini again), Mario Soldati's <em>The River Girl</em> or, again for Fellini, <em>The Nights of Cabiria</em> – co-written with Ennio Flaiano, a figure in Roman intellectual nightlife.</p>
 
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Vicino a <a href="#!/it/map/8">Rosati</a>, il caffè Canova è un altro fulcro della vita intellettuale romana. Seduto ai suoi tavolini all'aperto, Pasolini incontra gli amici scrittori, poeti, registi, sceneggiatori... Sono questi i circoli ai quali Federico Fellini si ispira per <em>La Dolce vita</em>. E anche se Pasolini non voleva apparire nei crediti del film, tutti sanno che partecipò almeno all'episodio con Anouk Aimée e alla scena dell'orgia. Per l'ultima scena, quella con la ragazza, la sceneggiatura di Pasolini in cui Mastroianni dialoga con la ragazza è diversa da quella poi filmata da Fellini, in cui i due comunicano solo a gesti, perché sono separati da un braccio di mare.</p>
+      <blockquote>Certo, di questo, rappresenta l'esempio più pertinente, più eroico e più tragico. (...) Io ho avuto un'enorme simpatia per Pasolini. Lessi <em>Ragazzi di vita</em>, e fu un innamoramento totale. Lo cercai, e lui arrivò da Canova con il suo passetto elastico, intimidito, con gli occhiali neri, e mi fu subito simpatico, lo sentii come una sorta di fratellino, tenero, delicato e monello, sassaiolo, di quelli che fanno a sassate a fiume. Lo invitai a collaborare a <em>Le Notti di Cabiria</em>, riferendogli il soggetto. (...) Accettò la proposta di collaborazione con entusiasmo, una qualità che me lo rese subito familiare. Era un uomo generoso, immediato.</blockquote>
+      <cite>Federico Fellini</cite>
+      <p>Infatti, prima di cimentarsi con la realizzazione dei propri film, Pasolini ha collaborato alla stesura di numerose sceneggiature tra le quali: <em>La Notte brava</em> (film di Mauro Bolognini, in gran parte ispirato a <em>Ragazzi di vita</em>), <em>Il Bell'Antonio</em> (sempre di Mauro Bolognini), <em>La Donna del fiume</em> di Mario Soldati, o ancora per Fellini <em>Le Notti di Cabiria</em>, con Ennio Flaiano, altro protagonista delle serate intellettuali romane.</p>
+      ]]></desc>
       <latLng>41.907803,12.479585</latLng>
       <date>1957</date>
       <pos>3377</pos>
@@ -639,6 +665,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini y Federico Fellini durante el rodaje de Las Noches de Cabiria</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini i Federico Fellini durant el rodatge de Les Nits de la Cabiria</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Federico Fellini on The Nights of Cabiria set</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e Federico Fellini sul set di Le Notti di Cabiria</caption>
         <rights>© Pierluigi Praturlon / Reporters Associati srl</rights>
       </m>
       <m type="img" id="9-2" width="1591" height="1058">
@@ -646,6 +673,7 @@
         <caption xml:lang="es">Marcello Mastroianni, Anouk Aimée y Pier Paolo Pasolini durante el rodaje de La Dolce vita</caption>
         <caption xml:lang="ca">Marcello Mastroianni, Anouk Aimée i Pier Paolo Pasolini durant el rodatge de La Dolce vita</caption>
         <caption xml:lang="en">Marcello Mastroianni, Anouk Aimée and Pier Paolo Pasolini on the La Dolce vita set</caption>
+        <caption xml:lang="it">Marcello Mastroianni, Anouk Aimée e Pier Paolo Pasolini sul set di La Dolce vita</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <trello>VSYHrQ2f</trello>
@@ -655,7 +683,7 @@
       <name xml:lang="en">Laura Betti's home, via del Babuino, 68</name>
       <name xml:lang="es">Casa de Laura Betti, via del Babuino, 68</name>
       <name xml:lang="fr">Chez Laura Betti, via del Babuino, 68</name>
-      <name xml:lang="it">Chez Laura Betti, via del Babuino, 68</name>
+      <name xml:lang="it">A casa di Laura Betti, via del Babuino, 68</name>
       <address>Via del Babuino, 68, 00187 Roma</address>
       <desc xml:lang="fr"><![CDATA[
 
@@ -714,8 +742,16 @@
 
       <p>Laura Betti, a prominent figure of Roman nightlife, quickly became Pasolini's muse, to the point of sharing his life for awhile, in particular in her flat in via del Babuino. At the time, the pair redefined the notion of couple, Pasolini living with Betti a relationship blending friendship, love and artistic collaboration. They found themselves together in particular on the sets of <em>Teorema</em>, <em>Oedipus Rex</em> and <em>Canterbury Tales</em>.</p>
 
-      <p>In a letter to Godard, Pasolini spoke of Laura Betti as his <em>'non-carnal wife'</em>.</p>
+      <p>In a letter to Godard, Pasolini spoke of Laura Betti as his <em>"non-carnal wife"</em>.</p>
 
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>Quando sono arrivata a Roma per cantare, mi sono messa alla ricerca di buoni testi e ciò ha incuriosito gli scrittori. Io frequentavo l'ambiente degli intellettuali e una sera Alberto Moravia mi ha portato a casa Pier Paolo Pasolini. Ha suscitato subito il mio interesse: se ne stava lì, in un angolo, mi fissava dietro gli occhiali scuri. Io mi sono piantata di fronte a lui, gli ho tolto gli occhiali e con una voce molto Marlene Dietrich, gli ho chiesto: «Allora, hai paura di me?» È stato un colpo di fulmine.</blockquote>
+      <cite>Laura Betti in <em>Libération</em>, 2 agosto 2004</cite>
+      <blockquote>Be', sì. Pensa solo che il primo bagno in una vasca l'ho fatto da Laura Betti quando abitava in via del Babuino. Io non avevo mai visto una vasca, me sembrava una bara. Poi ci entrai, allora si usava il Badedas, e la riempii di sapone immergendomi in quella schiuma. Comunque, a quel punto, già conoscevo Alberto Moravia, Elsa Morante, Sandro Penna, Enzo Siciliano, ero già entrato in quel mondo.</blockquote>
+      <cite>Ninetto Davoli, intervistato da Gianni Borgna nel settembre 2012</cite>
+      <p>Laura Betti, personaggio delle notti romane, presto diventa la musa di Pier Paolo Pasolini, tanto che per un periodo i due convivono nell'appartamento di lei in via del Babuino. All'epoca il duo ridefinì il concetto di coppia, infatti Pasolini aveva con Betti un rapporto in cui si mescolavano amicizia, amore e collaborazione artistica. Si ritroveranno insieme sul set di <em>Teorema</em>, <em>Edipo re</em> e <em>I Racconti di Canterbury</em>.</p>
+      <p>In una lettera a Godard, Pasolini parla di Laura Betti come della sua «sposa non carnale».</p>
       ]]></desc>
       <latLng>41.907787,12.479884</latLng>
       <pos>4306</pos>
@@ -725,6 +761,7 @@
         <caption xml:lang="es">Laura Betti en su primer piso, enseñando el cartel del espectáculo Giro a vuoto, 1960</caption>
         <caption xml:lang="ca">Laura Betti al seu primer pis, ensenyant el cartell de l'espectacle Giro a vuoto, 1960</caption>
         <caption xml:lang="en">Laura Betti in her first roman flat showing the poster for her show Giro a vuoto, 1960</caption>
+        <caption xml:lang="it">Laura Betti, nel suo primo appartamento, mostra la locandina dello spettacolo Giro a vuoto, 1960</caption>
         <rights>© Archivio storico Istituto Luce Cinecittà srl</rights>
       </m>
       <m type="img" id="10-2" width="1600" height="1073">
@@ -732,6 +769,7 @@
         <caption xml:lang="es">Laura Betti en su primer piso</caption>
         <caption xml:lang="ca">Laura Betti al seu primer pis</caption>
         <caption xml:lang="en">Laura Betti in her first roman flat</caption>
+        <caption xml:lang="it">Laura Betti nel suo primo appartamento</caption>
         <rights>© Mario Dondero, Elisa Dondero</rights>
       </m>
       <trello>Sb6Sfsrq</trello>
@@ -741,6 +779,7 @@
       <name xml:lang="ca">Casa de Laura Betti, via di Montoro, 8</name>
       <name xml:lang="es">Casa de Laura Betti, via di Montoro, 8</name>
       <name xml:lang="en">Laura Betti's home, via di Montoro, 8</name>
+      <caption xml:lang="it"></caption>
       <address>Via di Montoro, 8, 00186 Roma</address>
       <desc xml:lang="fr"><![CDATA[
 
