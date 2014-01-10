@@ -779,8 +779,9 @@
       <name xml:lang="ca">Casa de Laura Betti, via di Montoro, 8</name>
       <name xml:lang="es">Casa de Laura Betti, via di Montoro, 8</name>
       <name xml:lang="en">Laura Betti's home, via di Montoro, 8</name>
-      <caption xml:lang="it"></caption>
+      <name xml:lang="it">A casa di Laura Betti, via di Montoro, 8</name>
       <address>Via di Montoro, 8, 00186 Roma</address>
+      <pos>9078</pos>
       <desc xml:lang="fr"><![CDATA[
 
       <p>Laura Betti déménage plus tard au 8, via di Montoro. C'est à quelques rues de ce second appartement que seront célébrées les funérailles de Pier Paolo Pasolini&nbsp;: sur le <a href="#!/fr/map/52">Campo de' Fiori</a>.</p>
@@ -823,6 +824,11 @@
 <p>The place still exists to the present day.</p>
 
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>In seguito Laura Betti si trasferì in via di Montoro 8. È a pochi isolati da questo secondo appartamento, a <a href="#!/it/map/52">Campo de' Fiori</a>, che saranno celebrati i funerali di Pier Paolo Pasolini.</p>
+      <p>La casa di via di Montoro, con la sua bella terrazza e l'ascensore che dava direttamente nel soggiorno, è stato l'ultimo «salotto» degli intellettuali romani: nessuno avrebbe mai osato rifiutare un invito «della Betti» a mangiare gli spaghetti che lei stessa cucinava per gli ospiti. Gli scrittori, gli intellettuali di passaggio e tutto il cinema italiano ha partecipato a queste informali serate.</p>
+      <p>Dopo la morte dell'amico, Laura Betti si dedicherà a conservarne la memoria, dirigendo il Fondo Pier Paolo Pasolini fino alla morte, avvenuta nel 2004.</p>
+      ]]></desc>
       <latLng>41.896221,12.469907</latLng>
       <cat>8</cat>
       <m type="img" id="11-1" width="1570" height="1048">
@@ -830,6 +836,7 @@
         <caption xml:lang="es">Laura Betti en su piso de via di Montoro</caption>
         <caption xml:lang="ca">Laura Betti al seu pis de via di Montoro</caption>
         <caption xml:lang="en">Laura Betti in her second roman flat, via di Montoro</caption>
+        <caption xml:lang="it">Laura Betti nel suo secondo appartamento in via di Montoro</caption>
         <rights>© Gabinetto Vieusseux</rights>
       </m>
       <trello>dkewYSAJ</trello>
@@ -878,12 +885,18 @@
 
       <p>It was in this restaurant that the famous photo was taken showing Alberto Moravia, Pier Paolo Pasolini and Laura Betti dining together. The Fiaschetteria Beltrame was another symbol of Roman cultural - and culinary - life, a mythical place where one could just as easily run into Pasolini as Curzio Malaparte, Giorgio Bassani or Francesco Rosi.</p> 
 
-      <p>It was also the favourite haunt of well-known Italian scriptwriters, leading politicians such as Sandro Petrini and Luigi Einaudi, and actors and actresses…</p> 
+      <p>It was also the favourite haunt of well-known Italian scriptwriters, leading politicians such as Sandro Petrini and Luigi Einaudi, and actors and actresses...</p> 
 
       <blockquote>There was, for example, Zeffirelli, Bolognini, Piero Tosi, Mario Missiroli, Laura Betti, Adriana Asti, and sometimes Pasolini, for he was working with Bolognini. That's where I met just about everyone. They were all young filmmakers, young stage designers, young scriptwriters, and that also explains all this effervescence, this flowering of brainwaves, of witticisms; I remember, for example, that when we got up from table, around 3 in the afternoon, the streets were almost deserted, the whole centre of Rome was napping, and we were free to sing "le tre del pomeriggio, è l'ora del dileggio" [3 o'clock in the afternoon is the hour of derision] in the Piazza di Spagna. We went to the cinema or to theatre premieres with our friends from the via Veneto, Chiaromonte and "Lele" D'Amico, then we went out to dinner, and then to <a href="#!/en/map/8">Rosati</a>, in keeping with an almost Spanish schedule. We went to bed around 2 or 3 in the morning.</blockquote>
 
       <cite>Alberto Arbasino, 2 October 2012</cite>
 
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>In questo ristorante è stata scattata la famosa foto con Alberto Moravia, Pier Paolo Pasolini e Laura Betti che cenano insieme. La Fiaschetteria Beltramme è un altro luogo simbolo della vita culturale – e culinaria – di Roma, un locale mitico dove si poteva incontrare Pasolini ma anche Curzio Malaparte, Giorgio Bassani o Francesco Rosi.</p>
+      <p>È stato anche un dei ristoranti prediletti da celebri sceneggiatori italiani, importanti politici come Sandro Pertini e Luigi Einaudi, ma anche attori e attrici, come anche la Trattoria Romana di Via Frattina (che non esiste più)...</p>
+      <blockquote>Li' c'erano per esempio Zeffirelli, Bolognini, Piero Tosi, Mario Missiroli, la Betti, la Asti, qualche volta Pasolini, perché lavorava con Bolognini. E' lì che praticamente ho conosciuto tutti. Erano tutti giovani registi, giovani scenografi, giovani sceneggiatori, e anche per questo era tutto un frullare, un fiorire di spunti, di battute, perché, per esempio, mi ricordo che quando si usciva verso le tre del pomeriggio, dopo aver fatto colazione, le strade erano praticamente deserte, tutta la Roma del centro dormiva e noi eravamo liberi di canticchiare «le tre del pomeriggio, è l'ora del dileggio» in Piazza di Spagna. Si andava al cinema o alle 'prime' teatrali con gli amici di Via Veneto e Chiaromonte e «Lele» D'Amico, e poi a cena, e poi da Rosati, con orari praticamente spagnoli. Si andava a dormire verso le due o le tre.</blockquote>
+      <cite>Alberto Arbasino, intervistato da Gianni Borgna nell'ottobre 2012</cite>
       ]]></desc>
       <latLng>41.906246,12.479922</latLng>
       <date>1961</date>
@@ -893,6 +906,7 @@
         <caption xml:lang="es">Alberto Moravia, Pier Paolo Pasolini y Laura Betti cenando en la Fiaschetteria Beltrame</caption>
         <caption xml:lang="ca">Alberto Moravia, Pier Paolo Pasolini i Laura Betti sopant a la Fiaschetteria Beltrame</caption>
         <caption xml:lang="en">Alberto Moravia, Pier Paolo Pasolini and Laura Betti having dinner at the Fiaschetteria Beltrame</caption>
+        <caption xml:lang="it">Alberto Moravia, Pier Paolo Pasolini e Laura Betti cenano alla Fiaschetteria Beltramme</caption>
         <rights>© Mario Dondero, Elisa Dondero</rights>
       </m>
       <m type="img" id="13-2" width="1600" height="1065">
@@ -900,6 +914,7 @@
         <caption xml:lang="es">Alberto Moravia, Pier Paolo Pasolini y Laura Betti cenando en la Fiaschetteria Beltrame</caption>
         <caption xml:lang="ca">Alberto Moravia, Pier Paolo Pasolini i Laura Betti sopant a la Fiaschetteria Beltrame</caption>
         <caption xml:lang="en">Alberto Moravia, Pier Paolo Pasolini and Laura Betti having dinner at the Fiaschetteria Beltrame</caption>
+        <caption xml:lang="it">Alberto Moravia, Pier Paolo Pasolini e Laura Betti cenano alla Fiaschetteria Beltramme</caption>
         <rights>© Mario Dondero, Elisa Dondero</rights>
       </m>
       <pos>4868</pos>
@@ -911,7 +926,7 @@
       <name xml:lang="en">Protestant cemetery</name>
       <name xml:lang="es">Cementerio de Testaccio</name>
       <name xml:lang="fr">Cimetière du Testaccio</name>
-      <name xml:lang="it">Cimitero acattolico</name>
+      <name xml:lang="it">Cimitero di Testaccio</name>
       <address>Via Caio Cestio, 6</address>
       <desc xml:lang="fr"><![CDATA[
 
@@ -957,6 +972,15 @@
       <p>With <em>The Ashes of Gramsci</em>, he signed a poetic manifesto work of the writer's inexhaustible social passion. A fantastic description of the Rome of the immediate post-war period, this collection limpidly expresses Pasolini's poetics, his 'scandal of contradiction', his 'communism' that speaks much more to Christ than to Marx. It is a highly moving homage, as well as a great ideological work that anticipates, in a certain way, the end of communism.</p>
 
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>A differenza di oggi, negli anni cinquanta Testaccio era una zona molto popolare. Ciò era dovuto in particolare all'iniziativa di Ernesto Nathan, sindaco di Roma dal 1907 al 1913, le cui posizioni politiche e religiose contrastavano nettamente con quelle dei suoi predecessori: inglese, massone, ebreo e anticlericale, al volgere del secolo decise di trasformare il centro della città in un modello di amalgama sociale, offrendo alle classi inferiori la possibilità di vivere in rioni come Testaccio.</p>
+      <p>Giustamente Antonio Gramsci riposa in questo quartiere «utopico», nel cosiddetto Cimitero degli inglesi. Scrittore e membro fondatore del Partito comunista italiano, Gramsci aveva un rapporto speciale e personale col comunismo, di cui dava un'interpretazione radicale che contrastava con la linea dogmatica del partito.</p>
+      <p>Anche la posizione di Pasolini rispetto al comunismo era piuttosto critica, quindi il poeta non poteva non identificarsi con il teorico marxista del quale condivideva la convinzione, contrastante col marxismo ortodosso, che la classe contadina dovesse avere un ruolo nel processo rivoluzionario.</p>
+      <p>Con <em>Le Ceneri di Gramsci</em> Pasolini firma un'opera poetica che testimonia la sua inesauribile passione sociale. Straordinaria descrizione della Roma dell'immediato dopoguerra, questa raccolta di versi esprime in maniera limpida la poetica pasoliniana, il suo «scandalo della contraddizione», il suo «comunismo» che si rivolge a Cristo molto più che a Marx. È un omaggio commovente oltre che una grande opera ideologica che anticipa in un certo senso la fine del comunismo.</p>
+      ]]></desc>
+      
+      
+      
       <latLng>41.876408,12.479472</latLng>
       <pos>3288</pos>
       <cat>2</cat>
@@ -965,6 +989,7 @@
         <caption xml:lang="es">Tumba de Antonio Gramsci, cementerio de Testaccio</caption>
         <caption xml:lang="ca">Sepultura d'Antonio Gramsci, cementiri de Testaccio</caption>
         <caption xml:lang="en">Antonio Gramsci's tombstone, Protestant Cemetery of Rome</caption>
+        <caption xml:lang="it">Tomba di Antonio Gramsci, cimitero di Testaccio</caption>
         <rights>© Francesco Pierangeli</rights>
       </m>
       <trello>2TBhRRiX</trello>
@@ -1019,12 +1044,19 @@
 
       <p>It was during that particular summer that Pasolini imagined the settings and script for Accattone, the evocation of an unconventional figure, deprived of everything and demonstrating instinctive, almost animal, behaviour. Whereas Italy was experiencing an unprecedented economic boom, <em>Accattone</em> concentrated on another Rome: poor, marginalized, outside official channels. It is a film about the underclass culture that persisted in spite of societal and urban changes at the beginning of the decade.</p>
 
-      <p>To evoke those disparities, Pasolini decided to shoot his first film in the 'semi-suburb' of Rome, in particular in the Pigneto quarter. At the time of shooting, the sector was desolate and miserable – even though, paradoxically, it is a fairly central neighbourhood: via Fanfulla da Lodi, the principal setting of the film, is located close to the Porta Maggiore and <a href="#!/en/map/50">the Termini station</a>. By intentionally choosing this disadvantaged quarter, Pasolini also speaks indirectly of the Third World, which he had occasion to discover on his first trip to Africa and India with Alberto Moravia, right before the shooting of <em>Accattone</em>.</p>
+      <p>To evoke those disparities, Pasolini decided to shoot his first film in the "semi-suburb" of Rome, in particular in the Pigneto quarter. At the time of shooting, the sector was desolate and miserable – even though, paradoxically, it is a fairly central neighbourhood: via Fanfulla da Lodi, the principal setting of the film, is located close to the Porta Maggiore and <a href="#!/en/map/50">the Termini station</a>. By intentionally choosing this disadvantaged quarter, Pasolini also speaks indirectly of the Third World, which he had occasion to discover on his first trip to Africa and India with Alberto Moravia, right before the shooting of <em>Accattone</em>.</p>
 
       <blockquote>Those were marvellous days, when summer was still burning in all its purity, barely emptied, in its interior, of its fury. Via Fanfulla da Lodi, in the middle of Pigneto, with its low hovels and cracked walls, was of a granular majesty in its extreme smallness; a poor little street, humble and unknown, lost under the sun, in a Rome that was not Rome. We invaded it: a dozen actors, the cameraman, the grips, the sound engineers. But as there were no "crews" – which I never wanted to hear about –, the shooting looked calm: we looked like workers scattered <cite>amongst the other workers who were working in the little workshops of Pigneto.</blockquote></cite>
 
       <cite>Pier Paolo Pasolini on the shooting of <em>Accattone</em> in <em>Il Giorno</em>, 16 October 1960</cite>
 
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Il 1960 è l'anno de <a href="#!/it/map/9">La Dolce vita</a> di Federico Fellini e delle Olimpiadi di Roma...</p>
+      <p>È durante questa estate particolare che Pier Paolo Pasolini concepisce l'ambientazione e il soggetto di <em>Accattone</em>, la storia di un emarginato, un miserabile, dal comportamento istintivo e quasi animale. Mentre l'Italia sta vivendo un boom economico senza precedenti, <em>Accattone</em> si concentra su un'altra Roma, povera, emarginata, esclusa dai canali ufficiali. È un film sulla cultura sottoproletaria che sopravvive nonostante i cambiamenti sociali e urbani di questo inizio di decennio.</p>
+      <p>Per evocare questa disparità sociale, Pasolini decide di girare il suo primo film nella «semi-periferia» di Roma, nel quartiere del Pigneto. Dalle riprese la zona appare desolata e triste – mentre paradossalmente si tratta di un quartiere abbastanza centrale, infatti via Fanfulla da Lodi, set principale del film, si trova vicino a Porta Maggiore e alla <a href="#!/it/map/50">Stazione Termini</a>. Scegliendo di proposito questo quartiere povero, Pasolini parla anche indirettamente del terzo mondo, che ha avuto l'opportunità di scoprire nel corso del suo primo viaggio in Africa e in India con Alberto Moravia, compiuto poco prima delle riprese di <em>Accattone</em>.</p>
+      <blockquote>Erano giorni stupendi, in cui l'estate ardeva ancora purissima, appena svuotata un po' dentro, dalla sua furia. Via Fanfulla da Lodi, in mezzo al Pigneto, con le casupole basse, i muretti screpolati, era di una granulosa grandiosità, nella sua estrema piccolezza; una povera, umile, sconosciuta stradetta, perduta sotto il sole, in una Roma che non era Roma. L'abbiamo riempita: una dozzina di attori, l'operatore, i macchinisti, i fonici. Ma poiché non c'erano i 'gruppi' – di cui io non ho mai voluto sentir parlare – l'operazione aveva unaria tranquilla: sembravamo operai in mezzo agli altri operai che lavoravano nelle piccole officine del Pigneto.</blockquote>
+      <cite>Pier Paolo Pasolini a proposito delle riprese di <em>Accattone</em> («Il 4 ottobre» in <em>Il Giorno</em>, 16 ottobre 1960)</cite>
       ]]></desc>
       <latLng>41.889809,12.530284</latLng>
       <pos>4838</pos>
@@ -1034,6 +1066,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini durante el rodaje de Accattone</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini durant el rodatge de Accattone</caption>
         <caption xml:lang="en">Pier Paolo Pasolini on the set of Accattone</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini sul set di Accattone</caption>
         <rights>© Archivio Pier Paolo Pasolini</rights>
       </m>
       <m type="img" id="16-1" width="1600" height="1181">
@@ -1041,6 +1074,7 @@
         <caption xml:lang="es">Franco Citti, Pier Paolo Pasolini y Bernardo Bertolucci durante el rodaje de Accattone</caption>
         <caption xml:lang="ca">Franco Citti, Pier Paolo Pasolini i Bernardo Bertolucci durant el rodatge de Accattone</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Bernardo Bertolucci on the set of Accattone</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e Bernardo Bertolucci sul set di Accattone</caption>
         <rights>© Archivio Pier Paolo Pasolini</rights>
       </m>
       <m type="img" id="16-3" width="1735" height="1200">
@@ -1048,6 +1082,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini durante el rodaje de Accattone</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini durant el rodatge de Accattone</caption>
         <caption xml:lang="en">Pier Paolo Pasolini on the set of Accattone</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini sul set di Accattone</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="video" id="2380416892001" wide="0">
@@ -1055,6 +1090,7 @@
         <caption xml:lang="en">Excerpt from Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="es">Fragmento de Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="fr">Extrait d'Accattone (Pier Paolo Pasolini, 1961)</caption>
+        <caption xml:lang="it">Da Accattone (Pier Paolo Pasolini, 1961)</caption>
         <rights>© SNC / SND</rights>
       </m>
       <trello>tBbON3r3</trello>
