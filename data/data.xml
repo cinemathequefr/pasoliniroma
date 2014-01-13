@@ -824,6 +824,12 @@
       <blockquote>On a miserable road, surrounded by shacks, old cottages, full of tattered little kids, under a furious sun, a sad, desolate bell tolled the knell.<br />Accattone advanced down the road pummeled by the sun.<br />He truly was an accattone [beggar], in a singlet with dusty trousers.<br />Around his neck, there was no longer the thick gold chain.<br />On his fingers, there was no longer a ring either.<br />On his wrist there was no longer a bracelet or a watch. Naked as a worm.<br />He walked down the empty, blinding road, under the bell tolling the knell.</blockquote>
       <cite>Excerpt from the script</cite>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>La scelta di girare <em>Accattone</em> al Pigneto non è casuale, infatti via dei Gordiani è a pochi isolati da via Montecuccoli. Qui, lontano dagli studi tradizionali di Cinecittà, pochi anni prima Roberto Rossellini aveva girato <em>Roma città aperta</em>, e in particolare la scena della morte di Pina (Anna Magnani), sulla quale Pasolini ha scritto una poesia dopo aver rivisto il film al <a href="#!/it/map/5">cinema “Nuovo”</a>, al suo arrivo a Roma. Il riferimento cinematografico e quello geografico si sovrappongono: soltanto una decina di metri separa l'ambientazione dei due film.</p>
+      <p>Oggi il Pigneto è molto cambiato: è diventato un quartiere alla moda, frequentato da giovani artisti e pittori.</p>
+      <blockquote>Su una strada miserabile, circondata da baracche, vecchie casette, piena di ragazzini stracciati, sotto un sole furioso, c'era una triste,<br />desolata campanella che suonava a morto.<br />Accattone avanzava per la strada tramortita dal sole.<br />Era proprio un accattone, in canottiera – senza maglietta – coi calzoni impolverati.<br />Nel collo, non c'era più la grossa catenella d'oro.<br />Alle dita non c'era più neanche un anello.<br />Al polso non c'era più né bracciale né orologio. Nudo come un vèrmine.<br />Camminava, per la strada, vuota, accecata, sotto la campanella che suonava a morto.</blockquote>
+      <cite>Dal soggetto di <em>Accattone</em></cite>
+      ]]></desc>
       <latLng>41.886129,12.554196</latLng>
       <date>1961</date>
       <pos>4838</pos>
@@ -833,13 +839,15 @@
         <caption xml:lang="en">View of via dei Gordiani</caption>
         <caption xml:lang="es">La via dei Gordiani</caption>
         <caption xml:lang="fr">La via dei Gordiani</caption>
+        <caption xml:lang="it">Via dei Gordiani</caption>
         <rights>© Carlo Riccardi / Archivio Riccardi</rights>
       </m>
       <m type="img" id="17-1" width="1600" height="1104">
         <caption xml:lang="fr">Pier Paolo Pasolini et Franco Citti pendant une pause, sur le tournage d'Accattone</caption>
         <caption xml:lang="es">Franco Citti y Pier Paolo Pasolini durante el rodaje de Accattone</caption>
         <caption xml:lang="ca">Franco Citti i Pier Paolo Pasolini durant el rodatge de Accattone</caption>
-        <caption xml:lang="en">Franco Citti and Pier Paolo Pasolini on the set of Accattone</caption>
+        <caption xml:lang="en">Franco Citti and Pier Paolo Pasolini during a recess, on the set of Accattone</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e Franco Citti durante una pausa, sul set di Accattone</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="img" id="17-3" width="1600" height="1070">
@@ -854,6 +862,7 @@
         <caption xml:lang="en">Excerpt from Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="es">Fragmento de Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="fr">Extrait d'Accattone (Pier Paolo Pasolini, 1961)</caption>
+        <caption xml:lang="it">Da Accattone (Pier Paolo Pasolini, 1961)</caption>
         <rights>© SNC / SND</rights>
       </m>
       <trello>iWfW5w7g</trello>
@@ -882,6 +891,12 @@
       <p>It was finally Alfredo Bini, a young, almost unknown producer, who took over the production and helped Pasolini out. The days of shooting could then go on more calmly.</p>
       <p>Up until the final scenes shot in Testaccio, where the film ends tragically. Anything but a coincidence: a working-class, utopian sector created by Ernesto Nathan, <a href="#!/en/map/15">the final abode of Gramsci</a>, and Elsa Morante's childhood neighbourhood, Testaccio is one of the emblematic quarters of Pasolini's Rome.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>La realizzazione del primo film di Pier Paolo Pasolini non è semplice e veloce come il regista sperava. Inizialmente <em>Accattone</em> doveva essere prodotto da Federico Fellini che, dopo il trionfo de <a href="#!/it/map/9"><em>La Dolce vita</em></a>, aspirava a diventare produttore. Dopo alcune collaborazioni a sceneggiature di successo, la prospettiva di lavorare di nuovo con l'amico affascina Pasolini. Ma il progetto fallisce: dopo aver visto i primi giornalieri, Fellini ritiene che il Pasolini poeta abbia sbagliato a voler diventare regista. La delusione di Pasolini è enorme, ma non offusca l'amicizia tra i due. Dopo il rifiuto di Fellini, Pasolini compie il suo primo viaggio in Africa per «curare lì la sua ferita narcisistica».</p>
+      <p>In seguito Fellini ammetterà il suo errore di giudizio e incoraggerà l'amico facendogli visita sul set. Inoltre lo sosterrà con passione nella fase movimentata dell'<a href="#!/it/map/60">uscita del film</a>.</p>
+      <p>Alla fine sarà Alfredo Bini, un giovane produttore allora praticamente sconosciuto, a rilevare la produzione venendo in aiuto a Pasolini. Le riprese possono continuare più serenamente.</p>
+      <p>Le scene finali, in cui la vicenda si conclude in tragedia, sono girate a Testaccio. Non è un caso: area popolare e utopica voluta da Ernesto Nathan, <a href="#!/it/map/15">ultima dimora di Gramsci</a>, quartiere dell'infanzia di Elsa Morante, Testaccio è uno dei quartieri più emblematici della Roma pasoliniana.</p>
+      ]]></desc>
       <latLng>41.875373, 12.470834</latLng>
       <date>1961</date>
       <pos>4838</pos>
@@ -891,6 +906,7 @@
         <caption xml:lang="es">Visita de Federico Fellini durante el rodaje de Accattone</caption>
         <caption xml:lang="ca">Visita de Federico Fellini durant el rodatge d'Accattone</caption>
         <caption xml:lang="en">Federico Fellini on the set of Accattone</caption>
+        <caption xml:lang="it">Federico Fellini visita il set di Accattone</caption>
         <rights>© Tazio Secchiaroli / David Secchiaroli</rights>
       </m>
       <m type="img" id="19-2" width="1642" height="1200">
@@ -898,6 +914,7 @@
         <caption xml:lang="es">Visita de Federico Fellini durante el rodaje de Accattone</caption>
         <caption xml:lang="ca">Visita de Federico Fellini durant el rodatge d'Accattone</caption>
         <caption xml:lang="en">Federico Fellini on the set of Accattone</caption>
+        <caption xml:lang="it">Federico Fellini visita il set di Accattone</caption>
         <rights>© Tazio Secchiaroli / David Secchiaroli</rights>
       </m>
       <m type="video" id="2380420008001" wide="0">
@@ -905,6 +922,7 @@
         <caption xml:lang="en">Excerpt from Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="es">Fragmento de Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="fr">Extrait d'Accattone (Pier Paolo Pasolini, 1961)</caption>
+        <caption xml:lang="it">Da Accattone (Pier Paolo Pasolini, 1961)</caption>
         <rights>© SNC / SND</rights>
       </m>
       <trello>FwUxnWJv</trello>
@@ -931,6 +949,11 @@
       <p>Two years later, he made this same via Portuense the setting for scenes of prostitution in <em>Accattone</em>. In times past, one of the most majestic roads of Ancient Rome, with Pasolini, via Portuense became the symbol of this constantly changing ring-road Rome where ragazzi, prostitutes and workers mingled.</p> 
       <p>In the field, petrol refineries appear in the background, along with buildings under construction and cranes, those of the vast renovation worksite of the Roman suburbs, begun for the 1960 Olympic Games.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Nel 1959, Pier Paolo Pasolini evoca per la prima volta via Portuense nel romanzo <em>Una vita violenta</em>, nell'episodio della corsa selvaggia di Tommaso e dei suoi amici a bordo di un'auto rubata.</p>
+      <p>Due anni dopo, la stessa via Portuense diventa lo sfondo delle scene di prostituzione di <em>Accattone</em>. Una delle strade più nobili della Roma antica, in Pasolini diventa il simbolo della periferia romana in continuo mutamento, in cui si mescolano «ragazzi di vita», prostitute e operai.</p>
+      <p>Sullo sfondo delle inquadrature si vedono raffinerie di petrolio, edifici in costruzione e gru, quelle del vasto progetto di ristrutturazione delle periferie avviato a Roma per le Olimpiadi del 1960.</p>
+      ]]></desc>
       <latLng>41.866988,12.464179</latLng>
       <pos>4838</pos>
       <cat>4</cat>
@@ -939,6 +962,7 @@
         <caption xml:lang="es">Bernardo Bertolucci y Pier Paolo Pasolini durante el rodaje de Accattone</caption>
         <caption xml:lang="ca">Bernardo Bertolucci i Pier Paolo Pasolini durant el rodatge de Accattone</caption>
         <caption xml:lang="en">Bernardo Bertolucci and Pier Paolo Pasolini on the set of Accattone</caption>
+        <caption xml:lang="it">Bernardo Bertolucci e Pier Paolo Pasolini sul set di Accattone</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <trello>BsNk0pOZ</trello>
@@ -966,6 +990,10 @@
       <p>Shot in the inner suburbs of Rome, Pasolini's first film makes a few forays into the city centre. Already glimpsed seven years earlier in Federico Fellini's <em>The White Sheik</em> (the scene of Wanda's abortive suicide attempt), the banks of the Tiber and the Sant'Angelo bridge again serve as a film location. And offer <em>Accattone</em> its first shots.</p> 
       <p>It is from this bridge, which leads to the Castel Sant'Angelo, the 'big Vatican beast', that the hero decides to dive: a senseless act of bravura, anything but gratuitous. As Franco Citti recalls it in <em>A futura Memoria</em>, Accattone's dive is also a means for the Roman proletariat to remind the bourgeoisie living in the city centre of its existence. If Accattone came to die in his suburb, no one would ever know anything. But there, right in the heart of Rome, he exposes his miserable existence and free will in full view of everyone.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Pier Paolo Pasolini ambienta il suo primo film nella periferia di Roma ma fa anche alcune incursioni in centro. Già intravisti sette anni prima in <em>Lo Sceicco bianco</em> di Federico Fellini (la scena del tentato suicidio di Wanda), gli argini del Tevere e ponte Sant'Angelo ricompaiono sulla pellicola offrendo in <em>Accattone</em> i loro splendidi primi piani.</p>
+      <p>L'eroe decide di tuffarsi dal ponte di fronte a Castel Sant'Angelo. Un atto di coraggio insensato, ma tutt'altro che gratuito. Franco Citti nel documentario <em>A futura memoria</em> lo spiega: il tuffo di Accattone è anche un modo simbolico del proletariato romano di ricordare la sua esistenza alla borghesia del centro città. Se Accattone morisse nella sua periferia nessuno ne saprebbe mai niente, invece lì, nel cuore di Roma, espone la sua miserabile esistenza e il suo libero arbitrio sotto gli occhi di tutti.</p>
+      ]]></desc>
       <latLng>41.901788, 12.466462</latLng>
       <pos>4838</pos>
       <cat>4</cat>
@@ -974,6 +1002,7 @@
         <caption xml:lang="en">On the set of Accattone</caption>
         <caption xml:lang="es">Foto de plató de Accattone</caption>
         <caption xml:lang="fr">Photo de plateau d'Accattone</caption>
+        <caption xml:lang="it">Foto dal set di Accattone</caption>
         <rights>© Cicconi</rights>
       </m>
       <m type="video" id="2381118286001" wide="0">
@@ -981,6 +1010,7 @@
         <caption xml:lang="en">Excerpt from Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="es">Fragmento de Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="fr">Extrait d'Accattone (Pier Paolo Pasolini, 1961)</caption>
+        <caption xml:lang="it">Da Accattone (Pier Paolo Pasolini, 1961)</caption>
         <rights>© SNC / SND</rights>
       </m>
       <m type="video" id="2380420004001" wide="0">
@@ -988,6 +1018,7 @@
         <caption xml:lang="es">Fragmento del documental A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <caption xml:lang="ca">Fragment del documental A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <caption xml:lang="en">Excerpt from A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
+        <caption xml:lang="it">Dal documentario A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <rights>© 1986 Antea Film srl / 23 Giugno srl © 2003 Ripley's Film srl - All rights reserved</rights>
       </m>
       <trello>x38yMZYH</trello>
@@ -1014,6 +1045,11 @@
       <cite><em>Mamma Roma</em></cite>
       <p>It is the INA-Casa del Tuscolano quarter that Mamma Roma is aiming for to rise socially. This neighbourhood, a manifesto of Italian urban rationalism, was constructed in 1961 thanks to the Fanfani law in favour of social housing. But these modern new residential complexes brought no solution to the issues of social origin, and moving into this new quarter would not spare Ettore from a tragic end. <em>'Certain urbanistic and social choices are fraught with consequence for the most modest people, and material progress brought by modernity is a delusion. Misfortune, as Pasolini explains in his film, does not necessarily come from the fact that the Capital impoverishes, but from the fact that material well-being is accompanied by a loss of humanity.'</em> (Eugenio Renzi).</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>È bella la nostra casa nuova, eh? Che ti diceva tua madre?</blockquote>
+      <cite><em>Mamma Roma</em></cite>
+      <p>Per riscattarsi ed elevare il suo status sociale, Mamma Roma punta al quartiere INA-casa, al Tuscolano. Quest'area, manifesto del razionalismo urbano italiano, era stata creata nel 1961 grazie alla legge Fanfani per l'edilizia sociale. Ma i nuovi complessi moderni non avevano per nulla risolto i problemi sociali e il trasloco nel nuovo quartiere non impedirà a Ettore di finire tragicamente. <em>«Alcune scelte urbanistiche e sociali hanno conseguenze pesanti per i più poveri, e il progresso materiale portato dalla modernità è solo un'illusione. La sventura, spiega Pasolini nel suo film, non deriva necessariamente dal fatto che il Capitale impoverisce, ma dal fatto che il benessere materiale si accompagna a una perdita di umanità.»</em> (Eugenio Renzi)</p>
+      ]]></desc>
       <latLng>41.857861,12.551314</latLng>
       <pos>5203</pos>
       <cat>5</cat>
@@ -1022,6 +1058,7 @@
         <caption xml:lang="es">Fragmento de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="ca">Fragment de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="en">Excerpt from Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
+        <caption xml:lang="it">Da Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <rights>© Mediaset</rights>
       </m>
       <trello>kBTK9evY</trello>
@@ -1048,6 +1085,11 @@
       <cite><em>Mamma Roma</em></cite>
       <p>With his second film (but such was also the case with <a href="#!/en/map/16"><em>Accattone</em></a>), the filmmaker firmly differentiated himself from the naturalist heritage of his masters, <a href="#!/en/map/5">Roberto Rossellini</a> and Vittorio De Sica, reckoning that their neo-realistic style corresponded to a world view that was totally a thing of the past by the early 1960s. He took the radical opposite course and endeavoured to breath grandeur and lyricism into these precarious, cobbled together urban spaces, despised by architects and city planners.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>Eccola laggiù casa nostra, la vedi? Quella finestra lassù, dove batte il sole. Dove ci stanno quelle mutande stese! Lassù all'ultimo piano. Oh, ma guarda che qua ci stiamo solo un altro po' di giorni eh! Poi vedrai in che casa ti porta tua madre... Vedrai quanto è bella... Proprio una casa di gente perbene, di signori. Tutto un quartiere di un altro rango.</blockquote>
+      <cite><em>Mamma Roma</em></cite>
+      <p>Con il suo secondo film (ma anche con <a href="#!/it/map/16"><em>Accattone</em></a>), il regista prende decisamente le distanze dall'eredità naturalista dei suoi maestri <a href="#!/it/map/5">Roberto Rossellini</a> e Vittorio De Sica, poiché ritiene che il loro stile neorealista corrisponda a una visione del mondo che nei primi anni sessanta è ormai completamente superata. Pasolini assume una posizione radicalmente opposta e vuole infondere grandeur e poesia in queste aree urbane precarie, improvvisate e disprezzate da architetti e urbanisti.</p>
+      ]]></desc>
       <latLng>41.900578,12.534721</latLng>
       <date>1962</date>
       <pos>5203</pos>
@@ -1057,6 +1099,7 @@
         <caption xml:lang="es">Ettore Garofolo, Anna Magnani y Pier Paolo Pasolini durante el rodaje de Mamma Roma</caption>
         <caption xml:lang="ca">Ettore Garofolo, Anna Magnani i Pier Paolo Pasolini durant el rodatge de Mamma Roma</caption>
         <caption xml:lang="en">Ettore Garofolo, Anna Magnani and Pier Paolo Pasolini on the set of Mamma Roma</caption>
+        <caption xml:lang="it">Ettore Garofolo, Anna Magnani e Pier Paolo Pasolini sul set di Mamma Roma</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="video" id="2324676534001" wide="1">
@@ -1064,6 +1107,7 @@
         <caption xml:lang="es">Fragmento de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="ca">Fragment de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="en">Excerpt from Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
+        <caption xml:lang="it">Da Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <rights>© Mediaset</rights>
       </m>
       <trello>fSElUnPG</trello>
