@@ -1117,7 +1117,7 @@
       <name xml:lang="en">Cemetery of Verano, Tiburtino</name>
       <name xml:lang="es">Cementerio de Verano, barrio del Tiburtino</name>
       <name xml:lang="fr">Cimetière de Verano, quartier du Tiburtino</name>
-      <name xml:lang="it">Cimetero di Verano, Tiburtino</name>
+      <name xml:lang="it">Cimitero del Verano, quartiere Tiburtino</name>
       <desc xml:lang="fr"><![CDATA[
       <blockquote>J'ai très bien compris que tu fonctionnes avec des acteurs improvisés que tu façonnes comme de la matière à l'état brut. Malgré toute leur intelligence instinctive, ce sont des robots entre tes mains. Eh bien moi, je ne suis pas un robot, j'ai eu ton scénario entre les mains pendant trois mois, je l'ai lu au moins quatre fois, j'en ai analysé le moindre état d'âme, du plus important au plus subtil.</blockquote>
       <cite>Anna Magnani, journal au magnétophone de Pier Paolo Pasolini, 4 mai 1962</cite>
@@ -1138,6 +1138,11 @@
       <cite>Anna Magnani in Pier Paolo Pasolini's tape-recorded diary, 4 May 1962</cite>
       <p>To interpret the title role in Mamma Roma, Pasolini chose Anna Magnani, whose archetypical image of the Roman woman of the people was constituted with Roberto Rossellini's <a href="#!/en/map/5"><em>Rome: Open City</em></a>. The collaboration between the actress and director did not always go smoothly: used to shooting with non-professionals, Pasolini had trouble with the professional nature of La Magnani's acting and her obsession with mimed 'naturalness'. He also deemed she had become too 'lower-middle class' to interpret this role of Mamma Roma as he wished.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>Io ho capito benissimo che tu funzioni con degli attori che prendi e plasmi una materia grezza. Essi, pur con la loro intelligenza istintiva, sono dei robot nelle tue mani. Ora, io non sono un robot, io ho avuto la tua sceneggiatura in mano per tre mesi, l'ho letta almeno quattro volte, ne ho analizzato il più piccolo stato d'animo, il più importante, il più sottile. Ora, da attrice, (no, io detesto essere chiamata così!), da animale istintivo quale sono!, mi sono subito messa dentro a questo tuo personaggio.</blockquote>
+      <cite>Anna Magnani, diario al registratore di Pier Paolo Pasolini, 4 maggio 1962</cite>
+      <p>Per il ruolo principale di <em>Mamma Roma</em> Pasolini sceglie Anna Magnani, la cui immagine archetipica di popolana romana era nata con <a href="#!/it/map/5"><em>Roma città aperta</em></a> di Roberto Rossellini. La collaborazione tra l'attrice e il regista non sarà priva di scontri: abituato a girare con interpreti non professionisti, Pasolini ha qualche problema con lo stile professionale della Magnani e con la sua ossessione per una recitazione «naturale». Inoltre ritiene che sia diventata troppo «piccolo borghese» per interpretare come lui voleva il ruolo di <em>Mamma Roma</em>.</p>
+      ]]></desc>
       <address>Via Del verano, 39</address>
       <latLng>41.901718,12.519929</latLng>
       <pos>5203</pos>
@@ -1147,6 +1152,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini y Anna Magnani durante el rodaje de Mamma Roma</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini i Anna Magnani durant el rodatge de Mamma Roma</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Anna Magnani on the set of Mamma Roma</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e Anna Magnani sul set di Mamma Roma</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="img" id="26-2" width="1200" height="1202">
@@ -1154,6 +1160,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini y Anna Magnani durante el rodaje de Mamma Roma</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini i Anna Magnani durant el rodatge de Mamma Roma</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Anna Magnani on the set of Mamma Roma</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e Anna Magnani sul set di Mamma Roma</caption>
         <rights>© Archivio storico Istituto Luce Cinecittà srl</rights>
       </m>
       <m type="img" id="26-3" width="1200" height="1252">
@@ -1161,6 +1168,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini y Anna Magnani durante el rodaje de Mamma Roma</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini i Anna Magnani durant el rodatge de Mamma Roma</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Anna Magnani on the set of Mamma Roma</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e Anna Magnani sul set di Mamma Roma</caption>
         <rights>© Archivio storico Istituto Luce Cinecittà srl</rights>
       </m>
       <m type="img" id="26-4" width="1200" height="1200">
@@ -1168,6 +1176,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini y Anna Magnani durante el rodaje de Mamma Roma</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini i Anna Magnani durant el rodatge de Mamma Roma</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Anna Magnani on the set of Mamma Roma</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e Anna Magnani sul set di Mamma Roma</caption>
         <rights>© Archivio storico Istituto Luce Cinecittà srl</rights>
       </m>
       <m type="video" id="2381358461001" wide="0">
@@ -1175,6 +1184,7 @@
         <caption xml:lang="es">Fragmento del documental A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <caption xml:lang="ca">Fragment del documental A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <caption xml:lang="en">Excerpt from A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
+        <caption xml:lang="it">Dal documentario A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <rights>© 1986 Antea Film srl / 23 Giugno srl © 2003 Ripley's Film srl - All rights reserved</rights>
       </m>
       <trello>A7UFifoJ</trello>
@@ -1201,6 +1211,11 @@
       <p>When, in Mamma Roma, Pasolini filmed Cecafumo, which adjoins the magnificent Park of Aqueducts and its archaeological ruins, it was not by chance – there is a discourse. Pasolini contrasts the Rome that he senses arriving with repulsion, that of the lower-middle-class transformation of the early Sixties, with Ancient Rome. He opposes the great Rome, that of a sublimated past, with the 20th-century Rome of working-class estates, built in series to pack in workers. It is a powerful contrast on a purely stylistic level, as well as in symbolic and ideological dimensions.</p>
       <p>This antagonism will be found again in <a href="#!/en/map/34">La Ricotta</a>, also partially shot in Cecafumo.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Pier Paolo Pasolini non è mai vissuto a Cecafumo ma conosce molto bene questa zona, come del resto altri quartieri di Roma. Da vero antropologo, analizza ed esplora a fondo le periferie in cui ambienterà i suoi film, le poesie o i romanzi. Le sue sono sempre scelte ponderate, volute, coerenti. Nulla è lasciato all'approssimazione.</p>
+      <p>Quando in <em>Mamma Roma</em> Pasolini riprende Cecafumo, un'area che confina con il magnifico Parco degli acquedotti e i suoi resti archeologici, non lo fa per caso. Segue un filo logico. Pasolini confronta la Roma che con orrore sente farsi sempre più vicina, quella della trasformazione piccolo-borghese dei primi anni sessanta, con la Roma antica. Contrappone la grande Roma dal passato idealizzato a quella dei quartieri popolari costruiti in serie nel Novecento per ammassare gli operai. È un'opposizione forte, condotta su un piano puramente stilistico, ma anche di grande portata simbolica e ideologica.</p>
+      <p>Questa stessa opposizione la ritroveremo in <a href="#!/it/map/34"><em>La Ricotta</em></a>, anch'esso in parte girato nel quartiere di Cecafumo.</p>
+      ]]></desc>
       <latLng>41.855362,12.536807</latLng>
       <pos>5203</pos>
       <cat>5</cat>
@@ -1209,6 +1224,7 @@
         <caption xml:lang="es">Ettore Garofolo, Anna Magnani y Pier Paolo Pasolini durante el rodaje de Mamma Roma</caption>
         <caption xml:lang="ca">Ettore Garofolo, Anna Magnani i Pier Paolo Pasolini durant el rodatge de Mamma Roma</caption>
         <caption xml:lang="en">Ettore Garofolo, Anna Magnani and Pier Paolo Pasolini on the set Mamma Roma</caption>
+        <caption xml:lang="it">Ettore Garofolo, Anna Magnani e Pier Paolo Pasolini sul set di Mamma Roma</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="img" id="28-2" width="1163" height="1200">
@@ -1216,6 +1232,7 @@
         <caption xml:lang="es">Ettore Garofolo y Anna Magnani durante el rodaje de Mamma Roma</caption>
         <caption xml:lang="ca">Ettore Garofolo i Anna Magnani durant el rodatge de Mamma Roma</caption>
         <caption xml:lang="en">Ettore Garofolo i Anna Magnani on the set of Mamma Roma</caption>
+        <caption xml:lang="it">Ettore Garofolo e Anna Magnani sul set di Mamma Roma</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="img" id="28-3" width="870" height="1144">
@@ -1223,19 +1240,21 @@
         <caption xml:lang="es">Fragmento del storyboard de Mamma Roma diseñado por Pier Paolo Pasolini</caption>
         <caption xml:lang="ca">Fragment del storyboard de Mamma Roma dissenyat per Pier Paolo Pasolini</caption>
         <caption xml:lang="en">Excerpt from the storyboard of Mamma Roma, drawn by Pier Paolo Pasolini</caption>
+        <caption xml:lang="it">Dallo storyboard di Mamma Roma, disegni di Pier Paolo Pasolini</caption>
       </m>
       <m type="video" id="2385634862001" wide="1">
         <caption xml:lang="fr">Extrait de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="es">Fragmento de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="ca">Fragment de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="en">Excerpt from Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
+        <caption xml:lang="it">Da Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <rights>© Mediaset</rights>
       </m>
       <trello>GfWxXOB3</trello>
     </place>
     <place id="29">
-      <name xml:lang="it">Il Palazzaccio, Piazza Cavour</name>
-      <name xml:lang="fr">Le Palais de Justice, Piazza Cavour</name>
+      <name xml:lang="it">Il Palazzo di Giustizia, piazza Cavour</name>
+      <name xml:lang="fr">Le Palais de Justice, piazza Cavour</name>
       <name xml:lang="en">The Palace of Justice, Piazza Cavour</name>
       <name xml:lang="es">Il Palazzaccio, Piazza Cavour</name>
       <name xml:lang="ca">Il Palazzaccio, Piazza Cavour: judici de La Ricotta</name>
@@ -1264,6 +1283,12 @@
       <p>The trial took a turn that was more than absurd: hoping to give more force to his summing-up, the counsel for the prosecution had brought an editing console into the courtroom to analyze the incriminating sequences of the film, the object of the offence. First of all, the magistrate managed to have the film confiscated, then to have the segment made by Pasolini deleted. RoGoPaG, a film made up of sketches – its title is formed by the first syllables of its directors' names: Rossellini, Godard, Pasolini and Gregoretti –, was thus amputated of its fundamental episode, lasting nearly a half-hour. Pasolini also received a four-month suspended sentence on 7 March 1963. Finally, the filmmaker succeeded in explaining himself and was acquitted on 6 May 1964 by the court of appeals. In the end, the <a href="#!/en/map/34"><em>La Ricotta</em></a> trial went on for nearly six years, in several proceedings and on several grounds, and would finally conclude on 23 February 1968 with the acquittal of Pasolini, who even obtained damages.</p>
       <p>For Pasolini, this trial was truly decisive – to the point that he decided to shoot <em>The Gospel According to Saint Matthew</em> to show that, even as an atheist, he respected religion as ideology of the people. For in Italy, in regions like Friuli, or in working-class Rome, religion was close to a philosophy of working-class life. And he would go so far as to radically modify his style, reckoning that one cannot film the story of the Gospel as one reproduces the Rome of <a href="#!/en/map/16"><em>Accattone</em></a>. In this sense, <em>The Gospel</em> is a different film from Accattone where the point of view is frontal, almost mediaeval, in its aesthetic representation of the world. <em>The Gospel</em> is thus more dynamic, shot with a sort of freedom in the camera movements that was absent in his earliest films.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>L'accusa era quella di vilipendio alla religione. Molto più giusto sarebbe stato incolpare il regista di aver vilipeso i valori della piccola e media borghesia italiana.</blockquote>
+      <cite>Alberto Moravia</cite>
+      <p>Il processo contro Pasolini per <a href="#!/it/map/34"><em>La Ricotta</em></a> prende rapidamente una piega più che assurda: volendo dare più forza alla sua requisitoria, il pubblico ministero fa portare in aula una moviola per poter analizzare una ad una le inquadrature incriminate, il corpo del reato. In una prima fase, il magistrato riesce comunque a sequestrare la pellicola, poi a far tagliare il segmento realizzato da Pasolini. <em>Ro.Go.Pa.G.</em>, film in quattro episodi il cui titolo è formato dalle prime sillabe dei registi Rossellini, Godard, Pasolini e Gregoretti, viene così amputato del suo pezzo fondamentale, della durata di circa mezz'ora. Il 7 marzo 1963, al termine del processo di primo grado, Pasolini viene condannato a quattro mesi con la condizionale. In seguito il regista riuscirà a far valere le sue ragioni e il 6 maggio 1964 sarà assolto dalla Corte d'appello. Il processo a <em>La Ricotta</em>, in varie istanze e con diverse motivazioni, durerà in tutto quasi sei anni e terminerà il 23 febbraio 1968 con il proscioglimento di Pasolini, che otterrà anche il pagamento dei danni e degli interessi.</p>
+      <p>Questo processo è un evento fondamentale nella vita di Pasolini, tanto che il poeta decide di girare <em>Il Vangelo secondo Matteo</em> per dimostrare che, pur essendo ateo, rispetta la religione intesa come ideologia del popolo. In Italia infatti – soprattutto in regioni come il Friuli o nella Roma più popolare – la religione è molto simile a una filosofia di vita. Inoltre, poiché pensa che la storia del <em>Vangelo secondo Matteo</em> non si possa raccontare allo stesso modo della Roma di <a href="#!/it/map/16"><em>Accattone</em></a>, Pasolini modifica radicalmente il suo stile. Se Accattone ha un taglio frontale ed quasi medievale nella rappresentazione estetica del mondo, <em>Il Vangelo secondo Matteo</em> è invece più dinamico, girato con una sorta di nuova scioltezza nei movimenti di camera.</p>
+      ]]></desc>
       <latLng>41.905743,12.469485</latLng>
       <date>4 octobre 1962</date>
       <pos>5389</pos>
@@ -1273,6 +1298,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini</caption>
         <caption xml:lang="en">Pier Paolo Pasolini</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini va al Palazzo di Giustizia per il processo a La Ricotta</caption>
         <rights>© Archivio Pier Paolo Pasolini</rights>
       </m>
       <m type="img" id="29-2" width="1600" height="1085">
@@ -1280,6 +1306,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini</caption>
         <caption xml:lang="en">Pier Paolo Pasolini</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini durante un'udienza al processo a La Ricotta</caption>
         <rights>© Carlo Riccardi / Archivio Riccardi</rights>
       </m>
       <m type="img" id="29-3" width="1600" height="1193">
@@ -1287,6 +1314,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini</caption>
         <caption xml:lang="en">Pier Paolo Pasolini</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini con, tra gli altri, Alberto Moravia durante il processo a La Ricotta</caption>
         <rights>© DUfoto / Foto Scala / Cineteca di Bologna</rights>
       </m>
       <m type="img" id="29-4" width="1600" height="1159">
@@ -1294,6 +1322,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini</caption>
         <caption xml:lang="en">Pier Paolo Pasolini</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini</caption>
         <rights>© Archivio Pier Paolo Pasolini</rights>
       </m>
       <m type="img" id="29-5" width="1587" height="1200">
@@ -1301,6 +1330,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini</caption>
         <caption xml:lang="en">Pier Paolo Pasolini</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini</caption>
         <rights>© Archivio Pier Paolo Pasolini</rights>
       </m>
       <m type="img" id="29-6" width="1600" height="1059">
@@ -1308,6 +1338,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini</caption>
         <caption xml:lang="en">Pier Paolo Pasolini</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini</caption>
         <rights>© Archivi Farabola</rights>
       </m>
       <trello>L0lrIAiD</trello>
@@ -1317,7 +1348,7 @@
       <name xml:lang="es">Acqua Santa</name>
       <name xml:lang="es">Parco de la Acqua Santa</name>
       <name xml:lang="fr">Parc de l'Acqua Santa</name>
-      <name xml:lang="it">Pratoni dell'Acqua Santa</name>
+      <name xml:lang="it">Parco dell'Acqua Santa</name>
       <desc xml:lang="fr"><![CDATA[
       <p><em>La Ricotta</em> est tournée dans les mêmes décors que <a href="#!/fr/map/28">la seconde partie de <em>Mamma Roma</em></a>&nbsp;: les quartiers de Cecafumo, de Cinecittà, et plus particulièrement la zone dite de l'Acqua Santa, avec ses ruines antiques.</p>
       <p>C'est sur ce tournage que Pier Paolo Pasolini rencontre un jeune garçon des <em>borgate</em>, Ninetto Davoli, apprenti menuisier, qui sera le grand amour de sa vie, et lui apportera beaucoup de joie et de gaieté. Dès lors, Ninetto l'accompagne régulièrement dans ses voyages et dans ses films, où il joue des rôles d'ange innocent aux cheveux bouclés.</p>
@@ -1338,6 +1369,11 @@
       <p>It was on this shoot that Pier Paolo Pasolini met a young boy from the <em>borgate</em>, Ninetto Davoli, an apprentice carpenter, who would be the great love of his life and bring him much joy and gaiety. From that time on, Ninetto accompanied him regularly in his travels and films, in which he played roles of an innocent, curly-haired angel.</p>
       <p>The film caused a huge scandal. At the premiere of <em>RoGoPaG</em> on 1st March 1963, the screening was interrupted by a carabineer mandated by the deputy public prosecutor of the Republic of Rome. The motive invoked: the sketch La Ricotta outraged the state religion in certain scenes that showed the Passion of Christ in a mocking way. Pasolini was <a href="#!/en/map/29">taken to court</a> and, even though backed up by some important lawyers, chose to defend himself. In an atmosphere of great political tension and a changing cultural and religious context, Pasolini's indictment aroused debates, articles, a trend of opinion against censorship and myriad polemics that went far beyond the director's personality. Yet the Vatican's censorship commission did not condemn the film. Pasolini was anxious to defend himself against the accusations levelled at his film in a text argued point by point in which he declared that 'the story of the Passion was the greatest one [he] knew'. Moreover, some Catholic dailies even published favourable reviews of the film…</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p><em>La Ricotta</em> e <a href="#!/it/map/28">la seconda parte di <em>Mamma Roma</em></a> sono girati negli stessi luoghi: i quartieri Cecafumo, Cinecittà e soprattutto la zona detta dell'Acqua Santa, con le antiche rovine romane.</p>
+      <p>È qui che Pier Paolo Pasolini incontra un giovane ragazzo di borgata, Ninetto Davoli, apprendista falegname, che sarà il grande amore della sua vita e saprà accendere in lui gioia e buon umore. Da allora Ninetto sarà sempre al suo fianco nei viaggi e nei film, in cui avrà il ruolo di un angelo innocente dai capelli ricciuti.</p>
+      <p>Il film suscita un grande scandalo. Alla prima di <em>Ro.Go.Pa.G.</em>, il 1° marzo 1963, la proiezione viene interrotta da un ufficiale dei carabinieri inviato dal sostituto procuratore della Repubblica di Roma. Motivo: l'episodio de <em>La Ricotta</em> vilipende la religione di stato con alcune scene che presentano la Passione di Cristo in una luce derisoria. Viene quindi istruito <a href="#!/it/map/29">un processo</a> contro Pasolini, il quale, pur avendo dalla sua parte vari avvocati importanti, decide di difendersi da sé. In un clima di grande tensione politica, in un contesto culturale e religioso in pieno mutamento, l'accusa contro Pasolini suscita dibattiti, articoli, movimenti d'opinione contro la censura e molte polemiche che vanno ben oltre le questioni sulla personalità del regista. Tuttavia la commissione di censura del Vaticano non condanna il film. Pasolini ha voluto difendersi dalle accuse in un testo argomentato punto per punto, in cui dichiara: <em>«la storia della Passione è la più grande che io conosca»</em>.</p>
+      ]]></desc>
       <latLng>41.854092,12.532825</latLng>
       <pos>5388</pos>
       <cat>7</cat>
@@ -1346,6 +1382,7 @@
         <caption xml:lang="es">Orson Welles durante el rodaje de La Ricotta</caption>
         <caption xml:lang="ca">Orson Welles durant el rodatge de La Ricotta</caption>
         <caption xml:lang="en">Orson Welles on the set of La Ricotta</caption>
+        <caption xml:lang="it">Orson Welles sul set di La Ricotta</caption>
         <rights>© Mario Dondero, Elisa Dondero</rights>
       </m>
       <m type="img" id="34-2" width="1584" height="1200">
@@ -1353,12 +1390,14 @@
         <caption xml:lang="es">Elsa Morante, Bernardo Bertolucci y Pier Paolo Pasolini durante el rodaje de La Ricotta</caption>
         <caption xml:lang="ca">Elsa Morante, Bernardo Bertolucci i Pier Paolo Pasolini durant el rodatge de La Ricotta</caption>
         <caption xml:lang="en">Elsa Morante, Bernardo Bertolucci and Pier Paolo Pasolini on the set of La Ricotta</caption>
+        <caption xml:lang="it">Elsa Morante, Bernardo Bertolucci e Pier Paolo Pasolini sul set di La Ricotta</caption>
       </m>
       <m type="img" id="34-4" width="1600" height="1067">
         <caption xml:lang="fr">Pier Paolo Pasolini et Orson Welles sur le plateau de La Ricotta</caption>
         <caption xml:lang="es">Pier Paolo Pasoliniy y Orson Welles durante el rodaje de La Ricotta</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini i Orson Welles durant el rodatge de La Ricotta</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Orson Welles on the set of La Ricotta</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e Orson Welles sul set di La Ricotta</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="img" id="34-3" width="812" height="1200">
@@ -1366,6 +1405,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini y Mario Cipriani durante el rodaje de La Ricotta</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini i Mario Cipriani durant el rodatge de La Ricotta</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Mario Cipriani on the set of La Ricotta</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e Mario Cipriani sul set di La Ricotta</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="img" id="34-5" width="824" height="1200">
@@ -1373,6 +1413,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini durante el rodaje de La Ricotta</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini durant el rodatge de La Ricotta</caption>
         <caption xml:lang="en">Pier Paolo Pasolini on the set of La Ricotta</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini sul set di La Ricotta</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="video" id="2320237572001" wide="1">
@@ -1380,12 +1421,14 @@
         <caption xml:lang="es">Fragmento de La Ricotta</caption>
         <caption xml:lang="ca">Fragment de La Ricotta</caption>
         <caption xml:lang="en">Excerpt from La Ricotta</caption>
+        <caption xml:lang="it">Da La Ricotta</caption>
       </m>
       <m type="video" id="2381452419001" wide="0">
         <caption xml:lang="ca">Fragment de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <caption xml:lang="en">Excerpt from Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <caption xml:lang="es">Fragmento de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <caption xml:lang="fr">Extrait de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
+        <caption xml:lang="it">Da Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <rights>© INA</rights>
       </m>
     </place>
