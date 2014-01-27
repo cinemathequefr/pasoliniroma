@@ -21,7 +21,10 @@ foreach ($nodes as $node) {
 	foreach ($langs as $lang) {
 		$xml = $dom->transformNodeToDoc("place.xsl", array("id" => $id, "lang" => $lang))->saveXML();
 		$xml = str_replace(array("\n", "\r", "\t"), '', $xml);
-		$xml = trim(str_replace('"', "'", $xml));
+
+		// 2014-01-27 : Commented out. What whas this for? Unwanted effects on the content.
+		//$xml = trim(str_replace('"', "'", $xml));
+
 		$simpleXml = simplexml_load_string($xml);
 		$simpleXml->addChild("lang", $lang);
 
