@@ -755,7 +755,7 @@
       <cite>Pier Paolo Pasolini on the shooting of <em>Accattone</em> in <em>Il Giorno</em>, 16 October 1960</cite>
       ]]></desc>
       <desc xml:lang="it"><![CDATA[
-      <p>Il 1960 è l'anno de <a href="#!/it/map/9">La Dolce vita</a> di Federico Fellini e delle Olimpiadi di Roma...</p>
+      <p>Il 1960 è l'anno de <a href="#!/it/map/9"><em>La Dolce vita</em></a> di Federico Fellini e delle Olimpiadi di Roma...</p>
       <p>È durante questa estate particolare che Pier Paolo Pasolini concepisce l'ambientazione e il soggetto di <em>Accattone</em>, la storia di un emarginato, un miserabile, dal comportamento istintivo e quasi animale. Mentre l'Italia sta vivendo un boom economico senza precedenti, <em>Accattone</em> si concentra su un'altra Roma, povera, emarginata, esclusa dai canali ufficiali. È un film sulla cultura sottoproletaria che sopravvive nonostante i cambiamenti sociali e urbani di questo inizio di decennio.</p>
       <p>Per evocare questa disparità sociale, Pasolini decide di girare il suo primo film nella «semi-periferia» di Roma, nel quartiere del Pigneto. Dalle riprese la zona appare desolata e triste – mentre paradossalmente si tratta di un quartiere abbastanza centrale, infatti via Fanfulla da Lodi, set principale del film, si trova vicino a Porta Maggiore e alla <a href="#!/it/map/50">Stazione Termini</a>. Scegliendo di proposito questo quartiere povero, Pasolini parla anche indirettamente del terzo mondo, che ha avuto l'opportunità di scoprire nel corso del suo primo viaggio in Africa e in India con Alberto Moravia, compiuto poco prima delle riprese di <em>Accattone</em>.</p>
       <blockquote>Erano giorni stupendi, in cui l'estate ardeva ancora purissima, appena svuotata un po' dentro, dalla sua furia. Via Fanfulla da Lodi, in mezzo al Pigneto, con le casupole basse, i muretti screpolati, era di una granulosa grandiosità, nella sua estrema piccolezza; una povera, umile, sconosciuta stradetta, perduta sotto il sole, in una Roma che non era Roma. L'abbiamo riempita: una dozzina di attori, l'operatore, i macchinisti, i fonici. Ma poiché non c'erano i 'gruppi' – di cui io non ho mai voluto sentir parlare – l'operazione aveva unaria tranquilla: sembravamo operai in mezzo agli altri operai che lavoravano nelle piccole officine del Pigneto.</blockquote>
@@ -1450,6 +1450,10 @@
       <p><em>Uccellacci e uccellini</em> is not a film about neighbourhoods, as <a href="#!/en/map/16"><em>Accattone</em></a> or<a href="#!/en/map/61"><em>Mamma Roma</em></a> might have been. Pasolini's third film draws perspective lines. The two herœs, portrayed by Totò and Ninetto, go increasingly far from the centre to explore the different circles of a Roman periphery in full upheaval in the 1960s: the slums where poor concrete buildings were springing up, the great construction site of the ring road (the <em>anulare</em>), the remains of countryside and farms doomed to disappear in the very near future.</p>
       <p>In so doing, the filmmaker shows a Rome in full transformation, not only ideological, political, or intellectual, but also physical. A capital that was in the process of 'colonizing' the countryside and the rest of Italy. By filming the ring road and the motorway out to Fiumicino (the airport built for the1960 Olympic Games), Pasolini describes his city as one from which it would henceforth be necessary to flee the evolution and to seek an alternative, going as far as possible in the Third World: Cuba, Istanbul, Africa, Asia...</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p><em>Uccellacci e uccellini</em> non è un film sui quartieri romani, come potevano essere <a href="#!/it/map/16"><em>Accattone</em></a> o <a href="#!/it/map/61"><em>Mamma Roma</em></a>. Il terzo film di Pasolini disegna piuttosto delle linee di fuga. Nel pieno dei turbolenti anni sessanta, i due eroi, interpretati da Totò e Ninetto Davoli, si allontanano sempre più dal centro per muoversi da un punto all'altro della periferia romana: le baraccopoli in mezzo alle quali spuntano poveri edifici di cemento, il grande cantiere del raccordo anulare, i pochi resti della campagna e delle fattorie, destinati a scomparire in fretta.</p>
+      <p>In tal modo il regista mostra una Roma in piena trasformazione non solo dal punto di vista ideologico, politico e intellettuale, ma anche fisico: una capitale che sta per "colonizzare" la campagna e il resto d'Italia. Filmando il raccordo anulare e l'autostrada per Fiumicino (l'aeroporto fu costruito per le Olimpiadi del 1960), Pasolini descrive la sua Roma come una città dal cui futuro deve ormai fuggire il più lontano possibile, andando magari a cercare un'alternativa nel terzo mondo: Cuba, Istanbul, Africa, Asia...</p>
+      ]]></desc>
       <latLng>41.764141,12.238770</latLng>
       <pos>6482</pos>
       <cat>6</cat>
@@ -1458,6 +1462,7 @@
         <caption xml:lang="es">Totò, Ninetto Davoli y Pier Paolo Pasolini durante el rodaje de Uccellacci e uccellini</caption>
         <caption xml:lang="ca">Totò, Ninetto Davoli i Pier Paolo Pasolini durant el rodatge de Uccellacci e uccellini</caption>
         <caption xml:lang="en">Totò, Ninetto Davoli and Pier Paolo Pasolini on the set of The Hawks and the Sparrows</caption>
+        <caption xml:lang="it">Totò, Ninetto Davoli e Pier Paolo Pasolini sul set di Uccellacci e uccellini</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="video" id="2381579825001" wide="1">
@@ -1465,13 +1470,15 @@
         <caption xml:lang="en">Excerpt from The Hawks and the Sparrows (Pier Paolo Pasolini, 1966)</caption>
         <caption xml:lang="es">Fragmento de Uccellacci e uccellini (Pier Paolo Pasolini, 1966)</caption>
         <caption xml:lang="fr">Extrait de Des oiseaux, petits et gros (Pier Paolo Pasolini, 1966)</caption>
+        <caption xml:lang="it">Da Uccellacci e uccellini (Pier Paolo Pasolini, 1966)</caption>
       </m>
     </place>
     <place id="37">
-      <name xml:lang="it">Quartier de l'EUR, via Eufrate, 9</name>
-      <name xml:lang="fr">Quartier de l'EUR, via Eufrate, 9</name>
-      <name xml:lang="es">El barrio de la EUR, via Eufrate, 9</name>
       <name xml:lang="ca">El barri de la EUR, via Eufrate, 9</name>
+      <name xml:lang="en">EUR district, via Eufrate, 9</name>
+      <name xml:lang="es">El barrio de la EUR, via Eufrate, 9</name>
+      <name xml:lang="fr">Quartier de l'EUR, via Eufrate, 9</name>
+      <name xml:lang="it">Quartiere dell'EUR, via Eufrate, 9</name>
       <address>Via Eufrate, 9, 00144 Roma</address>
       <desc xml:lang="fr"><![CDATA[
       <p>Désormais plus à l'aise financièrement, Pasolini peut s'offrir un grand appartement dans le quartier calme et résidentiel de l'EUR (Esposizione Universale di Roma, une zone construite dans les années 30 et destinée à accueillir l'exposition universelle de 1942, qui n'eut pas lieu).</p>
@@ -1495,7 +1502,13 @@
       <p>Henceforth better off, financially, Pasolini could offer himself a large flat in the calm residential neighbourhood of the EUR (Esposizione Universale di Roma, a district built in the Thirties to host the 1942 World Fair, which never took place).</p>
       <p>So, in March 1963, he moved in with his mother and cousin, Graziella Chiarcossi, who joined them definitively, at 9 via Eufrate. The quarter, which stands on a hill, was rather bourgeois and protected. The view offered what still remained of the countryside and farms, as well as the large construction sites on the periphery, and even, on clear days, the sea and the beach at Ostia. The flat was located not far from the large dome of the basilica of Saints Peter and Paul and had a small hanging garden in which his mother could garden as she pleased.</p>
       <p>From the viewpoint of Pasolini's Roman trajectory, the EUR was a strange choice. This modern, visionary district had been designed and thought out by the fascists, the opposite of the <em>borgate</em> and the animated city centre. In a way, this move marked a turning point in Pasolini's life, between his decision to settle in Rome in 1950, and the last, more tense phase of his life, which coincided with the reflections of <em>Scritti corsari</em> and the novel <em>Petrolio</em>.</p>
-      <p>Even though turned towards the sea, like an opening onto the world, this flat would be his last domicile. The first verses of the poem 'Looking for a home' (in the collection <em>Poesia</em> in forma di rosa) thus take on a premonitory nature: 'I am looking for the house of my sepulchre...'</p> 
+      <p>Even though turned towards the sea, like an opening onto the world, this flat would be his last domicile. The first verses of the poem 'Looking for a home' (in the collection <em>Poesia</em> in forma di rosa) thus take on a premonitory nature: "I am looking for the house of my sepulchre..."</p> 
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Pasolini, ormai più tranquillo dal punto di vista economico, può permettersi un grande appartamento nella tranquilla zona residenziale dell'EUR, un'area edificata negli anni trenta e destinata a ospitare l'Esposizione Universale di Roma del 1942, che però non ebbe luogo.</p>
+      <p>Nel marzo 1963 si trasferisce quindi al numero 9 di via Eufrate con la madre e la cugina Graziella Chiarcossi, che è venuta ad abitare con loro. Il quartiere, situato su una collina, è piuttosto borghese e ben riparato. La vista offre allo sguardo quel che ancora rimane della campagna e delle fattorie, ma anche i cantieri della periferia in costruzione, e nelle giornate più limpide, persino il mare e la spiaggia di Ostia. L'appartamento non è lontano dalla grande cupola della basilica di San Pietro e Paolo e ha un piccolo giardino-terrazza in cui la madre può coltivare i suoi fiori.</p>
+      <p>Nel percorso romano di Pasolini, quella dell'EUR è una scelta strana. Il quartiere, moderno e visionario, è stato progettato e ideato dai fascisti, al contrario delle borgate e dell'animato centro città. Questo spostamento segna in un certo senso un punto di svolta nella vita di Pasolini, tra la decisione del 1950 di trasferirsi a Roma, e l'ultima fase della sua vita, più tesa e tragica, che coincide con le riflessioni degli <em>Scritti corsari</em> e del romanzo <em>Petrolio</em>.</p>
+      <p>L'appartamento, rivolto verso il mare come a una finestra sul mondo, sarà la sua ultima dimora. I versi iniziali della poesia «La Ricerca di una casa» (nella raccolta <em>Poesia in forma di rosa</em>) hanno carattere di premonizione: <em>«Ricerco la casa della mia sepoltura...»</em></p>
       ]]></desc>
       <latLng>41.832489,12.457924</latLng>
       <date>1963</date>
@@ -1507,6 +1520,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini y su madre en su piso de de l'EUR, via Eufrate, 9</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini i la seva mare al seu pis de l'EUR, via Eufrate, 9</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and his mother in their flat in EUR district, via Eufrate, 9</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e la madre, nell'appartamento dell'EUR in via Eufrate 9</caption>
         <rights>© Mario Dondero, Elisa Dondero</rights>
       </m>
       <m type="video" id="2381449889001" wide="0">
@@ -1514,6 +1528,7 @@
         <caption xml:lang="en">Excerpt from Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <caption xml:lang="es">Fragmento de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <caption xml:lang="fr">Extrait de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
+        <caption xml:lang="it">Da Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <rights>© INA</rights>
       </m>
       <m type="video" id="2292442024001" wide="0">
@@ -1521,6 +1536,7 @@
         <caption xml:lang="es">Fragmento del documental Pier Paolo Pasolini : vivre et encore plus (Michel Random, 1974)</caption>
         <caption xml:lang="ca">Fragment del documental Pier Paolo Pasolini : vivre et encore plus (Michel Random, 1974)</caption>
         <caption xml:lang="en">Excerpt from Pier Paolo Pasolini : vivre et encore plus (Michel Random, 1974)</caption>
+        <caption xml:lang="it">Da Pier Paolo Pasolini: vivre et encore plus (Michel Random, 1974)</caption>
       </m>
     </place>
     <place id="38">
@@ -1549,6 +1565,11 @@
       <p>Not even the student demonstrations of 1968, which he perceived as a simple outburst of bourgeois young people craving action. It was around the architecture school at Valle Giulia (in the Parioli district, near the Villa Borghese) that the very violent clashes between police and students were concentrated. Whilst getting ready for the release of <em>Teorema</em>, Pasolini published a poem in <em>Nuovi Argomenti</em>, the review –&nbsp;with a narrow readership&nbsp;– that he co-edited with Alberto Moravia. The poem contrasted the young policemen, coming from the proletariat of southern Italy, with the bourgeois rebels of '68. The weekly <em>L'Espresso</em> smelled a scoop and decided to publish the poem, with another title, a hoax: 'I hate you, dear students', a title fundamentally different from the original: 'The PCI [Italian Communist Party] to the young'.</p>
       <p>The confusion was total, and the primary meaning of the poem –&nbsp;infinitely more complex than its reductive title&nbsp;– was completely distorted. Relations between Pasolini and students then stiffened seriously...</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>La fine degli anni sessanta è per Pasolini un momento di crescente delusione di fronte all'evoluzione dell'Italia contemporanea. Lui che ha sempre combattuto per la legittimazione del piccolo popolo dei bassifondi di Roma, ora assiste impotente all'emergere di una società dei consumi che detesta profondamente. E gli sembra che nulla potrà fermare questo processo di disumanizzazione.</p>
+      <p>Neanche le manifestazioni studentesche del 1968, che il poeta interpreta come semplice esuberanza giovanile dei figli della borghesia. I violenti scontri tra polizia e studenti si concentrano nei pressi della facoltà di Architettura, a Valle Giulia (nel quartiere Parioli, vicino a Villa Borghese). Mentre si prepara all'uscita nelle sale di <em>Teorema</em>, Pasolini pubblica una lunga poesia su <em>Nuovi Argomenti</em>, la rivista a tiratura limitata di cui è co-direttore con Alberto Moravia e Alberto Carocci. I versi contrappongono i giovani poliziotti provenienti dal proletariato del sud Italia, ai rivoltosi borghesi sessantottini. Il settimanale <em>L'Espresso</em> fiuta lo scoop e decide di pubblicare la poesia col titolo mistificatorio «Vi odio, cari studenti». Un titolo del tutto diverso da quello originale che recitava: «Il PCI ai giovani» !</p>
+      <p>La confusione è totale, e il senso primo della poesia –&#160;infinitamente più complessa di quanto lasci supporre il suo titolo riduttivo&#160;– viene del tutto fuorviato. I rapporti tra Pasolini e la gioventù studentesca si fanno allora davvero tesi...</p>
+      ]]></desc>
       <latLng>41.918648,12.480033</latLng>
       <pos>7365</pos>
       <cat>3</cat>
@@ -1557,6 +1578,7 @@
         <caption xml:lang="es">Incidentes entre estudiantes y las fuerzas de seguridad en la Facultad de Arquitectura </caption>
         <caption xml:lang="ca">Incidents entre estudiants i les forces de seguretat a la Facultat d'Arquitectura</caption>
         <caption xml:lang="en">Incidents at the School of architecture, Valle Giulia</caption>
+        <caption xml:lang="it">Scontri fra studenti e forze dell'ordine alla facoltà di Architettura, Valle Giulia</caption>
         <rights>© Contrasto</rights>
       </m>
       <m type="img" id="38-3" width="1600" height="1067">
@@ -1564,12 +1586,14 @@
         <caption xml:lang="es">Incidentes entre estudiantes y las fuerzas de seguridad en la Facultad de Arquitectura </caption>
         <caption xml:lang="ca">Incidents entre estudiants i les forces de seguretat a la Facultat d'Arquitectura</caption>
         <caption xml:lang="en">Incidents at the School of architecture, Valle Giulia</caption>
+        <caption xml:lang="it">Scontri fra studenti e forze dell'ordine alla facoltà di Architettura, Valle Giulia</caption>
       </m>
       <m type="img" id="38-4" width="1600" height="1067">
         <caption xml:lang="fr">Incidents entre étudiants et forces de l'ordre à la Faculté d'architecture, Valle Giulia</caption>
         <caption xml:lang="es">Incidentes entre estudiantes y las fuerzas de seguridad en la Facultad de Arquitectura </caption>
         <caption xml:lang="ca">Incidents entre estudiants i les forces de seguretat a la Facultat d'Arquitectura</caption>
         <caption xml:lang="en">Incidents at the School of architecture, Valle Giulia</caption>
+        <caption xml:lang="it">Scontri fra studenti e forze dell'ordine alla facoltà di Architettura, Valle Giulia</caption>
         <rights>© Contrasto</rights>
       </m>
       <m type="img" id="38-5" width="803" height="1200">
@@ -1577,16 +1601,17 @@
         <caption xml:lang="es">Pier Paolo Pasolini asiste a una asamblea de las Juventudes Comunistas 8 años más tarde, en 1974. En segundo plano, Gianni Borgna y Antonio Semerari</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini assisteix a una assemblea de les Joventuts Comunistes vuit anys més tard, el 1974. En segon pla, Gianni Borgna i Antonio Semerari</caption>
         <caption xml:lang="en">Pier Paolo Pasolini at an Italian Communist Youth meeting held later, in 1974. Gianni Borgna and Antonio Semerari can be seen in the background</caption>
+        <caption xml:lang="it">Nel 1974, otto anni dopo, Pier Paolo Pasolini interviene a un'assemblea dei Giovani Comunisti. In secondo piano, Gianni Borgna e Antonio Semerari</caption>
         <rights>© Istituto Luce Historical Archive</rights>
       </m>
       <trello>yJhmZcaq</trello>
     </place>
     <place id="39">
-      <name xml:lang="it">Studi della RAI</name>
       <name xml:lang="ca">Estudis de la RAI</name>
       <name xml:lang="en">RAI studios</name>
-      <name xml:lang="fr">Studios de la RAI</name>
       <name xml:lang="es">Estudios de la RAI</name>
+      <name xml:lang="fr">Studios de la RAI</name>
+      <name xml:lang="it">Studi della RAI</name>
       <desc xml:lang="fr"><![CDATA[
       <p>En Italie à la fin des années 60, Pasolini est l'un des plus puissants contestataires du medium télévision. À l'instar d'un Marshall McLuhan, le cinéaste voyait la télévision comme une source de désinformation et de «&nbsp;déséducation&nbsp;» d'un public toujours plus passif. Le coup de force de Pasolini aura été de contester la télévision en son sein même. Invité d'Enzo Biagi, célèbre journaliste du <em>Corriere della Sera</em>, il conteste le journaliste et le système médiatique en direct, durant l'émission à laquelle il a été convié.</p>
       <p>Ce discours critique, Pasolini le développera surtout dans son documentaire <em>La Rage</em>. Un texte fondateur, entièrement en vers lus par le peintre <a href="#!/fr/map/57">Renato Guttuso</a>, et le célèbre écrivain Giorgio Bassani, ami intime de Pasolini. Deux voix non professionnelles, un peu «&nbsp;sales&nbsp;», mais particulièrement expressives.</p>
@@ -1601,7 +1626,11 @@
       ]]></desc>
       <desc xml:lang="en"><![CDATA[
       <p>In Italy at the end of the Sixties, Pasolini was one of the most powerful protestors against the television medium. Like a Marshall McLuhan, the filmmaker viewed television as a source of disinformation and the 'dis-education' of an increasingly passive public. Pasolini's coup will have been to contest television within it. Invited by Enzo Biagi, a famous journalist of the <em>Corriere della Sera</em>, he contested the journalist and the media system live during the broadcast on which he was a guest.</p>
-      <p>Pasolini would especially develop this critical discourse in his documentary <em>The Rage of Pasolini</em>. A founding text, entirely in verses, was read by the painter <a href="#!/en/map/57">Renato Guttuso</a> and the famous writer Giorgio Bassani, a close friend of Pasolini's. These two non-professional voices were a bit 'dirty' but particularly expressive.</p>
+      <p>Pasolini would especially develop this critical discourse in his documentary <em>The Rage of Pasolini</em>. A founding text, entirely in verses, was read by the painter <a href="#!/en/map/57">Renato Guttuso</a> and the famous writer Giorgio Bassani , a close friend of Pasolini's. These two non-professional voices were a bit 'dirty' but particularly expressive.</p>
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Nell'Italia della fine degli anni sessanta, Pasolini è uno dei più fieri oppositori del mezzo televisivo. Al pari di Marshall McLuhan, il regista vede la televisione come fonte di disinformazione e «diseducazione» di un pubblico sempre più passivo. Il colpo da maestro di Pasolini è criticare la televisione dal suo stesso interno. Ospite di Enzo Biagi, noto giornalista del <em>Corriere della Sera</em>, Pasolini contesta il giornalista e il sistema mediatico in diretta, durante il programma al quale è stato invitato.</p>
+      <p>Pasolini svilupperà questa valutazione critica soprattutto nel documentario <em>La Rabbia</em>. Un testo fondamentale, in cui la parte in prosa è letta dal pittore <a href="#!/it/map/57">Renato Guttuso</a> e quella in poesia dal celebre scrittore Giorgio Bassani, caro amico di Pasolini. Due voci non professioniste, un po' «sporche» ma particolarmente espressive.</p>
       ]]></desc>
       <address>Viale Giuseppe Mazzini, 14, 00195 Roma</address>
       <latLng>41.91764, 12.467064</latLng>
@@ -1612,6 +1641,7 @@
         <caption xml:lang="es">La RAI</caption>
         <caption xml:lang="ca">Seu de la RAI</caption>
         <caption xml:lang="en">The RAI headquarters</caption>
+        <caption xml:lang="it">Sede della RAI</caption>
       </m>
       <trello>DUcrzwlX</trello>
     </place>
@@ -1649,6 +1679,13 @@
       <p>It was during this period that he decided to take up painting again, as in the early days in Friuli, and had an annex built below the house, designed as a painter's studio. The dwelling is fairly ascetic, furnished soberly, with large picture windows giving directly onto the landscape. That is where he wrote a large part of his <em>Scritti corsari</em> and numerous pages of <em>Petrolio</em>, his last novel, which remained unfinished.</p>
       <p>It was also in the Tower of Chia that a young photographer, Dino Pedriali, took some of the most representative photos from this period in Pasolini's life.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>Se non avessi trovato un luogo di così straordinaria bellezza (una torre in un bosco di querce che domina una vallata), probabilmente non mi sarei mai deciso a passare tanto tempo in campagna. La mia scelta non è stata di ordine pratico, ma estetico. Poi, a cose fatte, mi sono reso conto che in realtà si trattava di un ritorno: tutta la mia infanzia è stata contadina e rurale. Inoltre, in nessun altro luogo lavoro così bene come in questo bosco di querce così perfettamente arcaico. Dico «lavoro», e non «vivo». In realtà io amo vivere nella grande città. Ma non avrei mai immaginato che le città italiane sarebbero diventate luoghi così orribili.</blockquote>
+      <cite>Pier Paolo Pasolini, testo inedito, 1975</cite>
+      <p>Pier Paolo Pasolini scopre la torre di Chia nella primavera del 1964, durante le riprese de <em>Il Vangelo secondo Matteo</em>. Mentre gira la scena del battesimo di Gesù lungo il torrente di Chia, viene colto da dubbi riguardo allo stile della prima settimana di riprese. Dopo una notte di crisi stabilisce di cambiare tecnica e vuole filmare di nuovo la scena dall'alto, in elicottero. Ma la produzione non ha i mezzi, quindi il regista decide di scalare le pendici del torrente e filmare la scena dalla sommità con una focale lunga. Si imbatte allora nei resti della torre medievale: la vista che si gode da lì gli ricorda un paesaggio ariostesco e non avrà pace finché non avrà acquistata. All'inizio degli anni settanta riuscirà nel suo intento e farà costruire una casa addossata alle mura in rovina, in cui andrà a scrivere, a dipingere, e di tanto in tanto riceverà gli amici.</p>
+      <p>In questo periodo Pasolini torna a dedicarsi alla pittura, come faceva all'inizio in Friuli, e si fa costruire una dépendance, al di sotto della casa, da adibire a laboratorio. L'abitazione è piuttosto austera, arredata in modo semplice, con grandi vetrate che si affacciano direttamente sul paesaggio. È qui che il poeta scriverà gran parte degli <em>Scritti corsari</em> e molte pagine di <em>Petrolio</em>, l'ultimo romanzo rimasto incompiuto.</p>
+      <p>Inoltre nella torre di Chia un giovane fotografo, Dino Pedriali, scatta alcune tra le foto più rappresentative di questo periodo della vita di Pasolini.</p>
+      ]]></desc>
       <latLng>42.466045,12.309065</latLng>
       <date>1970</date>
       <pos>8340</pos>
@@ -1658,6 +1695,7 @@
         <caption xml:lang="es">Rodaje de El Evangelio según san Mateo, en la parte de abajo del torrente de Chia</caption>
         <caption xml:lang="ca">Rodatge de L'Evangeli segons sant Mateu, a la part baixa del torrent de Chia</caption>
         <caption xml:lang="en">The set of The Gospel According to Saint Matthew, near the Chia torrent</caption>
+        <caption xml:lang="it">Riprese de Il Vangelo secondo Matteo, lungo il torrente di Chia</caption>
         <rights>© Archivio Pier Paolo Pasolini</rights>
       </m>
       <m type="img" id="40-1" width="519" height="768">
@@ -1665,16 +1703,17 @@
         <caption xml:lang="es">Pier Paolo Pasolini delante de la torre de Chia</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini davant de la torre de Chia</caption>
         <caption xml:lang="en">Pier Paolo Pasolini in front of the tower of Chia</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini davanti alla torre di Chia</caption>
         <rights>© Deborah Beer / Archivio fotografico Cinemazero</rights>
       </m>
       <trello>tll8DI8s</trello>
     </place>
     <place id="41">
-      <name xml:lang="ca">Villa de Sabaudia</name>
+      <name xml:lang="ca">La casa de Sabaudia</name>
       <name xml:lang="en">Villa at Sabaudia</name>
-      <name xml:lang="es">Villa de Sabaudia</name>
-      <name xml:lang="it">Villa di Sabaudia</name>
-      <name xml:lang="fr">Villa de Sabaudia</name>
+      <name xml:lang="es">La casa de Sabaudia</name>
+      <name xml:lang="it">La villa di Sabaudia</name>
+      <name xml:lang="fr">La villa de Sabaudia</name>
       <desc xml:lang="fr"><![CDATA[
       <blockquote>Mis à part Rome, nous passions beaucoup de temps à Sabaudia. Nos maisons s'y jouxtaient et avaient en commun une terrasse et un jardin. Nous déjeunions ou dînions souvent ensemble. Les frères Citti venaient fréquemment. Ninetto était presque toujours présent...</blockquote>
       <cite>Dacia Maraini</cite>
@@ -1703,14 +1742,22 @@
       <p>At first glance, this choice is intriguing: Sabaudia is a small city thought up by the fascist regime, which paradoxically had the ambition of creating new cities, pure creations of the regime, especially in Latium. This contradiction, both urban and philosophical, was fundamental: cultural life and, in particular architectural, was especially rich under fascism. After the fall of Mussolini, the Italian left long turned its back on this fascist symbol. For Pasolini, urbanism and the architecture of Sabaudia reflected not fascist ideology but, on the contrary, values much more rooted in Italian tradition, values that fascism had not succeeded in eradicating. He liked the human-scale of this 'metaphysical, Chirico-esque' city.</p>
       <p>This reflection was part of a more general reinterpretation of Italian society, politics and History. Living in Sabaudia meant going to the roots of fascism, as well as the occasion to analyze the respective influences of authoritarian power and Christian Democracy. Pasolini would develop this discourse in a fantastic documentary, <em>La Forma della città [The Form of the City].</em></p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>In Italia, invece, a parte Roma, passavamo molto tempo a Sabaudia. Lì avevamo le case attaccate con una terrazza e un giardino in comune. Spesso pranzavamo o cenavamo insieme. Molte volte venivano i fratelli Citti. Ninetto era quasi sempre presente...</blockquote>
+      <cite>Dacia Maraini</cite>
+      <p>Verso la fine della sua vita, Pasolini si fa costruire due case vicino Roma, ciascuna a un'ora e mezza di auto dalla città, in due direzioni diametralmente opposte. <a href="#!/it/map/40">La torre di Chia</a> e la casa di Sabaudia, realizzata con Alberto Moravia. Una vera e propria fantasia architettonica e urbanistica.</p>
+      <p>A prima vista, questa scelta desta qualche curiosità: Sabaudia è una cittadina voluta dal fascismo, che paradossalmente aveva l'ambizione di creare città nuove, pure creazioni del regime, in particolare nel Lazio. Questa contraddizione, sia sul piano urbano che filosofico, è fondamentale: la vita culturale e in particolare l'architettura hanno avuto un grande impulso durante il periodo fascista e dopo la caduta di Mussolini, per molto tempo la sinistra italiana ha voltato le spalle ai simboli del fascismo. Invece per Pasolini l'assetto urbanistico e l'architettura di Sabaudia non sono lo specchio dell'ideologia fascista, ma al contrario riflettono i valori molto più radicati nella tradizione italiana, che il fascismo non è riuscito a cancellare. Il poeta amava la dimensione umana di questa città «metafisica e dechirichiana».</p>
+      <p>Questa riflessione fa parte di una più ampia rilettura della società, della politica e della storia italiane. Vivere a Sabaudia significava immergersi nelle radici del fascismo, ma era anche l'occasione per analizzare le influenze rispettivamente del potere autoritario e della Democrazia Cristiana. Pasolini svilupperà questa tesi in un grande documentario: <em>La Forma della città</em>.</p>
+      ]]></desc>
       <latLng>41.25252,13.034988</latLng>
       <pos>9312</pos>
       <cat>1</cat>
       <m type="img" id="41-1" width="1013" height="696">
         <caption xml:lang="fr">La villa de Sabaudia</caption>
-        <caption xml:lang="es">La villa de Sabaudia</caption>
-        <caption xml:lang="ca">La villa de Sabaudia</caption>
-        <caption xml:lang="ca">The villa at Sabaudia</caption>
+        <caption xml:lang="es">La casa de Sabaudia</caption>
+        <caption xml:lang="ca">La casa de Sabaudia</caption>
+        <caption xml:lang="en">The villa at Sabaudia</caption>
+        <caption xml:lang="it">La villa di Sabaudia</caption>
         <rights>© Archivio Pier Paolo Pasolini</rights>
       </m>
       <trello>TxrL5d9K</trello>
