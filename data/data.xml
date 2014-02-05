@@ -2147,6 +2147,10 @@
       <p>The flea market in <em>Mamma Roma</em>, symbol of the destitution and resourcefulness of the <em>borgate</em>, also serves as the setting for the fifth chapter of Pasolini's <em>Raggazzi di Vita</em>.</p> 
       <p>In the film, it is in a Porta Portese stall that Ettore comes to sell his mother's records, the same ones she played when teaching him to dance. In the novel, it is in the prison for minors of the same quarter that Ricetto lands, after having committed an umpteenth theft.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Il mercato di <em>Mamma Roma</em>, simbolo della miseria e dell'arte di arrangiarsi della gente di borgata, serve anche come sfondo per il quinto capitolo di <em>Ragazzi di vita</em> di Pasolini.</p>
+      <p>Nel film, è a una bancarella di Porta Portese che Ettore rivende i dischi rubati a sua madre, anche quelli con cui lei gli ha insegnato a ballare. Nel romanzo, è nel carcere minorile dello stesso quartiere che viene spedito Riccetto, dopo aver commesso l'ennesima rapina.</p>
+      ]]></desc>
       <latLng>41.883728, 12.473832</latLng>
       <pos>5203</pos>
       <cat>5</cat>
@@ -2155,6 +2159,7 @@
         <caption xml:lang="es">Fragmento de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="ca">Fragment de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="en">Excerpt from Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
+        <caption xml:lang="it">Da Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <rights>© Mediaset</rights>
       </m>
       <trello>LpYBN96a</trello>
@@ -2164,7 +2169,7 @@
       <name xml:lang="en">Quarticciolo neighbourhood</name>
       <name xml:lang="es">Barrio de Quarticciolo</name>
       <name xml:lang="fr">Quartier de Quarticciolo</name>
-      <name xml:lang="it">Quartiere di Quarticciolo</name>
+      <name xml:lang="it">Quartiere del Quarticciolo</name>
       <address/>
       <desc xml:lang="fr"><![CDATA[
       <blockquote>Pier Paolo est devenu romain, même s'il a gardé envers Rome une certaine distance critique et linguistique. Il a acquis une connaissance profonde du romanesco, mais il va de soi qu'il ne le parlait pas comme Sergio Citti ou moi&nbsp;; il en faisait un usage littéraire, il se servait du discours indirect libre à la manière de Gadda&nbsp;; dans une certaine mesure, il mimait ce dialecte. Il vous faisait sentir toute la saveur de cette réalité, mais il en donnait une représentation qui n'avait rien de naturaliste.</blockquote>
@@ -2185,6 +2190,11 @@
     <blockquote>Pier Paolo became Roman, even though he maintained a certain critical and linguistic distance towards Rome. He acquired a profound knowledge of Romanesco, but it goes without saying that he didn't speak it like Sergio Citti or me; he made literary use of it, he used the free indirect discourse in the style of Gadda; to a certain degree, he mimed this dialect. He made you feel all the flavour of this reality but gave a representation of it that had nothing naturalistic about it.</blockquote>
     <cite>Interview with Vincenzo Cerami, a former student of Pasolini's in <a href="#!/en/map/4">Ciampino</a>, scriptwriter and writer</cite>
     <p>Pasolini's writings and films created a new imaginative universe of the Italian capital. Pasolini did not settle for integrating the city as a background for his novels and films, he 'recast' Rome through literature and cinema. By frequenting the young people of the <em>borgate</em> –&nbsp;those of Quarticciolo, for example&nbsp;-, he gave an existence and a literary dignity to the Romanesco dialect, which, thanks to him, entered the great Italian culture.</p>
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>Pier Paolo è diventato romano, anche se ha sempre mantenuto nei confronti di Roma una certa distanza critica e anche linguistica. Ha acquisito una profonda conoscenza del romanesco, ma naturalmente non lo parlava come Sergio Citti o me, ne faceva un uso letterario, si serviva del discorso indiretto libero alla maniera di Gadda; in una certa misura imitava il dialetto. Ti faceva sentire tutto il sapore di questa realtà, ma ne dava una rappresentazione che non aveva nulla di naturalistico.</blockquote>
+      <cite>Intervista a Vincenzo Cerami, ex studente di Pasolini a <a href="#!/it/map/4">Ciampino</a>, sceneggiatore, scrittore.</cite>
+      <p>Gli scritti e i film di Pasolini creano un nuovo immaginario della capitale. Il poeta non si accontenta di inserire la città come sfondo dei suoi film e romanzi, ma «rifonda» Roma attraverso la letteratura e il cinema. Frequentando i giovani di borgata –&nbsp;ad esempio al Quarticciolo&nbsp;– conferisce dignità letteraria e convalida l'esistenza del romanesco, una lingua che grazie a lui entra nella cultura italiana.</p>
       ]]></desc>
       <latLng>41.89164, 12.576513</latLng>
       <pos>2007</pos>
@@ -2225,6 +2235,10 @@
      <blockquote>There were painful scenes, quite painful, such as walking in the mud, in the mire, in quicksand. Pasolini sometimes looked for the most insane places, and, moreover, it was he who was right, for the results are quite beautiful; they aren't ordinary.</blockquote>
      <cite>Totò, remarks collected by Giacomo Gambetti, in Nico Naldini's <em>Pasolini</em></cite>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>Sono state scene faticose, molto faticose, camminare nel fango, nella melma, nelle sabbie mobili. Pasolini cerca a volte i luoghi più impensati, e del resto ha ragione lui perché poi i risultati sono molto belli, non sono comuni.</blockquote>
+      <cite>Totò, frase raccolta nell'intervista di Giacomo Gambetti, in <em>Breve vita di Pasolini</em> di Nico Naldini.</cite>
+      ]]></desc>
       <latLng>41.845013,12.431436</latLng>
       <pos>6482</pos>
       <cat>6</cat>
@@ -2233,6 +2247,7 @@
         <caption xml:lang="es">Totò y Pier Paolo Pasolini durante el rodaje d'Uccellacci e uccellini</caption>
         <caption xml:lang="ca">Totò i Pier Paolo Pasolini durant el rodatge d'Uccellacci e uccellini</caption>
         <caption xml:lang="en">Totò and Pier Paolo Pasolini on the set of Uccellacci e uccellini</caption>
+        <caption xml:lang="it">Totò e Pier Paolo Pasolini sul set di Uccellacci e uccellini</caption>
         <rights>© Divo Cavicchioli / Reporters Associati srl</rights>
       </m>
       <trello>IfDzCwaF</trello>
@@ -2259,6 +2274,11 @@
      <blockquote>When he asked me to play in <em>Uccellacci e uccellini</em>, I immediately said no.<br />"Come on," said Pier Paolo, "it's a fine experience."<br />"Nah," I answered, "but wait, don't I have to talk, do I? Don't even 'member what I ate yesterday." <br />And Pier Paolo: "Nino, you're paid, you know." <br />"I'll get paid?" <br />"Of course! You'll get at least 800,000 lire, maybe a million."<br /> "How much?! And what've I gotta do? Who've I gotta work with?" <br />"You have to work with Totò." <br />"Go on! Totò, the guy from the movies?" <br />"Yes, the very one." <br />For me, Totò was a myth. I went to the cinema, bought myself some gingerbread, I watched him, with Charlie Chaplin, Laurel and Hardy... But that seemed really weird to me: not only was I going to have the chance to work with Totò, but on top of that, I was going to get paid!'</blockquote>
      <cite>Ninetto Davoli</cite>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>Quando mi offrì di recitare in Uccellacci e uccellini dissi subito di no.<br />«Ma dai –&nbsp;diceva Pier Paolo&nbsp;– è una bella cosa.<br />– Ma che –&nbsp;rispondevo io&nbsp;– devo per caso parlà? Io nun me ricordo neanche quello che ho mangiato ieri.»<br />
+      E Pier Paolo: «Nine', guarda che ti pagano.<br />– Mi pagano?<br />– Certo, ti daranno almeno 800&nbsp;000 lire, forse un milione.<br />– Che me danno? e che devo fa'? Con chi devo lavora'?<br />– Devi lavora' con Totò.<br />– Ma chi, Totò quello del cinema?<br />– Sì, lui.»<br />Per me Totò era un mito, io andavo al cinema, mi compravo i mostaccioli, me lo vedevo, con Charlot, con Stanlio e Ollio. Però mi sembrava strano. Non solo avevo la fortuna di lavorare con Totò, mi pagavano pure!</blockquote>
+      <cite>Ninetto Davoli</cite>
+      ]]></desc>
       <latLng>41.836656,12.443968</latLng>
       <pos>6482</pos>
       <cat>6</cat>
@@ -2267,6 +2287,7 @@
         <caption xml:lang="es">Totò y Ninetto Davoli durante el rodaje de Uccellacci e uccellini</caption>
         <caption xml:lang="ca">Totò i Ninetto Davoli durant el rodatge d'Uccellacci e uccellini</caption>
         <caption xml:lang="en">Totò and Ninetto Davoli on the set of Uccellacci e uccellini</caption>
+        <caption xml:lang="it">Totò e Ninetto Davoli sul set di Uccellacci e uccellini</caption>
         <rights>© Archivio Storico del Cinema / AFE</rights>
       </m>
       <m type="img" id="35-2" width="1186" height="1200">
@@ -2274,6 +2295,7 @@
         <caption xml:lang="es">Totò y Ninetto Davoli durante el rodaje de Uccellacci e uccellini</caption>
         <caption xml:lang="ca">Totò i Ninetto Davoli durant el rodatge d'Uccellacci e uccellini</caption>
         <caption xml:lang="en">Totò and Ninetto Davoli on the set of Uccellacci e uccellini</caption>
+        <caption xml:lang="it">Totò e Ninetto Davoli sul set di Uccellacci e uccellini</caption>
         <rights>© Divo Cavicchioli / Reporters Associati srl</rights>
       </m>
       <m type="img" id="35-3" width="862" height="1200">
@@ -2281,6 +2303,7 @@
         <caption xml:lang="es">Cartel de Uccellacci e uccellini</caption>
         <caption xml:lang="ca">Cartell de Uccellacci e uccellini</caption>
         <caption xml:lang="en">Poster of The Hawks and the Sparrows</caption>
+        <caption xml:lang="it">Manifesto di Uccellacci e uccellini</caption>
       </m>
       <trello>y9R9GQnc</trello>
     </place>
