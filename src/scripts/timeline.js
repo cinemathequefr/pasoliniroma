@@ -17,7 +17,7 @@ var Timeline = function (config) {
     this.DOMId = config.DOMId;
     this.DOMContainerSelector = config.DOMContainerSelector || "body",
     this.tlWidth = config.tlWidth || 10000;
-    this.tlPxWidth = config.tlPxWidth || 3000 ;
+    this.tlPxWidth = config.tlPxWidth || 3000;
     this.ptPxWidth = config.ptPxWidth || 10;
     this.graduation = config.graduation;
     this.widthRatio = 1;
@@ -70,7 +70,7 @@ Timeline.prototype.add = function (id, pos) {
  */
 Timeline.prototype.calcWidthRatio = function () {
     return this.tlPxWidth / this.tlWidth;
-}
+};
  
 
 /**
@@ -86,7 +86,7 @@ Timeline.prototype.resize = function (w) {
         this.render();
         return true;
     }
-}
+};
 
 
 /**
@@ -102,7 +102,7 @@ Timeline.prototype.scrollTo = function (ptId) {
     catch (err) {
         return false;
     }
-}
+};
 
 
 /**
