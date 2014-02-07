@@ -74,7 +74,7 @@
         },
         modal: { // https://github.com/kylefox/jquery-modal#options
             clickClose: false,
-            opacity: .5,
+            opacity: 0.5,
             showSpinner: false,
             zIndex: 5000
         },
@@ -360,7 +360,7 @@
                 this.marker.setVisible(false);
                 if (!_.isUndefined(this.timelineElem)) { this.timelineElem.fadeOut(300, 0); }
             } else {
-                if (prevState === 0 || prevState == null) {
+                if (prevState === 0 || prevState === null) { // *** prevState == null
                     this.marker.setVisible(true);
                 }
                 if (state === 1) {
@@ -432,7 +432,7 @@
             getPlace: getPlace,
             timeline: timeline, // (Undefined at this point - will be set upon calling init)
             zoom: zoom
-        }
+        };
 
     }());
 
@@ -476,7 +476,7 @@
             //$(".indextitle").replaceWith(Mustache.render(app.templates.indexTitle, data));
             $(".indextitle").html(Mustache.render(app.templates.indexTitle, data));
         });
-    }
+    };
 
 
     /**
@@ -571,9 +571,9 @@
 
             if (oldType === "index" || _.isUndefined(oldType)) {
                 app.modal("intro");
-            };
+            }
         });
-    }
+    };
 
     /**
      * app.renderPage
@@ -787,7 +787,7 @@
                 h = $elem.height(),
                 x = ((this.winW - w) / 2) + (offsetX || 0),
                 y = ((this.winH - h) / 2) + (offsetY || 0);
-            $elem.css({ position: "absolute", top: y + "px", left: x + "px" })
+            $elem.css({ position: "absolute", top: y + "px", left: x + "px" });
         },
         redraw: function () { // Repositions and resizes DOM elements
             var hMargins = this.$pane.outerWidth(true)  - this.$pane.width();
