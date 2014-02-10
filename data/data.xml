@@ -2308,11 +2308,11 @@
       <trello>y9R9GQnc</trello>
     </place>
     <place id="57">
-      <name xml:lang="ca">Galeria “La Nuova Pesa”, exposició Guttuso</name>
-      <name xml:lang="it">Galleria “La Nuova Pesa”, mostra Guttuso</name>
-      <name xml:lang="fr">Galerie “La Nuova Pesa”, exposition Guttuso</name>
-      <name xml:lang="es">Galleria “La Nuova Pesa”, mostra Guttuso</name>
-      <name xml:lang="en">“La Nuova Pesa” gallery, Guttuso exhibition</name>
+      <name xml:lang="ca">Galeria “La Nuova Pesa”, exposició Renato Guttuso</name>
+      <name xml:lang="it">Galleria “La Nuova Pesa”, mostra Renato Guttuso</name>
+      <name xml:lang="fr">Galerie “La Nuova Pesa”, exposition Renato Guttuso</name>
+      <name xml:lang="es">Galleria “La Nuova Pesa”, mostra di Renato Guttuso</name>
+      <name xml:lang="en">“La Nuova Pesa” gallery, Renato Guttuso exhibition</name>
       <address>Via del Vantaggio, 46, 00186 Roma</address>
       <desc xml:lang="fr"><![CDATA[
       <blockquote>Dans ma chambre (un simple<br />petit lit, avec des couvertures fleuries<br />tissées par des femmes calabraises ou sardes),<br />j'accrocherais ma collection<br />de tableaux que j'aime encore&nbsp;: à côté<br />de mon Zigaina, je voudrais un beau Morandi,<br />un Mafai, de quarante, un De Pisis,<br />un petit Rosai, un grand Guttuso...</blockquote>
@@ -2335,6 +2335,11 @@
       <cite>'My Desire for Wealth', poem by Pier Paolo Pasolini from <em>The Religion of My Time</em>, 1961</cite>
       <p>Over the years, Pasolini's cultural and social life shifted from the <em>borgate</em> to the centre of Rome. The poet assiduously frequented <a href="#!/en/map/9">the bars</a>, <a href="#!/en/map/13">restaurants</a>, theatres... as well as the art galleries. Impassioned by painting, he became friends in particular with Renato Guttuso, a painter adulated at the time.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>Nella camera da letto (un semplice<br />lettuccio, con coperte infiorate<br />tessute da donne calabresi o sarde)<br />appenderei la mia collezione<br />di quadri che amo ancora: accanto<br />al mio Zigaina, vorrei un bel Morandi,<br />un Mafai, del quaranta, un De Pisis,<br />un piccolo Rosai, un grande Guttuso...</blockquote>
+      <cite>«Il mio desiderio di ricchezza», poesia di Pier Paolo Pasolini pubblicata in <em>La Religione del mio tempo</em>, 1961</cite>
+      <p>Nel corso degli anni, la vita culturale e sociale di Pasolini si sposta dalle borgate al centro di Roma. <a href="#!/it/map/9">Bar</a>, <a href="#!/it/map/13">ristoranti</a>, teatri... ma anche gallerie d'arte. Appassionato di pittura, il poeta stringe amicizia in particolare con Renato Guttuso, pittore adorato all'epoca.</p>
+      ]]></desc>
       <latLng>41.908777,12.474909</latLng>
       <date>1962-01-17</date>
       <pos>5130</pos>
@@ -2345,6 +2350,7 @@
         <caption xml:lang="en">Pier Paolo Pasolini at the Guttuso exhibition</caption>
         <caption xml:lang="fr">Pier Paolo Pasolini à l'exposition Guttuso</caption>
         <caption xml:lang="es">Pier Paolo Pasolini en la exposición Guttuso</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini alla mostra di Guttuso</caption>
         <rights>© Archivio storico Istituto Luce Cinecittà srl</rights>
       </m>
       <m type="img" id="57-1" width="1772" height="1802">
@@ -2361,6 +2367,7 @@
         <caption xml:lang="fr">Renato Guttuso et Pier Paolo Pasolini</caption>
         <caption xml:lang="ca">Renato Guttuso i Pier Paolo Pasolini</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Renato Guttuso</caption>
+        <caption xml:lang="it">Renato Guttuso e Pier Paolo Pasolini</caption>
         <rights>© Archivio storico Istituto Luce Cinecittà srl</rights>
       </m>
     </place>
@@ -2369,6 +2376,7 @@
       <name xml:lang="en">Sandro Penna's home, via delle Mole Dè Fiorentini</name>
       <name xml:lang="es">Casa de Sandro Penna, via delle Mole Dè Fiorentini</name>
       <name xml:lang="fr">Chez Sandro Penna, via delle Mole Dè Fiorentini</name>
+      <name xml:lang="it">Da Sandro Penna, via delle Mole Dè Fiorentini</name>
       <address>Via delle Mole Dè Fiorentini, 00186 Roma</address>
       <desc xml:lang="fr"><![CDATA[
       <blockquote>Les quais du Tibre, noirs d'urinoirs, le Janicule avec ses putains, le port noir de merde et de préservatifs, la Ciriola avec ses garçons qui se fichent de tout et se donnent au premier regard, composent la Rome de Pasolini dans les années 50, visionnaire et musicale.</blockquote>
@@ -2393,6 +2401,12 @@
       <cite>Nico Naldini, Pasolini's biographer and cousin</cite>
       <p>After the cautious hidden loves in Friuli, Pier Paolo Pasolini discovered free, instantaneous sexuality with the <em>ragazzi</em> of Rome. In the company in particular of Sandro Penna, a writer about amorous emotions with boys, he frequented the banks of the Tiber. Moreover, the river became one of his symbolic and poetic reference points.</p>
       <p>In August 1957, Sandro Penna won the Viareggio Prize with <em>Poesie</em>, a prize he shared with... Pier Paolo Pasolini, placed equal for <em>The Ashes of Gramsci</em>.</p>
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>I Lungotevere neri di pisciatoi, il Gianicolo con le sue battone, il Porto nero di sterco e di preservativi, la Ciriola coi suoi ragazzi strafottenti che si danno al primo sguardo, compongono la sua Roma del '50, visionaria e musicale.</blockquote>
+      <cite>Nico Naldini, biografo e cugino di Pasolini</cite>
+      <p>Dopo i cauti amori segreti dei ragazzi friulani, con i «ragazzi di vita» di Roma Pier Paolo Pasolini scopre una sessualità libera e diretta. In compagnia di Sandro Penna, poeta dell'amore omosessuale, frequenta gli argini del Tevere e il fiume diventa da allora uno dei suoi punti di riferimento simbolici e poetici.</p>
+      <p>Nell'agosto del 1957, Sandro Penna con <em>Poesie</em> ottiene il Premio Viareggio che condivide con... Pier Paolo Pasolini, vincitore ex-aequo con <em>Le Ceneri di Gramsci</em>.</p>
       ]]></desc>
       <latLng>41.900121,12.464616</latLng>
       <date>1957</date>
@@ -2443,6 +2457,14 @@
       <blockquote>Pasolini chose the actors in the street and took us as we were. Some of us arrived late on the set in the morning, preferring to go steal to be able to eat... Others simply did not come because they had been arrested the night before.</blockquote>
       <cite>Franco Citti, lead actor in the film</cite> 
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>La casa di Accattone è in via Ettore Giovenale.</p>
+      <p>La realtà incontra la finzione poiché nello stesso quartiere si trova anche la casa di Franco Citti, protagonista del film. Ed è proprio in queste strade, percorse in lungo e in largo negli anni, che Pasolini immagina le sue figure di piccoli delinquenti.</p>
+      <blockquote>I personaggi di Accattone erano tutti ladri o magnaccia o rapinatori o gente che viveva alla giornata: si trattava di un film, insomma, sulla malavita. Naturalmente, c'era anche, intorno, il mondo della gente di borgata, implicata, sia pure, dall'omertà con la malavita, ma, infine, normalmente lavoratrice (per un salario miserabile: si veda Sabino, il fratello di Accattone). Ma, in quanto autore, e in quanto cittadino italiano, io nel film non esprimevo affatto un giudizio negativo su quei personaggi della malavita: tutti i loro difetti mi sembravano difetti umani, perdonabili, oltre che, socialmente, perfettamente giustificabili. I difetti degli uomini che ubbidiscono a una scala di valori «altra» rispetto a quella borghese: e cioè «se stessi» in modo assoluto, come ho detto.</blockquote>
+      <cite>Testo di Pasolini, pubblicato su <em>Il Corriere della Sera</em>, 8 ottobre 1975</cite>
+      <blockquote>Pasolini ha preso gli attori dalla strada, e ci ha presi per come eravamo. Alcuni di noi la mattina arrivavano in ritardo sul set, perché preferivano andare a rubare per mangiare... Altri semplicemente non arrivano perché erano stati arrestati il giorno prima.</blockquote>
+      <cite>Franco Citti, protagonista del film</cite>
+      ]]></desc>
       <latLng>41.889841,12.531637</latLng>
       <date>1961</date>
       <pos>4839</pos>
@@ -2453,6 +2475,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini y Franco Citti durante el rodaje de Accattone</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini i Franco Citti durant el rodatge de Accattone</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Franco Citti on the set of Accattone</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e Franco Citti sul set di Accattone</caption>
         <rights>© Angelo Pennoni / Reporters Associati srl</rights>
       </m>
       <m type="img" id="59-2" width="1600" height="1078">
@@ -2460,6 +2483,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini durante el rodaje de Accattone</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini durant el rodatge de Accattone</caption>
         <caption xml:lang="en">Pier Paolo Pasolini on the set of Accattone</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini sul set di Accattone</caption>
         <rights>© Angelo Pennoni / Reporters Associati srl</rights>
       </m>
       <m type="video" id="2381449887001" wide="0">
@@ -2467,6 +2491,7 @@
         <caption xml:lang="en">Excerpt from Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="es">Fragmento de Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="fr">Extrait d'Accattone (Pier Paolo Pasolini, 1961)</caption>
+        <caption xml:lang="it">Da Accattone (Pier Paolo Pasolini, 1961)</caption>
         <rights>© SNC / SND</rights>
       </m>
       <m type="video" id="2381452408001" wide="0">
@@ -2474,11 +2499,16 @@
         <caption xml:lang="es">Fragmento del documental A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <caption xml:lang="ca">Fragment del documental A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <caption xml:lang="en">Excerpt from A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
+        <caption xml:lang="it">Dal documentario A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <rights>© 1986 Antea Film srl / 23 Giugno srl © 2003 Ripley's Film srl - All rights reserved</rights>
       </m>
     </place>
     <place id="60">
-      <name>Cinéma Barberini</name>
+      <name xml:lang="ca">Cinema Barberini</name>
+      <name xml:lang="en">Cinema Barberini</name>
+      <name xml:lang="es">Cine Barberini</name>
+      <name xml:lang="fr">Cinéma Barberini</name>
+      <name xml:lang="it">Cinema Barberini</name>
       <address> Piazza Barberini</address>
       <desc xml:lang="fr"><![CDATA[
       <p>La foule et les amis de Pier Paolo Pasolini se pressent à l'avant-première d'<a href="#!/fr/map/16"><em>Accattone</em></a>, très mouvementée. Une centaine de jeunes néo-fascistes se réunissent devant le cinéma Barberini, et essaient d'empêcher la projection du film. Jets d'encre sur l'écran, huées et échauffourées : la séance, présentée par le cinéaste et ses acteurs, commence avec une heure de retard.</p> 
@@ -2496,6 +2526,10 @@
       <p>There was a crush of crowds and Pier Paolo Pasolini's friends at the  turbulent preview of <a href="#!/en/map/16"><em>Accattone</em></a>. Approximately a hundred young neo-fascists gathered in front of the Cinema Barberini and tried to prevent the screening of the film. Ink thrown at the screen, boos and brawls: the showing, presented by the director and his actors, began an hour late.</p> 
       <p>Six months later, the film was selected for the 26th Festival of Venice. Despite the context, the screening took place in an equally tense atmosphere</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>La folla e gli amici di Pier Paolo Pasolini si affollano all'anteprima di <a href="#!/it/map/16"><em>Accattone</em></a>; sarà una serata molto movimentata. Un centinaio di giovani neofascisti si riuniscono davanti al cinema Barberini e cercano di impedire la proiezione del film. Gettano inchiostro sullo schermo, fischiano e provocano tafferugli: la proiezione, presentata dal regista e dai suoi attori, inizia con un'ora di ritardo.</p>
+      <p>Sei mesi dopo, il film verrà selezionato al XXVI° Festival del Cinema di Venezia. Nonostante il contesto, la proiezione avverrà di nuovo in un'atmosfera molto tesa.</p>
+      ]]></desc>
       <latLng>41.903714,12.488548</latLng>
       <date>1961-11-22</date>
       <pos>5074</pos>
@@ -2506,6 +2540,7 @@
         <caption xml:lang="es">Laura Betti y Pier Paolo Pasolini delante del cartel de Accattone</caption>
         <caption xml:lang="ca">Laura Betti i Pier Paolo Pasolini davant del cartell d'Accattone</caption>
         <caption xml:lang="en">Laura Betti and Pier Paolo Pasolini in front of the poster of Accattone</caption>
+        <caption xml:lang="it">Laura Betti e Pier Paolo Pasolini davanti al manifesto di Accattone</caption>
         <rights>© Corbis</rights>
       </m>
       <m type="img" id="60-3" width="1200" height="1171">
@@ -2513,6 +2548,7 @@
         <caption xml:lang="es">Giuseppe Ungaretti, Pier Paolo Pasolini, Franco y Sergio Citti y Alfredo Leggi</caption>
         <caption xml:lang="ca">Giuseppe Ungaretti, Pier Paolo Pasolini, Franco i Sergio Citti i Alfredo Leggi</caption>
         <caption xml:lang="en">Giuseppe Ungaretti, Pier Paolo Pasolini, Franco and Sergio Citti i Alfredo Leggi</caption>
+        <caption xml:lang="it">Giuseppe Ungaretti, Pier Paolo Pasolini, Franco e Sergio Citti e Alfredo Leggi</caption>
         <rights>© Archivio storico Istituto Luce Cinecittà srl</rights>
       </m>
       <m type="img" id="60-4" width="1200" height="1200">
@@ -2520,12 +2556,14 @@
         <caption xml:lang="es">Franco Citti, Laura Betti, Pier Paolo Pasolini y Elsa de Giorgi</caption>
         <caption xml:lang="ca">Franco Citti, Laura Betti, Pier Paolo Pasolini i Elsa de Giorgi</caption>
         <caption xml:lang="en">Franco Citti, Laura Betti, Pier Paolo Pasolini and Elsa de Giorgi</caption>
+        <caption xml:lang="it">Franco Citti, Laura Betti, Pier Paolo Pasolini e Elsa de Giorgi</caption>
       </m>
       <m type="img" id="60-2" width="1200" height="1195">
         <caption xml:lang="fr">Pier Paolo Pasolini, Federico Fellini et Alfredo Bini</caption>
         <caption xml:lang="es">Pier Paolo Pasolini, Federico Fellini y Alfredo Bini</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini, Federico Fellini i Alfredo Bini</caption>
         <caption xml:lang="en">Pier Paolo Pasolini, Federico Fellini and Alfredo Bini</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini, Federico Fellini e Alfredo Bini</caption>
         <rights>© Archivio storico Istituto Luce Cinecittà srl</rights>
       </m>
       <m type="video" id="2381457423001" wide="0">
@@ -2533,6 +2571,7 @@
         <caption xml:lang="es">Trailer d'Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="ca">Trailer d'Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="ca">Trailer of Accattone (Pier Paolo Pasolini, 1961)</caption>
+        <caption xml:lang="it">Trailer di Accattone (Pier Paolo Pasolini, 1961)</caption>
       </m>
     </place>
     <place id="61">
@@ -2558,6 +2597,11 @@
       <p>With this second film, Pasolini acts as an anthropologist and sociologist, not only as a poet. The choice of shooting locations reflects the real social situation in the country. Unlike <a href="#!/en/map/16">the miserable Pigneto of <em>Accattone</em></a>, the neighbourhoods in Mamma Roma are those of Roman urban development. Casal Bruciato, for example, is emblematic of Italy's new expansion at the time.</p> 
       <p>In the end, Mamma Roma and her son will not manage to integrate into this new social order and the neighbourhoods that symbolize it, but will remain on the fringe. For Pasolini, this failure has the value of exemplarity – for him who was always against '<em>qualunquismo</em>' or conformity.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p><em>Mamma Roma</em> è il film della Roma popolare che cerca di adeguarsi alla nuova situazione economica degli anni '60. Anna Magnani interpreta una prostituta, un'emarginata che cerca in qualche modo di adattarsi ai cambiamenti della società, e tenta di integrarsi, per suo figlio, nella piccola borghesia. Naturalmente i suoi tentativi falliranno e il figlio, Ettore, finito in carcere per un piccolo furto, finirà praticamente annientato da una società indifferente.</p>
+      <p>Con questo secondo film, Pasolini produce un'opera antropologica, sociologica e non solo poetica. La scelta delle location riflette la reale situazione sociale del paese. A differenza del <a href="#!/it/map/16">miserabile Pigneto di <em>Accattone</em></a>, i quartieri di <em>Mamma Roma</em> sono quelli dello sviluppo urbano della capitale. Casal Bruciato, ad esempio, è emblematico della rinascita italiana dell'epoca.</p>
+      <p>Alla fine, Mamma Roma e il figlio non riusciranno a integrarsi in questo nuovo ordine sociale né nei quartieri che lo simboleggiano. Resteranno degli emarginati. Per Pasolini –&nbsp;che è sempre stato contrario al conformismo e al qualunquismo&nbsp;– questo fallimento ha un valore esemplare.</p>
+      ]]></desc>
       <latLng>41.906797,12.546773</latLng>
       <date>1962</date>
       <pos>5201</pos>
@@ -2568,6 +2612,7 @@
         <caption xml:lang="es">Anna Magnani y Roberto Rossellini durante el rodaje de Mamma Roma</caption>
         <caption xml:lang="ca">Anna Magnani i Roberto Rossellini durant el rodatge de Mamma Roma</caption>
         <caption xml:lang="en">Anna Magnani and Roberto Rossellini on the set of Mamma Roma</caption>
+        <caption xml:lang="it">Anna Magnani e Roberto Rossellini sul set di Mamma Roma</caption>
         <rights>© Angelo Novi / Archivio Pier Paolo Pasolini</rights>
       </m>
     </place>
@@ -2576,6 +2621,7 @@
       <name xml:lang="en">Via di Porta Portese: Salò</name>
       <name xml:lang="es">Via di Porta Portese: Salò</name>
       <name xml:lang="fr">Via di Porta Portese : Salò</name>
+      <name xml:lang="it">Via di Porta Portese: Salò</name>
       <address>Via di Porta Portese </address>
       <desc xml:lang="fr"><![CDATA[
       <p>Prenez les chemins de traverse en suivant Žilda, street artist rennais, dont les collages convoquent les fantômes de Pasolini au détour des ruelles de Rome.</p>
@@ -2588,6 +2634,9 @@
       ]]></desc>
       <desc xml:lang="en"><![CDATA[
       <p>Follow Žilda, street artist from Rennes, whose works evoke the ghosts of Pasolini.</p>
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Prendete le strade secondarie seguendo Žilda, artista di strada originaria di Rennes, i cui collages evocano i fantasmi di Pasolini in giro per le vie di Roma.</p>
       ]]></desc>
       <latLng>41.884751,12.472275</latLng>
       <cat>10</cat>
@@ -2602,6 +2651,7 @@
       <name xml:lang="en">Via del Mandrione: Salò</name>
       <name xml:lang="es">Via del Mandrione: Salò</name>
       <name xml:lang="fr">Via del Mandrione : Salò</name>
+      <name xml:lang="it">Via del Mandrione: Salò</name>
       <desc xml:lang="fr"><![CDATA[
       <p>Prenez les chemins de traverse en suivant Žilda, street artist rennais, dont les collages convoquent les fantômes de Pasolini au détour des ruelles de Rome.</p>
       ]]></desc>
@@ -2613,6 +2663,9 @@
       ]]></desc>
       <desc xml:lang="en"><![CDATA[
       <p>Follow Žilda, street artist from Rennes, whose works evoke the ghosts of Pasolini.</p>
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Prendete le strade secondarie seguendo Žilda, artista di strada originaria di Rennes, i cui collages evocano i fantasmi di Pasolini in giro per le vie di Roma.</p>
       ]]></desc>
       <latLng>41.875617,12.537611</latLng>
       <cat>10</cat>
@@ -2627,6 +2680,7 @@
       <name xml:lang="en">L'EUR, Quadrato della Concordia: Salò</name>
       <name xml:lang="es">L'EUR, Quadrato della Concordia: Salò</name>
       <name xml:lang="fr">L'EUR, Quadrato della Concordia : Salò</name>
+      <name xml:lang="it">L'EUR, Quadrato della Concordia: Salò</name>
       <address>L'EUR, Quadrato della Concordia </address>
       <desc xml:lang="fr"><![CDATA[
       <p>Prenez les chemins de traverse en suivant Žilda, street artist rennais, dont les collages convoquent les fantômes de Pasolini au détour des ruelles de Rome.</p>
@@ -2639,6 +2693,9 @@
       ]]></desc>
       <desc xml:lang="en"><![CDATA[
       <p>Follow Žilda, street artist from Rennes, whose works evoke the ghosts of Pasolini.</p>
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Prendete le strade secondarie seguendo Žilda, artista di strada originaria di Rennes, i cui collages evocano i fantasmi di Pasolini in giro per le vie di Roma.</p>
       ]]></desc>
       <latLng>41.836248,12.4661</latLng>
       <cat>10</cat>
@@ -2653,6 +2710,7 @@
       <name xml:lang="en">Via Casilina Vecchia (Ponte Casilino): A Thousand and One Nights</name>
       <name xml:lang="es">Via Casilina Vecchia (Ponte Casilino):  Las mil y una noches</name>
       <name xml:lang="fr">Via Casilina Vecchia (Ponte Casilino) : Les Mille et une nuits</name>
+      <name xml:lang="it">Via Casilina Vecchia (Ponte Casilino): Le Mille e una notte</name>
       <desc xml:lang="fr"><![CDATA[
       <p>Prenez les chemins de traverse en suivant Žilda, street artist rennais, dont les collages convoquent les fantômes de Pasolini au détour des ruelles de Rome.</p>
       ]]></desc>
@@ -2664,6 +2722,9 @@
       ]]></desc>
       <desc xml:lang="en"><![CDATA[
       <p>Follow Žilda, street artist from Rennes, whose works evoke the ghosts of Pasolini.</p>
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Prendete le strade secondarie seguendo Žilda, artista di strada originaria di Rennes, i cui collages evocano i fantasmi di Pasolini in giro per le vie di Roma.</p>
       ]]></desc>
       <latLng>41.886097,12.526415</latLng>
       <cat>10</cat>
@@ -2678,6 +2739,7 @@
       <name xml:lang="en">Porta Maggiore: Pigsty</name>
       <name xml:lang="es">Porta Maggiore: Pocilga</name>
       <name xml:lang="fr">Porta Maggiore : Porcherie</name>
+      <name xml:lang="it">Porta Maggiore : Porcile</name>
       <desc xml:lang="fr"><![CDATA[
       <p>Prenez les chemins de traverse en suivant Žilda, street artist rennais, dont les collages convoquent les fantômes de Pasolini au détour des ruelles de Rome.</p>
       ]]></desc>
@@ -2689,6 +2751,9 @@
       ]]></desc>
       <desc xml:lang="en"><![CDATA[
       <p>Follow Žilda, street artist from Rennes, whose works evoke the ghosts of Pasolini.</p>
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Prendete le strade secondarie seguendo Žilda, artista di strada originaria di Rennes, i cui collages evocano i fantasmi di Pasolini in giro per le vie di Roma.</p>
       ]]></desc>
       <latLng>41.891833,12.514077</latLng>
       <cat>10</cat>
