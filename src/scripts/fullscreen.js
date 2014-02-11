@@ -124,8 +124,6 @@
      * @return  Object                  width, height of the resized box
      */
     function fitInBox(width, height, maxWidth, maxHeight, expandable) {
-        "use strict";
-
         var aspect = width / height,
             initWidth = width,
             initHeight = height;

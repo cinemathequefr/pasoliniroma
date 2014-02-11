@@ -21,8 +21,6 @@ img {
     -ms-interpolation-mode: bicubic; /* Not supported as of IE10? */
 }
 
-
-
 h2 {
     margin: 8px 0;
     font-size: 1.5em; font-weight: 600; text-transform: uppercase;
@@ -50,7 +48,6 @@ blockquote > em {
     font-style: normal;
 }
 
-
 blockquote:before {
     content:'«\00a0';
 }
@@ -65,7 +62,6 @@ blockquote + cite {
     font-style: normal;
 }
 
-
 .sprite {
     background-image: url(images/sprite1.png);
     background-repeat:no-repeat;
@@ -79,8 +75,6 @@ a {
 a:hover, a:active {
     color: #e11;
 }
-
-
 
 /* Main containers */
 #index {

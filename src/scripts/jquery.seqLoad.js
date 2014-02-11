@@ -41,6 +41,6 @@
         that = this;
         loadNext(0);
         return this;
-    }
+    };
 
 }(jQuery, window));

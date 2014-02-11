@@ -44,7 +44,7 @@
             size: 22,
             url: "css/images/markers22.png"
         },
-        langs: ["fr", "en", "es", "ca"],
+        langs: ["fr", "en", "es", "ca", "it"],
         map: {
             id: "map-canvas",
             infoboxPixelOffset: new gm.Size(-75, -11), // Offset of the infobox's bottom-left corner relative to the marker's center
@@ -74,7 +74,7 @@
         },
         modal: { // https://github.com/kylefox/jquery-modal#options
             clickClose: false,
-            opacity: .5,
+            opacity: 0.5,
             showSpinner: false,
             zIndex: 5000
         },
@@ -96,7 +96,7 @@
         transitionSpeed: 500 // Default transition speed
     };
 
-    app.defaultLang = "fr";
+    app.defaultLang = "it";
 
     app.templates = { // Mustache templates
         indexTitle: "<a href='#!/{{lang}}/map'><h1>Pasolini Roma</h1></a>",
@@ -105,7 +105,7 @@
         modal: "{{{text}}}",
         //page: "<a href='#!/{{lang}}/index'><img class='title281' src='css/images/title281.png' alt='Pasolini Roma' /></a><div id='pagei'>{{{text}}}</div>",
         place: "<span class='sqrbtn sprite' id='ctrl-pane-close' title='Close'>Close</span>{{#cat}}<span id='ctrl-filter-markers' class='icon{{cat.id}} off'>{{cat.name}}</span>{{/cat}}<h2>{{name}} <span class='date'>{{date}}</span></h2><div id='pane-content'>{{{desc}}}<div>{{#m}}{{#_fn1}}{{/_fn1}}{{/m}}</div></div>",
-        placeImg: "<div class='media-container' style='width:{{thumbWidth}}px;'><div class='media' style='height:{{thumbHeight}}px;'><img src='http://static.pasoliniroma.com/images/{{id}}.jpg' alt='{{caption}} {{rights}}' width='{{thumbWidth}}' height='{{thumbHeight}}' data-width='{{width}}' data-height='{{height}}' /></div><div class='caption'>{{caption}}</div></div>",
+        placeImg: "<div class='media-container' style='width:{{thumbWidth}}px;'><div class='media' style='height:{{thumbHeight}}px;'><img src='http://static.pasoliniroma.com/images/{{id}}.jpg' alt='{{caption}} {{rights}}' width='{{thumbWidth}}' height='{{thumbHeight}}' data-width='{{width}}' data-height='{{height}}' /></div><div class='caption'>{{caption}}<br />{{rights}}</div></div>",
         placeVideo: "<div class='media-container' style='width:{{thumbWidth}}px;'><iframe class='media' scroll='no' src='video.php?id={{id}}&amp;width={{thumbWidth}}&amp;height={{thumbHeight}}' style='width:{{thumbWidth}}px; height:{{thumbHeight}}px;' width='{{thumbWidth}}' height='{{thumbHeight}}'></iframe><div class='caption'>{{caption}}<br />{{rights}}</div></div>"
     };
 
@@ -360,7 +360,7 @@
                 this.marker.setVisible(false);
                 if (!_.isUndefined(this.timelineElem)) { this.timelineElem.fadeOut(300, 0); }
             } else {
-                if (prevState === 0 || prevState == null) {
+                if (prevState === 0 || _.isUndefined(prevState)) { // 2014-02-11 : previously (prevState === 0 || prevState == null)
                     this.marker.setVisible(true);
                 }
                 if (state === 1) {
@@ -432,7 +432,7 @@
             getPlace: getPlace,
             timeline: timeline, // (Undefined at this point - will be set upon calling init)
             zoom: zoom
-        }
+        };
 
     }());
 
@@ -476,7 +476,7 @@
             //$(".indextitle").replaceWith(Mustache.render(app.templates.indexTitle, data));
             $(".indextitle").html(Mustache.render(app.templates.indexTitle, data));
         });
-    }
+    };
 
 
     /**
@@ -571,9 +571,9 @@
 
             if (oldType === "index" || _.isUndefined(oldType)) {
                 app.modal("intro");
-            };
+            }
         });
-    }
+    };
 
     /**
      * app.renderPage
@@ -787,7 +787,7 @@
                 h = $elem.height(),
                 x = ((this.winW - w) / 2) + (offsetX || 0),
                 y = ((this.winH - h) / 2) + (offsetY || 0);
-            $elem.css({ position: "absolute", top: y + "px", left: x + "px" })
+            $elem.css({ position: "absolute", top: y + "px", left: x + "px" });
         },
         redraw: function () { // Repositions and resizes DOM elements
             var hMargins = this.$pane.outerWidth(true)  - this.$pane.width();

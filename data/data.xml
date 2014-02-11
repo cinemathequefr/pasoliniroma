@@ -755,7 +755,7 @@
       <cite>Pier Paolo Pasolini on the shooting of <em>Accattone</em> in <em>Il Giorno</em>, 16 October 1960</cite>
       ]]></desc>
       <desc xml:lang="it"><![CDATA[
-      <p>Il 1960 è l'anno de <a href="#!/it/map/9">La Dolce vita</a> di Federico Fellini e delle Olimpiadi di Roma...</p>
+      <p>Il 1960 è l'anno de <a href="#!/it/map/9"><em>La Dolce vita</em></a> di Federico Fellini e delle Olimpiadi di Roma...</p>
       <p>È durante questa estate particolare che Pier Paolo Pasolini concepisce l'ambientazione e il soggetto di <em>Accattone</em>, la storia di un emarginato, un miserabile, dal comportamento istintivo e quasi animale. Mentre l'Italia sta vivendo un boom economico senza precedenti, <em>Accattone</em> si concentra su un'altra Roma, povera, emarginata, esclusa dai canali ufficiali. È un film sulla cultura sottoproletaria che sopravvive nonostante i cambiamenti sociali e urbani di questo inizio di decennio.</p>
       <p>Per evocare questa disparità sociale, Pasolini decide di girare il suo primo film nella «semi-periferia» di Roma, nel quartiere del Pigneto. Dalle riprese la zona appare desolata e triste – mentre paradossalmente si tratta di un quartiere abbastanza centrale, infatti via Fanfulla da Lodi, set principale del film, si trova vicino a Porta Maggiore e alla <a href="#!/it/map/50">Stazione Termini</a>. Scegliendo di proposito questo quartiere povero, Pasolini parla anche indirettamente del terzo mondo, che ha avuto l'opportunità di scoprire nel corso del suo primo viaggio in Africa e in India con Alberto Moravia, compiuto poco prima delle riprese di <em>Accattone</em>.</p>
       <blockquote>Erano giorni stupendi, in cui l'estate ardeva ancora purissima, appena svuotata un po' dentro, dalla sua furia. Via Fanfulla da Lodi, in mezzo al Pigneto, con le casupole basse, i muretti screpolati, era di una granulosa grandiosità, nella sua estrema piccolezza; una povera, umile, sconosciuta stradetta, perduta sotto il sole, in una Roma che non era Roma. L'abbiamo riempita: una dozzina di attori, l'operatore, i macchinisti, i fonici. Ma poiché non c'erano i 'gruppi' – di cui io non ho mai voluto sentir parlare – l'operazione aveva unaria tranquilla: sembravamo operai in mezzo agli altri operai che lavoravano nelle piccole officine del Pigneto.</blockquote>
@@ -824,6 +824,12 @@
       <blockquote>On a miserable road, surrounded by shacks, old cottages, full of tattered little kids, under a furious sun, a sad, desolate bell tolled the knell.<br />Accattone advanced down the road pummeled by the sun.<br />He truly was an accattone [beggar], in a singlet with dusty trousers.<br />Around his neck, there was no longer the thick gold chain.<br />On his fingers, there was no longer a ring either.<br />On his wrist there was no longer a bracelet or a watch. Naked as a worm.<br />He walked down the empty, blinding road, under the bell tolling the knell.</blockquote>
       <cite>Excerpt from the script</cite>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>La scelta di girare <em>Accattone</em> al Pigneto non è casuale, infatti via dei Gordiani è a pochi isolati da via Montecuccoli. Qui, lontano dagli studi tradizionali di Cinecittà, pochi anni prima Roberto Rossellini aveva girato <em>Roma città aperta</em>, e in particolare la scena della morte di Pina (Anna Magnani), sulla quale Pasolini ha scritto una poesia dopo aver rivisto il film al <a href="#!/it/map/5">cinema “Nuovo”</a>, al suo arrivo a Roma. Il riferimento cinematografico e quello geografico si sovrappongono: soltanto una decina di metri separa l'ambientazione dei due film.</p>
+      <p>Oggi il Pigneto è molto cambiato: è diventato un quartiere alla moda, frequentato da giovani artisti e pittori.</p>
+      <blockquote>Su una strada miserabile, circondata da baracche, vecchie casette, piena di ragazzini stracciati, sotto un sole furioso, c'era una triste,<br />desolata campanella che suonava a morto.<br />Accattone avanzava per la strada tramortita dal sole.<br />Era proprio un accattone, in canottiera – senza maglietta – coi calzoni impolverati.<br />Nel collo, non c'era più la grossa catenella d'oro.<br />Alle dita non c'era più neanche un anello.<br />Al polso non c'era più né bracciale né orologio. Nudo come un vèrmine.<br />Camminava, per la strada, vuota, accecata, sotto la campanella che suonava a morto.</blockquote>
+      <cite>Dal soggetto di <em>Accattone</em></cite>
+      ]]></desc>
       <latLng>41.886129,12.554196</latLng>
       <date>1961</date>
       <pos>4838</pos>
@@ -833,13 +839,15 @@
         <caption xml:lang="en">View of via dei Gordiani</caption>
         <caption xml:lang="es">La via dei Gordiani</caption>
         <caption xml:lang="fr">La via dei Gordiani</caption>
+        <caption xml:lang="it">Via dei Gordiani</caption>
         <rights>© Carlo Riccardi / Archivio Riccardi</rights>
       </m>
       <m type="img" id="17-1" width="1600" height="1104">
         <caption xml:lang="fr">Pier Paolo Pasolini et Franco Citti pendant une pause, sur le tournage d'Accattone</caption>
         <caption xml:lang="es">Franco Citti y Pier Paolo Pasolini durante el rodaje de Accattone</caption>
         <caption xml:lang="ca">Franco Citti i Pier Paolo Pasolini durant el rodatge de Accattone</caption>
-        <caption xml:lang="en">Franco Citti and Pier Paolo Pasolini on the set of Accattone</caption>
+        <caption xml:lang="en">Franco Citti and Pier Paolo Pasolini during a recess, on the set of Accattone</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e Franco Citti durante una pausa, sul set di Accattone</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="img" id="17-3" width="1600" height="1070">
@@ -854,6 +862,7 @@
         <caption xml:lang="en">Excerpt from Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="es">Fragmento de Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="fr">Extrait d'Accattone (Pier Paolo Pasolini, 1961)</caption>
+        <caption xml:lang="it">Da Accattone (Pier Paolo Pasolini, 1961)</caption>
         <rights>© SNC / SND</rights>
       </m>
       <trello>iWfW5w7g</trello>
@@ -882,6 +891,12 @@
       <p>It was finally Alfredo Bini, a young, almost unknown producer, who took over the production and helped Pasolini out. The days of shooting could then go on more calmly.</p>
       <p>Up until the final scenes shot in Testaccio, where the film ends tragically. Anything but a coincidence: a working-class, utopian sector created by Ernesto Nathan, <a href="#!/en/map/15">the final abode of Gramsci</a>, and Elsa Morante's childhood neighbourhood, Testaccio is one of the emblematic quarters of Pasolini's Rome.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>La realizzazione del primo film di Pier Paolo Pasolini non è semplice e veloce come il regista sperava. Inizialmente <em>Accattone</em> doveva essere prodotto da Federico Fellini che, dopo il trionfo de <a href="#!/it/map/9"><em>La Dolce vita</em></a>, aspirava a diventare produttore. Dopo alcune collaborazioni a sceneggiature di successo, la prospettiva di lavorare di nuovo con l'amico affascina Pasolini. Ma il progetto fallisce: dopo aver visto i primi giornalieri, Fellini ritiene che il Pasolini poeta abbia sbagliato a voler diventare regista. La delusione di Pasolini è enorme, ma non offusca l'amicizia tra i due. Dopo il rifiuto di Fellini, Pasolini compie il suo primo viaggio in Africa per «curare lì la sua ferita narcisistica».</p>
+      <p>In seguito Fellini ammetterà il suo errore di giudizio e incoraggerà l'amico facendogli visita sul set. Inoltre lo sosterrà con passione nella fase movimentata dell'<a href="#!/it/map/60">uscita del film</a>.</p>
+      <p>Alla fine sarà Alfredo Bini, un giovane produttore allora praticamente sconosciuto, a rilevare la produzione venendo in aiuto a Pasolini. Le riprese possono continuare più serenamente.</p>
+      <p>Le scene finali, in cui la vicenda si conclude in tragedia, sono girate a Testaccio. Non è un caso: area popolare e utopica voluta da Ernesto Nathan, <a href="#!/it/map/15">ultima dimora di Gramsci</a>, quartiere dell'infanzia di Elsa Morante, Testaccio è uno dei quartieri più emblematici della Roma pasoliniana.</p>
+      ]]></desc>
       <latLng>41.875373, 12.470834</latLng>
       <date>1961</date>
       <pos>4838</pos>
@@ -891,6 +906,7 @@
         <caption xml:lang="es">Visita de Federico Fellini durante el rodaje de Accattone</caption>
         <caption xml:lang="ca">Visita de Federico Fellini durant el rodatge d'Accattone</caption>
         <caption xml:lang="en">Federico Fellini on the set of Accattone</caption>
+        <caption xml:lang="it">Federico Fellini visita il set di Accattone</caption>
         <rights>© Tazio Secchiaroli / David Secchiaroli</rights>
       </m>
       <m type="img" id="19-2" width="1642" height="1200">
@@ -898,6 +914,7 @@
         <caption xml:lang="es">Visita de Federico Fellini durante el rodaje de Accattone</caption>
         <caption xml:lang="ca">Visita de Federico Fellini durant el rodatge d'Accattone</caption>
         <caption xml:lang="en">Federico Fellini on the set of Accattone</caption>
+        <caption xml:lang="it">Federico Fellini visita il set di Accattone</caption>
         <rights>© Tazio Secchiaroli / David Secchiaroli</rights>
       </m>
       <m type="video" id="2380420008001" wide="0">
@@ -905,6 +922,7 @@
         <caption xml:lang="en">Excerpt from Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="es">Fragmento de Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="fr">Extrait d'Accattone (Pier Paolo Pasolini, 1961)</caption>
+        <caption xml:lang="it">Da Accattone (Pier Paolo Pasolini, 1961)</caption>
         <rights>© SNC / SND</rights>
       </m>
       <trello>FwUxnWJv</trello>
@@ -931,6 +949,11 @@
       <p>Two years later, he made this same via Portuense the setting for scenes of prostitution in <em>Accattone</em>. In times past, one of the most majestic roads of Ancient Rome, with Pasolini, via Portuense became the symbol of this constantly changing ring-road Rome where ragazzi, prostitutes and workers mingled.</p> 
       <p>In the field, petrol refineries appear in the background, along with buildings under construction and cranes, those of the vast renovation worksite of the Roman suburbs, begun for the 1960 Olympic Games.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Nel 1959, Pier Paolo Pasolini evoca per la prima volta via Portuense nel romanzo <em>Una vita violenta</em>, nell'episodio della corsa selvaggia di Tommaso e dei suoi amici a bordo di un'auto rubata.</p>
+      <p>Due anni dopo, la stessa via Portuense diventa lo sfondo delle scene di prostituzione di <em>Accattone</em>. Una delle strade più nobili della Roma antica, in Pasolini diventa il simbolo della periferia romana in continuo mutamento, in cui si mescolano «ragazzi di vita», prostitute e operai.</p>
+      <p>Sullo sfondo delle inquadrature si vedono raffinerie di petrolio, edifici in costruzione e gru, quelle del vasto progetto di ristrutturazione delle periferie avviato a Roma per le Olimpiadi del 1960.</p>
+      ]]></desc>
       <latLng>41.866988,12.464179</latLng>
       <pos>4838</pos>
       <cat>4</cat>
@@ -939,6 +962,7 @@
         <caption xml:lang="es">Bernardo Bertolucci y Pier Paolo Pasolini durante el rodaje de Accattone</caption>
         <caption xml:lang="ca">Bernardo Bertolucci i Pier Paolo Pasolini durant el rodatge de Accattone</caption>
         <caption xml:lang="en">Bernardo Bertolucci and Pier Paolo Pasolini on the set of Accattone</caption>
+        <caption xml:lang="it">Bernardo Bertolucci e Pier Paolo Pasolini sul set di Accattone</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <trello>BsNk0pOZ</trello>
@@ -966,6 +990,10 @@
       <p>Shot in the inner suburbs of Rome, Pasolini's first film makes a few forays into the city centre. Already glimpsed seven years earlier in Federico Fellini's <em>The White Sheik</em> (the scene of Wanda's abortive suicide attempt), the banks of the Tiber and the Sant'Angelo bridge again serve as a film location. And offer <em>Accattone</em> its first shots.</p> 
       <p>It is from this bridge, which leads to the Castel Sant'Angelo, the 'big Vatican beast', that the hero decides to dive: a senseless act of bravura, anything but gratuitous. As Franco Citti recalls it in <em>A futura Memoria</em>, Accattone's dive is also a means for the Roman proletariat to remind the bourgeoisie living in the city centre of its existence. If Accattone came to die in his suburb, no one would ever know anything. But there, right in the heart of Rome, he exposes his miserable existence and free will in full view of everyone.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Pier Paolo Pasolini ambienta il suo primo film nella periferia di Roma ma fa anche alcune incursioni in centro. Già intravisti sette anni prima in <em>Lo Sceicco bianco</em> di Federico Fellini (la scena del tentato suicidio di Wanda), gli argini del Tevere e ponte Sant'Angelo ricompaiono sulla pellicola offrendo in <em>Accattone</em> i loro splendidi primi piani.</p>
+      <p>L'eroe decide di tuffarsi dal ponte di fronte a Castel Sant'Angelo. Un atto di coraggio insensato, ma tutt'altro che gratuito. Franco Citti nel documentario <em>A futura memoria</em> lo spiega: il tuffo di Accattone è anche un modo simbolico del proletariato romano di ricordare la sua esistenza alla borghesia del centro città. Se Accattone morisse nella sua periferia nessuno ne saprebbe mai niente, invece lì, nel cuore di Roma, espone la sua miserabile esistenza e il suo libero arbitrio sotto gli occhi di tutti.</p>
+      ]]></desc>
       <latLng>41.901788, 12.466462</latLng>
       <pos>4838</pos>
       <cat>4</cat>
@@ -974,6 +1002,7 @@
         <caption xml:lang="en">On the set of Accattone</caption>
         <caption xml:lang="es">Foto de plató de Accattone</caption>
         <caption xml:lang="fr">Photo de plateau d'Accattone</caption>
+        <caption xml:lang="it">Foto dal set di Accattone</caption>
         <rights>© Cicconi</rights>
       </m>
       <m type="video" id="2381118286001" wide="0">
@@ -981,6 +1010,7 @@
         <caption xml:lang="en">Excerpt from Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="es">Fragmento de Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="fr">Extrait d'Accattone (Pier Paolo Pasolini, 1961)</caption>
+        <caption xml:lang="it">Da Accattone (Pier Paolo Pasolini, 1961)</caption>
         <rights>© SNC / SND</rights>
       </m>
       <m type="video" id="2380420004001" wide="0">
@@ -988,6 +1018,7 @@
         <caption xml:lang="es">Fragmento del documental A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <caption xml:lang="ca">Fragment del documental A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <caption xml:lang="en">Excerpt from A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
+        <caption xml:lang="it">Dal documentario A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <rights>© 1986 Antea Film srl / 23 Giugno srl © 2003 Ripley's Film srl - All rights reserved</rights>
       </m>
       <trello>x38yMZYH</trello>
@@ -1014,6 +1045,11 @@
       <cite><em>Mamma Roma</em></cite>
       <p>It is the INA-Casa del Tuscolano quarter that Mamma Roma is aiming for to rise socially. This neighbourhood, a manifesto of Italian urban rationalism, was constructed in 1961 thanks to the Fanfani law in favour of social housing. But these modern new residential complexes brought no solution to the issues of social origin, and moving into this new quarter would not spare Ettore from a tragic end. <em>'Certain urbanistic and social choices are fraught with consequence for the most modest people, and material progress brought by modernity is a delusion. Misfortune, as Pasolini explains in his film, does not necessarily come from the fact that the Capital impoverishes, but from the fact that material well-being is accompanied by a loss of humanity.'</em> (Eugenio Renzi).</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>È bella la nostra casa nuova, eh? Che ti diceva tua madre?</blockquote>
+      <cite><em>Mamma Roma</em></cite>
+      <p>Per riscattarsi ed elevare il suo status sociale, Mamma Roma punta al quartiere INA-casa, al Tuscolano. Quest'area, manifesto del razionalismo urbano italiano, era stata creata nel 1961 grazie alla legge Fanfani per l'edilizia sociale. Ma i nuovi complessi moderni non avevano per nulla risolto i problemi sociali e il trasloco nel nuovo quartiere non impedirà a Ettore di finire tragicamente. <em>«Alcune scelte urbanistiche e sociali hanno conseguenze pesanti per i più poveri, e il progresso materiale portato dalla modernità è solo un'illusione. La sventura, spiega Pasolini nel suo film, non deriva necessariamente dal fatto che il Capitale impoverisce, ma dal fatto che il benessere materiale si accompagna a una perdita di umanità.»</em> (Eugenio Renzi)</p>
+      ]]></desc>
       <latLng>41.857861,12.551314</latLng>
       <pos>5203</pos>
       <cat>5</cat>
@@ -1022,6 +1058,7 @@
         <caption xml:lang="es">Fragmento de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="ca">Fragment de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="en">Excerpt from Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
+        <caption xml:lang="it">Da Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <rights>© Mediaset</rights>
       </m>
       <trello>kBTK9evY</trello>
@@ -1048,6 +1085,11 @@
       <cite><em>Mamma Roma</em></cite>
       <p>With his second film (but such was also the case with <a href="#!/en/map/16"><em>Accattone</em></a>), the filmmaker firmly differentiated himself from the naturalist heritage of his masters, <a href="#!/en/map/5">Roberto Rossellini</a> and Vittorio De Sica, reckoning that their neo-realistic style corresponded to a world view that was totally a thing of the past by the early 1960s. He took the radical opposite course and endeavoured to breath grandeur and lyricism into these precarious, cobbled together urban spaces, despised by architects and city planners.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>Eccola laggiù casa nostra, la vedi? Quella finestra lassù, dove batte il sole. Dove ci stanno quelle mutande stese! Lassù all'ultimo piano. Oh, ma guarda che qua ci stiamo solo un altro po' di giorni eh! Poi vedrai in che casa ti porta tua madre... Vedrai quanto è bella... Proprio una casa di gente perbene, di signori. Tutto un quartiere di un altro rango.</blockquote>
+      <cite><em>Mamma Roma</em></cite>
+      <p>Con il suo secondo film (ma anche con <a href="#!/it/map/16"><em>Accattone</em></a>), il regista prende decisamente le distanze dall'eredità naturalista dei suoi maestri <a href="#!/it/map/5">Roberto Rossellini</a> e Vittorio De Sica, poiché ritiene che il loro stile neorealista corrisponda a una visione del mondo che nei primi anni sessanta è ormai completamente superata. Pasolini assume una posizione radicalmente opposta e vuole infondere grandeur e poesia in queste aree urbane precarie, improvvisate e disprezzate da architetti e urbanisti.</p>
+      ]]></desc>
       <latLng>41.900578,12.534721</latLng>
       <date>1962</date>
       <pos>5203</pos>
@@ -1057,6 +1099,7 @@
         <caption xml:lang="es">Ettore Garofolo, Anna Magnani y Pier Paolo Pasolini durante el rodaje de Mamma Roma</caption>
         <caption xml:lang="ca">Ettore Garofolo, Anna Magnani i Pier Paolo Pasolini durant el rodatge de Mamma Roma</caption>
         <caption xml:lang="en">Ettore Garofolo, Anna Magnani and Pier Paolo Pasolini on the set of Mamma Roma</caption>
+        <caption xml:lang="it">Ettore Garofolo, Anna Magnani e Pier Paolo Pasolini sul set di Mamma Roma</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="video" id="2324676534001" wide="1">
@@ -1064,6 +1107,7 @@
         <caption xml:lang="es">Fragmento de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="ca">Fragment de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="en">Excerpt from Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
+        <caption xml:lang="it">Da Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <rights>© Mediaset</rights>
       </m>
       <trello>fSElUnPG</trello>
@@ -1073,7 +1117,7 @@
       <name xml:lang="en">Cemetery of Verano, Tiburtino</name>
       <name xml:lang="es">Cementerio de Verano, barrio del Tiburtino</name>
       <name xml:lang="fr">Cimetière de Verano, quartier du Tiburtino</name>
-      <name xml:lang="it">Cimetero di Verano, Tiburtino</name>
+      <name xml:lang="it">Cimitero del Verano, quartiere Tiburtino</name>
       <desc xml:lang="fr"><![CDATA[
       <blockquote>J'ai très bien compris que tu fonctionnes avec des acteurs improvisés que tu façonnes comme de la matière à l'état brut. Malgré toute leur intelligence instinctive, ce sont des robots entre tes mains. Eh bien moi, je ne suis pas un robot, j'ai eu ton scénario entre les mains pendant trois mois, je l'ai lu au moins quatre fois, j'en ai analysé le moindre état d'âme, du plus important au plus subtil.</blockquote>
       <cite>Anna Magnani, journal au magnétophone de Pier Paolo Pasolini, 4 mai 1962</cite>
@@ -1094,6 +1138,11 @@
       <cite>Anna Magnani in Pier Paolo Pasolini's tape-recorded diary, 4 May 1962</cite>
       <p>To interpret the title role in Mamma Roma, Pasolini chose Anna Magnani, whose archetypical image of the Roman woman of the people was constituted with Roberto Rossellini's <a href="#!/en/map/5"><em>Rome: Open City</em></a>. The collaboration between the actress and director did not always go smoothly: used to shooting with non-professionals, Pasolini had trouble with the professional nature of La Magnani's acting and her obsession with mimed 'naturalness'. He also deemed she had become too 'lower-middle class' to interpret this role of Mamma Roma as he wished.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>Io ho capito benissimo che tu funzioni con degli attori che prendi e plasmi una materia grezza. Essi, pur con la loro intelligenza istintiva, sono dei robot nelle tue mani. Ora, io non sono un robot, io ho avuto la tua sceneggiatura in mano per tre mesi, l'ho letta almeno quattro volte, ne ho analizzato il più piccolo stato d'animo, il più importante, il più sottile. Ora, da attrice, (no, io detesto essere chiamata così!), da animale istintivo quale sono!, mi sono subito messa dentro a questo tuo personaggio.</blockquote>
+      <cite>Anna Magnani, diario al registratore di Pier Paolo Pasolini, 4 maggio 1962</cite>
+      <p>Per il ruolo principale di <em>Mamma Roma</em> Pasolini sceglie Anna Magnani, la cui immagine archetipica di popolana romana era nata con <a href="#!/it/map/5"><em>Roma città aperta</em></a> di Roberto Rossellini. La collaborazione tra l'attrice e il regista non sarà priva di scontri: abituato a girare con interpreti non professionisti, Pasolini ha qualche problema con lo stile professionale della Magnani e con la sua ossessione per una recitazione «naturale». Inoltre ritiene che sia diventata troppo «piccolo borghese» per interpretare come lui voleva il ruolo di <em>Mamma Roma</em>.</p>
+      ]]></desc>
       <address>Via Del verano, 39</address>
       <latLng>41.901718,12.519929</latLng>
       <pos>5203</pos>
@@ -1103,6 +1152,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini y Anna Magnani durante el rodaje de Mamma Roma</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini i Anna Magnani durant el rodatge de Mamma Roma</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Anna Magnani on the set of Mamma Roma</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e Anna Magnani sul set di Mamma Roma</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="img" id="26-2" width="1200" height="1202">
@@ -1110,6 +1160,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini y Anna Magnani durante el rodaje de Mamma Roma</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini i Anna Magnani durant el rodatge de Mamma Roma</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Anna Magnani on the set of Mamma Roma</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e Anna Magnani sul set di Mamma Roma</caption>
         <rights>© Archivio storico Istituto Luce Cinecittà srl</rights>
       </m>
       <m type="img" id="26-3" width="1200" height="1252">
@@ -1117,6 +1168,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini y Anna Magnani durante el rodaje de Mamma Roma</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini i Anna Magnani durant el rodatge de Mamma Roma</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Anna Magnani on the set of Mamma Roma</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e Anna Magnani sul set di Mamma Roma</caption>
         <rights>© Archivio storico Istituto Luce Cinecittà srl</rights>
       </m>
       <m type="img" id="26-4" width="1200" height="1200">
@@ -1124,6 +1176,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini y Anna Magnani durante el rodaje de Mamma Roma</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini i Anna Magnani durant el rodatge de Mamma Roma</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Anna Magnani on the set of Mamma Roma</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e Anna Magnani sul set di Mamma Roma</caption>
         <rights>© Archivio storico Istituto Luce Cinecittà srl</rights>
       </m>
       <m type="video" id="2381358461001" wide="0">
@@ -1131,6 +1184,7 @@
         <caption xml:lang="es">Fragmento del documental A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <caption xml:lang="ca">Fragment del documental A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <caption xml:lang="en">Excerpt from A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
+        <caption xml:lang="it">Dal documentario A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <rights>© 1986 Antea Film srl / 23 Giugno srl © 2003 Ripley's Film srl - All rights reserved</rights>
       </m>
       <trello>A7UFifoJ</trello>
@@ -1157,6 +1211,11 @@
       <p>When, in Mamma Roma, Pasolini filmed Cecafumo, which adjoins the magnificent Park of Aqueducts and its archaeological ruins, it was not by chance – there is a discourse. Pasolini contrasts the Rome that he senses arriving with repulsion, that of the lower-middle-class transformation of the early Sixties, with Ancient Rome. He opposes the great Rome, that of a sublimated past, with the 20th-century Rome of working-class estates, built in series to pack in workers. It is a powerful contrast on a purely stylistic level, as well as in symbolic and ideological dimensions.</p>
       <p>This antagonism will be found again in <a href="#!/en/map/34">La Ricotta</a>, also partially shot in Cecafumo.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Pier Paolo Pasolini non è mai vissuto a Cecafumo ma conosce molto bene questa zona, come del resto altri quartieri di Roma. Da vero antropologo, analizza ed esplora a fondo le periferie in cui ambienterà i suoi film, le poesie o i romanzi. Le sue sono sempre scelte ponderate, volute, coerenti. Nulla è lasciato all'approssimazione.</p>
+      <p>Quando in <em>Mamma Roma</em> Pasolini riprende Cecafumo, un'area che confina con il magnifico Parco degli acquedotti e i suoi resti archeologici, non lo fa per caso. Segue un filo logico. Pasolini confronta la Roma che con orrore sente farsi sempre più vicina, quella della trasformazione piccolo-borghese dei primi anni sessanta, con la Roma antica. Contrappone la grande Roma dal passato idealizzato a quella dei quartieri popolari costruiti in serie nel Novecento per ammassare gli operai. È un'opposizione forte, condotta su un piano puramente stilistico, ma anche di grande portata simbolica e ideologica.</p>
+      <p>Questa stessa opposizione la ritroveremo in <a href="#!/it/map/34"><em>La Ricotta</em></a>, anch'esso in parte girato nel quartiere di Cecafumo.</p>
+      ]]></desc>
       <latLng>41.855362,12.536807</latLng>
       <pos>5203</pos>
       <cat>5</cat>
@@ -1165,6 +1224,7 @@
         <caption xml:lang="es">Ettore Garofolo, Anna Magnani y Pier Paolo Pasolini durante el rodaje de Mamma Roma</caption>
         <caption xml:lang="ca">Ettore Garofolo, Anna Magnani i Pier Paolo Pasolini durant el rodatge de Mamma Roma</caption>
         <caption xml:lang="en">Ettore Garofolo, Anna Magnani and Pier Paolo Pasolini on the set Mamma Roma</caption>
+        <caption xml:lang="it">Ettore Garofolo, Anna Magnani e Pier Paolo Pasolini sul set di Mamma Roma</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="img" id="28-2" width="1163" height="1200">
@@ -1172,6 +1232,7 @@
         <caption xml:lang="es">Ettore Garofolo y Anna Magnani durante el rodaje de Mamma Roma</caption>
         <caption xml:lang="ca">Ettore Garofolo i Anna Magnani durant el rodatge de Mamma Roma</caption>
         <caption xml:lang="en">Ettore Garofolo i Anna Magnani on the set of Mamma Roma</caption>
+        <caption xml:lang="it">Ettore Garofolo e Anna Magnani sul set di Mamma Roma</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="img" id="28-3" width="870" height="1144">
@@ -1179,19 +1240,21 @@
         <caption xml:lang="es">Fragmento del storyboard de Mamma Roma diseñado por Pier Paolo Pasolini</caption>
         <caption xml:lang="ca">Fragment del storyboard de Mamma Roma dissenyat per Pier Paolo Pasolini</caption>
         <caption xml:lang="en">Excerpt from the storyboard of Mamma Roma, drawn by Pier Paolo Pasolini</caption>
+        <caption xml:lang="it">Dallo storyboard di Mamma Roma, disegni di Pier Paolo Pasolini</caption>
       </m>
       <m type="video" id="2385634862001" wide="1">
         <caption xml:lang="fr">Extrait de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="es">Fragmento de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="ca">Fragment de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="en">Excerpt from Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
+        <caption xml:lang="it">Da Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <rights>© Mediaset</rights>
       </m>
       <trello>GfWxXOB3</trello>
     </place>
     <place id="29">
-      <name xml:lang="it">Il Palazzaccio, Piazza Cavour</name>
-      <name xml:lang="fr">Le Palais de Justice, Piazza Cavour</name>
+      <name xml:lang="it">Il Palazzo di Giustizia, piazza Cavour</name>
+      <name xml:lang="fr">Le Palais de Justice, piazza Cavour</name>
       <name xml:lang="en">The Palace of Justice, Piazza Cavour</name>
       <name xml:lang="es">Il Palazzaccio, Piazza Cavour</name>
       <name xml:lang="ca">Il Palazzaccio, Piazza Cavour: judici de La Ricotta</name>
@@ -1220,6 +1283,12 @@
       <p>The trial took a turn that was more than absurd: hoping to give more force to his summing-up, the counsel for the prosecution had brought an editing console into the courtroom to analyze the incriminating sequences of the film, the object of the offence. First of all, the magistrate managed to have the film confiscated, then to have the segment made by Pasolini deleted. RoGoPaG, a film made up of sketches – its title is formed by the first syllables of its directors' names: Rossellini, Godard, Pasolini and Gregoretti –, was thus amputated of its fundamental episode, lasting nearly a half-hour. Pasolini also received a four-month suspended sentence on 7 March 1963. Finally, the filmmaker succeeded in explaining himself and was acquitted on 6 May 1964 by the court of appeals. In the end, the <a href="#!/en/map/34"><em>La Ricotta</em></a> trial went on for nearly six years, in several proceedings and on several grounds, and would finally conclude on 23 February 1968 with the acquittal of Pasolini, who even obtained damages.</p>
       <p>For Pasolini, this trial was truly decisive – to the point that he decided to shoot <em>The Gospel According to Saint Matthew</em> to show that, even as an atheist, he respected religion as ideology of the people. For in Italy, in regions like Friuli, or in working-class Rome, religion was close to a philosophy of working-class life. And he would go so far as to radically modify his style, reckoning that one cannot film the story of the Gospel as one reproduces the Rome of <a href="#!/en/map/16"><em>Accattone</em></a>. In this sense, <em>The Gospel</em> is a different film from Accattone where the point of view is frontal, almost mediaeval, in its aesthetic representation of the world. <em>The Gospel</em> is thus more dynamic, shot with a sort of freedom in the camera movements that was absent in his earliest films.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>L'accusa era quella di vilipendio alla religione. Molto più giusto sarebbe stato incolpare il regista di aver vilipeso i valori della piccola e media borghesia italiana.</blockquote>
+      <cite>Alberto Moravia</cite>
+      <p>Il processo contro Pasolini per <a href="#!/it/map/34"><em>La Ricotta</em></a> prende rapidamente una piega più che assurda: volendo dare più forza alla sua requisitoria, il pubblico ministero fa portare in aula una moviola per poter analizzare una ad una le inquadrature incriminate, il corpo del reato. In una prima fase, il magistrato riesce comunque a sequestrare la pellicola, poi a far tagliare il segmento realizzato da Pasolini. <em>Ro.Go.Pa.G.</em>, film in quattro episodi il cui titolo è formato dalle prime sillabe dei registi Rossellini, Godard, Pasolini e Gregoretti, viene così amputato del suo pezzo fondamentale, della durata di circa mezz'ora. Il 7 marzo 1963, al termine del processo di primo grado, Pasolini viene condannato a quattro mesi con la condizionale. In seguito il regista riuscirà a far valere le sue ragioni e il 6 maggio 1964 sarà assolto dalla Corte d'appello. Il processo a <em>La Ricotta</em>, in varie istanze e con diverse motivazioni, durerà in tutto quasi sei anni e terminerà il 23 febbraio 1968 con il proscioglimento di Pasolini, che otterrà anche il pagamento dei danni e degli interessi.</p>
+      <p>Questo processo è un evento fondamentale nella vita di Pasolini, tanto che il poeta decide di girare <em>Il Vangelo secondo Matteo</em> per dimostrare che, pur essendo ateo, rispetta la religione intesa come ideologia del popolo. In Italia infatti – soprattutto in regioni come il Friuli o nella Roma più popolare – la religione è molto simile a una filosofia di vita. Inoltre, poiché pensa che la storia del <em>Vangelo secondo Matteo</em> non si possa raccontare allo stesso modo della Roma di <a href="#!/it/map/16"><em>Accattone</em></a>, Pasolini modifica radicalmente il suo stile. Se Accattone ha un taglio frontale ed quasi medievale nella rappresentazione estetica del mondo, <em>Il Vangelo secondo Matteo</em> è invece più dinamico, girato con una sorta di nuova scioltezza nei movimenti di camera.</p>
+      ]]></desc>
       <latLng>41.905743,12.469485</latLng>
       <date>4 octobre 1962</date>
       <pos>5389</pos>
@@ -1229,6 +1298,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini</caption>
         <caption xml:lang="en">Pier Paolo Pasolini</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini va al Palazzo di Giustizia per il processo a La Ricotta</caption>
         <rights>© Archivio Pier Paolo Pasolini</rights>
       </m>
       <m type="img" id="29-2" width="1600" height="1085">
@@ -1236,6 +1306,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini</caption>
         <caption xml:lang="en">Pier Paolo Pasolini</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini durante un'udienza al processo a La Ricotta</caption>
         <rights>© Carlo Riccardi / Archivio Riccardi</rights>
       </m>
       <m type="img" id="29-3" width="1600" height="1193">
@@ -1243,6 +1314,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini</caption>
         <caption xml:lang="en">Pier Paolo Pasolini</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini con, tra gli altri, Alberto Moravia durante il processo a La Ricotta</caption>
         <rights>© DUfoto / Foto Scala / Cineteca di Bologna</rights>
       </m>
       <m type="img" id="29-4" width="1600" height="1159">
@@ -1250,6 +1322,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini</caption>
         <caption xml:lang="en">Pier Paolo Pasolini</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini</caption>
         <rights>© Archivio Pier Paolo Pasolini</rights>
       </m>
       <m type="img" id="29-5" width="1587" height="1200">
@@ -1257,6 +1330,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini</caption>
         <caption xml:lang="en">Pier Paolo Pasolini</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini</caption>
         <rights>© Archivio Pier Paolo Pasolini</rights>
       </m>
       <m type="img" id="29-6" width="1600" height="1059">
@@ -1264,6 +1338,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini</caption>
         <caption xml:lang="en">Pier Paolo Pasolini</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini</caption>
         <rights>© Archivi Farabola</rights>
       </m>
       <trello>L0lrIAiD</trello>
@@ -1273,7 +1348,7 @@
       <name xml:lang="es">Acqua Santa</name>
       <name xml:lang="es">Parco de la Acqua Santa</name>
       <name xml:lang="fr">Parc de l'Acqua Santa</name>
-      <name xml:lang="it">Pratoni dell'Acqua Santa</name>
+      <name xml:lang="it">Parco dell'Acqua Santa</name>
       <desc xml:lang="fr"><![CDATA[
       <p><em>La Ricotta</em> est tournée dans les mêmes décors que <a href="#!/fr/map/28">la seconde partie de <em>Mamma Roma</em></a>&nbsp;: les quartiers de Cecafumo, de Cinecittà, et plus particulièrement la zone dite de l'Acqua Santa, avec ses ruines antiques.</p>
       <p>C'est sur ce tournage que Pier Paolo Pasolini rencontre un jeune garçon des <em>borgate</em>, Ninetto Davoli, apprenti menuisier, qui sera le grand amour de sa vie, et lui apportera beaucoup de joie et de gaieté. Dès lors, Ninetto l'accompagne régulièrement dans ses voyages et dans ses films, où il joue des rôles d'ange innocent aux cheveux bouclés.</p>
@@ -1294,6 +1369,11 @@
       <p>It was on this shoot that Pier Paolo Pasolini met a young boy from the <em>borgate</em>, Ninetto Davoli, an apprentice carpenter, who would be the great love of his life and bring him much joy and gaiety. From that time on, Ninetto accompanied him regularly in his travels and films, in which he played roles of an innocent, curly-haired angel.</p>
       <p>The film caused a huge scandal. At the premiere of <em>RoGoPaG</em> on 1st March 1963, the screening was interrupted by a carabineer mandated by the deputy public prosecutor of the Republic of Rome. The motive invoked: the sketch La Ricotta outraged the state religion in certain scenes that showed the Passion of Christ in a mocking way. Pasolini was <a href="#!/en/map/29">taken to court</a> and, even though backed up by some important lawyers, chose to defend himself. In an atmosphere of great political tension and a changing cultural and religious context, Pasolini's indictment aroused debates, articles, a trend of opinion against censorship and myriad polemics that went far beyond the director's personality. Yet the Vatican's censorship commission did not condemn the film. Pasolini was anxious to defend himself against the accusations levelled at his film in a text argued point by point in which he declared that 'the story of the Passion was the greatest one [he] knew'. Moreover, some Catholic dailies even published favourable reviews of the film…</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p><em>La Ricotta</em> e <a href="#!/it/map/28">la seconda parte di <em>Mamma Roma</em></a> sono girati negli stessi luoghi: i quartieri Cecafumo, Cinecittà e soprattutto la zona detta dell'Acqua Santa, con le antiche rovine romane.</p>
+      <p>È qui che Pier Paolo Pasolini incontra un giovane ragazzo di borgata, Ninetto Davoli, apprendista falegname, che sarà il grande amore della sua vita e saprà accendere in lui gioia e buon umore. Da allora Ninetto sarà sempre al suo fianco nei viaggi e nei film, in cui avrà il ruolo di un angelo innocente dai capelli ricciuti.</p>
+      <p>Il film suscita un grande scandalo. Alla prima di <em>Ro.Go.Pa.G.</em>, il 1° marzo 1963, la proiezione viene interrotta da un ufficiale dei carabinieri inviato dal sostituto procuratore della Repubblica di Roma. Motivo: l'episodio de <em>La Ricotta</em> vilipende la religione di stato con alcune scene che presentano la Passione di Cristo in una luce derisoria. Viene quindi istruito <a href="#!/it/map/29">un processo</a> contro Pasolini, il quale, pur avendo dalla sua parte vari avvocati importanti, decide di difendersi da sé. In un clima di grande tensione politica, in un contesto culturale e religioso in pieno mutamento, l'accusa contro Pasolini suscita dibattiti, articoli, movimenti d'opinione contro la censura e molte polemiche che vanno ben oltre le questioni sulla personalità del regista. Tuttavia la commissione di censura del Vaticano non condanna il film. Pasolini ha voluto difendersi dalle accuse in un testo argomentato punto per punto, in cui dichiara: <em>«la storia della Passione è la più grande che io conosca»</em>.</p>
+      ]]></desc>
       <latLng>41.854092,12.532825</latLng>
       <pos>5388</pos>
       <cat>7</cat>
@@ -1302,6 +1382,7 @@
         <caption xml:lang="es">Orson Welles durante el rodaje de La Ricotta</caption>
         <caption xml:lang="ca">Orson Welles durant el rodatge de La Ricotta</caption>
         <caption xml:lang="en">Orson Welles on the set of La Ricotta</caption>
+        <caption xml:lang="it">Orson Welles sul set di La Ricotta</caption>
         <rights>© Mario Dondero, Elisa Dondero</rights>
       </m>
       <m type="img" id="34-2" width="1584" height="1200">
@@ -1309,12 +1390,14 @@
         <caption xml:lang="es">Elsa Morante, Bernardo Bertolucci y Pier Paolo Pasolini durante el rodaje de La Ricotta</caption>
         <caption xml:lang="ca">Elsa Morante, Bernardo Bertolucci i Pier Paolo Pasolini durant el rodatge de La Ricotta</caption>
         <caption xml:lang="en">Elsa Morante, Bernardo Bertolucci and Pier Paolo Pasolini on the set of La Ricotta</caption>
+        <caption xml:lang="it">Elsa Morante, Bernardo Bertolucci e Pier Paolo Pasolini sul set di La Ricotta</caption>
       </m>
       <m type="img" id="34-4" width="1600" height="1067">
         <caption xml:lang="fr">Pier Paolo Pasolini et Orson Welles sur le plateau de La Ricotta</caption>
         <caption xml:lang="es">Pier Paolo Pasoliniy y Orson Welles durante el rodaje de La Ricotta</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini i Orson Welles durant el rodatge de La Ricotta</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Orson Welles on the set of La Ricotta</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e Orson Welles sul set di La Ricotta</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="img" id="34-3" width="812" height="1200">
@@ -1322,6 +1405,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini y Mario Cipriani durante el rodaje de La Ricotta</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini i Mario Cipriani durant el rodatge de La Ricotta</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Mario Cipriani on the set of La Ricotta</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e Mario Cipriani sul set di La Ricotta</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="img" id="34-5" width="824" height="1200">
@@ -1329,6 +1413,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini durante el rodaje de La Ricotta</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini durant el rodatge de La Ricotta</caption>
         <caption xml:lang="en">Pier Paolo Pasolini on the set of La Ricotta</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini sul set di La Ricotta</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="video" id="2320237572001" wide="1">
@@ -1336,12 +1421,14 @@
         <caption xml:lang="es">Fragmento de La Ricotta</caption>
         <caption xml:lang="ca">Fragment de La Ricotta</caption>
         <caption xml:lang="en">Excerpt from La Ricotta</caption>
+        <caption xml:lang="it">Da La Ricotta</caption>
       </m>
       <m type="video" id="2381452419001" wide="0">
         <caption xml:lang="ca">Fragment de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <caption xml:lang="en">Excerpt from Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <caption xml:lang="es">Fragmento de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <caption xml:lang="fr">Extrait de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
+        <caption xml:lang="it">Da Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <rights>© INA</rights>
       </m>
     </place>
@@ -1363,6 +1450,10 @@
       <p><em>Uccellacci e uccellini</em> is not a film about neighbourhoods, as <a href="#!/en/map/16"><em>Accattone</em></a> or<a href="#!/en/map/61"><em>Mamma Roma</em></a> might have been. Pasolini's third film draws perspective lines. The two herœs, portrayed by Totò and Ninetto, go increasingly far from the centre to explore the different circles of a Roman periphery in full upheaval in the 1960s: the slums where poor concrete buildings were springing up, the great construction site of the ring road (the <em>anulare</em>), the remains of countryside and farms doomed to disappear in the very near future.</p>
       <p>In so doing, the filmmaker shows a Rome in full transformation, not only ideological, political, or intellectual, but also physical. A capital that was in the process of 'colonizing' the countryside and the rest of Italy. By filming the ring road and the motorway out to Fiumicino (the airport built for the1960 Olympic Games), Pasolini describes his city as one from which it would henceforth be necessary to flee the evolution and to seek an alternative, going as far as possible in the Third World: Cuba, Istanbul, Africa, Asia...</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p><em>Uccellacci e uccellini</em> non è un film sui quartieri romani, come potevano essere <a href="#!/it/map/16"><em>Accattone</em></a> o <a href="#!/it/map/61"><em>Mamma Roma</em></a>. Il terzo film di Pasolini disegna piuttosto delle linee di fuga. Nel pieno dei turbolenti anni sessanta, i due eroi, interpretati da Totò e Ninetto Davoli, si allontanano sempre più dal centro per muoversi da un punto all'altro della periferia romana: le baraccopoli in mezzo alle quali spuntano poveri edifici di cemento, il grande cantiere del raccordo anulare, i pochi resti della campagna e delle fattorie, destinati a scomparire in fretta.</p>
+      <p>In tal modo il regista mostra una Roma in piena trasformazione non solo dal punto di vista ideologico, politico e intellettuale, ma anche fisico: una capitale che sta per "colonizzare" la campagna e il resto d'Italia. Filmando il raccordo anulare e l'autostrada per Fiumicino (l'aeroporto fu costruito per le Olimpiadi del 1960), Pasolini descrive la sua Roma come una città dal cui futuro deve ormai fuggire il più lontano possibile, andando magari a cercare un'alternativa nel terzo mondo: Cuba, Istanbul, Africa, Asia...</p>
+      ]]></desc>
       <latLng>41.764141,12.238770</latLng>
       <pos>6482</pos>
       <cat>6</cat>
@@ -1371,6 +1462,7 @@
         <caption xml:lang="es">Totò, Ninetto Davoli y Pier Paolo Pasolini durante el rodaje de Uccellacci e uccellini</caption>
         <caption xml:lang="ca">Totò, Ninetto Davoli i Pier Paolo Pasolini durant el rodatge de Uccellacci e uccellini</caption>
         <caption xml:lang="en">Totò, Ninetto Davoli and Pier Paolo Pasolini on the set of The Hawks and the Sparrows</caption>
+        <caption xml:lang="it">Totò, Ninetto Davoli e Pier Paolo Pasolini sul set di Uccellacci e uccellini</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="video" id="2381579825001" wide="1">
@@ -1378,13 +1470,15 @@
         <caption xml:lang="en">Excerpt from The Hawks and the Sparrows (Pier Paolo Pasolini, 1966)</caption>
         <caption xml:lang="es">Fragmento de Uccellacci e uccellini (Pier Paolo Pasolini, 1966)</caption>
         <caption xml:lang="fr">Extrait de Des oiseaux, petits et gros (Pier Paolo Pasolini, 1966)</caption>
+        <caption xml:lang="it">Da Uccellacci e uccellini (Pier Paolo Pasolini, 1966)</caption>
       </m>
     </place>
     <place id="37">
-      <name xml:lang="it">Quartier de l'EUR, via Eufrate, 9</name>
-      <name xml:lang="fr">Quartier de l'EUR, via Eufrate, 9</name>
-      <name xml:lang="es">El barrio de la EUR, via Eufrate, 9</name>
       <name xml:lang="ca">El barri de la EUR, via Eufrate, 9</name>
+      <name xml:lang="en">EUR district, via Eufrate, 9</name>
+      <name xml:lang="es">El barrio de la EUR, via Eufrate, 9</name>
+      <name xml:lang="fr">Quartier de l'EUR, via Eufrate, 9</name>
+      <name xml:lang="it">Quartiere dell'EUR, via Eufrate, 9</name>
       <address>Via Eufrate, 9, 00144 Roma</address>
       <desc xml:lang="fr"><![CDATA[
       <p>Désormais plus à l'aise financièrement, Pasolini peut s'offrir un grand appartement dans le quartier calme et résidentiel de l'EUR (Esposizione Universale di Roma, une zone construite dans les années 30 et destinée à accueillir l'exposition universelle de 1942, qui n'eut pas lieu).</p>
@@ -1408,7 +1502,13 @@
       <p>Henceforth better off, financially, Pasolini could offer himself a large flat in the calm residential neighbourhood of the EUR (Esposizione Universale di Roma, a district built in the Thirties to host the 1942 World Fair, which never took place).</p>
       <p>So, in March 1963, he moved in with his mother and cousin, Graziella Chiarcossi, who joined them definitively, at 9 via Eufrate. The quarter, which stands on a hill, was rather bourgeois and protected. The view offered what still remained of the countryside and farms, as well as the large construction sites on the periphery, and even, on clear days, the sea and the beach at Ostia. The flat was located not far from the large dome of the basilica of Saints Peter and Paul and had a small hanging garden in which his mother could garden as she pleased.</p>
       <p>From the viewpoint of Pasolini's Roman trajectory, the EUR was a strange choice. This modern, visionary district had been designed and thought out by the fascists, the opposite of the <em>borgate</em> and the animated city centre. In a way, this move marked a turning point in Pasolini's life, between his decision to settle in Rome in 1950, and the last, more tense phase of his life, which coincided with the reflections of <em>Scritti corsari</em> and the novel <em>Petrolio</em>.</p>
-      <p>Even though turned towards the sea, like an opening onto the world, this flat would be his last domicile. The first verses of the poem 'Looking for a home' (in the collection <em>Poesia</em> in forma di rosa) thus take on a premonitory nature: 'I am looking for the house of my sepulchre...'</p> 
+      <p>Even though turned towards the sea, like an opening onto the world, this flat would be his last domicile (omitting his <a href="#!/en/map/40">Chia</a> and <a href="#!/en/map/41">Sabaudia</a> "hideaways"). The first verses of the poem "Looking for a home" (in the collection <em>Poesia</em> in forma di rosa) thus take on a premonitory nature: "I am looking for the house of my sepulchre..."</p> 
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Pasolini, ormai più tranquillo dal punto di vista economico, può permettersi un grande appartamento nella tranquilla zona residenziale dell'EUR, un'area edificata negli anni trenta e destinata a ospitare l'Esposizione Universale di Roma del 1942, che però non ebbe luogo.</p>
+      <p>Nel marzo 1963 si trasferisce quindi al numero 9 di via Eufrate con la madre e la cugina Graziella Chiarcossi, che è venuta ad abitare con loro. Il quartiere, situato su una collina, è piuttosto borghese e ben riparato. La vista offre allo sguardo quel che ancora rimane della campagna e delle fattorie, ma anche i cantieri della periferia in costruzione, e nelle giornate più limpide, persino il mare e la spiaggia di Ostia. L'appartamento non è lontano dalla grande cupola della basilica di San Pietro e Paolo e ha un piccolo giardino-terrazza in cui la madre può coltivare i suoi fiori.</p>
+      <p>Nel percorso romano di Pasolini, quella dell'EUR è una scelta strana. Il quartiere, moderno e visionario, è stato progettato e ideato dai fascisti, al contrario delle borgate e dell'animato centro città. Questo spostamento segna in un certo senso un punto di svolta nella vita di Pasolini, tra la decisione del 1950 di trasferirsi a Roma, e l'ultima fase della sua vita, più tesa e tragica, che coincide con le riflessioni degli <em>Scritti corsari</em> e del romanzo <em>Petrolio</em>.</p>
+      <p>L'appartamento, rivolto verso il mare come a una finestra sul mondo, sarà la sua ultima dimora (se si escludono i suoi «rifugi» di <a href="#!/it/map/40">Chia</a> e <a href="#!/it/map/41">Sabaudia</a>). I versi iniziali della poesia «La Ricerca di una casa» (nella raccolta <em>Poesia in forma di rosa</em>) hanno carattere di premonizione: <em>«Ricerco la casa della mia sepoltura...»</em></p>
       ]]></desc>
       <latLng>41.832489,12.457924</latLng>
       <date>1963</date>
@@ -1420,6 +1520,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini y su madre en su piso de de l'EUR, via Eufrate, 9</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini i la seva mare al seu pis de l'EUR, via Eufrate, 9</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and his mother in their flat in EUR district, via Eufrate, 9</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e la madre, nell'appartamento dell'EUR in via Eufrate 9</caption>
         <rights>© Mario Dondero, Elisa Dondero</rights>
       </m>
       <m type="video" id="2381449889001" wide="0">
@@ -1427,6 +1528,7 @@
         <caption xml:lang="en">Excerpt from Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <caption xml:lang="es">Fragmento de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <caption xml:lang="fr">Extrait de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
+        <caption xml:lang="it">Da Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <rights>© INA</rights>
       </m>
       <m type="video" id="2292442024001" wide="0">
@@ -1434,6 +1536,7 @@
         <caption xml:lang="es">Fragmento del documental Pier Paolo Pasolini : vivre et encore plus (Michel Random, 1974)</caption>
         <caption xml:lang="ca">Fragment del documental Pier Paolo Pasolini : vivre et encore plus (Michel Random, 1974)</caption>
         <caption xml:lang="en">Excerpt from Pier Paolo Pasolini : vivre et encore plus (Michel Random, 1974)</caption>
+        <caption xml:lang="it">Da Pier Paolo Pasolini: vivre et encore plus (Michel Random, 1974)</caption>
       </m>
     </place>
     <place id="38">
@@ -1462,6 +1565,11 @@
       <p>Not even the student demonstrations of 1968, which he perceived as a simple outburst of bourgeois young people craving action. It was around the architecture school at Valle Giulia (in the Parioli district, near the Villa Borghese) that the very violent clashes between police and students were concentrated. Whilst getting ready for the release of <em>Teorema</em>, Pasolini published a poem in <em>Nuovi Argomenti</em>, the review –&nbsp;with a narrow readership&nbsp;– that he co-edited with Alberto Moravia. The poem contrasted the young policemen, coming from the proletariat of southern Italy, with the bourgeois rebels of '68. The weekly <em>L'Espresso</em> smelled a scoop and decided to publish the poem, with another title, a hoax: 'I hate you, dear students', a title fundamentally different from the original: 'The PCI [Italian Communist Party] to the young'.</p>
       <p>The confusion was total, and the primary meaning of the poem –&nbsp;infinitely more complex than its reductive title&nbsp;– was completely distorted. Relations between Pasolini and students then stiffened seriously...</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>La fine degli anni sessanta è per Pasolini un momento di crescente delusione di fronte all'evoluzione dell'Italia contemporanea. Lui che ha sempre combattuto per la legittimazione del piccolo popolo dei bassifondi di Roma, ora assiste impotente all'emergere di una società dei consumi che detesta profondamente. E gli sembra che nulla potrà fermare questo processo di disumanizzazione.</p>
+      <p>Neanche le manifestazioni studentesche del 1968, che il poeta interpreta come semplice esuberanza giovanile dei figli della borghesia. I violenti scontri tra polizia e studenti si concentrano nei pressi della facoltà di Architettura, a Valle Giulia (nel quartiere Parioli, vicino a Villa Borghese). Mentre si prepara all'uscita nelle sale di <em>Teorema</em>, Pasolini pubblica una lunga poesia su <em>Nuovi Argomenti</em>, la rivista a tiratura limitata di cui è co-direttore con Alberto Moravia e Alberto Carocci. I versi contrappongono i giovani poliziotti provenienti dal proletariato del sud Italia, ai rivoltosi borghesi sessantottini. Il settimanale <em>L'Espresso</em> fiuta lo scoop e decide di pubblicare la poesia col titolo mistificatorio «Vi odio, cari studenti». Un titolo del tutto diverso da quello originale che recitava: «Il PCI ai giovani» !</p>
+      <p>La confusione è totale, e il senso primo della poesia –&#160;infinitamente più complessa di quanto lasci supporre il suo titolo riduttivo&#160;– viene del tutto fuorviato. I rapporti tra Pasolini e la gioventù studentesca si fanno allora davvero tesi...</p>
+      ]]></desc>
       <latLng>41.918648,12.480033</latLng>
       <pos>7365</pos>
       <cat>3</cat>
@@ -1470,6 +1578,7 @@
         <caption xml:lang="es">Incidentes entre estudiantes y las fuerzas de seguridad en la Facultad de Arquitectura </caption>
         <caption xml:lang="ca">Incidents entre estudiants i les forces de seguretat a la Facultat d'Arquitectura</caption>
         <caption xml:lang="en">Incidents at the School of architecture, Valle Giulia</caption>
+        <caption xml:lang="it">Scontri fra studenti e forze dell'ordine alla facoltà di Architettura, Valle Giulia</caption>
         <rights>© Contrasto</rights>
       </m>
       <m type="img" id="38-3" width="1600" height="1067">
@@ -1477,12 +1586,14 @@
         <caption xml:lang="es">Incidentes entre estudiantes y las fuerzas de seguridad en la Facultad de Arquitectura </caption>
         <caption xml:lang="ca">Incidents entre estudiants i les forces de seguretat a la Facultat d'Arquitectura</caption>
         <caption xml:lang="en">Incidents at the School of architecture, Valle Giulia</caption>
+        <caption xml:lang="it">Scontri fra studenti e forze dell'ordine alla facoltà di Architettura, Valle Giulia</caption>
       </m>
       <m type="img" id="38-4" width="1600" height="1067">
         <caption xml:lang="fr">Incidents entre étudiants et forces de l'ordre à la Faculté d'architecture, Valle Giulia</caption>
         <caption xml:lang="es">Incidentes entre estudiantes y las fuerzas de seguridad en la Facultad de Arquitectura </caption>
         <caption xml:lang="ca">Incidents entre estudiants i les forces de seguretat a la Facultat d'Arquitectura</caption>
         <caption xml:lang="en">Incidents at the School of architecture, Valle Giulia</caption>
+        <caption xml:lang="it">Scontri fra studenti e forze dell'ordine alla facoltà di Architettura, Valle Giulia</caption>
         <rights>© Contrasto</rights>
       </m>
       <m type="img" id="38-5" width="803" height="1200">
@@ -1490,16 +1601,17 @@
         <caption xml:lang="es">Pier Paolo Pasolini asiste a una asamblea de las Juventudes Comunistas 8 años más tarde, en 1974. En segundo plano, Gianni Borgna y Antonio Semerari</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini assisteix a una assemblea de les Joventuts Comunistes vuit anys més tard, el 1974. En segon pla, Gianni Borgna i Antonio Semerari</caption>
         <caption xml:lang="en">Pier Paolo Pasolini at an Italian Communist Youth meeting held later, in 1974. Gianni Borgna and Antonio Semerari can be seen in the background</caption>
+        <caption xml:lang="it">Nel 1974, otto anni dopo, Pier Paolo Pasolini interviene a un'assemblea dei Giovani Comunisti. In secondo piano, Gianni Borgna e Antonio Semerari</caption>
         <rights>© Istituto Luce Historical Archive</rights>
       </m>
       <trello>yJhmZcaq</trello>
     </place>
     <place id="39">
-      <name xml:lang="it">Studi della RAI</name>
       <name xml:lang="ca">Estudis de la RAI</name>
       <name xml:lang="en">RAI studios</name>
-      <name xml:lang="fr">Studios de la RAI</name>
       <name xml:lang="es">Estudios de la RAI</name>
+      <name xml:lang="fr">Studios de la RAI</name>
+      <name xml:lang="it">Studi della RAI</name>
       <desc xml:lang="fr"><![CDATA[
       <p>En Italie à la fin des années 60, Pasolini est l'un des plus puissants contestataires du medium télévision. À l'instar d'un Marshall McLuhan, le cinéaste voyait la télévision comme une source de désinformation et de «&nbsp;déséducation&nbsp;» d'un public toujours plus passif. Le coup de force de Pasolini aura été de contester la télévision en son sein même. Invité d'Enzo Biagi, célèbre journaliste du <em>Corriere della Sera</em>, il conteste le journaliste et le système médiatique en direct, durant l'émission à laquelle il a été convié.</p>
       <p>Ce discours critique, Pasolini le développera surtout dans son documentaire <em>La Rage</em>. Un texte fondateur, entièrement en vers lus par le peintre <a href="#!/fr/map/57">Renato Guttuso</a>, et le célèbre écrivain Giorgio Bassani, ami intime de Pasolini. Deux voix non professionnelles, un peu «&nbsp;sales&nbsp;», mais particulièrement expressives.</p>
@@ -1514,7 +1626,11 @@
       ]]></desc>
       <desc xml:lang="en"><![CDATA[
       <p>In Italy at the end of the Sixties, Pasolini was one of the most powerful protestors against the television medium. Like a Marshall McLuhan, the filmmaker viewed television as a source of disinformation and the 'dis-education' of an increasingly passive public. Pasolini's coup will have been to contest television within it. Invited by Enzo Biagi, a famous journalist of the <em>Corriere della Sera</em>, he contested the journalist and the media system live during the broadcast on which he was a guest.</p>
-      <p>Pasolini would especially develop this critical discourse in his documentary <em>The Rage of Pasolini</em>. A founding text, entirely in verses, was read by the painter <a href="#!/en/map/57">Renato Guttuso</a> and the famous writer Giorgio Bassani, a close friend of Pasolini's. These two non-professional voices were a bit 'dirty' but particularly expressive.</p>
+      <p>Pasolini would especially develop this critical discourse in his documentary <em>The Rage of Pasolini</em>. A founding text, entirely in verses, was read by the painter <a href="#!/en/map/57">Renato Guttuso</a> and the famous writer Giorgio Bassani , a close friend of Pasolini's. These two non-professional voices were a bit 'dirty' but particularly expressive.</p>
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Nell'Italia della fine degli anni sessanta, Pasolini è uno dei più fieri oppositori del mezzo televisivo. Al pari di Marshall McLuhan, il regista vede la televisione come fonte di disinformazione e «diseducazione» di un pubblico sempre più passivo. Il colpo da maestro di Pasolini è criticare la televisione dal suo stesso interno. Ospite di Enzo Biagi, noto giornalista del <em>Corriere della Sera</em>, Pasolini contesta il giornalista e il sistema mediatico in diretta, durante il programma al quale è stato invitato.</p>
+      <p>Pasolini svilupperà questa valutazione critica soprattutto nel documentario <em>La Rabbia</em>. Un testo fondamentale, in cui la parte in prosa è letta dal pittore <a href="#!/it/map/57">Renato Guttuso</a> e quella in poesia dal celebre scrittore Giorgio Bassani, caro amico di Pasolini. Due voci non professioniste, un po' «sporche» ma particolarmente espressive.</p>
       ]]></desc>
       <address>Viale Giuseppe Mazzini, 14, 00195 Roma</address>
       <latLng>41.91764, 12.467064</latLng>
@@ -1525,6 +1641,7 @@
         <caption xml:lang="es">La RAI</caption>
         <caption xml:lang="ca">Seu de la RAI</caption>
         <caption xml:lang="en">The RAI headquarters</caption>
+        <caption xml:lang="it">Sede della RAI</caption>
       </m>
       <trello>DUcrzwlX</trello>
     </place>
@@ -1562,6 +1679,13 @@
       <p>It was during this period that he decided to take up painting again, as in the early days in Friuli, and had an annex built below the house, designed as a painter's studio. The dwelling is fairly ascetic, furnished soberly, with large picture windows giving directly onto the landscape. That is where he wrote a large part of his <em>Scritti corsari</em> and numerous pages of <em>Petrolio</em>, his last novel, which remained unfinished.</p>
       <p>It was also in the Tower of Chia that a young photographer, Dino Pedriali, took some of the most representative photos from this period in Pasolini's life.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>Se non avessi trovato un luogo di così straordinaria bellezza (una torre in un bosco di querce che domina una vallata), probabilmente non mi sarei mai deciso a passare tanto tempo in campagna. La mia scelta non è stata di ordine pratico, ma estetico. Poi, a cose fatte, mi sono reso conto che in realtà si trattava di un ritorno: tutta la mia infanzia è stata contadina e rurale. Inoltre, in nessun altro luogo lavoro così bene come in questo bosco di querce così perfettamente arcaico. Dico «lavoro», e non «vivo». In realtà io amo vivere nella grande città. Ma non avrei mai immaginato che le città italiane sarebbero diventate luoghi così orribili.</blockquote>
+      <cite>Pier Paolo Pasolini, testo inedito, 1975</cite>
+      <p>Pier Paolo Pasolini scopre la torre di Chia nella primavera del 1964, durante le riprese de <em>Il Vangelo secondo Matteo</em>. Mentre gira la scena del battesimo di Gesù lungo il torrente di Chia, viene colto da dubbi riguardo allo stile della prima settimana di riprese. Dopo una notte di crisi stabilisce di cambiare tecnica e vuole filmare di nuovo la scena dall'alto, in elicottero. Ma la produzione non ha i mezzi, quindi il regista decide di scalare le pendici del torrente e filmare la scena dalla sommità con una focale lunga. Si imbatte allora nei resti della torre medievale: la vista che si gode da lì gli ricorda un paesaggio ariostesco e non avrà pace finché non avrà acquistata. All'inizio degli anni settanta riuscirà nel suo intento e farà costruire una casa addossata alle mura in rovina, in cui andrà a scrivere, a dipingere, e di tanto in tanto riceverà gli amici.</p>
+      <p>In questo periodo Pasolini torna a dedicarsi alla pittura, come faceva all'inizio in Friuli, e si fa costruire una dépendance, al di sotto della casa, da adibire a laboratorio. L'abitazione è piuttosto austera, arredata in modo semplice, con grandi vetrate che si affacciano direttamente sul paesaggio. È qui che il poeta scriverà gran parte degli <em>Scritti corsari</em> e molte pagine di <em>Petrolio</em>, l'ultimo romanzo rimasto incompiuto.</p>
+      <p>Inoltre nella torre di Chia un giovane fotografo, Dino Pedriali, scatta alcune tra le foto più rappresentative di questo periodo della vita di Pasolini.</p>
+      ]]></desc>
       <latLng>42.466045,12.309065</latLng>
       <date>1970</date>
       <pos>8340</pos>
@@ -1571,6 +1695,7 @@
         <caption xml:lang="es">Rodaje de El Evangelio según san Mateo, en la parte de abajo del torrente de Chia</caption>
         <caption xml:lang="ca">Rodatge de L'Evangeli segons sant Mateu, a la part baixa del torrent de Chia</caption>
         <caption xml:lang="en">The set of The Gospel According to Saint Matthew, near the Chia torrent</caption>
+        <caption xml:lang="it">Riprese de Il Vangelo secondo Matteo, lungo il torrente di Chia</caption>
         <rights>© Archivio Pier Paolo Pasolini</rights>
       </m>
       <m type="img" id="40-1" width="519" height="768">
@@ -1578,16 +1703,17 @@
         <caption xml:lang="es">Pier Paolo Pasolini delante de la torre de Chia</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini davant de la torre de Chia</caption>
         <caption xml:lang="en">Pier Paolo Pasolini in front of the tower of Chia</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini davanti alla torre di Chia</caption>
         <rights>© Deborah Beer / Archivio fotografico Cinemazero</rights>
       </m>
       <trello>tll8DI8s</trello>
     </place>
     <place id="41">
-      <name xml:lang="ca">Villa de Sabaudia</name>
+      <name xml:lang="ca">La casa de Sabaudia</name>
       <name xml:lang="en">Villa at Sabaudia</name>
-      <name xml:lang="es">Villa de Sabaudia</name>
-      <name xml:lang="it">Villa di Sabaudia</name>
-      <name xml:lang="fr">Villa de Sabaudia</name>
+      <name xml:lang="es">La casa de Sabaudia</name>
+      <name xml:lang="it">La villa di Sabaudia</name>
+      <name xml:lang="fr">La villa de Sabaudia</name>
       <desc xml:lang="fr"><![CDATA[
       <blockquote>Mis à part Rome, nous passions beaucoup de temps à Sabaudia. Nos maisons s'y jouxtaient et avaient en commun une terrasse et un jardin. Nous déjeunions ou dînions souvent ensemble. Les frères Citti venaient fréquemment. Ninetto était presque toujours présent...</blockquote>
       <cite>Dacia Maraini</cite>
@@ -1616,46 +1742,59 @@
       <p>At first glance, this choice is intriguing: Sabaudia is a small city thought up by the fascist regime, which paradoxically had the ambition of creating new cities, pure creations of the regime, especially in Latium. This contradiction, both urban and philosophical, was fundamental: cultural life and, in particular architectural, was especially rich under fascism. After the fall of Mussolini, the Italian left long turned its back on this fascist symbol. For Pasolini, urbanism and the architecture of Sabaudia reflected not fascist ideology but, on the contrary, values much more rooted in Italian tradition, values that fascism had not succeeded in eradicating. He liked the human-scale of this 'metaphysical, Chirico-esque' city.</p>
       <p>This reflection was part of a more general reinterpretation of Italian society, politics and History. Living in Sabaudia meant going to the roots of fascism, as well as the occasion to analyze the respective influences of authoritarian power and Christian Democracy. Pasolini would develop this discourse in a fantastic documentary, <em>La Forma della città [The Form of the City].</em></p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>In Italia, invece, a parte Roma, passavamo molto tempo a Sabaudia. Lì avevamo le case attaccate con una terrazza e un giardino in comune. Spesso pranzavamo o cenavamo insieme. Molte volte venivano i fratelli Citti. Ninetto era quasi sempre presente...</blockquote>
+      <cite>Dacia Maraini</cite>
+      <p>Verso la fine della sua vita, Pasolini si fa costruire due case vicino Roma, ciascuna a un'ora e mezza di auto dalla città, in due direzioni diametralmente opposte. <a href="#!/it/map/40">La torre di Chia</a> e la casa di Sabaudia, realizzata con Alberto Moravia. Una vera e propria fantasia architettonica e urbanistica.</p>
+      <p>A prima vista, questa scelta desta qualche curiosità: Sabaudia è una cittadina voluta dal fascismo, che paradossalmente aveva l'ambizione di creare città nuove, pure creazioni del regime, in particolare nel Lazio. Questa contraddizione, sia sul piano urbano che filosofico, è fondamentale: la vita culturale e in particolare l'architettura hanno avuto un grande impulso durante il periodo fascista e dopo la caduta di Mussolini, per molto tempo la sinistra italiana ha voltato le spalle ai simboli del fascismo. Invece per Pasolini l'assetto urbanistico e l'architettura di Sabaudia non sono lo specchio dell'ideologia fascista, ma al contrario riflettono i valori molto più radicati nella tradizione italiana, che il fascismo non è riuscito a cancellare. Il poeta amava la dimensione umana di questa città «metafisica e dechirichiana».</p>
+      <p>Questa riflessione fa parte di una più ampia rilettura della società, della politica e della storia italiane. Vivere a Sabaudia significava immergersi nelle radici del fascismo, ma era anche l'occasione per analizzare le influenze rispettivamente del potere autoritario e della Democrazia Cristiana. Pasolini svilupperà questa tesi in un grande documentario: <em>La Forma della città</em>.</p>
+      ]]></desc>
       <latLng>41.25252,13.034988</latLng>
       <pos>9312</pos>
       <cat>1</cat>
       <m type="img" id="41-1" width="1013" height="696">
         <caption xml:lang="fr">La villa de Sabaudia</caption>
-        <caption xml:lang="es">La villa de Sabaudia</caption>
-        <caption xml:lang="ca">La villa de Sabaudia</caption>
-        <caption xml:lang="ca">The villa at Sabaudia</caption>
+        <caption xml:lang="es">La casa de Sabaudia</caption>
+        <caption xml:lang="ca">La casa de Sabaudia</caption>
+        <caption xml:lang="en">The villa at Sabaudia</caption>
+        <caption xml:lang="it">La villa di Sabaudia</caption>
         <rights>© Archivio Pier Paolo Pasolini</rights>
       </m>
       <trello>TxrL5d9K</trello>
     </place>
     <place id="42">
-      <name xml:lang="it">Quartiere di Torpignattara</name>
       <name xml:lang="ca">Barri de Torpignattara</name>
-      <name xml:lang="fr">Quartier de Torpignattara</name>
-      <name xml:lang="es">Barrio de Torpignattara</name>
       <name xml:lang="en">Torpignattara district</name>
+      <name xml:lang="es">Barrio de Torpignattara</name>
+      <name xml:lang="fr">Quartier de Torpignattara</name>
+      <name xml:lang="it">Quartiere di Torpignattara</name>
       <desc xml:lang="fr"><![CDATA[
-      <p>Avant sa mort, Pier Paolo Pasolini entame l'écriture d'un ouvrage monumental, qu'il définit lui-même comme une sorte de testament, de récapitulation de toute sa vie artistique, professionnelle et personnelle. C'est <em>Pétrole</em>. Le long chapitre <em>Visione del Merda</em> se déroule dans le quartier populaire de Torpignattara qui s'étend au sud de la ville, entre la via Casilina et la via Prenestina.</p>
+      <p>Avant sa mort, Pier Paolo Pasolini entame l'écriture d'un ouvrage monumental, qu'il définit lui-même comme une sorte de testament, de récapitulation de toute sa vie artistique, professionnelle et personnelle. C'est <em>Pétrole</em>. Le long chapitre «&nbsp;La visione del Merda&nbsp;»</em> se déroule dans le quartier populaire de Torpignattara qui s'étend au sud de la ville, entre la via Casilina et la via Prenestina.</p>
       <p>L'assassinat de Pasolini met un terme prématuré à l'écriture de <em>Pétrole</em>. Pendant des années, le manuscrit est resté à l'état de brouillon, ébauche dont le public ne connaissait pas l'existence. À travers son livre, Pasolini pensait entamer une relecture de l'histoire de l'Italie moderne, notamment avec le scandale de l'ENI – cette importante société pétrolière italienne dont le fondateur Enrico Mattei fut assassiné, sûrement à cause de sa politique d'ouverture vers le tiers monde. Cette affaire est évoquée par Francesco Rosi dans <em>L'Affaire Mattei</em>, avec Gian Maria Volontè dans le rôle-titre.</p>
       <p><em>Pétrole</em> est un livre complexe et presque expérimental. Qui mêle la philosophie aux questions de politique intérieure, les questions existentielles aux scandales de l'ENI. C'est un monument inachevé de l'art pasolinien, et l'une des rares œuvres d'alors qui cherche à comprendre en profondeur la situation de l'Italie. Pasolini essaie en effet d'y démêler l'écheveau des massacres et attentats politiques de son époque, et tente de déchiffrer le fil rouge de tous ces drames. Ce qui en fait un livre particulièrement sulfureux. Certains ont pu y voir une cause possible de <a href="#!/fr/map/51">l'assassinat de Pasolini</a>, qui reste aujourd'hui encore largement inexpliqué...</p>
       ]]></desc>
       <desc xml:lang="es"><![CDATA[
-      <p>Antes de su muerte, Pasolini emprende la escritura de una obra monumental, que él mismo define como una especie de testamento, de recapitulación de toda su vida artística, profesional y personal. Se trata de <em>Petróleo</em>. El largo capítulo <em>«&nbsp;Visione del Merda&nbsp;»</em> transcurre en el barrio popular de Torpignattara que se extiende al sur de la ciudad, entre la via Casilina y la via Prenestina.</p>
+      <p>Antes de su muerte, Pasolini emprende la escritura de una obra monumental, que él mismo define como una especie de testamento, de recapitulación de toda su vida artística, profesional y personal. Se trata de <em>Petróleo</em>. El largo capítulo «&nbsp;La visione del Merda&nbsp;» transcurre en el barrio popular de Torpignattara que se extiende al sur de la ciudad, entre la via Casilina y la via Prenestina.</p>
       <p>El asesinato de Pasolini pone fin abruptamente a la escritura de <em>Petróleo</em>. Durante años, el manuscrito quedó como borrador, como bosquejo de existencia desconocida para el público. Con su libro, Pasolini tenía pensado iniciar una relectura de la historia de la Italia moderna, con, entre otros, el escándalo del ENI, importante sociedad petrolera italiana cuyo fundador, Enrico Mattei, fue asesinado, probablemente a causa de su política de apertura hacia el tercer mundo. Francesco Rosi alude a este asunto en <em>Il Caso Mattei</em>, con Gian Maria Volontè en el papel del empresario.</p>
       <p><em>Petróleo</em> es un libro complejo, casi experimental. Mezcla la filosofía con las cuestiones de política interior, las cuestiones esenciales con los escándalos del ENI. Es un monumento inacabado del arte pasoliniano y una de las pocas obras de entonces que intenta ahondar en la situación de Italia.</p>
       <p>En él, Pasolini intenta desentrañar la maraña de las masacres y los atentados políticos de su época, procura encontrar el hilo rojo que une estos dramas. Con lo cual el libro es una bomba de relojería. Algunos piensan que es posiblemente la causa del <a href="#!/es/map/51">asesinato de Pasolini</a>, que sigue hoy prácticamente sin esclarecerse...</p>
       ]]></desc>
       <desc xml:lang="ca"><![CDATA[
-      <p>Abans de morir, Pasolini emprèn l'escriptura d'una obra monumental, que ell mateix defineix com una mena de testament, de recapitulació de tota la seva vida artística, professional i personal. Es tracta de <em>Petroli</em>. El llarg capítol «&nbsp;Visioni del Merda&nbsp;» transcorre al barri popular de Torpignattara, que s'estén al sud de la ciutat entre la via Casilina i la via Prenestina.</p>
+      <p>Abans de morir, Pasolini emprèn l'escriptura d'una obra monumental, que ell mateix defineix com una mena de testament, de recapitulació de tota la seva vida artística, professional i personal. Es tracta de <em>Petroli</em>. El llarg capítol «&nbsp;La visione del Merda&nbsp;» transcorre al barri popular de Torpignattara, que s'estén al sud de la ciutat entre la via Casilina i la via Prenestina.</p>
       <p>L'assassinat de Pasolini posa fi abruptament a l'escriptura de <em>Petroli</em>. Durant anys, el manuscrit va quedar com un esborrany, com un esbós d'existència desconeguda per al públic. Amb el seu llibre, Pasolini tenia pensat iniciar una relectura de la història de la Itàlia moderna, amb, entre d'altres, l'escàndol de l'ENI, la important societat petroliera italiana el fundador de la qual, Enrico Mattei, va ser assassinat, probablement a causa de la seva política d'obertura cap al tercer món. Francesco Rosi esmenta aquesta qüestió a <em>Il Caso Mattei</em>, amb Gian Maria Volontè en el paper de l'empresari.</p>
       <p>Petroli és un llibre complex, gairebé experimental. Barreja la filosofia amb les qüestions de política interior, les qüestions essencials amb els escàndols de l'ENI. És un monument inacabat de l'art pasolinià i una de les poques obres d'aquell moment que intenta aprofundir en la situació d'Itàlia.</p>
       <p>Pasolini hi intenta desentranyar la confusió de les massacres i els atemptats polítics de la seva època, procura trobar el fil vermell que uneix aquests drames. Per això el llibre és una bomba de rellotgeria. Alguns pensen que és possiblement la causa de <a href="#!/ca/map/51">l'assassinat de Pasolini</a>, que avui continua pràcticament sense haver-se posat en clar...</p>
       ]]></desc>
       <desc xml:lang="en"><![CDATA[
-      <p>Before his death, Pasolini began writing a monumental work, which he himself described as a sort of testament, a recapitulation of his whole artistic, professional and personal life. This was <em>Petrolio</em>. The long chapter 'Visione del Merda' is set in the working-class neighbourhood of Torpignattara, in the southern part of the city, between via Casilina and via Prenestina.</p>
+      <p>Before his death, Pasolini began writing a monumental work, which he himself described as a sort of testament, a recapitulation of his whole artistic, professional and personal life. This was <em>Petrolio</em>. The long chapter "La visione del Merda" is set in the working-class neighbourhood of Torpignattara, in the southern part of the city, between via Casilina and via Prenestina.</p>
       <p>Pasolini's murder put a premature end to the writing of <em>Petrolio</em>. For years, the manuscript remained a rough draft, the public knowing nothing of its existence. Through his book, Pasolini was thinking of a rereading of the History of modern Italy, in particular with the ENI scandal involving the large Italian oil company whose founder, Enrico Mattei, was murdered, surely because of his policy of openness towards the Third World. This case was the subject of Francesco Rosi's film <em>The Mattei Affair</em>, with Gian Maria Volontè in the title role.</p>
       <p><em>Petrolio</em> is a complex, almost experimental book mixing philosophy with questions of domestic policy, and existential questions with ENI scandals. It is an unfinished monument of Pasolinian art and one of the rare works of that time attempting to understand Italy's situation in depth.</p>
       <p>Indeed, Pasolini tried to unravel the tangle of massacres and political terrorist attacks of his time and to decipher the common theme of all those dramas, making this a particularly scandalous book. Some have seen it as a possible cause for <a href="#!/en/map/51">Pasolini's murder</a>, which still remains largely unexplained to the present day...</p>
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Prima di morire, Pier Paolo Pasolini comincia a scrivere un'opera monumentale, che egli stesso definisce una sorta di testamento, di riassunto di tutta la sua vita artistica, professionale e personale. Si tratta di <em>Petrolio</em>. Il lungo capitolo dal titolo «La visione del Merda» si svolge nel quartiere popolare di Torpignattara che si estende a sud della città, tra la via Casilina e la via Prenestina.</p>
+      <p>L'omicidio di Pasolini interrompe prematuramente la stesura di <em>Petrolio</em>. Per anni il manoscritto è rimasto in forma di appunti e il pubblico non ne conosceva l'esistenza. Attraverso questo libro, Pasolini pensava di intraprendere una rilettura della storia dell'Italia moderna, in particolare dello scandalo ENI –&nbsp;la grande compagnia petrolifera italiana il cui fondatore, Enrico Mattei, fu assassinato, probabilmente a causa della sua politica di apertura al terzo mondo. Lo scandalo ENI fu poi ricostruito da Francesco Rosi nel film <em>Il Caso Mattei</em>, con Gian Maria Volontè nel ruolo del protagonista.</p>
+      <p><em>Petrolio</em> è un libro complesso e quasi sperimentale, in cui si fondono filosofia e questioni di politica interna, domande esistenziali e scandalo dell'ENI. Si tratta di un capolavoro incompiuto dell'arte pasoliniana, e una delle rare opere dell'epoca che tentano di comprendere a fondo la situazione italiana. Pasolini cerca effettivamente di districare la matassa degli omicidi politici e delle stragi dei suoi anni, tentando di individuare il filo conduttore di tutti questi drammi. Tutto ciò rende Petrolio un libro particolarmente provocatorio, tanto che alcuni lo identificano come una possibile causa dell'<a href="#!/it/map/51">omicidio di Pasolini</a>, che ancora oggi rimane in gran parte insoluto...</p>
       ]]></desc>
       <latLng>41.873650,12.545013</latLng>
       <pos>8766</pos>
@@ -1665,21 +1804,23 @@
         <caption xml:lang="es">Fragmento del manuscrito de Petróleo</caption>
         <caption xml:lang="ca">Fragment del manuscrit de Petroli</caption>
         <caption xml:lang="en">Excerpt from the manuscript of Petrolio</caption>
+        <caption xml:lang="it">Pagina dal manoscritto di Petrolio</caption>
       </m>
       <m type="img" id="42-2" width="835" height="1200">
         <caption xml:lang="fr">Couverture de l'édition française de Pétrole</caption>
         <caption xml:lang="es">Portada de la edición francesa de Petróleo</caption>
         <caption xml:lang="ca">Coberta de l'edició francesa de Petroli</caption>
         <caption xml:lang="en">Cover of the French edition of Petrolio</caption>
+        <caption xml:lang="it">Copertina dell'edizione francese di Petrolio</caption>
       </m>
       <trello>oG8xV8yx</trello>
     </place>
     <place id="46">
-      <name xml:lang="it">L'appartamento di Totò</name>
-      <name xml:lang="fr">L'appartement de Totò</name>
-      <name xml:lang="es">Casa de Totò</name>
       <name xml:lang="ca">Casa de Totò</name>
       <name xml:lang="en">Totò's home</name>
+      <name xml:lang="es">Casa de Totò</name>
+      <name xml:lang="fr">L'appartement de Totò</name>
+      <name xml:lang="it">L'appartamento di Totò</name>
       <address>Viale Bruno Buozzi, 64, 00197 Roma</address>
       <desc xml:lang="fr"><![CDATA[
       <p>Pour son troisième long métrage, <em>Des oiseaux, petits et gros (Uccellacci e uccellini)</em>, Pier Paolo Pasolini choisit deux comédiens aux profils très particuliers&nbsp;: Totò, acteur mythique de la comédie italienne, et Ninetto, non-acteur, jeune homme inculte de la banlieue de Rome qu'il a rencontré sur le tournage de <a href="#!/fr/map/34"><em>La Ricotta</em></a> et dont c'est le premier film.</p>
@@ -1701,6 +1842,11 @@
       <p>The mechanics of the duo was fantastic, although it was no sure thing. Totò, who had invented aristocratic origins for himself, lived in Parioli, the most chic, most bourgeois quarter of Rome. Invited to dinner at the star's home, Ninetto arrived in jeans, looking downright slovenly... to the point that, after dinner, Totò asked that Ninetto's armchair be cleaned with pesticide! In the end, the relationship between the three men would be idyllic. Pasolini, Ninetto and Totò found and tamed each other, despite the differences in class and profession.</p>
       <p><em>Uccellacci e uccellini</em> was built on a brilliant intuition: speaking about the crisis in Marxist ideology, the left, the end of neo-realistic cinema, and Rossellini, through a picaresque fable. Pasolini's tale is quite bitter but clear-sighted and premonitory. He had understood the situation, the death of ideology and commitment, before the official left did.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Per il suo terzo lungometraggio, <em>Uccellacci e uccellini</em>, Pier Paolo Pasolini sceglie due attori dalle caratteristiche molto peculiari che ha conosciuto sul set de <a href="#!/it/map/34"><em>La Ricotta</em></a>, il suo primo film: Totò, attore leggendario della commedia italiana e Ninetto Davoli, non-attore, giovanotto ignorante della periferia romana.</p>
+      <p>L'alchimia di questo duo, che risulta formidabile, non è affatto scontata. Totò, di origini aristocratiche, vive ai Parioli, il quartiere più esclusivo e più borghese di Roma. Invitato a cena a casa di un tale divo, Ninetto si presenta in jeans e con un aspetto decisamente trascurato... tanto che finita la cena, Totò chiede che la poltrona di Ninetto venga disinfettata con il DDT! Alla fine, il rapporto fra i tre sarà idilliaco: nonostante le differenze di classe e di professione, Pasolini, Ninetto e Totò si trovano e si accettano a vicenda.</p>
+      <p><em>Uccellacci e uccellini</em> nasce da un'intuizione geniale: parlare della crisi dell'ideologia marxista, della sinistra, della fine del cinema neorealista, di Rossellini, attraverso un racconto picaresco. La storia di Pasolini è molto amara, ma acuta e premonitrice. Ben prima della sinistra ufficiale, il poeta aveva capito la situazione, la morte dell'ideologia e dell'impegno.</p>
+      ]]></desc>
       <latLng>41.921627, 12.482041</latLng>
       <pos>6481</pos>
       <cat>6</cat>
@@ -1709,6 +1855,7 @@
         <caption xml:lang="es">Totò y Ninetto Davoli durante el rodaje de Uccellacci e uccellini</caption>
         <caption xml:lang="ca">Totò i Ninetto Davoli durant el rodatge de Uccellacci e uccellini</caption>
         <caption xml:lang="en">Totò and Ninetto Davoli on the set of The Hawks and the Sparrows</caption>
+        <caption xml:lang="it">Totò e Ninetto Davoli sul set di Uccellini e uccellacci</caption>
       </m>
       <trello>KLV6Od8I</trello>
     </place>
@@ -1743,6 +1890,12 @@
       <blockquote>I undress, in one of a thousand rooms<br />where one sleeps, via Fonteiana.<br />You can erode everything, time: hopes,<br />passions. But not these pure forms<br />of life... It is with them<br />that man becomes confused, come to the end<br />of experience and confidence<br />in this world... Ah, days of Rebibbia,<br />that I thought lost in the light<br />of necessity, and which I discover so free!</blockquote>
       <p>Pasolini would come up with the idea for <a href="#!/en/map/61"><em>Mamma Roma</em></a> reading an article in the press about the dramatic death of Marcello Elisei, a young prisoner at Rebibbia who died tied to a bed in isolation. And in 2012, the Taviani brothers filmed <em>Caesar Must Die</em>, winner of the Golden Bear at the 2012 Berlin Festival, in this prison of Rebibbia.</p> 
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>A Roma ci sono due carceri: Regina Coeli, nel centro della città vicino a Trastevere, e Rebibbia nel sobborgo di Ponte Mammolo. Quest'ultimo, che aveva la particolarità di essere misto, era a pochi isolati dall'<a href="#!/it/map/3">appartamento della famiglia Pasolini</a>.</p>
+      <p>Nella poesia «Il Pianto della scavatrice», contenuta in <em>Le Ceneri di Gramsci</em>, Pier Paolo Pasolini evoca con nostalgia Ponte Mammolo e Rebibbia, la prigione che per metonimia dà il nome al quartiere in cui vive.</p>
+      <blockquote>Mi spoglio in una delle mille stanze<br />dove a via Fonteiana si dorme.<br />Su tutto puoi scavare, tempo: speranze<br />passioni. Ma non su queste forme<br />pure della vita... Si riduce<br />ad esse l'uomo, quando colme<br />siano esperienza e fiducia<br />nel mondo... Ah, giorni di Rebibbia,<br />che io credevo persi in una luce<br />di necessità, e che ora so così liberi!</blockquote>
+      <p>Pasolini avrà l'idea di <a href="#!/it/map/61"><em>Mamma Roma</em></a> leggendo un articolo di giornale sulla tragica morte di Marcello Elisei, giovane detenuto di Rebibbia, morto legato a un letto di contenzione. E nel 2011 i fratelli Taviani hanno girato <em>Cesare deve morire</em>, Orso d'Oro al Festival di Berlino del 2012, proprio nel carcere di Rebibbia.</p>
+      ]]></desc>
       <latLng>41.93669, 12.570669</latLng>
       <date>1951</date>
       <pos>1338</pos>
@@ -1752,16 +1905,17 @@
         <caption xml:lang="es">La cárcel de Rebibbia</caption>
         <caption xml:lang="ca">La presó de Rebibbia</caption>
         <caption xml:lang="en">The Rebibbia prison</caption>
+        <caption xml:lang="it">Il carcere di Rebibbia</caption>
         <rights>© Archivio dell'Immagine di Cesena</rights>
       </m>
       <trello>EuZbfoUn</trello>
     </place>
     <place id="48">
-      <name xml:lang="it">Casa di Alberto Moravia ed Elsa Morante, via dell'Oca, 27</name>
-      <name xml:lang="fr">Chez Alberto Moravia et Elsa Morante, via dell'Oca, 27</name>
-      <name xml:lang="es">Casa de Elsa Morante y Alberto Moravia, via dell'Oca, 27</name>
       <name xml:lang="ca">Pis de Elsa Morante i Alberto Moravia, via dell'Oca, 27</name>
       <name xml:lang="en">Home of Elsa Morante and Alberto Moravia, via dell'Oca, 27</name>
+      <name xml:lang="es">Casa de Elsa Morante y Alberto Moravia, via dell'Oca, 27</name>
+      <name xml:lang="fr">Chez Alberto Moravia et Elsa Morante, via dell'Oca, 27</name>
+      <name xml:lang="it">A casa di Alberto Moravia ed Elsa Morante, via dell'Oca 27</name>
       <address>Via dell'Oca, 27, 00186 Roma</address>
       <desc xml:lang="fr"><![CDATA[
       <p>C'est à cette adresse que Pier Paolo Pasolini retrouve des intimes&nbsp;: le couple d'écrivains Elsa Morante et Alberto Moravia, qu'il a rencontrés en 1955. Ces deux figures de la vie intellectuelle italienne ont fait de leur appartement l'un des foyers culturels de la ville - appartement qu'ils habiteront jusqu'à leur séparation en 1962. Là se noue entre eux une complicité inébranlable, faite d'émulation idéologique, de débats sur l'état de la société italienne, et d'ouverture sur le monde. Tous trois voyageront ainsi en Afrique et en Inde, et le compte-rendu de ces voyages donnera lieu à la publication, quelques années plus tard, de <em>L'Odeur de l'Inde</em>.</p>
@@ -1779,6 +1933,10 @@
       <p>It was at this address that Pier Paolo Pasolini found close friends: the couple of writers Elsa Morante and Alberto Moravia, whom he met in 1955. These two figures of Italian intellectual life made their flat one of the city's cultural centres– a flat that they would inhabit up until their separation in 1962. Between them there grew up an unshakeable complicity, made up of ideological emulation, discussions about the state of Italian society, and openness to the world. Thus, the three of them would travel in Africa and India, and the report of those travels would give rise to the publication, a few years later, of <em>The Smell of India</em>.</p>
       <p>When, one day, his father urged him to go to University, Bernardo Bertolucci responded with a definitive: <em>'My university is going to dine every evening at the home of Elsa Morante and Alberto Moravia with Pier Paolo Pasolini.'</em></p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>A questo indirizzo Pier Paolo Pasolini ritrova i suoi amici veri: gli scrittori Elsa Morante e Alberto Moravia, conosciuti nel 1955. Questi due protagonisti della vita intellettuale italiana hanno trasformato il loro appartamento – in cui vivranno fino alla separazione, nel 1962 –&nbsp;in uno dei centri culturali più vivi della città. Qui si stabilisce tra i tre un'incrollabile complicità fatta di emulazione ideologica, di discussioni sullo stato della società italiana, e di apertura al mondo. I tre visiteranno l'Africa e l'India, e i resoconti di questi viaggi daranno vita alla pubblicazione, pochi anni dopo, de <em>L'Odore dell'India</em>.</p>
+      <p>A suo padre che insisteva perché andasse all'università, Bernardo Bertolucci rispose deciso: <em>«La mia università è andare a cena ogni sera da Elsa Morante e Alberto Moravia con Pier Paolo Pasolini»</em>.</p>
+      ]]></desc>
       <latLng>41.909791,12.475802</latLng>
       <cat>8</cat>
       <m type="img" id="48-1" width="1082" height="1200">
@@ -1786,6 +1944,7 @@
         <caption xml:lang="es">Elsa Morante en su piso de la via dell'Oca, 27</caption>
         <caption xml:lang="ca">Elsa Morante al seu pis de la via dell'Oca, 27</caption>
         <caption xml:lang="en">Elsa Morante in her via dell'Oca flat</caption>
+        <caption xml:lang="it">Elsa Morante nel suo appartamento di via dell'Oca 27</caption>
         <rights>© Mario Dondero, Elisa Dondero</rights>
       </m>
       <m type="img" id="48-2" width="907" height="1200">
@@ -1793,17 +1952,18 @@
         <caption xml:lang="es">Alberto Moravia, Pier Paolo Pasolini y Roberto Rossellini</caption>
         <caption xml:lang="ca">Alberto Moravia, Pier Paolo Pasolini i Roberto Rossellini</caption>
         <caption xml:lang="en">Alberto Moravia, Pier Paolo Pasolini and Roberto Rossellini</caption>
+        <caption xml:lang="it">Alberto Moravia, Pier Paolo Pasolini e Roberto Rossellini</caption>
         <rights>© Fotoarchivi &amp; Multimedia</rights>
       </m>
       <trello>imyf2duA</trello>
     </place>
     <place id="50">
-      <name xml:lang="it">Stazione di Roma Termini : l'arrivo a Roma</name>
       <name xml:lang="ca">Estació de Roma Termini</name>
-      <name xml:lang="es">Estación de Termini</name>
-      <name xml:lang="en">Rome Termini railway station</name>
-      <name xml:lang="fr">Gare de Rome Termini : l'arrivée à Rome</name>
       <name xml:lang="de">Bahnhof Roma Termini</name>
+      <name xml:lang="en">Rome Termini railway station</name>
+      <name xml:lang="es">Estación de Termini</name>
+      <name xml:lang="fr">Gare de Rome Termini : l'arrivée à Rome</name>
+      <name xml:lang="it">Stazione Termini: l'arrivo a Roma</name>
       <desc xml:lang="fr"><![CDATA[
       <blockquote>Tu ne peux pas savoir à quoi est réduite ma pauvre mère. Je ne peux plus supporter de la voir souffrir d'une manière aussi inhumaine et indicible. J'ai décidé de l'amener dès demain à Rome, à l'instigation de mon père, pour la confier à mon oncle&nbsp;; je ne pourrai pas rester à Rome, parce que mon oncle m'a fait comprendre qu'il ne peut pas m'y héberger, mais j'espère que pour ma mère la chose sera différente. De Rome, je ne sais pas où j'irai, peut-être à Florence&nbsp;; comme tu vois, je me trouve dans une bien triste situation [...]. Si tu veux donc m'écrire quelque chose, mon adresse, du moins pour quelques jours, sera&nbsp;: chez Gino Colussi, via Porta Pincinia, 34, Rome. Ensuite je ne sais ni où j'irai ni ce que je ferai&nbsp;; ma vie est à un tournant plus que décisif.</blockquote>
       <cite>Dernière lettre écrite à Casarsa, le 27 janvier 1950, adressée à Silvana Mauri</cite>
@@ -1824,6 +1984,11 @@
       <cite>Last letter written in Casarsa, 27 January 1950, sent to his friend Silvana Mauri</cite>
       <p>Pasolini and his mother left their house in Casarsa in the evening and arrived at the Termini station on a freezing morning of 28 January 1950... <em>'Poor as a cat in the Coliseum,'</em> as he would later write in one of his first and most famous Roman poems.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>Tu non sai a cosa si è ridotta mia madre. Io non posso più sopportare di vederla soffrire in questo modo disumano e indicibile. Ho deciso di portarla domani stesso a Roma, all'insaputa di mio padre, per affidarla a mio zio; io non potrò stare a Roma, perché mio zio mi ha fatto capire che non può tenermici, ma spero che per mia madre la cosa sarà diversa. Da Roma non so dove andrò, forse a Firenze; come vedi sono in ben tristi frangenti [...]. Se dunque vorrai scrivermi qualcosa, il mio indirizzo per qualche giorno almeno, sarà: presso Gino Colussi, via Porta Pinciana, 34 Roma. Poi non so dove andrò e cosa farò; la mia vita è a una svolta più che decisiva.</blockquote>
+      <cite>Ultima lettera scritta a Casarsa, il 27 gennaio 1950, indirizzata a Silvana Mauri</cite>
+      <p>Pasolini e la madre lasciano la casa di Casarsa il 27 gennaio 1950. Arrivano alla stazione Termini il giorno dopo, in una mattina glaciale... «Povero come un gatto del Colosseo», scriverà in seguito in una delle sue prime e più celebri poesie romane.</p>
+      ]]></desc>
       <latLng>41.898492, 12.506111</latLng>
       <cat>1</cat>
       <m type="img" id="50-1" width="1280" height="885">
@@ -1831,6 +1996,7 @@
         <caption xml:lang="es">Estación de Termini</caption>
         <caption xml:lang="ca">Estació de Termini</caption>
         <caption xml:lang="en">Rome Termini railway station</caption>
+        <caption xml:lang="it">Stazione Termini, Roma</caption>
       </m>
       <date>1950-01-28</date>
       <pos>758</pos>
@@ -1841,6 +2007,7 @@
       <name xml:lang="en">Beach at Ostia</name>
       <name xml:lang="es">Playa de Ostia</name>
       <name xml:lang="fr">Plage d'Ostie</name>
+      <name xml:lang="it">Spiaggia di Ostia</name>
       <desc xml:lang="fr"><![CDATA[
       <p>Dans la nuit du 1er au 2 novembre 1975, on retrouve le corps atrocement mutilé de Pier Paolo Pasolini sur la plage d'Ostie. Les conditions de sa mort restent encore aujourd'hui très floues, même si son assassin présumé, Giuseppe (Pino) Pelosi, a livré à l'époque une version détaillée de cette soirée tragique.</p>
       <p>En début de soirée, Pasolini dîne avec Ninetto Davoli au restaurant Pommidoro (Piazza dei Sanniti, 44). Puis il se rend, dit-il, à un rendez-vous.</p>
@@ -1877,6 +2044,15 @@
       <p>Going back on his initial declarations, Pelosi subsequently mentioned the two Borsellino brothers, linked to the far right, and two or three unknown Sicilians.</p>
       <p>The magistracy has reopened the investigation several times over the past few years.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>La notte tra il 1° e il 2 novembre 1975, sulla spiaggia di Ostia viene trovato il corpo atrocemente martoriato di Pier Paolo Pasolini. Le circostanze della morte del poeta sono ancora oggi poco chiare, anche se il presunto assassino, Pelosi, all'epoca ha fornito alla polizia una versione dettagliata di quella tragica serata.</p>
+      <p>Prima Pasolini ha cenato con Ninetto Davoli al ristorante Pommidoro in piazza dei Sanniti 44 poi il poeta ha detto di dover andare a un appuntamento.</p>
+      <p>Nella prima versione, Pelosi racconta di aver incontrato Pasolini nei pressi della stazione Termini, poi avrebbero fatto insieme un giro per Roma, e infine sarebbero andati Al Biondo Tevere, in via Ostiense 178, un ristorante popolare sul lato della via in direzione di Ostia.</p>
+      <p>Il racconto è pieno di incoerenze e zone d'ombra, e contro l'ipotesi di un tentativo di violenza omosessuale finito in tragedia si delinea, più probabile, quella dell'agguato organizzato. Rimangono molti punti oscuri sul percorso compiuto dai due uomini e sul reale svolgimento della serata.</p>
+      <p>L'ipotesi più verosimile è che la morte di Pasolini non sia riducibile a un semplice fatto di cronaca omosessuale. Pare invece che si sia trattato del linciaggio di un uomo impegnato, militante, provocatore, la cui voce unica, forte, ribelle e particolarmente influente risultava pericolosa per il potere italiano di quegli anni.</p><p></p>
+      <p>Dopo aver ritrattato le sue precedenti dichiarazioni, Pelosi ha nominato in seguito i due fratelli Borsellino, legati all'estrema destra, e due o tre siciliani sconosciuti.</p>
+      <p>Negli ultimi anni la magistratura ha più volte riaperto l'indagine.</p>
+      ]]></desc>
       <latLng>41.741721, 12.249034</latLng>
       <pos>10166</pos>
       <date>1975-11-01</date>
@@ -1886,6 +2062,7 @@
         <caption xml:lang="es">El cadáver de Pier Paolo Pasolini en la playa de Ostia</caption>
         <caption xml:lang="ca">El cadàver de Pier Paolo Pasolini a la platja d'Ostia</caption>
         <caption xml:lang="en">Pier Paolo Pasolini's corpse on the beach at Ostia</caption>
+        <caption xml:lang="it">Il cadavere di Pier Paolo Pasolini sulla spiaggia di Ostia</caption>
         <rights>© Archivi Farabola</rights>
       </m>
       <trello>BvQzudQ9</trello>
@@ -1895,7 +2072,7 @@
       <name xml:lang="en">Campo de' Fiori: Pasolini's funeral</name>
       <name xml:lang="es">Campo de' Fiori: el funeral de Pasolini</name>
       <name xml:lang="fr">Campo de' Fiori : les obsèques de Pasolini</name>
-      <name xml:lang="it">Campo de' Fiori: i funerali di Pasolini</name>
+      <name xml:lang="it">Campo de' Fiori: il funerale di Pasolini</name>
       <desc xml:lang="fr"><![CDATA[
       <p>Le choix de cette place est symbolique&nbsp;: c'est là que le philosophe et physicien Giordano Bruno, accusé d'hérésie par l'Inquisition, fut condamné au bûcher et exécuté en 1600. C'est aussi et surtout une adresse emblématique du quotidien de Pasolini. Laura Betti vivait <a href="#!/fr/map/11">via di Montoro</a>, une ruelle proche. Et La Carbonara était l'un des restaurants fétiches de Pasolini et de ses amis intellectuels.</p>
       <p>Le jour de l'enterrement, les intellectuels mais aussi le peuple de Rome se déplacent en masse&nbsp;: les funérailles sont grandioses, et attirent aussi bien Moravia, Rosi, Bertolucci, Betti, Morante que le peuple des <em>borgate</em> que Pasolini a tant aimé. Alberto Moravia prend la parole –&nbsp;suivi par Gianni Borgna&nbsp;– et prononce un discours bouleversant, sans notes.</p>
@@ -1927,6 +2104,14 @@
       <p><em>'A society that kills its poets is a sick society,'</em> he added.</p>
       <p>The crowd responded with emotion, passionately. The funeral turned into a political demonstration, the people having grasped that the affair was infinitely more complex than what the media was willing to tell them about it.</p>
       <p>Pasolini is now buried alongside his mother, in twin tombs, in the small cemetery of Casarsa della Delizia, the maternal village in Friuli. His father and brother are buried in another section of the same cemetery.</p>
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>La scelta del luogo è simbolica, sia perché qui il filosofo e scrittore Giordano Bruno accusato di eresia dall'Inquisizione, nel 1600 fu condannato al rogo e giustiziato, ma anche e soprattutto in relazione alla vita quotidiana di Pasolini, infatti Laura Betti abita a due passi, in <a href="#!/it/map/11">via di Montoro</a> e La Carbonara è uno dei ristoranti preferiti del poeta e dei suoi amici intellettuali.</p>
+      <p>Il giorno del funerale, gli intellettuali, ma anche il popolo di Roma accorrono in massa: la cerimonia è toccante, e oltre a Moravia, Rosi, Bertolucci, Betti e Morante partecipa anche la gente delle borgate tanto amata da Pasolini. Alberto Moravia prende la parola –&nbsp;seguito da Gianni Borgna&nbsp;– pronunciando a braccio un discorso sconvolgente.</p>
+      <p><em>«Quest'immagine che mi perseguita, di Pasolini che fugge a piedi, è inseguito da qualche cosa che non ha volto e che è quello che l'ha ucciso, è un'immagine emblematica di questo paese. Cioè un'immagine che deve spingerci a migliorare questo paese come Pasolini stesso avrebbe voluto.»</em></p>
+      <p>E aggiunge: <em>«Abbiamo perso prima di tutto un poeta e di poeti non ce ne sono tanti nel mondo, ne nascono 3 o 4 soltanto, in un secolo. Il poeta dovrebbe essere sacro».</em></p>
+      <p>La folla risponde con emozione, con passione. I funerali si trasformano in una manifestazione politica, poiché la gente ha capito che il caso è molto più complesso di quanto i media siano disposti a rivelare.</p>
+      <p>Oggi Pasolini e la madre giacciono uno accanto all'altra in due tombe gemelle nel piccolo cimitero di Casarsa della Delizia in Friuli, il paese materno. Il padre e il fratello sono sepolti in un altro settore dello stesso cimitero.</p>
       ]]></desc>
       <address/>
       <latLng>41.895502, 12.472004</latLng>
@@ -1962,6 +2147,10 @@
       <p>The flea market in <em>Mamma Roma</em>, symbol of the destitution and resourcefulness of the <em>borgate</em>, also serves as the setting for the fifth chapter of Pasolini's <em>Raggazzi di Vita</em>.</p> 
       <p>In the film, it is in a Porta Portese stall that Ettore comes to sell his mother's records, the same ones she played when teaching him to dance. In the novel, it is in the prison for minors of the same quarter that Ricetto lands, after having committed an umpteenth theft.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Il mercato di <em>Mamma Roma</em>, simbolo della miseria e dell'arte di arrangiarsi della gente di borgata, serve anche come sfondo per il quinto capitolo di <em>Ragazzi di vita</em> di Pasolini.</p>
+      <p>Nel film, è a una bancarella di Porta Portese che Ettore rivende i dischi rubati a sua madre, anche quelli con cui lei gli ha insegnato a ballare. Nel romanzo, è nel carcere minorile dello stesso quartiere che viene spedito Riccetto, dopo aver commesso l'ennesima rapina.</p>
+      ]]></desc>
       <latLng>41.883728, 12.473832</latLng>
       <pos>5203</pos>
       <cat>5</cat>
@@ -1970,6 +2159,7 @@
         <caption xml:lang="es">Fragmento de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="ca">Fragment de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="en">Excerpt from Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
+        <caption xml:lang="it">Da Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <rights>© Mediaset</rights>
       </m>
       <trello>LpYBN96a</trello>
@@ -1979,7 +2169,7 @@
       <name xml:lang="en">Quarticciolo neighbourhood</name>
       <name xml:lang="es">Barrio de Quarticciolo</name>
       <name xml:lang="fr">Quartier de Quarticciolo</name>
-      <name xml:lang="it">Quartiere di Quarticciolo</name>
+      <name xml:lang="it">Quartiere del Quarticciolo</name>
       <address/>
       <desc xml:lang="fr"><![CDATA[
       <blockquote>Pier Paolo est devenu romain, même s'il a gardé envers Rome une certaine distance critique et linguistique. Il a acquis une connaissance profonde du romanesco, mais il va de soi qu'il ne le parlait pas comme Sergio Citti ou moi&nbsp;; il en faisait un usage littéraire, il se servait du discours indirect libre à la manière de Gadda&nbsp;; dans une certaine mesure, il mimait ce dialecte. Il vous faisait sentir toute la saveur de cette réalité, mais il en donnait une représentation qui n'avait rien de naturaliste.</blockquote>
@@ -2000,6 +2190,11 @@
     <blockquote>Pier Paolo became Roman, even though he maintained a certain critical and linguistic distance towards Rome. He acquired a profound knowledge of Romanesco, but it goes without saying that he didn't speak it like Sergio Citti or me; he made literary use of it, he used the free indirect discourse in the style of Gadda; to a certain degree, he mimed this dialect. He made you feel all the flavour of this reality but gave a representation of it that had nothing naturalistic about it.</blockquote>
     <cite>Interview with Vincenzo Cerami, a former student of Pasolini's in <a href="#!/en/map/4">Ciampino</a>, scriptwriter and writer</cite>
     <p>Pasolini's writings and films created a new imaginative universe of the Italian capital. Pasolini did not settle for integrating the city as a background for his novels and films, he 'recast' Rome through literature and cinema. By frequenting the young people of the <em>borgate</em> –&nbsp;those of Quarticciolo, for example&nbsp;-, he gave an existence and a literary dignity to the Romanesco dialect, which, thanks to him, entered the great Italian culture.</p>
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>Pier Paolo è diventato romano, anche se ha sempre mantenuto nei confronti di Roma una certa distanza critica e anche linguistica. Ha acquisito una profonda conoscenza del romanesco, ma naturalmente non lo parlava come Sergio Citti o me, ne faceva un uso letterario, si serviva del discorso indiretto libero alla maniera di Gadda; in una certa misura imitava il dialetto. Ti faceva sentire tutto il sapore di questa realtà, ma ne dava una rappresentazione che non aveva nulla di naturalistico.</blockquote>
+      <cite>Intervista a Vincenzo Cerami, ex studente di Pasolini a <a href="#!/it/map/4">Ciampino</a>, sceneggiatore, scrittore.</cite>
+      <p>Gli scritti e i film di Pasolini creano un nuovo immaginario della capitale. Il poeta non si accontenta di inserire la città come sfondo dei suoi film e romanzi, ma «rifonda» Roma attraverso la letteratura e il cinema. Frequentando i giovani di borgata –&nbsp;ad esempio al Quarticciolo&nbsp;– conferisce dignità letteraria e convalida l'esistenza del romanesco, una lingua che grazie a lui entra nella cultura italiana.</p>
       ]]></desc>
       <latLng>41.89164, 12.576513</latLng>
       <pos>2007</pos>
@@ -2040,6 +2235,10 @@
      <blockquote>There were painful scenes, quite painful, such as walking in the mud, in the mire, in quicksand. Pasolini sometimes looked for the most insane places, and, moreover, it was he who was right, for the results are quite beautiful; they aren't ordinary.</blockquote>
      <cite>Totò, remarks collected by Giacomo Gambetti, in Nico Naldini's <em>Pasolini</em></cite>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>Sono state scene faticose, molto faticose, camminare nel fango, nella melma, nelle sabbie mobili. Pasolini cerca a volte i luoghi più impensati, e del resto ha ragione lui perché poi i risultati sono molto belli, non sono comuni.</blockquote>
+      <cite>Totò, frase raccolta nell'intervista di Giacomo Gambetti, in <em>Breve vita di Pasolini</em> di Nico Naldini.</cite>
+      ]]></desc>
       <latLng>41.845013,12.431436</latLng>
       <pos>6482</pos>
       <cat>6</cat>
@@ -2048,6 +2247,7 @@
         <caption xml:lang="es">Totò y Pier Paolo Pasolini durante el rodaje d'Uccellacci e uccellini</caption>
         <caption xml:lang="ca">Totò i Pier Paolo Pasolini durant el rodatge d'Uccellacci e uccellini</caption>
         <caption xml:lang="en">Totò and Pier Paolo Pasolini on the set of Uccellacci e uccellini</caption>
+        <caption xml:lang="it">Totò e Pier Paolo Pasolini sul set di Uccellacci e uccellini</caption>
         <rights>© Divo Cavicchioli / Reporters Associati srl</rights>
       </m>
       <trello>IfDzCwaF</trello>
@@ -2074,6 +2274,11 @@
      <blockquote>When he asked me to play in <em>Uccellacci e uccellini</em>, I immediately said no.<br />"Come on," said Pier Paolo, "it's a fine experience."<br />"Nah," I answered, "but wait, don't I have to talk, do I? Don't even 'member what I ate yesterday." <br />And Pier Paolo: "Nino, you're paid, you know." <br />"I'll get paid?" <br />"Of course! You'll get at least 800,000 lire, maybe a million."<br /> "How much?! And what've I gotta do? Who've I gotta work with?" <br />"You have to work with Totò." <br />"Go on! Totò, the guy from the movies?" <br />"Yes, the very one." <br />For me, Totò was a myth. I went to the cinema, bought myself some gingerbread, I watched him, with Charlie Chaplin, Laurel and Hardy... But that seemed really weird to me: not only was I going to have the chance to work with Totò, but on top of that, I was going to get paid!'</blockquote>
      <cite>Ninetto Davoli</cite>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>Quando mi offrì di recitare in Uccellacci e uccellini dissi subito di no.<br />«Ma dai –&nbsp;diceva Pier Paolo&nbsp;– è una bella cosa.<br />– Ma che –&nbsp;rispondevo io&nbsp;– devo per caso parlà? Io nun me ricordo neanche quello che ho mangiato ieri.»<br />
+      E Pier Paolo: «Nine', guarda che ti pagano.<br />– Mi pagano?<br />– Certo, ti daranno almeno 800&nbsp;000 lire, forse un milione.<br />– Che me danno? e che devo fa'? Con chi devo lavora'?<br />– Devi lavora' con Totò.<br />– Ma chi, Totò quello del cinema?<br />– Sì, lui.»<br />Per me Totò era un mito, io andavo al cinema, mi compravo i mostaccioli, me lo vedevo, con Charlot, con Stanlio e Ollio. Però mi sembrava strano. Non solo avevo la fortuna di lavorare con Totò, mi pagavano pure!</blockquote>
+      <cite>Ninetto Davoli</cite>
+      ]]></desc>
       <latLng>41.836656,12.443968</latLng>
       <pos>6482</pos>
       <cat>6</cat>
@@ -2082,6 +2287,7 @@
         <caption xml:lang="es">Totò y Ninetto Davoli durante el rodaje de Uccellacci e uccellini</caption>
         <caption xml:lang="ca">Totò i Ninetto Davoli durant el rodatge d'Uccellacci e uccellini</caption>
         <caption xml:lang="en">Totò and Ninetto Davoli on the set of Uccellacci e uccellini</caption>
+        <caption xml:lang="it">Totò e Ninetto Davoli sul set di Uccellacci e uccellini</caption>
         <rights>© Archivio Storico del Cinema / AFE</rights>
       </m>
       <m type="img" id="35-2" width="1186" height="1200">
@@ -2089,6 +2295,7 @@
         <caption xml:lang="es">Totò y Ninetto Davoli durante el rodaje de Uccellacci e uccellini</caption>
         <caption xml:lang="ca">Totò i Ninetto Davoli durant el rodatge d'Uccellacci e uccellini</caption>
         <caption xml:lang="en">Totò and Ninetto Davoli on the set of Uccellacci e uccellini</caption>
+        <caption xml:lang="it">Totò e Ninetto Davoli sul set di Uccellacci e uccellini</caption>
         <rights>© Divo Cavicchioli / Reporters Associati srl</rights>
       </m>
       <m type="img" id="35-3" width="862" height="1200">
@@ -2096,15 +2303,16 @@
         <caption xml:lang="es">Cartel de Uccellacci e uccellini</caption>
         <caption xml:lang="ca">Cartell de Uccellacci e uccellini</caption>
         <caption xml:lang="en">Poster of The Hawks and the Sparrows</caption>
+        <caption xml:lang="it">Manifesto di Uccellacci e uccellini</caption>
       </m>
       <trello>y9R9GQnc</trello>
     </place>
     <place id="57">
-      <name xml:lang="ca">Galeria “La Nuova Pesa”, exposició Guttuso</name>
-      <name xml:lang="it">Galleria “La Nuova Pesa”, mostra Guttuso</name>
-      <name xml:lang="fr">Galerie “La Nuova Pesa”, exposition Guttuso</name>
-      <name xml:lang="es">Galleria “La Nuova Pesa”, mostra Guttuso</name>
-      <name xml:lang="en">“La Nuova Pesa” gallery, Guttuso exhibition</name>
+      <name xml:lang="ca">Galeria “La Nuova Pesa”, exposició Renato Guttuso</name>
+      <name xml:lang="it">Galleria “La Nuova Pesa”, mostra Renato Guttuso</name>
+      <name xml:lang="fr">Galerie “La Nuova Pesa”, exposition Renato Guttuso</name>
+      <name xml:lang="es">Galleria “La Nuova Pesa”, mostra di Renato Guttuso</name>
+      <name xml:lang="en">“La Nuova Pesa” gallery, Renato Guttuso exhibition</name>
       <address>Via del Vantaggio, 46, 00186 Roma</address>
       <desc xml:lang="fr"><![CDATA[
       <blockquote>Dans ma chambre (un simple<br />petit lit, avec des couvertures fleuries<br />tissées par des femmes calabraises ou sardes),<br />j'accrocherais ma collection<br />de tableaux que j'aime encore&nbsp;: à côté<br />de mon Zigaina, je voudrais un beau Morandi,<br />un Mafai, de quarante, un De Pisis,<br />un petit Rosai, un grand Guttuso...</blockquote>
@@ -2127,6 +2335,11 @@
       <cite>'My Desire for Wealth', poem by Pier Paolo Pasolini from <em>The Religion of My Time</em>, 1961</cite>
       <p>Over the years, Pasolini's cultural and social life shifted from the <em>borgate</em> to the centre of Rome. The poet assiduously frequented <a href="#!/en/map/9">the bars</a>, <a href="#!/en/map/13">restaurants</a>, theatres... as well as the art galleries. Impassioned by painting, he became friends in particular with Renato Guttuso, a painter adulated at the time.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>Nella camera da letto (un semplice<br />lettuccio, con coperte infiorate<br />tessute da donne calabresi o sarde)<br />appenderei la mia collezione<br />di quadri che amo ancora: accanto<br />al mio Zigaina, vorrei un bel Morandi,<br />un Mafai, del quaranta, un De Pisis,<br />un piccolo Rosai, un grande Guttuso...</blockquote>
+      <cite>«Il mio desiderio di ricchezza», poesia di Pier Paolo Pasolini pubblicata in <em>La Religione del mio tempo</em>, 1961</cite>
+      <p>Nel corso degli anni, la vita culturale e sociale di Pasolini si sposta dalle borgate al centro di Roma. <a href="#!/it/map/9">Bar</a>, <a href="#!/it/map/13">ristoranti</a>, teatri... ma anche gallerie d'arte. Appassionato di pittura, il poeta stringe amicizia in particolare con Renato Guttuso, pittore adorato all'epoca.</p>
+      ]]></desc>
       <latLng>41.908777,12.474909</latLng>
       <date>1962-01-17</date>
       <pos>5130</pos>
@@ -2137,6 +2350,7 @@
         <caption xml:lang="en">Pier Paolo Pasolini at the Guttuso exhibition</caption>
         <caption xml:lang="fr">Pier Paolo Pasolini à l'exposition Guttuso</caption>
         <caption xml:lang="es">Pier Paolo Pasolini en la exposición Guttuso</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini alla mostra di Guttuso</caption>
         <rights>© Archivio storico Istituto Luce Cinecittà srl</rights>
       </m>
       <m type="img" id="57-1" width="1772" height="1802">
@@ -2153,6 +2367,7 @@
         <caption xml:lang="fr">Renato Guttuso et Pier Paolo Pasolini</caption>
         <caption xml:lang="ca">Renato Guttuso i Pier Paolo Pasolini</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Renato Guttuso</caption>
+        <caption xml:lang="it">Renato Guttuso e Pier Paolo Pasolini</caption>
         <rights>© Archivio storico Istituto Luce Cinecittà srl</rights>
       </m>
     </place>
@@ -2161,6 +2376,7 @@
       <name xml:lang="en">Sandro Penna's home, via delle Mole Dè Fiorentini</name>
       <name xml:lang="es">Casa de Sandro Penna, via delle Mole Dè Fiorentini</name>
       <name xml:lang="fr">Chez Sandro Penna, via delle Mole Dè Fiorentini</name>
+      <name xml:lang="it">Da Sandro Penna, via delle Mole Dè Fiorentini</name>
       <address>Via delle Mole Dè Fiorentini, 00186 Roma</address>
       <desc xml:lang="fr"><![CDATA[
       <blockquote>Les quais du Tibre, noirs d'urinoirs, le Janicule avec ses putains, le port noir de merde et de préservatifs, la Ciriola avec ses garçons qui se fichent de tout et se donnent au premier regard, composent la Rome de Pasolini dans les années 50, visionnaire et musicale.</blockquote>
@@ -2185,6 +2401,12 @@
       <cite>Nico Naldini, Pasolini's biographer and cousin</cite>
       <p>After the cautious hidden loves in Friuli, Pier Paolo Pasolini discovered free, instantaneous sexuality with the <em>ragazzi</em> of Rome. In the company in particular of Sandro Penna, a writer about amorous emotions with boys, he frequented the banks of the Tiber. Moreover, the river became one of his symbolic and poetic reference points.</p>
       <p>In August 1957, Sandro Penna won the Viareggio Prize with <em>Poesie</em>, a prize he shared with... Pier Paolo Pasolini, placed equal for <em>The Ashes of Gramsci</em>.</p>
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <blockquote>I Lungotevere neri di pisciatoi, il Gianicolo con le sue battone, il Porto nero di sterco e di preservativi, la Ciriola coi suoi ragazzi strafottenti che si danno al primo sguardo, compongono la sua Roma del '50, visionaria e musicale.</blockquote>
+      <cite>Nico Naldini, biografo e cugino di Pasolini</cite>
+      <p>Dopo i cauti amori segreti dei ragazzi friulani, con i «ragazzi di vita» di Roma Pier Paolo Pasolini scopre una sessualità libera e diretta. In compagnia di Sandro Penna, poeta dell'amore omosessuale, frequenta gli argini del Tevere e il fiume diventa da allora uno dei suoi punti di riferimento simbolici e poetici.</p>
+      <p>Nell'agosto del 1957, Sandro Penna con <em>Poesie</em> ottiene il Premio Viareggio che condivide con... Pier Paolo Pasolini, vincitore ex-aequo con <em>Le Ceneri di Gramsci</em>.</p>
       ]]></desc>
       <latLng>41.900121,12.464616</latLng>
       <date>1957</date>
@@ -2235,6 +2457,14 @@
       <blockquote>Pasolini chose the actors in the street and took us as we were. Some of us arrived late on the set in the morning, preferring to go steal to be able to eat... Others simply did not come because they had been arrested the night before.</blockquote>
       <cite>Franco Citti, lead actor in the film</cite> 
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>La casa di Accattone è in via Ettore Giovenale.</p>
+      <p>La realtà incontra la finzione poiché nello stesso quartiere si trova anche la casa di Franco Citti, protagonista del film. Ed è proprio in queste strade, percorse in lungo e in largo negli anni, che Pasolini immagina le sue figure di piccoli delinquenti.</p>
+      <blockquote>I personaggi di Accattone erano tutti ladri o magnaccia o rapinatori o gente che viveva alla giornata: si trattava di un film, insomma, sulla malavita. Naturalmente, c'era anche, intorno, il mondo della gente di borgata, implicata, sia pure, dall'omertà con la malavita, ma, infine, normalmente lavoratrice (per un salario miserabile: si veda Sabino, il fratello di Accattone). Ma, in quanto autore, e in quanto cittadino italiano, io nel film non esprimevo affatto un giudizio negativo su quei personaggi della malavita: tutti i loro difetti mi sembravano difetti umani, perdonabili, oltre che, socialmente, perfettamente giustificabili. I difetti degli uomini che ubbidiscono a una scala di valori «altra» rispetto a quella borghese: e cioè «se stessi» in modo assoluto, come ho detto.</blockquote>
+      <cite>Testo di Pasolini, pubblicato su <em>Il Corriere della Sera</em>, 8 ottobre 1975</cite>
+      <blockquote>Pasolini ha preso gli attori dalla strada, e ci ha presi per come eravamo. Alcuni di noi la mattina arrivavano in ritardo sul set, perché preferivano andare a rubare per mangiare... Altri semplicemente non arrivano perché erano stati arrestati il giorno prima.</blockquote>
+      <cite>Franco Citti, protagonista del film</cite>
+      ]]></desc>
       <latLng>41.889841,12.531637</latLng>
       <date>1961</date>
       <pos>4839</pos>
@@ -2245,6 +2475,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini y Franco Citti durante el rodaje de Accattone</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini i Franco Citti durant el rodatge de Accattone</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Franco Citti on the set of Accattone</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini e Franco Citti sul set di Accattone</caption>
         <rights>© Angelo Pennoni / Reporters Associati srl</rights>
       </m>
       <m type="img" id="59-2" width="1600" height="1078">
@@ -2252,6 +2483,7 @@
         <caption xml:lang="es">Pier Paolo Pasolini durante el rodaje de Accattone</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini durant el rodatge de Accattone</caption>
         <caption xml:lang="en">Pier Paolo Pasolini on the set of Accattone</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini sul set di Accattone</caption>
         <rights>© Angelo Pennoni / Reporters Associati srl</rights>
       </m>
       <m type="video" id="2381449887001" wide="0">
@@ -2259,6 +2491,7 @@
         <caption xml:lang="en">Excerpt from Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="es">Fragmento de Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="fr">Extrait d'Accattone (Pier Paolo Pasolini, 1961)</caption>
+        <caption xml:lang="it">Da Accattone (Pier Paolo Pasolini, 1961)</caption>
         <rights>© SNC / SND</rights>
       </m>
       <m type="video" id="2381452408001" wide="0">
@@ -2266,11 +2499,16 @@
         <caption xml:lang="es">Fragmento del documental A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <caption xml:lang="ca">Fragment del documental A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <caption xml:lang="en">Excerpt from A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
+        <caption xml:lang="it">Dal documentario A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <rights>© 1986 Antea Film srl / 23 Giugno srl © 2003 Ripley's Film srl - All rights reserved</rights>
       </m>
     </place>
     <place id="60">
-      <name>Cinéma Barberini</name>
+      <name xml:lang="ca">Cinema Barberini</name>
+      <name xml:lang="en">Cinema Barberini</name>
+      <name xml:lang="es">Cine Barberini</name>
+      <name xml:lang="fr">Cinéma Barberini</name>
+      <name xml:lang="it">Cinema Barberini</name>
       <address> Piazza Barberini</address>
       <desc xml:lang="fr"><![CDATA[
       <p>La foule et les amis de Pier Paolo Pasolini se pressent à l'avant-première d'<a href="#!/fr/map/16"><em>Accattone</em></a>, très mouvementée. Une centaine de jeunes néo-fascistes se réunissent devant le cinéma Barberini, et essaient d'empêcher la projection du film. Jets d'encre sur l'écran, huées et échauffourées : la séance, présentée par le cinéaste et ses acteurs, commence avec une heure de retard.</p> 
@@ -2288,6 +2526,10 @@
       <p>There was a crush of crowds and Pier Paolo Pasolini's friends at the  turbulent preview of <a href="#!/en/map/16"><em>Accattone</em></a>. Approximately a hundred young neo-fascists gathered in front of the Cinema Barberini and tried to prevent the screening of the film. Ink thrown at the screen, boos and brawls: the showing, presented by the director and his actors, began an hour late.</p> 
       <p>Six months later, the film was selected for the 26th Festival of Venice. Despite the context, the screening took place in an equally tense atmosphere</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>La folla e gli amici di Pier Paolo Pasolini si affollano all'anteprima di <a href="#!/it/map/16"><em>Accattone</em></a>; sarà una serata molto movimentata. Un centinaio di giovani neofascisti si riuniscono davanti al cinema Barberini e cercano di impedire la proiezione del film. Gettano inchiostro sullo schermo, fischiano e provocano tafferugli: la proiezione, presentata dal regista e dai suoi attori, inizia con un'ora di ritardo.</p>
+      <p>Sei mesi dopo, il film verrà selezionato al XXVI° Festival del Cinema di Venezia. Nonostante il contesto, la proiezione avverrà di nuovo in un'atmosfera molto tesa.</p>
+      ]]></desc>
       <latLng>41.903714,12.488548</latLng>
       <date>1961-11-22</date>
       <pos>5074</pos>
@@ -2298,6 +2540,7 @@
         <caption xml:lang="es">Laura Betti y Pier Paolo Pasolini delante del cartel de Accattone</caption>
         <caption xml:lang="ca">Laura Betti i Pier Paolo Pasolini davant del cartell d'Accattone</caption>
         <caption xml:lang="en">Laura Betti and Pier Paolo Pasolini in front of the poster of Accattone</caption>
+        <caption xml:lang="it">Laura Betti e Pier Paolo Pasolini davanti al manifesto di Accattone</caption>
         <rights>© Corbis</rights>
       </m>
       <m type="img" id="60-3" width="1200" height="1171">
@@ -2305,6 +2548,7 @@
         <caption xml:lang="es">Giuseppe Ungaretti, Pier Paolo Pasolini, Franco y Sergio Citti y Alfredo Leggi</caption>
         <caption xml:lang="ca">Giuseppe Ungaretti, Pier Paolo Pasolini, Franco i Sergio Citti i Alfredo Leggi</caption>
         <caption xml:lang="en">Giuseppe Ungaretti, Pier Paolo Pasolini, Franco and Sergio Citti i Alfredo Leggi</caption>
+        <caption xml:lang="it">Giuseppe Ungaretti, Pier Paolo Pasolini, Franco e Sergio Citti e Alfredo Leggi</caption>
         <rights>© Archivio storico Istituto Luce Cinecittà srl</rights>
       </m>
       <m type="img" id="60-4" width="1200" height="1200">
@@ -2312,12 +2556,14 @@
         <caption xml:lang="es">Franco Citti, Laura Betti, Pier Paolo Pasolini y Elsa de Giorgi</caption>
         <caption xml:lang="ca">Franco Citti, Laura Betti, Pier Paolo Pasolini i Elsa de Giorgi</caption>
         <caption xml:lang="en">Franco Citti, Laura Betti, Pier Paolo Pasolini and Elsa de Giorgi</caption>
+        <caption xml:lang="it">Franco Citti, Laura Betti, Pier Paolo Pasolini e Elsa de Giorgi</caption>
       </m>
       <m type="img" id="60-2" width="1200" height="1195">
         <caption xml:lang="fr">Pier Paolo Pasolini, Federico Fellini et Alfredo Bini</caption>
         <caption xml:lang="es">Pier Paolo Pasolini, Federico Fellini y Alfredo Bini</caption>
         <caption xml:lang="ca">Pier Paolo Pasolini, Federico Fellini i Alfredo Bini</caption>
         <caption xml:lang="en">Pier Paolo Pasolini, Federico Fellini and Alfredo Bini</caption>
+        <caption xml:lang="it">Pier Paolo Pasolini, Federico Fellini e Alfredo Bini</caption>
         <rights>© Archivio storico Istituto Luce Cinecittà srl</rights>
       </m>
       <m type="video" id="2381457423001" wide="0">
@@ -2325,6 +2571,7 @@
         <caption xml:lang="es">Trailer d'Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="ca">Trailer d'Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="ca">Trailer of Accattone (Pier Paolo Pasolini, 1961)</caption>
+        <caption xml:lang="it">Trailer di Accattone (Pier Paolo Pasolini, 1961)</caption>
       </m>
     </place>
     <place id="61">
@@ -2350,6 +2597,11 @@
       <p>With this second film, Pasolini acts as an anthropologist and sociologist, not only as a poet. The choice of shooting locations reflects the real social situation in the country. Unlike <a href="#!/en/map/16">the miserable Pigneto of <em>Accattone</em></a>, the neighbourhoods in Mamma Roma are those of Roman urban development. Casal Bruciato, for example, is emblematic of Italy's new expansion at the time.</p> 
       <p>In the end, Mamma Roma and her son will not manage to integrate into this new social order and the neighbourhoods that symbolize it, but will remain on the fringe. For Pasolini, this failure has the value of exemplarity – for him who was always against '<em>qualunquismo</em>' or conformity.</p>
       ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p><em>Mamma Roma</em> è il film della Roma popolare che cerca di adeguarsi alla nuova situazione economica degli anni '60. Anna Magnani interpreta una prostituta, un'emarginata che cerca in qualche modo di adattarsi ai cambiamenti della società, e tenta di integrarsi, per suo figlio, nella piccola borghesia. Naturalmente i suoi tentativi falliranno e il figlio, Ettore, finito in carcere per un piccolo furto, finirà praticamente annientato da una società indifferente.</p>
+      <p>Con questo secondo film, Pasolini produce un'opera antropologica, sociologica e non solo poetica. La scelta delle location riflette la reale situazione sociale del paese. A differenza del <a href="#!/it/map/16">miserabile Pigneto di <em>Accattone</em></a>, i quartieri di <em>Mamma Roma</em> sono quelli dello sviluppo urbano della capitale. Casal Bruciato, ad esempio, è emblematico della rinascita italiana dell'epoca.</p>
+      <p>Alla fine, Mamma Roma e il figlio non riusciranno a integrarsi in questo nuovo ordine sociale né nei quartieri che lo simboleggiano. Resteranno degli emarginati. Per Pasolini –&nbsp;che è sempre stato contrario al conformismo e al qualunquismo&nbsp;– questo fallimento ha un valore esemplare.</p>
+      ]]></desc>
       <latLng>41.906797,12.546773</latLng>
       <date>1962</date>
       <pos>5201</pos>
@@ -2360,6 +2612,7 @@
         <caption xml:lang="es">Anna Magnani y Roberto Rossellini durante el rodaje de Mamma Roma</caption>
         <caption xml:lang="ca">Anna Magnani i Roberto Rossellini durant el rodatge de Mamma Roma</caption>
         <caption xml:lang="en">Anna Magnani and Roberto Rossellini on the set of Mamma Roma</caption>
+        <caption xml:lang="it">Anna Magnani e Roberto Rossellini sul set di Mamma Roma</caption>
         <rights>© Angelo Novi / Archivio Pier Paolo Pasolini</rights>
       </m>
     </place>
@@ -2368,6 +2621,7 @@
       <name xml:lang="en">Via di Porta Portese: Salò</name>
       <name xml:lang="es">Via di Porta Portese: Salò</name>
       <name xml:lang="fr">Via di Porta Portese : Salò</name>
+      <name xml:lang="it">Via di Porta Portese: Salò</name>
       <address>Via di Porta Portese </address>
       <desc xml:lang="fr"><![CDATA[
       <p>Prenez les chemins de traverse en suivant Žilda, street artist rennais, dont les collages convoquent les fantômes de Pasolini au détour des ruelles de Rome.</p>
@@ -2380,6 +2634,9 @@
       ]]></desc>
       <desc xml:lang="en"><![CDATA[
       <p>Follow Žilda, street artist from Rennes, whose works evoke the ghosts of Pasolini.</p>
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Prendete le strade secondarie seguendo Žilda, artista di strada originaria di Rennes, i cui collages evocano i fantasmi di Pasolini in giro per le vie di Roma.</p>
       ]]></desc>
       <latLng>41.884751,12.472275</latLng>
       <cat>10</cat>
@@ -2394,6 +2651,7 @@
       <name xml:lang="en">Via del Mandrione: Salò</name>
       <name xml:lang="es">Via del Mandrione: Salò</name>
       <name xml:lang="fr">Via del Mandrione : Salò</name>
+      <name xml:lang="it">Via del Mandrione: Salò</name>
       <desc xml:lang="fr"><![CDATA[
       <p>Prenez les chemins de traverse en suivant Žilda, street artist rennais, dont les collages convoquent les fantômes de Pasolini au détour des ruelles de Rome.</p>
       ]]></desc>
@@ -2405,6 +2663,9 @@
       ]]></desc>
       <desc xml:lang="en"><![CDATA[
       <p>Follow Žilda, street artist from Rennes, whose works evoke the ghosts of Pasolini.</p>
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Prendete le strade secondarie seguendo Žilda, artista di strada originaria di Rennes, i cui collages evocano i fantasmi di Pasolini in giro per le vie di Roma.</p>
       ]]></desc>
       <latLng>41.875617,12.537611</latLng>
       <cat>10</cat>
@@ -2419,6 +2680,7 @@
       <name xml:lang="en">L'EUR, Quadrato della Concordia: Salò</name>
       <name xml:lang="es">L'EUR, Quadrato della Concordia: Salò</name>
       <name xml:lang="fr">L'EUR, Quadrato della Concordia : Salò</name>
+      <name xml:lang="it">L'EUR, Quadrato della Concordia: Salò</name>
       <address>L'EUR, Quadrato della Concordia </address>
       <desc xml:lang="fr"><![CDATA[
       <p>Prenez les chemins de traverse en suivant Žilda, street artist rennais, dont les collages convoquent les fantômes de Pasolini au détour des ruelles de Rome.</p>
@@ -2431,6 +2693,9 @@
       ]]></desc>
       <desc xml:lang="en"><![CDATA[
       <p>Follow Žilda, street artist from Rennes, whose works evoke the ghosts of Pasolini.</p>
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Prendete le strade secondarie seguendo Žilda, artista di strada originaria di Rennes, i cui collages evocano i fantasmi di Pasolini in giro per le vie di Roma.</p>
       ]]></desc>
       <latLng>41.836248,12.4661</latLng>
       <cat>10</cat>
@@ -2445,6 +2710,7 @@
       <name xml:lang="en">Via Casilina Vecchia (Ponte Casilino): A Thousand and One Nights</name>
       <name xml:lang="es">Via Casilina Vecchia (Ponte Casilino):  Las mil y una noches</name>
       <name xml:lang="fr">Via Casilina Vecchia (Ponte Casilino) : Les Mille et une nuits</name>
+      <name xml:lang="it">Via Casilina Vecchia (Ponte Casilino): Le Mille e una notte</name>
       <desc xml:lang="fr"><![CDATA[
       <p>Prenez les chemins de traverse en suivant Žilda, street artist rennais, dont les collages convoquent les fantômes de Pasolini au détour des ruelles de Rome.</p>
       ]]></desc>
@@ -2456,6 +2722,9 @@
       ]]></desc>
       <desc xml:lang="en"><![CDATA[
       <p>Follow Žilda, street artist from Rennes, whose works evoke the ghosts of Pasolini.</p>
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Prendete le strade secondarie seguendo Žilda, artista di strada originaria di Rennes, i cui collages evocano i fantasmi di Pasolini in giro per le vie di Roma.</p>
       ]]></desc>
       <latLng>41.886097,12.526415</latLng>
       <cat>10</cat>
@@ -2470,6 +2739,7 @@
       <name xml:lang="en">Porta Maggiore: Pigsty</name>
       <name xml:lang="es">Porta Maggiore: Pocilga</name>
       <name xml:lang="fr">Porta Maggiore : Porcherie</name>
+      <name xml:lang="it">Porta Maggiore : Porcile</name>
       <desc xml:lang="fr"><![CDATA[
       <p>Prenez les chemins de traverse en suivant Žilda, street artist rennais, dont les collages convoquent les fantômes de Pasolini au détour des ruelles de Rome.</p>
       ]]></desc>
@@ -2481,6 +2751,9 @@
       ]]></desc>
       <desc xml:lang="en"><![CDATA[
       <p>Follow Žilda, street artist from Rennes, whose works evoke the ghosts of Pasolini.</p>
+      ]]></desc>
+      <desc xml:lang="it"><![CDATA[
+      <p>Prendete le strade secondarie seguendo Žilda, artista di strada originaria di Rennes, i cui collages evocano i fantasmi di Pasolini in giro per le vie di Roma.</p>
       ]]></desc>
       <latLng>41.891833,12.514077</latLng>
       <cat>10</cat>
@@ -2618,11 +2891,25 @@
       <p>© La Cinémathèque française 2013</p>
       </div>
       ]]></text>
+      <text xml:lang="it"><![CDATA[
+      <div class="smtxt">
+      <p>Questo sito è stato creato in occasione della mostra <strong>PASOLINI ROMA</strong>, che si è svolta dal 22 maggio al 15 settembre 2013 presso il CCCB (Centre de Cultura Contemporània de Barcelona), e dal 14 ottobre 2013 al 26 gennaio 2014 sarà alla Cinémathèque française (Parigi) per passare poi, dal 15 aprile al 20 luglio 2014, al Palazzo delle Esposizioni di Roma e proseguire dall'11 settembre 2014 al 5 gennaio 2015 al Martin Gropius Bau (Berlino).</p>
+      <p>Idea e realizzazione<br /><strong>Fred Benzaquen, Gilles Duffau, Olivier Gonord, Xavier Jamet, Hélène Lacolomberie, Nicolas Le Thierry d'Ennequin</strong></p>
+      <p>con il prezioso aiuto di<br /><strong>Jordi Balló, Alain Bergala, Gianni Borgna, Davide Toffolo, Žilda</strong></p>
+      <p>Un ringraziamento a<br /><strong>Carlotta Broggi, Lucia Calvo, Elsa Charbit, Graziella Chiarcossi, Anna Maria Ciai, Giulia Conte, Christine Drouin, Anna Escoda, Alice Le Guen, Flaminia Nardone, Marie Naudin, Matthieu Orléan, Maria Laura Proietti, Judit Rovira, Lubna S., Fred Savioz, Colin Torre, Serge Toubiana, Sylvie Vallon</strong></p>
+      <p><img class="logow100" width="100" height="45" src="logos/w100/CCCB.png" alt="CCCB" /><img class="logow100" width="100" height="45" src="logos/w100/CF.png" alt="La Cinémathèque française" /><img class="logow100" width="100" height="45" src="logos/w100/PdE.png" alt="Palazzo delle exposizioni" /><img class="logow100" width="100" height="45" src="logos/w100/PalaExpo.png" alt="PalaExpo" /><img class="logow100" width="100" height="45" src="logos/w100/MGB.png" alt="MGB" /><img class="logow100" width="100" height="45" src="logos/w100/EU.png" alt="EU" /></p>
+      <p><span style="line-height: 61px; height: 61px; vertical-align: middle;">In partenariato con Luce Cinecittà e Cineteca di Bologna</span><img class="logow100" style="float: right;" width="100" height="45" src="logos/w100/Luce.png" alt="Luce Cinecittà" /><img class="logow100" style="float: right;" width="100" height="45" src="logos/w100/CinetecaBologna.png" alt="Cineteca di Bologna" /></p>
+      <p>Il progetto è stato finanziato con il sostegno della Commissione Europea. Questa pubblicazione riflette solo le opinioni dell'autore, e la Commissione non può essere ritenuta responsabile per l'uso che potrà essere fatto delle informazioni in essa contenute.</p>
+      <p>© La Cinémathèque française 2013</p>
+      </div>
+      ]]></text>
     </page>
     <page id="intro">
       <title xml:lang="ca">Presentació</title>
+      <title xml:lang="en">Presentation</title>
       <title xml:lang="es">Presentación</title>
       <title xml:lang="fr">Présentation</title>
+      <title xml:lang="it">Presentazione</title>
       <text xml:lang="ca"><![CDATA[
       <p>Pier Paolo Pasolini arriba a l'estació de Roma amb la seva mare el 28 de gener de 1950. Té 27 anys. L'acaben d'expulsar de l'ensenyament públic i del Partit Comunista Italià. Han deixat la casa de Casarsa de matinada, amb el pare encara dormint. A l'inici és un període de molta misèria, tot i que il·luminat per la sensació exaltada que <em>«&nbsp;Roma és divina&nbsp;»</em>. Pasolini s'enamora de Roma. Descobreix la població del lumpenproletariat que viu als seus ravals miserables –&nbsp;els <em>borgate</em>&nbsp;– i també el seu llenguatge, la seva subcultura i la seva vitalitat violenta. Aquest món desconegut constitueix durant uns anys la seva principal font de creació literària i cinematogràfica.</p>
       <p>Seguir Pasolini per Roma és viatjar al cor mateix d'allò que integra i defineix el poeta: l'amistat, la literatura, la política, l'amor, el sexe, el cinema... Amb 50 adreces de llocs i dates emblemàtics de la Roma pasoliniana, redescobriu l'home, les seves trobades apassionades, la seva vida nocturna, les seves desil·lusions polítiques, els seus amors, els seus odis, els seus moments de ruptura i fugida. Deixeu-vos guiar pels decorats de <em>Mamma Roma</em> o d'<em>Accattone</em>. Exploreu els carrerons amagats entre les línies de <em>Ragazzi di vita</em>... Visiteu Roma i els seus ravals amb els ulls del poeta.</p>
@@ -2651,6 +2938,14 @@
       <p>Visitez Rome et ses faubourgs avec les yeux du poète.</p>
       <p>Bonus&nbsp;: prenez les chemins de traverse en suivant Žilda, street artist rennais, dont les collages convoquent les fantômes de Pasolini au détour des ruelles de Rome.</p>
       <div style="text-align: center;"><a class="btn" href="#!/fr/map/50">Entrer</a></div>
+      ]]></text>
+      <text xml:lang="it"><![CDATA[
+      <p>Pier Paolo Pasolini arriva alla stazione di Roma con la madre il 28 gennaio 1950. Ha 27 anni, è appena stato sospeso dall'insegnamento ed espulso dal Partito comunista italiano. Madre e figlio hanno lasciato la casa di Casarsa di buon mattino, mentre il padre dormiva ancora. Sarà un periodo di grande miseria, illuminato però dalla sensazione esaltante che «Roma è divina». Pasolini si innamora di Roma. Qui scopre i sottoproletari dei miseri sobborghi della capitale –&nbsp;le borgate&nbsp;– la loro lingua, la loro sotto-cultura e la violenta vitalità. Per diversi anni questo mondo sconosciuto ispirerà la sua creazione letteraria e cinematografica...</p>
+      <p>Seguire Pasolini a Roma significa andare al cuore di tutto ciò che lo caratterizza e lo definisce: amicizia, letteratura, politica, amore, sesso e cinema.</p>
+      <p>Grazie a 50 indirizzi e ad altrettante date emblematiche della Roma pasoliniana, riscoprirete l'uomo, i suoi incontri appassionati, la vita notturna, la disillusione politica, gli amori, gli odi, i momenti di rottura e di fuga. Lasciatevi guidare sui set di <em>Mamma Roma</em> o di <em>Accattone</em>. Scoprite quali vicoli della città si nascondono tra le righe di <em>Ragazzi di vita</em>.</p>
+      <p>Guardate Roma e le sue periferie con gli occhi del poeta.</p>
+      <p>Bonus: Prendete le strade secondarie seguendo Žilda, artista di strada originaria di Rennes, i cui collages evocano i fantasmi di Pasolini per le vie di Roma.</p>
+      <div style="text-align: center;"><a class="btn" href="#!/it/map/50">Entrare</a></div>
       ]]></text>
     </page>
   </pages>
