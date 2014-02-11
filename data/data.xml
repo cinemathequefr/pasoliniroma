@@ -2906,8 +2906,10 @@
     </page>
     <page id="intro">
       <title xml:lang="ca">Presentació</title>
+      <title xml:lang="en">Presentation</title>
       <title xml:lang="es">Presentación</title>
       <title xml:lang="fr">Présentation</title>
+      <title xml:lang="it">Presentazione</title>
       <text xml:lang="ca"><![CDATA[
       <p>Pier Paolo Pasolini arriba a l'estació de Roma amb la seva mare el 28 de gener de 1950. Té 27 anys. L'acaben d'expulsar de l'ensenyament públic i del Partit Comunista Italià. Han deixat la casa de Casarsa de matinada, amb el pare encara dormint. A l'inici és un període de molta misèria, tot i que il·luminat per la sensació exaltada que <em>«&nbsp;Roma és divina&nbsp;»</em>. Pasolini s'enamora de Roma. Descobreix la població del lumpenproletariat que viu als seus ravals miserables –&nbsp;els <em>borgate</em>&nbsp;– i també el seu llenguatge, la seva subcultura i la seva vitalitat violenta. Aquest món desconegut constitueix durant uns anys la seva principal font de creació literària i cinematogràfica.</p>
       <p>Seguir Pasolini per Roma és viatjar al cor mateix d'allò que integra i defineix el poeta: l'amistat, la literatura, la política, l'amor, el sexe, el cinema... Amb 50 adreces de llocs i dates emblemàtics de la Roma pasoliniana, redescobriu l'home, les seves trobades apassionades, la seva vida nocturna, les seves desil·lusions polítiques, els seus amors, els seus odis, els seus moments de ruptura i fugida. Deixeu-vos guiar pels decorats de <em>Mamma Roma</em> o d'<em>Accattone</em>. Exploreu els carrerons amagats entre les línies de <em>Ragazzi di vita</em>... Visiteu Roma i els seus ravals amb els ulls del poeta.</p>
@@ -2936,6 +2938,13 @@
       <p>Visitez Rome et ses faubourgs avec les yeux du poète.</p>
       <p>Bonus&nbsp;: prenez les chemins de traverse en suivant Žilda, street artist rennais, dont les collages convoquent les fantômes de Pasolini au détour des ruelles de Rome.</p>
       <div style="text-align: center;"><a class="btn" href="#!/fr/map/50">Entrer</a></div>
+      ]]></text>
+      <text xml:lang="it"><![CDATA[
+      <p>Pier Paolo Pasolini arriva alla stazione di Roma con la madre il 28 gennaio 1950. Ha 27 anni, è appena stato sospeso dall'insegnamento ed espulso dal Partito comunista italiano. Madre e figlio hanno lasciato la casa di Casarsa di buon mattino, mentre il padre dormiva ancora. Sarà un periodo di grande miseria, illuminato però dalla sensazione esaltante che «Roma è divina». Pasolini si innamora di Roma. Qui scopre i sottoproletari dei miseri sobborghi della capitale –&nbsp;le borgate&nbsp;– la loro lingua, la loro sotto-cultura e la violenta vitalità. Per diversi anni questo mondo sconosciuto ispirerà la sua creazione letteraria e cinematografica...</p>
+      <p>Seguire Pasolini a Roma significa andare al cuore di tutto ciò che lo caratterizza e lo definisce: amicizia, letteratura, politica, amore, sesso e cinema.</p>
+      <p>Grazie a 50 indirizzi e ad altrettante date emblematiche della Roma pasoliniana, riscoprirete l'uomo, i suoi incontri appassionati, la vita notturna, la disillusione politica, gli amori, gli odi, i momenti di rottura e di fuga. Lasciatevi guidare sui set di <em>Mamma Roma</em> o di <em>Accattone</em>. Scoprite quali vicoli della città si nascondono tra le righe di <em>Ragazzi di vita</em>.</p>
+      <p>Guardate Roma e le sue periferie con gli occhi del poeta.</p>
+      <p>Bonus: Prendete le strade secondarie seguendo Žilda, artista di strada originaria di Rennes, i cui collages evocano i fantasmi di Pasolini per le vie di Roma.</p>
       ]]></text>
     </page>
   </pages>
