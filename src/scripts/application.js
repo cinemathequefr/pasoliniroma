@@ -96,7 +96,7 @@
         transitionSpeed: 500 // Default transition speed
     };
 
-    app.defaultLang = "fr";
+    app.defaultLang = "it";
 
     app.templates = { // Mustache templates
         indexTitle: "<a href='#!/{{lang}}/map'><h1>Pasolini Roma</h1></a>",
@@ -360,7 +360,7 @@
                 this.marker.setVisible(false);
                 if (!_.isUndefined(this.timelineElem)) { this.timelineElem.fadeOut(300, 0); }
             } else {
-                if (prevState === 0 || prevState === null) { // *** prevState == null
+                if (prevState === 0 || _.isUndefined(prevState)) { // 2014-02-11 : previously (prevState === 0 || prevState == null)
                     this.marker.setVisible(true);
                 }
                 if (state === 1) {
