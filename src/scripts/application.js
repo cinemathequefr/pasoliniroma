@@ -108,7 +108,7 @@
         placeImg: "<div class='media-container' style='width:{{thumbWidth}}px;'><div class='media' style='height:{{thumbHeight}}px;'><img src='http://static.pasoliniroma.com/images/{{id}}.jpg' alt='{{caption}} {{rights}}' width='{{thumbWidth}}' height='{{thumbHeight}}' data-width='{{width}}' data-height='{{height}}' /></div><div class='caption'>{{caption}}<br />{{rights}}</div></div>",
         placeVideo: "<div class='media-container' style='width:{{thumbWidth}}px;'><iframe class='media' scroll='no' src='video.php?id={{id}}&amp;width={{thumbWidth}}&amp;height={{thumbHeight}}' style='width:{{thumbWidth}}px; height:{{thumbHeight}}px;' width='{{thumbWidth}}' height='{{thumbHeight}}'></iframe><div class='caption'>{{caption}}<br />{{rights}}</div></div>"
     };
-
+    
 
     /**
      * app.controller
@@ -726,7 +726,7 @@
                     if (current.id) {
                         app.map.getPlace(current.id).setMarkerState(3);
                         $pane.fadeIn(speed);
-                            if (hasChangedId) { window.setTimeout(function () { app.map.center(true); }, 500); } // Delay required?
+                        if (hasChangedId) { window.setTimeout(function () { app.map.center(true); }, 500); } // Delay required?
                     } else {
                         return;
                     }
