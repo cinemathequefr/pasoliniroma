@@ -44,7 +44,7 @@
             size: 22,
             url: "css/images/markers22.png"
         },
-        langs: ["fr", "en", "es", "ca", "it"],
+        langs: ["fr", "en", "es", "ca", "it", "de"],
         map: {
             id: "map-canvas",
             infoboxPixelOffset: new gm.Size(-75, -11), // Offset of the infobox's bottom-left corner relative to the marker's center
@@ -96,7 +96,8 @@
         transitionSpeed: 500 // Default transition speed
     };
 
-    app.defaultLang = "it";
+    //app.defaultLang = "it";
+    app.defaultLang = "de";
 
     app.templates = { // Mustache templates
         indexTitle: "<a href='#!/{{lang}}/map'><h1>Pasolini Roma</h1></a>",

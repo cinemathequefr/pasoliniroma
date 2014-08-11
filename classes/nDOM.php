@@ -87,12 +87,15 @@ class nDOMDocument extends DOMDocument {
      * @return		objet nDOMDocument
      */
     public function transformNodeToDoc ($xslDoc, $xslVars) {
-    
         $xml = $this->transformNode($xslDoc, $xslVars); // Applique la transformation sous forme de chaîne
         $xmlDoc = new nDOMDocument();
-        $header = "<?xml version=\"".$this->version."\" encoding=\"".$this->encoding."\"?>";
 
+        /*
+        // DEBUG: dernièrement (makejson de Pasolini Roma version DE), l'entête XML était présent dans la chaîne $xml, et donc l'ajouter causait une erreur (?)
+        $header = "<?xml version=\"".$this->version."\" encoding=\"".$this->encoding."\"?>";
         $xmlDoc->loadXML($header.$xml);
+        */
+        $xmlDoc->loadXML($xml);
 
         return $xmlDoc;
     }

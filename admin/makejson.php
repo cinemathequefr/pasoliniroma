@@ -14,6 +14,8 @@ $langs = array("it", "en", "es", "ca", "fr", "de"); // iso-639-1 codes
 $dom = new nDOMDocument();
 $dom->load("../data/data.xml");
 
+
+
 // Places (un fichier par lieu/langue)
 $nodes = $dom->selectNodes("/map/places/place/@id");
 foreach ($nodes as $node) {
