@@ -1535,6 +1535,7 @@
       <name xml:lang="es">Parco de la Acqua Santa</name>
       <name xml:lang="fr">Parc de l'Acqua Santa</name>
       <name xml:lang="it">Parco dell'Acqua Santa</name>
+      <name xml:lang="de">Park von Acqua Santa</name>
       <desc xml:lang="fr"><![CDATA[
       <p><em>La Ricotta</em> est tournée dans les mêmes décors que <a href="#!/fr/map/28">la seconde partie de <em>Mamma Roma</em></a>&nbsp;: les quartiers de Cecafumo, de Cinecittà, et plus particulièrement la zone dite de l'Acqua Santa, avec ses ruines antiques.</p>
       <p>C'est sur ce tournage que Pier Paolo Pasolini rencontre un jeune garçon des <em>borgate</em>, Ninetto Davoli, apprenti menuisier, qui sera le grand amour de sa vie, et lui apportera beaucoup de joie et de gaieté. Dès lors, Ninetto l'accompagne régulièrement dans ses voyages et dans ses films, où il joue des rôles d'ange innocent aux cheveux bouclés.</p>
@@ -1561,6 +1562,9 @@
       <p>Il film suscita un grande scandalo. Alla prima di <em>RoGoPaG</em>, il 1° marzo 1963, la proiezione viene interrotta da un ufficiale dei carabinieri inviato dal sostituto procuratore della Repubblica di Roma. Motivo: l'episodio de <em>La Ricotta</em> vilipende la religione di stato con alcune scene che presentano la Passione di Cristo in una luce derisoria. Viene quindi istruito <a href="#!/it/map/29">un processo</a> contro Pasolini, il quale, pur avendo dalla sua parte vari avvocati importanti, decide di difendersi da sé. In un clima di grande tensione politica, in un contesto culturale e religioso in pieno mutamento, l'accusa contro Pasolini suscita dibattiti, articoli, movimenti d'opinione contro la censura e molte polemiche che vanno ben oltre le questioni sulla personalità del regista. Tuttavia la commissione di censura del Vaticano non condanna il film. Pasolini ha voluto difendersi dalle accuse in un testo argomentato punto per punto, in cui dichiara: <em>«la storia della Passione è la più grande che io conosca»</em>.</p>
       ]]></desc>
       <desc xml:lang="de"><![CDATA[
+      <p><em>La Ricotta</em> (<em>Der Weichkäse</em>) wird an denselben Schauplätzen gedreht wie die zweite Hälfte von <a href="#!/de/map/28">Mamma Roma</a>: in den Vierteln Cecafumo, Cinecittà und hauptsächlich in der Acqua Santa genannten Gegend, mit ihren antiken Ruinen.</p>
+      <p>Bei diesen Dreharbeiten lernt Pier Paolo Pasolini Ninetto Davoli kennen, einen Jungen aus der „Borgate“. Der Tischlerlehrling wird seine große Liebe und bringt viel Freude und Fröhlichkeit in sein Leben. Ninetto ist von nun an regelmäßig bei seinen Reisen und auch bei seinen Filmen dabei, in denen er Rollen des unschuldigen Engels mit lockigem Haar spielt.</p>
+      <p>Der Film löst einen gewaltigen Skandal aus. Bei der Premiere von <em>RoGoPaG</em> am 1. März 1963 wird die Vorstellung von einem durch Roms stellvertretenden Oberstaatsanwalt bevollmächtigten Carabinieri unterbrochen. Begründung: Die Episode <em>La Ricotta</em> (<em>Der Weichkäse</em>) enthalte die Staatsreligion verunglimpfende Szenen, die Passion Christi werde ins Lächerliche gezogen. Es kommt zu <a href="#!/de/map/29">einem Prozess</a> gegen Pasolini, der trotz Unterstützung durch vortreffliche Anwälte beschließt, sich selbst zu verteidigen. In einem politisch höchst angespannten Klima und einem Kontext des kulturellen und religiösen Wandels sorgt der Prozess gegen Pasolini für Diskussionen, Zeitungsartikel, lässt vermehrt Stimmen gegen die Zensur laut werden und forciert Kontroversen, in denen es längst nicht nur um die Person des Regisseurs geht. Die Zensurkommission des Vatikans hat jedoch den Film nicht verurteilt. Pasolini hat daran festgehalten, sich gegen die Anklage Punkt für Punkt mit einem argumentativen Text selbst zu verteidigen, in dem er erklärt: <em>»Die Passionsgeschichte ist die bedeutendste Geschichte, die ich kenne«</em>.</p>
       ]]></desc>
       <latLng>41.854092,12.532825</latLng>
       <pos>5388</pos>
@@ -1571,6 +1575,7 @@
         <caption xml:lang="ca">Orson Welles durant el rodatge de La Ricotta</caption>
         <caption xml:lang="en">Orson Welles on the set of La Ricotta</caption>
         <caption xml:lang="it">Orson Welles sul set di La Ricotta</caption>
+        <caption xml:lang="de">Orson Welles am Set von Der Weichkäse</caption>
         <rights>© Mario Dondero, Elisa Dondero</rights>
       </m>
       <m type="img" id="34-2" width="1584" height="1200">
@@ -1579,6 +1584,7 @@
         <caption xml:lang="ca">Elsa Morante, Bernardo Bertolucci i Pier Paolo Pasolini durant el rodatge de La Ricotta</caption>
         <caption xml:lang="en">Elsa Morante, Bernardo Bertolucci and Pier Paolo Pasolini on the set of La Ricotta</caption>
         <caption xml:lang="it">Elsa Morante, Bernardo Bertolucci e Pier Paolo Pasolini sul set di La Ricotta</caption>
+        <caption xml:lang="de">Elsa Morante, Bernardo Bertolucci und Pier Paolo Pasolini am Set von Der Weichkäse</caption>
       </m>
       <m type="img" id="34-4" width="1600" height="1067">
         <caption xml:lang="fr">Pier Paolo Pasolini et Orson Welles sur le plateau de La Ricotta</caption>
@@ -1586,6 +1592,7 @@
         <caption xml:lang="ca">Pier Paolo Pasolini i Orson Welles durant el rodatge de La Ricotta</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Orson Welles on the set of La Ricotta</caption>
         <caption xml:lang="it">Pier Paolo Pasolini e Orson Welles sul set di La Ricotta</caption>
+        <caption xml:lang="de">Pier Paolo Pasolini und Orson Welles am Set von Der Weichkäse</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="img" id="34-3" width="812" height="1200">
@@ -1594,6 +1601,7 @@
         <caption xml:lang="ca">Pier Paolo Pasolini i Mario Cipriani durant el rodatge de La Ricotta</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Mario Cipriani on the set of La Ricotta</caption>
         <caption xml:lang="it">Pier Paolo Pasolini e Mario Cipriani sul set di La Ricotta</caption>
+        <caption xml:lang="de">Pier Paolo Pasolini und Mario Cipriani am Set von Der Weichkäse</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="img" id="34-5" width="824" height="1200">
@@ -1602,6 +1610,7 @@
         <caption xml:lang="ca">Pier Paolo Pasolini durant el rodatge de La Ricotta</caption>
         <caption xml:lang="en">Pier Paolo Pasolini on the set of La Ricotta</caption>
         <caption xml:lang="it">Pier Paolo Pasolini sul set di La Ricotta</caption>
+        <caption xml:lang="de">Pier Paolo Pasolini am Set von Der Weichkäse</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="video" id="2320237572001" wide="1">
@@ -1610,6 +1619,7 @@
         <caption xml:lang="ca">Fragment de La Ricotta</caption>
         <caption xml:lang="en">Excerpt from La Ricotta</caption>
         <caption xml:lang="it">Da La Ricotta</caption>
+        <caption xml:lang="de">Ausschnitt aus Der Weichkäse</caption>
       </m>
       <m type="video" id="2381452419001" wide="0">
         <caption xml:lang="ca">Fragment de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
@@ -1617,6 +1627,7 @@
         <caption xml:lang="es">Fragmento de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <caption xml:lang="fr">Extrait de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <caption xml:lang="it">Da Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
+        <caption xml:lang="de">Ausschnitt aus Pasolini, der Zornige (Jean-André Fieschi, 1966)</caption>
         <rights>© INA</rights>
       </m>
     </place>
@@ -1643,6 +1654,8 @@
       <p>In tal modo il regista mostra una Roma in piena trasformazione non solo dal punto di vista ideologico, politico e intellettuale, ma anche fisico: una capitale che sta per "colonizzare" la campagna e il resto d'Italia. Filmando il raccordo anulare e l'autostrada per Fiumicino (l'aeroporto fu costruito per le Olimpiadi del 1960), Pasolini descrive la sua Roma come una città dal cui futuro deve ormai fuggire il più lontano possibile, andando magari a cercare un'alternativa nel terzo mondo: Cuba, Istanbul, Africa, Asia...</p>
       ]]></desc>
       <desc xml:lang="de"><![CDATA[
+      <p><em>Uccellacci e Uccellini</em> (<em>Große Vögel, kleine Vögel</em>) ist kein Film über Roms Stadtviertel, wie es <em>Accattone</em> (<a href="#!/de/map/16"><em>Accattone - Wer nie sein Brot mit Tränen aß</em></a>) oder <a href="#!/de/map/61"><em>Mamma Roma</em></a> sein mögen. Der dritte Film Pasolinis entwirft eher Fluchtlinien. Die beiden Helden, gespielt von Totò und Ninetto, entfernen sich immer mehr vom Zentrum, um die sich im Umbruch befindende römische Peripherie der 60er Jahre zu durchstreifen: die Elendsviertel, in denen armselige Betongebäude entstehen, die große Baustelle des Autobahnrings (der <em>raccordo anulare</em>), Reste des Landes und Bauernhöfe, die bald verschwinden sollen.</p>
+      <p>Damit zeigt der Filmemacher ein sich nicht nur ideologisch, politisch und geistig, sondern auch physisch rasant veränderndes Rom. Eine Hauptstadt, die dabei ist, die ländlichen Gebiete und den Rest Italiens zu „kolonisieren“. Indem er den Stadtring und die Autobahn nach Fiumicino (dem Flughafen, der für die Olympischen Spiele von 1960 gebaut wurde) filmt, beschreibt Pasolini sein Rom als eine Stadt, deren zukünftigen Entwicklung er nun wird entfliehen müssen, um eine Alternative zu suchen, so weit weg wie möglich: in Kuba, Istanbul, Afrika, Asien...</p>
       ]]></desc>
       <latLng>41.764141,12.238770</latLng>
       <pos>6482</pos>
@@ -1653,6 +1666,7 @@
         <caption xml:lang="ca">Totò, Ninetto Davoli i Pier Paolo Pasolini durant el rodatge de Uccellacci e uccellini</caption>
         <caption xml:lang="en">Totò, Ninetto Davoli and Pier Paolo Pasolini on the set of The Hawks and the Sparrows</caption>
         <caption xml:lang="it">Totò, Ninetto Davoli e Pier Paolo Pasolini sul set di Uccellacci e uccellini</caption>
+        <caption xml:lang="de">Totò, Ninetto Davoli und Pier Paolo Pasolini am Set von Große Vögel, kleine Vögel</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
       <m type="video" id="2381579825001" wide="1">
@@ -1661,6 +1675,7 @@
         <caption xml:lang="es">Fragmento de Uccellacci e uccellini (Pier Paolo Pasolini, 1966)</caption>
         <caption xml:lang="fr">Extrait de Des oiseaux, petits et gros (Pier Paolo Pasolini, 1966)</caption>
         <caption xml:lang="it">Da Uccellacci e uccellini (Pier Paolo Pasolini, 1966)</caption>
+        <caption xml:lang="de">Ausschnitt aus Große Vögel, kleine Vögel (Pier Paolo Pasolini, 1966)</caption>
       </m>
     </place>
     <place id="37">
@@ -1669,6 +1684,7 @@
       <name xml:lang="es">El barrio de la EUR, via Eufrate, 9</name>
       <name xml:lang="fr">Quartier de l'EUR, via Eufrate, 9</name>
       <name xml:lang="it">Quartiere dell'EUR, via Eufrate, 9</name>
+      <name xml:lang="de">Das EUR-Viertel, Via Eufrate 9</name>
       <address>Via Eufrate, 9, 00144 Roma</address>
       <desc xml:lang="fr"><![CDATA[
       <p>Désormais plus à l'aise financièrement, Pasolini peut s'offrir un grand appartement dans le quartier calme et résidentiel de l'EUR (Esposizione Universale di Roma, une zone construite dans les années 30 et destinée à accueillir l'exposition universelle de 1942, qui n'eut pas lieu).</p>
@@ -1701,6 +1717,10 @@
       <p>L'appartamento, rivolto verso il mare come a una finestra sul mondo, sarà la sua ultima dimora (se si escludono i suoi «rifugi» di <a href="#!/it/map/40">Chia</a> e <a href="#!/it/map/41">Sabaudia</a>). I versi iniziali della poesia «La Ricerca di una casa» (nella raccolta <em>Poesia in forma di rosa</em>) hanno carattere di premonizione: <em>«Ricerco la casa della mia sepoltura...»</em></p>
       ]]></desc>
       <desc xml:lang="de"><![CDATA[
+      <p>Inzwischen finanziell besser gestellt, kann sich Pasolini nun eine große Wohnung im ruhigen Wohngebiet EUR leisten (Esposizione Universale di Roma, gebaut in den 30er Jahren für die Weltausstellung von 1942, die aber nie stattfand).</p>
+      <p>Im März 1963 zieht er also mit seiner Mutter und seiner Cousine Graziella Chiarcossi, die nun endgültig bei ihnen wohnen wird, in die Via Eufrate 9. Der auf einem Hügel gelegene Stadtteil ist eher bürgerlich behütet. Man hat einen Blick auf das, was von dem Land und den Gehöften Bauernhöfe noch übrig ist, aber auch auf die großen Baustellen in der Peripherie, und bei klarem Wetter sogar auf das Meer und den Strand von Ostia. Die Wohnung liegt in der Nähe der Basilika St. Peter und Paul und hat eine kleine Garten-Terrasse, wo seine Mutter nach Belieben gärtnern kann.</p>
+      <p>Angesichts Pasolinis bisheriger Wohnorte in Rom ist das EUR-Viertel eine merkwürdige Wahl. Dieser moderne, visionäre Stadtteil wurde von den Faschisten entworfen und konzipiert und bildet den Gegensatz zu den „Borgate“ und dem belebten Stadtzentrum. In gewisser Hinsicht markiert dieser Umzug eine Wende in Pasolinis Leben, zwischen seiner 1950 gefällten Entscheidung, sich in Rom niederzulassen und seinem letzten spannungsreicheren, tragischeren Lebensabschnitt, der mit den Reflexionen der <em>Scritti corsari</em> (<em>Freibeuterschriften</em>) und dem Roman <em>Petrolio</em> zusammenfällt.</p>
+      <p>Diese Wohnung, dem Meer zugewandt, gleichsam eine Öffnung zur Welt, wird zu seinem letzten Domizil (lässt man seine Refugien <a href="#!/de/map/40">Chia</a> und <a href="#!/de/map/41">Sabaudia</a> außer Acht). Und die Anfangsverse des Gedichts „La ricerca di una casa“ („Die Suche nach einem Zuhause“) (aus dem Band <em>Dichtung in Form einer Rose</em>) bekommen somit etwas Ahnungsvolles: <em>»Ich suche nach dem Haus meiner Grabstätte...«</em>.</p>
       ]]></desc>
       <latLng>41.832489,12.457924</latLng>
       <date>1963</date>
@@ -1713,6 +1733,7 @@
         <caption xml:lang="ca">Pier Paolo Pasolini i la seva mare al seu pis de l'EUR, via Eufrate, 9</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and his mother in their flat in EUR district, via Eufrate, 9</caption>
         <caption xml:lang="it">Pier Paolo Pasolini e la madre, nell'appartamento dell'EUR in via Eufrate 9</caption>
+        <caption xml:lang="de">Pier Paolo Pasolini und seine Mutter in ihrer Wohnung in EUR, Via Eufrate 9</caption>
         <rights>© Mario Dondero, Elisa Dondero</rights>
       </m>
       <m type="video" id="2381449889001" wide="0">
@@ -1721,6 +1742,7 @@
         <caption xml:lang="es">Fragmento de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <caption xml:lang="fr">Extrait de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <caption xml:lang="it">Da Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
+        <caption xml:lang="de">Ausschnitt aus Pasolini, der Zornige (Jean-André Fieschi, 1966)</caption>
         <rights>© INA</rights>
       </m>
       <m type="video" id="2292442024001" wide="0">
@@ -1729,6 +1751,7 @@
         <caption xml:lang="ca">Fragment del documental Pier Paolo Pasolini : vivre et encore plus (Michel Random, 1974)</caption>
         <caption xml:lang="en">Excerpt from Pier Paolo Pasolini : vivre et encore plus (Michel Random, 1974)</caption>
         <caption xml:lang="it">Da Pier Paolo Pasolini: vivre et encore plus (Michel Random, 1974)</caption>
+        <caption xml:lang="de">Ausschnitt aus Pier Paolo Pasolini: Vivre et encore plus (Michel Random, 1974)</caption>
       </m>
     </place>
     <place id="38">
@@ -1737,6 +1760,7 @@
       <name xml:lang="es">Valle Giulia, facultad de arquitectura</name>
       <name xml:lang="fr">Valle Giulia, faculté d'architecture</name>
       <name xml:lang="it">Valle Giulia, facoltà di archittura</name>
+      <name xml:lang="de">Valle Giulia, Fakultät für Architektur</name>
       <desc xml:lang="fr"><![CDATA[
       <p>La fin des années 1960 est pour Pier Paolo Pasolini le lieu d'une désillusion croissante face à l'évolution de l'Italie contemporaine. Lui qui a tant milité pour la reconnaissance du petit peuple des bas-fonds de Rome assiste impuissant à l'avènement d'une société de consommation qu'il exècre. Rien ne semble selon lui pouvoir arrêter ce processus de déshumanisation.</p>
       <p>Pas même les manifestations estudiantines de 1968, qu'il perçoit comme un simple déchaînement de fils de bourgeois en mal d'action. C'est autour de la faculté d'architecture, à Valle Giulia (dans le quartier de Parioli, près de la villa Borghese) que se concentrent les heurts, très violents, entre la police et les étudiants. Alors qu'il s'apprête à sortir <em>Théorème</em>, Pasolini publie un poème dans la revue –&nbsp;au tirage confidentiel&nbsp;– qu'il co-édite avec Alberto Moravia, <em>Nuovi Argomenti</em>. Le poème oppose les jeunes policiers, issus du prolétariat du sud de l'Italie, aux bourgeois révoltés de 68. L'hebdomadaire <em>L'Espresso</em> flaire le scoop et décide de publier le poème, avec un autre titre, mystificateur&nbsp;: «&nbsp;Je vous hais, chers étudiants&nbsp;». Un titre foncièrement différent, du titre original&nbsp;: «&nbsp;Le PCI aux jeunes gens&nbsp;».</p>
@@ -1763,6 +1787,9 @@
       <p>La confusione è totale, e il senso primo della poesia –&#160;infinitamente più complessa di quanto lasci supporre il suo titolo riduttivo&#160;– viene del tutto fuorviato. I rapporti tra Pasolini e la gioventù studentesca si fanno allora davvero tesi...</p>
       ]]></desc>
       <desc xml:lang="de"><![CDATA[
+      <p>Die späten 1960er Jahre sind für Pier Paolo Pasolini eine Zeit wachsender Desillusionierung über die Entwicklung des modernen Italiens. Er, der so sehr für die Anerkennung des kleinen Volks aus den Elendsvierteln Roms gekämpft hat, muss ohnmächtig dem Entstehen einer Konsumgesellschaft zusehen, die er verabscheut. Niemand, so scheint ihm, kann diesen Prozess der Entmenschlichung stoppen.</p>
+      <p>Auch nicht die Studentendemonstrationen von 1968, die er als einen simplen Ausbruch erlebnishungriger Bürgersöhne wahrnimmt. Die schweren Zusammenstöße zwischen Polizei und Studenten konzentrieren sich um die Fakultät für Architektur in Valle Giulia (im Stadtteil Parioli, neben der Villa Borghese). Während er sich auf die Uraufführung von <em>Teorema</em> (<em>Teorema – Geometrie des Liebes</em>) vorbereitet, veröffentlicht Pasolini ein Gedicht in der in kleiner Auflage erscheinenden Zeitschrift <em>Nuovi Argomenti</em>, die er gemeinsam mit Alberto Moravia herausgibt. Darin stellt er die jungen, aus dem Proletariat Süditaliens stammenden Polizisten den rebellierenden bourgeoisen Achtundsechzigern gegenüber. Das Wochenblatt L'Espresso wittert eine Story und druckt das Gedicht unter einem anderen, irreführenden Titel ab: „Der PCI an die Jugend!!“, der sich grundlegend vom Originaltitel: „Ich hasse euch, liebe Studenten“ unterscheidet.</p>
+      <p>Die Verwirrung ist komplett, der eigentliche Inhalt des Gedichts – unendlich viel komplexer als sein vereinfachender Titel – wird völlig entstellt. Dies hat eine deutliche Verhärtung der Beziehungen zwischen Pasolini und der studentischen Jugend zur Folge.</p>
       ]]></desc>
       <latLng>41.918648,12.480033</latLng>
       <pos>7365</pos>
@@ -1773,6 +1800,7 @@
         <caption xml:lang="ca">Incidents entre estudiants i les forces de seguretat a la Facultat d'Arquitectura</caption>
         <caption xml:lang="en">Incidents at the School of architecture, Valle Giulia</caption>
         <caption xml:lang="it">Scontri fra studenti e forze dell'ordine alla facoltà di Architettura, Valle Giulia</caption>
+        <caption xml:lang="de">Zusammenstöße zwischen Studenten und Ordnungskräften bei der Fakultät für Architektur, Valle Giulia</caption>
         <rights>© Contrasto</rights>
       </m>
       <m type="img" id="38-3" width="1600" height="1067">
@@ -1781,6 +1809,7 @@
         <caption xml:lang="ca">Incidents entre estudiants i les forces de seguretat a la Facultat d'Arquitectura</caption>
         <caption xml:lang="en">Incidents at the School of architecture, Valle Giulia</caption>
         <caption xml:lang="it">Scontri fra studenti e forze dell'ordine alla facoltà di Architettura, Valle Giulia</caption>
+        <caption xml:lang="de">Zusammenstöße zwischen Studenten und Ordnungskräften bei der Fakultät für Architektur, Valle Giulia</caption>
       </m>
       <m type="img" id="38-4" width="1600" height="1067">
         <caption xml:lang="fr">Incidents entre étudiants et forces de l'ordre à la Faculté d'architecture, Valle Giulia</caption>
@@ -1788,6 +1817,7 @@
         <caption xml:lang="ca">Incidents entre estudiants i les forces de seguretat a la Facultat d'Arquitectura</caption>
         <caption xml:lang="en">Incidents at the School of architecture, Valle Giulia</caption>
         <caption xml:lang="it">Scontri fra studenti e forze dell'ordine alla facoltà di Architettura, Valle Giulia</caption>
+        <caption xml:lang="de">Zusammenstöße zwischen Studenten und Ordnungskräften bei der Fakultät für Architektur, Valle Giulia</caption>
         <rights>© Contrasto</rights>
       </m>
       <m type="img" id="38-5" width="803" height="1200">
@@ -1796,6 +1826,7 @@
         <caption xml:lang="ca">Pier Paolo Pasolini assisteix a una assemblea de les Joventuts Comunistes vuit anys més tard, el 1974. En segon pla, Gianni Borgna i Antonio Semerari</caption>
         <caption xml:lang="en">Pier Paolo Pasolini at an Italian Communist Youth meeting held later, in 1974. Gianni Borgna and Antonio Semerari can be seen in the background</caption>
         <caption xml:lang="it">Nel 1974, otto anni dopo, Pier Paolo Pasolini interviene a un'assemblea dei Giovani Comunisti. In secondo piano, Gianni Borgna e Antonio Semerari</caption>
+        <caption xml:lang="de">Pier Paolo Pasolini bei einer Versammlung der Kommunistischen Jugend 8 Jahre später, 1974. Im Hintergrund Gianni Borgna und Antonio Semerari</caption>
         <rights>© Istituto Luce Historical Archive</rights>
       </m>
       <trello>yJhmZcaq</trello>
@@ -1806,6 +1837,7 @@
       <name xml:lang="es">Estudios de la RAI</name>
       <name xml:lang="fr">Studios de la RAI</name>
       <name xml:lang="it">Studi della RAI</name>
+      <name xml:lang="de">Die Studios der RAI</name>
       <desc xml:lang="fr"><![CDATA[
       <p>En Italie à la fin des années 60, Pasolini est l'un des plus puissants contestataires du medium télévision. À l'instar d'un Marshall McLuhan, le cinéaste voyait la télévision comme une source de désinformation et de «&nbsp;déséducation&nbsp;» d'un public toujours plus passif. Le coup de force de Pasolini aura été de contester la télévision en son sein même. Invité d'Enzo Biagi, célèbre journaliste du <em>Corriere della Sera</em>, il conteste le journaliste et le système médiatique en direct, durant l'émission à laquelle il a été convié.</p>
       <p>Ce discours critique, Pasolini le développera surtout dans son documentaire <em>La Rage</em>. Un texte fondateur, entièrement en vers lus par le peintre <a href="#!/fr/map/57">Renato Guttuso</a>, et le célèbre écrivain Giorgio Bassani, ami intime de Pasolini. Deux voix non professionnelles, un peu «&nbsp;sales&nbsp;», mais particulièrement expressives.</p>
@@ -1827,6 +1859,8 @@
       <p>Pasolini svilupperà questa valutazione critica soprattutto nel documentario <em>La Rabbia</em>. Un testo fondamentale, in cui la parte in prosa è letta dal pittore <a href="#!/it/map/57">Renato Guttuso</a> e quella in poesia dal celebre scrittore Giorgio Bassani, caro amico di Pasolini. Due voci non professioniste, un po' «sporche» ma particolarmente espressive.</p>
       ]]></desc>
       <desc xml:lang="de"><![CDATA[
+      <p>Im Italien der späten 60er Jahre gehört Pasolini zu den vehementesten Gegnern des Mediums Fernsehen. Wie Marshall MacLuhan sah auch der Filmemacher das Fernsehen als Quelle von Desinformation und „Bildungsverflachung“ für ein zunehmend passiver werdendes Publikum. Pasolini gelang der Coup, das Fernsehen von innen heraus anzugreifen. Als Gast von Enzo Biagi, einem bekannten Journalisten des <em>Corriere della Sera</em>, greift er ihn und das Mediensystem in der Sendung, zu der er eingeladen wurde, direkt an.</p>
+      <p>Diesen kritischen Diskurs wird Pasolini vor allem in seinem Dokumentarfilm <em>La rabbia</em> (<em>Die Wut</em>) entfalten, einem poetischen Grundlagentext, gelesen von dem Maler <a href="#!/de/map/57">Renato Guttuso</a> und dem Schriftsteller Giorgio Bassani, beides enge Freunde von Pasolini – von zwei nicht professionellen, ein wenig „schmutzigen“, aber außergewöhnlich expressiven Stimmen.</p>
       ]]></desc>
       <address>Viale Giuseppe Mazzini, 14, 00195 Roma</address>
       <latLng>41.91764, 12.467064</latLng>
@@ -1838,6 +1872,7 @@
         <caption xml:lang="ca">Seu de la RAI</caption>
         <caption xml:lang="en">The RAI headquarters</caption>
         <caption xml:lang="it">Sede della RAI</caption>
+        <caption xml:lang="de">Hauptsitz der RAI</caption>
       </m>
       <trello>DUcrzwlX</trello>
     </place>
@@ -1847,6 +1882,7 @@
       <name xml:lang="es">La torre de Chia</name>
       <name xml:lang="ca">La torre de Chia</name>
       <name xml:lang="en">The tower of Chia</name>
+      <name xml:lang="de">Der Turm von Chia</name>
       <desc xml:lang="fr"><![CDATA[
       <blockquote>Si je n'avais pas trouvé un endroit d'une beauté aussi exceptionnelle (une tour dans un bois de chênes donnant sur une vallée), je ne me serais sans doute jamais décidé à aller résider souvent à la campagne. Ma décision n'a pas été d'ordre pratique, mais esthétique. Une fois les choses faites, je me suis aperçu qu'il s'agit en réalité d'un retour. Toute mon enfance a été paysanne et champêtre. De surcroît, je ne parviens nulle part à travailler aussi bien que dans ce bois de chênes si parfaitement archaïque. Je dis bien «&nbsp;à travailler&nbsp;», pas «&nbsp;à vivre&nbsp;». J'aime en effet vivre dans une grande ville. Mais je n'aurais jamais imaginé que les villes italiennes deviendraient des lieux si horribles.</blockquote>
       <cite>Pier Paolo Pasolini, texte inédit, 1975</cite>
@@ -1883,6 +1919,11 @@
       <p>Inoltre nella torre di Chia un giovane fotografo, Dino Pedriali, scatta alcune tra le foto più rappresentative di questo periodo della vita di Pasolini.</p>
       ]]></desc>
       <desc xml:lang="de"><![CDATA[
+      <blockquote class="de">Wenn ich nicht einen so außergewöhnlich schönen Ort gefunden hätte (einen Turm in einem Eichenwald mit Blick auf das Tal), wäre ich wahrscheinlich nie dazu gekommen, mich so oft auf dem Land aufzuhalten. Eine ästhetische, keine praktische Entscheidung. Im Nachhinein habe ich dann gemerkt, dass es sich in Wahrheit um eine Rückkehr handelte, meine ganze Kindheit war dörflich und ländlich geprägt. Außer- dem kann ich nirgendwo so gut arbeiten wie dort unter den Eichen in einer völlig archaischen Umgebung – arbeiten, wohlgemerkt, nicht leben! Denn leben will ich in einer großen Stadt. Und ich hätte nie gedacht, dass aus den großen italienischen Städte einmal solch grauenhafte Orte werden würden.</blockquote>
+      <cite>Pier Paolo Pasolini, unveröffentlichter Text, 1975</cite>
+      <p>Pier Paolo Pasolini entdeckt den Turm von Chia im Frühjahr 1964 bei den Dreharbeiten für <em>Il Vangelo secondo Matteo</em> (<em>Das 1. Evangelium – Matthäus</em>). Während er unten am Wildbach von Chia die Szene der Taufe Jesu dreht, überkommen ihn Zweifel über den Stil der Bilder, die er in der ersten Woche gedreht hat. Nach einer krisenhaften Nacht entscheidet er sich dafür, die Szenen noch einmal vom Hubschrauber aus zu drehen, vertikal von oben. Da die Produktion dafür kein Geld hat, beschließt er, die Schlucht hinaufzuklettern und die Szene von der Bergspitze aus mit langer Brennweite zu filmen. Dort oben stößt er auf die Überreste dieses mittelalterlichen Turms, bei dessen Anblick er sich an eine Landschaft von Ariosto erinnert fühlt. Er will ihn unbedingt erwerben, was ihm 1970 auch gelingt. Er lässt an die Ruinenmauern ein Haus anbauen, in dem er schreiben und malen und ab und zu auch Freunde empfangen will.</p>
+      <p>Zu dieser Zeit beschließt er, wieder zu malen, wie in seiner Anfangszeit im Friaul. Er lässt unterhalb des Hauses eine Halle errichten, die sein Malatelier werden soll. Sie ist asketisch und sparsam möbliert, die großflächigen Fenster gehen direkt auf die Landschaft. Hier schreibt er einen erheblichen Teil seiner <em>Scritti corsari</em> (<em>Freibeuterschriften</em>) sowie viele Seiten seines letzten unvollendet gebliebenen Romans <em>Petrolio</em>.</p>
+      <p>Zudem macht der junge Fotograf Dino Pedriali im Turm von Chia ein paar der repräsentativsten Fotos aus diesem Lebensabschnitt Pasolinis.</p>
       ]]></desc>
       <latLng>42.466045,12.309065</latLng>
       <date>1970</date>
@@ -1894,6 +1935,7 @@
         <caption xml:lang="ca">Rodatge de L'Evangeli segons sant Mateu, a la part baixa del torrent de Chia</caption>
         <caption xml:lang="en">The set of The Gospel According to Saint Matthew, near the Chia torrent</caption>
         <caption xml:lang="it">Riprese de Il Vangelo secondo Matteo, lungo il torrente di Chia</caption>
+        <caption xml:lang="de">Dreharbeiten für Das Erste Evangelium – Matthäus, unten am Wildbach von Chia</caption>
         <rights>© Archivio Pier Paolo Pasolini</rights>
       </m>
       <m type="img" id="40-1" width="519" height="768">
@@ -1902,6 +1944,7 @@
         <caption xml:lang="ca">Pier Paolo Pasolini davant de la torre de Chia</caption>
         <caption xml:lang="en">Pier Paolo Pasolini in front of the tower of Chia</caption>
         <caption xml:lang="it">Pier Paolo Pasolini davanti alla torre di Chia</caption>
+        <caption xml:lang="de">Pier Paolo Pasolini vor dem Turm von Chia</caption>
         <rights>© Deborah Beer / Archivio fotografico Cinemazero</rights>
       </m>
       <trello>tll8DI8s</trello>
@@ -1912,6 +1955,7 @@
       <name xml:lang="es">La casa de Sabaudia</name>
       <name xml:lang="it">La villa di Sabaudia</name>
       <name xml:lang="fr">La villa de Sabaudia</name>
+      <name xml:lang="de">Die Villa in Sabaudia</name>
       <desc xml:lang="fr"><![CDATA[
       <blockquote>Mis à part Rome, nous passions beaucoup de temps à Sabaudia. Nos maisons s'y jouxtaient et avaient en commun une terrasse et un jardin. Nous déjeunions ou dînions souvent ensemble. Les frères Citti venaient fréquemment. Ninetto était presque toujours présent...</blockquote>
       <cite>Dacia Maraini</cite>
@@ -1948,6 +1992,11 @@
       <p>Questa riflessione fa parte di una più ampia rilettura della società, della politica e della storia italiane. Vivere a Sabaudia significava immergersi nelle radici del fascismo, ma era anche l'occasione per analizzare le influenze rispettivamente del potere autoritario e della Democrazia Cristiana. Pasolini svilupperà questa tesi in un grande documentario: <em>La Forma della città</em>.</p>
       ]]></desc>
       <desc xml:lang="de"><![CDATA[
+      <blockquote class="de">Abgesehen von Rom verbrachten wir viel Zeit in Sabaudia. Unsere Häuser lagen neben einander und teilten sich eine Terrasse und einen Garten. Wir aßen oft gemeinsam zu Mittag oder zu Abend. Die Brüder Citti kamen häufig. Ninetto war so gut wie immer da...</blockquote>
+      <cite>Dacia Maraini</cite>
+      <p>Gegen Ende seines Lebens lässt sich Pasolini in der Nähe von Rom zwei Häuser bauen, die diametral entgegengesetzt jeweils eineinhalb Autostunden von der Stadt entfernt liegen: <a href="#!/de/map/40">Den Turm von Chia</a> und das Haus, das er gemeinsam mit Alberto Moravia in Sabaudia baut. Eine echte architektonische und städtebauliche Fantasie.</p>
+      <p>Auf den ersten Blick ist die Wahl des Ortes verblüffend: Die kleine Stadt Sabaudia ist ein Produkt der Faschisten, die paradoxerweise den Ehregeiz hatten, Retortenstädte zu schaffen, reine Gründungen des Regimes, insbesondere im Latium. Dieser städteplanerische und philosophische Widerspruch ist grundlegend: Das kulturelle, insbesondere architektonische Leben war unter dem Faschismus ausgesprochen reich. Nach dem Sturz Mussolinis kehrte die italienische Linke diesem faschistischen Symbol lange den Rücken. Für Pasolini hingegen spiegeln die Stadtplanung und die Architektur von Sabaudia nicht die faschistische Ideologie wieder, vielmehr Werte, die sehr viel tiefer in der Tradition Italiens verankert sind und die auch der Faschismus nicht aus der Welt schaffen konnte. Er liebte die menschliche Dimension dieser <em>„metaphysischen und chiricoischen“</em> Stadt.</p>
+      <p>Diese Betrachtung war Teil einer weitereichenden neuen Auffassung der Gesellschaft, der Politik und der Geschichte Italiens. In Sabaudia zu wohnen bedeutete, zu den Wurzeln des Faschismus zurückzukehren, zugleich aber bot es die Möglichkeit, den Einfluss der autoritären Staatsmacht beziehungsweise der Christdemokraten zu analysieren. Diesen Diskurs wird Pasolini in einem großartigen Dokumentarfilm <em>La Forma della città</em> (<em>Die Form der Stadt</em>) entfalten.</p>
       ]]></desc>
       <latLng>41.25252,13.034988</latLng>
       <pos>9312</pos>
@@ -1958,6 +2007,7 @@
         <caption xml:lang="ca">La casa de Sabaudia</caption>
         <caption xml:lang="en">The villa at Sabaudia</caption>
         <caption xml:lang="it">La villa di Sabaudia</caption>
+        <caption xml:lang="de">Die Villa in Sabaudia</caption>
         <rights>© Archivio Pier Paolo Pasolini</rights>
       </m>
       <trello>TxrL5d9K</trello>
@@ -1968,6 +2018,7 @@
       <name xml:lang="es">Barrio de Torpignattara</name>
       <name xml:lang="fr">Quartier de Torpignattara</name>
       <name xml:lang="it">Quartiere di Torpignattara</name>
+      <name xml:lang="de">Torpignattara-Viertel</name>
       <desc xml:lang="fr"><![CDATA[
       <p>Avant sa mort, Pier Paolo Pasolini entame l'écriture d'un ouvrage monumental, qu'il définit lui-même comme une sorte de testament, de récapitulation de toute sa vie artistique, professionnelle et personnelle. C'est <em>Pétrole</em>. Le long chapitre «&nbsp;La visione del Merda&nbsp;»</em> se déroule dans le quartier populaire de Torpignattara qui s'étend au sud de la ville, entre la via Casilina et la via Prenestina.</p>
       <p>L'assassinat de Pasolini met un terme prématuré à l'écriture de <em>Pétrole</em>. Pendant des années, le manuscrit est resté à l'état de brouillon, ébauche dont le public ne connaissait pas l'existence. À travers son livre, Pasolini pensait entamer une relecture de l'histoire de l'Italie moderne, notamment avec le scandale de l'ENI – cette importante société pétrolière italienne dont le fondateur Enrico Mattei fut assassiné, sûrement à cause de sa politique d'ouverture vers le tiers monde. Cette affaire est évoquée par Francesco Rosi dans <em>L'Affaire Mattei</em>, avec Gian Maria Volontè dans le rôle-titre.</p>
@@ -1997,6 +2048,9 @@
       <p><em>Petrolio</em> è un libro complesso e quasi sperimentale, in cui si fondono filosofia e questioni di politica interna, domande esistenziali e scandalo dell'ENI. Si tratta di un capolavoro incompiuto dell'arte pasoliniana, e una delle rare opere dell'epoca che tentano di comprendere a fondo la situazione italiana. Pasolini cerca effettivamente di districare la matassa degli omicidi politici e delle stragi dei suoi anni, tentando di individuare il filo conduttore di tutti questi drammi. Tutto ciò rende Petrolio un libro particolarmente provocatorio, tanto che alcuni lo identificano come una possibile causa dell'<a href="#!/it/map/51">omicidio di Pasolini</a>, che ancora oggi rimane in gran parte insoluto...</p>
       ]]></desc>
       <desc xml:lang="de"><![CDATA[
+      <p>Vor seinem Tod beginnt Pier Paolo Pasolini ein monumentales Werk zu schreiben, das er selbst als eine Art Testament begreift, als eine Rekapitulation seines gesamten künstlerischen, beruflichen und persönlichen Lebens. Es ist der Roman <em>Petrolio</em>. Das lange Kapitel „La visione del Merda“ („Die Vision des Merdas“) spielt in der Arbeitergegend von Torpignattara im Süden der Stadt, zwischen der Via Casilina und der Via Prenestina.</p>
+      <p>Die Ermordung Pasolinis setzt dem Schreiben von <em>Petrolio</em> ein vorzeitiges Ende. Das Manuskript blieb über Jahre im Zustand von Entwürfen und Skizzen, die Öffentlichkeit wusste nicht einmal von seiner Existenz. Pasolini wollte mit diesem Buch die Geschichte des modernen Italiens neu schreiben, insbesondere die des Skandals um ENI – der großen italienischen Erdölgesellschaft, dessen Gründer Enrico Mattei ermordet wurde, sicherlich wegen seiner Politik der Öffnung zur Dritten Welt. Diese Affäre ist Thema von Francesco Rosis Film <em>Die Affäre Mattei</em> mit Gian Maria Volontè in der Hauptrolle.</p>
+      <p><em>Petrolio</em> ist ein vielschichtiges, fast experimentelles Buch. Es verbindet Philosophie mit Fragen der Innenpolitik, existenzielle Fragen mit den Skandalen von ENI. Es ist ein unvollendetes Monument der pasolinischen Kunst und eines der wenigen Bücher der damaligen Zeit, die die Lage Italiens tiefergehend zu verstehen suchen. Pasolini versucht tatsächlich, die Verwicklungen der Morde und politischen Attentate seiner Zeit zu entwirren und den roten Faden, der sich durch all diese Dramen zieht, erkennbar werden zu lassen. Ein außergewöhnlich gewagtes Buch, in dem manche einen möglichen Grund für <a href="#!/de/map/51">die Ermordung Pasolinis</a> gesehen haben, die bis heute große Rätsel aufgibt...</p>
       ]]></desc>
       <latLng>41.873650,12.545013</latLng>
       <pos>8766</pos>
@@ -2007,6 +2061,7 @@
         <caption xml:lang="ca">Fragment del manuscrit de Petroli</caption>
         <caption xml:lang="en">Excerpt from the manuscript of Petrolio</caption>
         <caption xml:lang="it">Pagina dal manoscritto di Petrolio</caption>
+        <caption xml:lang="de">Manuskriptseite von Petrolio</caption>
       </m>
       <m type="img" id="42-2" width="835" height="1200">
         <caption xml:lang="fr">Couverture de l'édition française de Pétrole</caption>
@@ -2014,6 +2069,7 @@
         <caption xml:lang="ca">Coberta de l'edició francesa de Petroli</caption>
         <caption xml:lang="en">Cover of the French edition of Petrolio</caption>
         <caption xml:lang="it">Copertina dell'edizione francese di Petrolio</caption>
+        <caption xml:lang="de">Cover der französischen Ausgabe von Petrolio</caption>
       </m>
       <trello>oG8xV8yx</trello>
     </place>
