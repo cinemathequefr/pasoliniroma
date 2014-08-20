@@ -2079,6 +2079,7 @@
       <name xml:lang="es">Casa de Totò</name>
       <name xml:lang="fr">L'appartement de Totò</name>
       <name xml:lang="it">L'appartamento di Totò</name>
+      <name xml:lang="de">Totòs Wohnung</name>
       <address>Viale Bruno Buozzi, 64, 00197 Roma</address>
       <desc xml:lang="fr"><![CDATA[
       <p>Pour son troisième long métrage, <em>Des oiseaux, petits et gros (Uccellacci e uccellini)</em>, Pier Paolo Pasolini choisit deux comédiens aux profils très particuliers&nbsp;: Totò, acteur mythique de la comédie italienne, et Ninetto, non-acteur, jeune homme inculte de la banlieue de Rome qu'il a rencontré sur le tournage de <a href="#!/fr/map/34"><em>La Ricotta</em></a> et dont c'est le premier film.</p>
@@ -2106,6 +2107,9 @@
       <p><em>Uccellacci e uccellini</em> nasce da un'intuizione geniale: parlare della crisi dell'ideologia marxista, della sinistra, della fine del cinema neorealista, di Rossellini, attraverso un racconto picaresco. La storia di Pasolini è molto amara, ma acuta e premonitrice. Ben prima della sinistra ufficiale, il poeta aveva capito la situazione, la morte dell'ideologia e dell'impegno.</p>
       ]]></desc>
       <desc xml:lang="de"><![CDATA[
+      <p>Für seinen dritten Spielfilm, <em>Uccellacci e uccellini</em> (<em>Große Vögel, kleine Vögel</em>) wählt Pier Paolo Pasolini zwei ausgesprochen besondere Charaktere: den legendären Komiker Totò und den Nicht-Schauspieler Ninetto, einen ungebildeten jungen Mann aus Roms Peripherie, den er bei den Drehabreiten zu <em>La Ricotta</em> (<a href="#!/de/map/34"><em>Der Weichkäse</em></a>) kennengelernt hat und für den dies die erste Filmrolle ist.</p>
+      <p>Die beiden ergänzen sich wunderbar, was allerdings nicht unbedingt vorauszusehen war. Totò, der sich eine aristokratische Herkunft zugelegt hat, wohnt in Parioli, Roms schickstem und bürgerlichsten Stadtteil. Zu einer abendlichen Essenseinladung bei dem Star erscheint Ninetto in Jeans und macht einen ausgesprochen ungepflegten Eindruck... sodass Totò nach dem Essen Ninettos Stuhl mit einem Pestizid reinigen lässt! Doch letztlich wird das Verhältnis der drei Männer idyllisch. Pasolini, Ninetto und Totò haben sich gefunden, sich gegenseitig angenommen, trotz der Unterschiede ihrer Klassen und Berufe.</p>
+      <p><em>Große Vögel, kleine Vögel</em> baut auf einer genialen Eingebung auf: das Reden über die Krise der marxistischen Ideologie, der Linken, dem Ende des neorealistischen Films und Rosselinis, eingebettet in eine pikareske Fabel. Pasolinis Geschichte ist überaus bitter, dabei aber hellsichtig und warnend. Er hat, früher als die offizielle Linke, die Lage begriffen – den Tod der Ideologie und des Engagements.</p>
       ]]></desc>
       <latLng>41.921627, 12.482041</latLng>
       <pos>6481</pos>
@@ -2116,6 +2120,7 @@
         <caption xml:lang="ca">Totò i Ninetto Davoli durant el rodatge de Uccellacci e uccellini</caption>
         <caption xml:lang="en">Totò and Ninetto Davoli on the set of The Hawks and the Sparrows</caption>
         <caption xml:lang="it">Totò e Ninetto Davoli sul set di Uccellini e uccellacci</caption>
+        <caption xml:lang="de">Totò und Ninetto Davoli bei Dreharbeiten für Große Vögel, kleine Vögel</caption>
       </m>
       <trello>KLV6Od8I</trello>
     </place>
@@ -2125,6 +2130,7 @@
       <name xml:lang="es">Cárcel de Rebibbia</name>
       <name xml:lang="ca">Presó de Rebibbia</name>
       <name xml:lang="en">Rebibbia prison</name>
+      <name xml:lang="de">Das Gefängnis Rebibbia</name>
       <address>Via Bartolo Longo, 78, 00156 Roma</address>
       <desc xml:lang="fr"><![CDATA[
       <p>À Rome, il existe deux prisons principales&nbsp;: Regina Coeli, dans le centre-ville, près du Trastevere, et Rebibbia, dans la banlieue de Ponte Mammolo. Cette prison, qui avait la particularité d'être mixte, se trouvait à quelques rues de <a href="#!/fr/map/3">l'appartement familial des Pasolini</a>.</p>
@@ -2157,6 +2163,10 @@
       <p>Pasolini avrà l'idea di <a href="#!/it/map/61"><em>Mamma Roma</em></a> leggendo un articolo di giornale sulla tragica morte di Marcello Elisei, giovane detenuto di Rebibbia, morto legato a un letto di contenzione. E nel 2011 i fratelli Taviani hanno girato <em>Cesare deve morire</em>, Orso d'Oro al Festival di Berlino del 2012, proprio nel carcere di Rebibbia.</p>
       ]]></desc>
       <desc xml:lang="de"><![CDATA[
+      <p>In Rom gab es zwei Gefängnisse: Regina Coeli im Stadtzentrum bei Trastevere, und Rebibbia im Vorort Ponte Mammolo. Dieses Gefängnis hatte die Besonderheit, dass es gemischt war. Es lag wenige Straßen entfernt von <a href="#!/de/map/3">der Wohnung der Familie Pasolini</a>.</p>
+      <p>In dem Gedicht „Die Klage des Baggers“ aus <em>Le Ceneri di Gransci</em> (<em>Gramsci's Asche</em>) schreibt Pier Paolo Pasolini wehmütig über Ponte Mammolo und Rebibbia, wobei das Gefängnis eine Metonymie ist für das proletarische Viertel, in dem er wohnt.</p>
+      <blockquote class="de">Ich entkleide mich in einem der tausend Zimmer,<br />in denen man schläft in der Via Fonteiana.<br />Du kannst alles umgraben, Zeit: Hoffnung<br />und Leidenschaft. Aber nicht diese reinen<br />Formen des Lebens... Auf sie<br />fällt der Mensch zurück, wenn Erfahrung<br />und Zutrauen zur Welt in ihm<br />sich erfüllen... Ach, ihr Tage von Rebibbia,<br />die ich verloren wähnte im Lichte<br />der Not, und die ich euch nun so frei weiß!</blockquote>
+      <p>Durch einen Zeitungsartikel über den tragischen Tod des jungen Häftlings Marcello Elisei in Rebibbia, der auf eine Pritsche gefesselt starb, kommt Pasolini die Idee zu <a href="#!/de/map/61"><em>Mamma Roma</em></a>. 2011 drehten die Brüder Taviani <em>Cesare deve morire</em> (<em>Cäsar muss sterben</em>) im Gefängnis von Rebibbia. Der Film erhielt 2012 den Goldenen Bären der Berlinale in Berlin.</p>
       ]]></desc>
       <latLng>41.93669, 12.570669</latLng>
       <date>1951</date>
@@ -2168,6 +2178,7 @@
         <caption xml:lang="ca">La presó de Rebibbia</caption>
         <caption xml:lang="en">The Rebibbia prison</caption>
         <caption xml:lang="it">Il carcere di Rebibbia</caption>
+        <caption xml:lang="de">Das Gefängnis Rebibbia</caption>
         <rights>© Archivio dell'Immagine di Cesena</rights>
       </m>
       <trello>EuZbfoUn</trello>
@@ -2178,10 +2189,11 @@
       <name xml:lang="es">Casa de Elsa Morante y Alberto Moravia, via dell'Oca, 27</name>
       <name xml:lang="fr">Chez Alberto Moravia et Elsa Morante, via dell'Oca, 27</name>
       <name xml:lang="it">A casa di Alberto Moravia ed Elsa Morante, via dell'Oca 27</name>
+      <name xml:lang="de">Bei Alberto Moravia und Elsa Morante, Via dell'Oca, 27</name>
       <address>Via dell'Oca, 27, 00186 Roma</address>
       <desc xml:lang="fr"><![CDATA[
       <p>C'est à cette adresse que Pier Paolo Pasolini retrouve des intimes&nbsp;: le couple d'écrivains Elsa Morante et Alberto Moravia, qu'il a rencontrés en 1955. Ces deux figures de la vie intellectuelle italienne ont fait de leur appartement l'un des foyers culturels de la ville - appartement qu'ils habiteront jusqu'à leur séparation en 1962. Là se noue entre eux une complicité inébranlable, faite d'émulation idéologique, de débats sur l'état de la société italienne, et d'ouverture sur le monde. Tous trois voyageront ainsi en Afrique et en Inde, et le compte-rendu de ces voyages donnera lieu à la publication, quelques années plus tard, de <em>L'Odeur de l'Inde</em>.</p>
-      <p>Alors qu'un jour son père le presse d'aller à l'Université, Bernardo Bertolucci lui répondra un définitif&nbsp;: <em>«&nbsp;Mon université, c'est d'aller dîner chaque soir chez Elsa Morante et Alberto Moravia avec Pier Paolo Pasolini.&nbsp;»</em></p>
+      <p>Alors qu'un jour son père le presse d'aller à l'Université, Bernardo Bertolucci lui répondra un définitif&nbsp;: <em>«&nbsp;Mon université, c'est d'aller dîner chaque soir chez Elsa Morante et Alberto Moravia avec Pier Paolo Pasolini&nbsp;».</em></p>
       ]]></desc>
       <desc xml:lang="es"><![CDATA[
       <p>Es en esta calle donde Pier Paolo Pasolini va a visitar a sus amigos íntimos: la pareja de escritores Elsa Morante y Alberto Moravia, que ha conocido en 1955. Estas dos figuras de la vida intelectual italiana han convertido su piso en uno de los focos culturales de la ciudad. Vivirán en este piso hasta su separación, en 1962. Nace entre ellos una complicidad indefectible, hecha de emulación ideológica, de debates sobre el estado de la sociedad italiana y de apertura sobre el mundo. Los tres juntos viajarán a África y a la India, y la narración de esos viajes dará lugar, años más tarde, a la publicación de <em>L'odore dell'India.</em></p>
@@ -2200,6 +2212,8 @@
       <p>A suo padre che insisteva perché andasse all'università, Bernardo Bertolucci rispose deciso: <em>«La mia università è andare a cena ogni sera da Elsa Morante e Alberto Moravia con Pier Paolo Pasolini»</em>.</p>
       ]]></desc>
       <desc xml:lang="de"><![CDATA[
+      <p>Hier wohnte das Schriftstellerpaar Elsa Morante und Alberto Moravia, die Pier Paolo Pasolini 1955 kennenlernt und mit denen er sich eng befreundet. Diese beiden Protagonisten des intellektuellen Lebens Italiens machten ihre Wohnung, in der sie bis zu ihrer Trennung 1962 leben, zu einem Zentrum der Kulturszene Roms. Hier entsteht zwischen ihnen eine durch nichts zu erschütternde geistige Verbundenheit, bestehend aus dem Wetteifern um Ideologien, Diskussionen über den Zustand der italienischen Gesellschaft und der Neugier auf die Welt. So reisen sie zu dritt nach Afrika und Indien, ihre Reiseberichte erscheinen später unter dem Titel <em>L'odore dell'India</em> (<em>Der Geruch Indiens</em>).</p>
+      <p>Als ihn sein Vater einmal drängt, zur Universität zu gehen, antwortet Bernardo Bertolucci entschieden: <em>»Meine Universität sind die allabendlichen Essen bei Elsa Morante und Alberto Moravia mit Pier Paolo Pasolini«</em>.</p>
       ]]></desc>
       <latLng>41.909791,12.475802</latLng>
       <cat>8</cat>
@@ -2209,6 +2223,7 @@
         <caption xml:lang="ca">Elsa Morante al seu pis de la via dell'Oca, 27</caption>
         <caption xml:lang="en">Elsa Morante in her via dell'Oca flat</caption>
         <caption xml:lang="it">Elsa Morante nel suo appartamento di via dell'Oca 27</caption>
+        <caption xml:lang="de">Elsa Morante in ihrer Wohnung in der Via dell'Oca, 27</caption>
         <rights>© Mario Dondero, Elisa Dondero</rights>
       </m>
       <m type="img" id="48-2" width="907" height="1200">
@@ -2217,17 +2232,18 @@
         <caption xml:lang="ca">Alberto Moravia, Pier Paolo Pasolini i Roberto Rossellini</caption>
         <caption xml:lang="en">Alberto Moravia, Pier Paolo Pasolini and Roberto Rossellini</caption>
         <caption xml:lang="it">Alberto Moravia, Pier Paolo Pasolini e Roberto Rossellini</caption>
+        <caption xml:lang="de">Alberto Moravia, Pier Paolo Pasolini und Roberto Rossellini</caption>
         <rights>© Fotoarchivi &amp; Multimedia</rights>
       </m>
       <trello>imyf2duA</trello>
     </place>
     <place id="50">
       <name xml:lang="ca">Estació de Roma Termini</name>
-      <name xml:lang="de">Bahnhof Roma Termini</name>
-      <name xml:lang="en">Rome Termini railway station</name>
-      <name xml:lang="es">Estación de Termini</name>
+      <name xml:lang="en">Rome Termini railway station: the arrival in Rome</name>
+      <name xml:lang="es">Estación de Termini: la llegada en Roma</name>
       <name xml:lang="fr">Gare de Rome Termini : l'arrivée à Rome</name>
       <name xml:lang="it">Stazione Termini: l'arrivo a Roma</name>
+      <name xml:lang="de">Bahnhof Rom Termini: Ankunft in Rom</name>
       <desc xml:lang="fr"><![CDATA[
       <blockquote>Tu ne peux pas savoir à quoi est réduite ma pauvre mère. Je ne peux plus supporter de la voir souffrir d'une manière aussi inhumaine et indicible. J'ai décidé de l'amener dès demain à Rome, à l'instigation de mon père, pour la confier à mon oncle&nbsp;; je ne pourrai pas rester à Rome, parce que mon oncle m'a fait comprendre qu'il ne peut pas m'y héberger, mais j'espère que pour ma mère la chose sera différente. De Rome, je ne sais pas où j'irai, peut-être à Florence&nbsp;; comme tu vois, je me trouve dans une bien triste situation [...]. Si tu veux donc m'écrire quelque chose, mon adresse, du moins pour quelques jours, sera&nbsp;: chez Gino Colussi, via Porta Pincinia, 34, Rome. Ensuite je ne sais ni où j'irai ni ce que je ferai&nbsp;; ma vie est à un tournant plus que décisif.</blockquote>
       <cite>Dernière lettre écrite à Casarsa, le 27 janvier 1950, adressée à Silvana Mauri</cite>
@@ -2254,6 +2270,9 @@
       <p>Pasolini e la madre lasciano la casa di Casarsa il 27 gennaio 1950. Arrivano alla stazione Termini il giorno dopo, in una mattina glaciale... «Povero come un gatto del Colosseo», scriverà in seguito in una delle sue prime e più celebri poesie romane.</p>
       ]]></desc>
       <desc xml:lang="de"><![CDATA[
+      <blockquote class="de">Du kannst Dir nicht vorstellen, wie schlecht es meiner Mutter geht. Ich ertrage es nicht länger, sie so unsagbar und unmenschlich leiden zu sehen. Daher habe ich mich entschlossen, sie noch morgen ohne Wissen meines Vaters nach Rom zu bringen und der Obhut meines Onkels anzuvertrauen; ich selbst wer- de in Rom nicht bleiben, da mein Onkel mir zu verstehen gegeben hat, dass er mich nicht aufnehmen kann, hoffe aber, dass es für meine Mutter nicht so sein wird. Wohin ich von Rom aus gehen werde, weiß ich noch nicht, vielleicht nach Florenz. Wie Du siehst, befinde ich mich in einer traurigen Lage [...].Wenn Du mir also schreiben willst, hier ist meine Adresse, zumindest für einige Tage: bei Gino Colussi, Via Porta Pinciana, 34, Rom. Wohin ich danach gehen und was ich tun werde, weiß ich nicht; mein Leben befindet sich an einer entscheidenden Wende.</blockquote>
+      <cite>Der letzte in Casarsa geschriebene Brief, am 27. Januar 1950, an Silvana Mauri</cite>
+      <p>Pasolini und seine Mutter haben am 27. Januar ihr Haus in Casarsa verlassen. Tags darauf kommen sie an einem eiskalten Morgen am Bahnhof Termini an... <em>„Arm wie die Katzen im Kolosseum“</em>, wird er später in einem seiner ersten und berühmtesten römischen Gedicht schreiben.</p>
       ]]></desc>
       <latLng>41.898492, 12.506111</latLng>
       <cat>1</cat>
@@ -2263,6 +2282,7 @@
         <caption xml:lang="ca">Estació de Termini</caption>
         <caption xml:lang="en">Rome Termini railway station</caption>
         <caption xml:lang="it">Stazione Termini, Roma</caption>
+        <caption xml:lang="de">Bahnhof Termini</caption>
       </m>
       <date>1950-01-28</date>
       <pos>758</pos>
@@ -2274,6 +2294,7 @@
       <name xml:lang="es">Playa de Ostia</name>
       <name xml:lang="fr">Plage d'Ostie</name>
       <name xml:lang="it">Spiaggia di Ostia</name>
+      <name xml:lang="de">Der Strand von Ostia</name>
       <desc xml:lang="fr"><![CDATA[
       <p>Dans la nuit du 1er au 2 novembre 1975, on retrouve le corps atrocement mutilé de Pier Paolo Pasolini sur la plage d'Ostie. Les conditions de sa mort restent encore aujourd'hui très floues, même si son assassin présumé, Giuseppe (Pino) Pelosi, a livré à l'époque une version détaillée de cette soirée tragique.</p>
       <p>En début de soirée, Pasolini dîne avec Ninetto Davoli au restaurant Pommidoro (Piazza dei Sanniti, 44). Puis il se rend, dit-il, à un rendez-vous.</p>
@@ -2320,6 +2341,13 @@
       <p>Negli ultimi anni la magistratura ha più volte riaperto l'indagine.</p>
       ]]></desc>
       <desc xml:lang="de"><![CDATA[
+      <p>In der Nacht vom 1. auf den 2. November 1975 findet man am Strand von Ostia die grauenvoll verstümmelte Leiche von Pier Paolo Pasolini. Die Umstände seines Todes sind noch heute äußerst unklar, auch wenn sein mutmaßlicher Mörder Pelosi damals eine detaillierte Schilderung des tragischen Abends gab.</p>
+      <p>Zuerst aß Pasolini mit Ninetto Davoli im Restaurant Pommidoro (Piazza dei Sanniti, 44). Dann ging er, so sagt Ninetto, zu einem Treffen.</p>
+      <p>In seiner ersten Version erzählt Pelosi, er habe Pasolini in unmittelbarer Nähe des Bahnhofs Termini getroffen. Dann hätten sie mit dem Auto eine Spazierfahrt durch Rom gemacht und wären schließlich ins „Al Biondo Tevere“ (Via Ostiense, 178) gegangen, ein einfaches Restaurant an der Straße, die zum Strand von Ostia führt.</p>
+      <p>Dieser Bericht enthält eine Menge Unstimmigkeiten und dunkle Stellen, und entgegen der These der versuchten Notzucht eines Homosexuellen, die tragisch endete, ist die Theorie eines organisierten Hinterhalts am glaubhaftesten. Es gibt viele ungeklärte Punkte über den Weg, den die beiden Männer genommen haben, und den tatsächlichen Ablauf des Abends.</p>
+      <p>Am wahrscheinlichsten ist die Hypothese, dass der Tod Pasolinis sich nicht auf eine bloße Zeitungsmeldung über homosexuelle Gewalt reduzieren lässt, sondern vielmehr eine Form von Lynchjustiz an einem engagierten, kämpferischen Provokateur war, dessen einzigartige, laute, rebellische und außergewöhnlich einflussreiche Stimme für die damalige italienische Staatsmacht eine Gefahr darstellte.</p>
+      <p>Nachdem Pelosi auf seine ersten Aussagen zurückkam, erwähnte er auch die beiden Brüder Borsellino, die der extremen Rechten angehörten, außerdem zwei oder drei Sizilianer.</p>
+      <p>Das Gericht nahm in den letzten Jahren die Ermittlungen mehrmals wieder auf.</p>
       ]]></desc>
       <latLng>41.741721, 12.249034</latLng>
       <pos>10166</pos>
@@ -2331,6 +2359,7 @@
         <caption xml:lang="ca">El cadàver de Pier Paolo Pasolini a la platja d'Ostia</caption>
         <caption xml:lang="en">Pier Paolo Pasolini's corpse on the beach at Ostia</caption>
         <caption xml:lang="it">Il cadavere di Pier Paolo Pasolini sulla spiaggia di Ostia</caption>
+        <caption xml:lang="de">Pier Paolo Pasolinis Leiche am Strand von Ostia</caption>
         <rights>© Archivi Farabola</rights>
       </m>
       <trello>BvQzudQ9</trello>
@@ -2341,6 +2370,7 @@
       <name xml:lang="es">Campo de' Fiori: el funeral de Pasolini</name>
       <name xml:lang="fr">Campo de' Fiori : les obsèques de Pasolini</name>
       <name xml:lang="it">Campo de' Fiori: il funerale di Pasolini</name>
+      <name xml:lang="de">Campo de' Fiori: Die Trauerfeier für Pasolini</name>
       <desc xml:lang="fr"><![CDATA[
       <p>Le choix de cette place est symbolique&nbsp;: c'est là que le philosophe et physicien Giordano Bruno, accusé d'hérésie par l'Inquisition, fut condamné au bûcher et exécuté en 1600. C'est aussi et surtout une adresse emblématique du quotidien de Pasolini. Laura Betti vivait <a href="#!/fr/map/11">via di Montoro</a>, une ruelle proche. Et La Carbonara était l'un des restaurants fétiches de Pasolini et de ses amis intellectuels.</p>
       <p>Le jour de l'enterrement, les intellectuels mais aussi le peuple de Rome se déplacent en masse&nbsp;: les funérailles sont grandioses, et attirent aussi bien Moravia, Rosi, Bertolucci, Betti, Morante que le peuple des <em>borgate</em> que Pasolini a tant aimé. Alberto Moravia prend la parole –&nbsp;suivi par Gianni Borgna&nbsp;– et prononce un discours bouleversant, sans notes.</p>
@@ -2383,6 +2413,12 @@
       ]]></desc>
       <address/>
       <desc xml:lang="de"><![CDATA[
+      <p>Die Wahl diese Platzes hat symbolische Bedeutung: hier wurde im Jahr 1600 der von der Inquisition wegen Ketzerei verurteilte Philosoph und Physiker Giordano Bruno auf dem Scheiterhaufen hingerichtet. Aber er ist außerdem und vor allem ein wichtiger Ort im täglichen Leben Pasolinis. Ganz in der Nähe, in der <a href="#!/de/map/11">Via di Montoro</a>, wohnte Laura Betti. Und das Carbonara war eines der Lieblingslokale von Pasolini und seinen intellektuellen Freunden.</p>
+      <p>Am Tag der Trauerfeier strömen die Intellektuellen, aber auch viele Menschen aus dem Volk in Massen auf den Platz: Es wird eine ergreifende Zeremonie. Neben Moravia, Rosi, Bertolucci, Betti und Morante nimmt auch das von Pasolini so geliebte Volk aus den „Borgate“ daran teil. Alberto Moravia beginnt zu sprechen – gefolgt von Gianni Borgna – und hält eine erschütternde Rede aus dem Stegreif.</p>
+      <p><em>»Das Bild von Pasolini, das mich heimsucht, zu Fuß auf der Flucht vor einem Wesen, das gesichts- los ist und ihn getötet hat, ist das emblematische Bild dieses Landes. Es ist ein Bild, das uns dazu bringen muss, dieses Land zu verbessern, so wie Pasolini es gewollt hätte.«</em></p>
+      <p><em>»Eine Gesellschaft, die ihre Dichter tötet, ist eine kranke Gesellschaft«</em>, fügt er hinzu.</p>
+      <p>Die Menge reagiert nicht nur ergriffen, sondern auch leidenschaftlich. Die Trauerfeier verwandelt sich in eine politische Demonstration, denn das Volk hat begriffen, dass die Sache sehr viel komplexer war, als sie von den Medien dargestellt wurde.</p>
+      <p>Pasolini liegt neben seiner Mutter in einem Doppelgrab auf dem kleinen Friedhof von Casarsa della Delizia, dem Dorf seiner Mutter im Friaul. Der Vater und der Bruder sind auf einem anderen Teil des Friedhofs beerdigt.</p>
       ]]></desc>
       <latLng>41.895502, 12.472004</latLng>
       <pos>10166</pos>
@@ -2401,6 +2437,7 @@
       <name xml:lang="fr">Marché aux puces de Porta Portese</name>
       <name xml:lang="es">Mercadillo de la Porta Portese</name>
       <name xml:lang="ca">Mercat ambulant de la Porta Portese</name>
+      <name xml:lang="de">Flohmarkt von Porta Portese</name>
       <desc xml:lang="fr"><![CDATA[
       <p>Le marché aux puces de <em>Mamma Roma</em>, symbole de la misère et de la débrouille des <em>borgate</em>, sert aussi de décor au cinquième chapitre du <em>Raggazzi di Vita</em> de Pasolini.</p>
       <p>Dans le film, c'est dans une échoppe de Porta Portese qu'Ettore vient revendre les disques de sa mère, ceux-là même sur lesquels elle lui a appris à danser. Dans le roman, c'est dans la prison pour mineurs du même quartier qu'atterrit Ricetto, après avoir commis un énième larcin.</p>
@@ -2422,6 +2459,8 @@
       <p>Nel film, è a una bancarella di Porta Portese che Ettore rivende i dischi rubati a sua madre, anche quelli con cui lei gli ha insegnato a ballare. Nel romanzo, è nel carcere minorile dello stesso quartiere che viene spedito Riccetto, dopo aver commesso l'ennesima rapina.</p>
       ]]></desc>
       <desc xml:lang="de"><![CDATA[
+      <p>Der Flohmarkt in <em>Mamma Roma</em>, ein Symbol des Elend und der Findigkeit der „Borgate“, dient auch als Schauplatz für das 5. Kapitel von Pasolinis <em>Ragazzi di Vita</em>.</p>
+      <p>Im Film verkauft Ettore in einer Bude an der Porta Portese die Schallplatten seiner Mutter, sogar die, nach denen sie ihm das Tanzen beigebracht hat. Im Roman landet Ricetto nach einem winzigen Diebstahl im selben Viertel im Gefängnis für Minderjährige.</p>
       ]]></desc>
       <latLng>41.883728, 12.473832</latLng>
       <pos>5203</pos>
@@ -2432,6 +2471,7 @@
         <caption xml:lang="ca">Fragment de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="en">Excerpt from Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="it">Da Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
+        <caption xml:lang="de">Ausschnitt aus Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <rights>© Mediaset</rights>
       </m>
       <trello>LpYBN96a</trello>
@@ -2442,6 +2482,7 @@
       <name xml:lang="es">Barrio de Quarticciolo</name>
       <name xml:lang="fr">Quartier de Quarticciolo</name>
       <name xml:lang="it">Quartiere del Quarticciolo</name>
+      <name xml:lang="de">Das Viertel Quarticciolo</name>
       <address/>
       <desc xml:lang="fr"><![CDATA[
       <blockquote>Pier Paolo est devenu romain, même s'il a gardé envers Rome une certaine distance critique et linguistique. Il a acquis une connaissance profonde du romanesco, mais il va de soi qu'il ne le parlait pas comme Sergio Citti ou moi&nbsp;; il en faisait un usage littéraire, il se servait du discours indirect libre à la manière de Gadda&nbsp;; dans une certaine mesure, il mimait ce dialecte. Il vous faisait sentir toute la saveur de cette réalité, mais il en donnait une représentation qui n'avait rien de naturaliste.</blockquote>
@@ -2469,6 +2510,9 @@
       <p>Gli scritti e i film di Pasolini creano un nuovo immaginario della capitale. Il poeta non si accontenta di inserire la città come sfondo dei suoi film e romanzi, ma «rifonda» Roma attraverso la letteratura e il cinema. Frequentando i giovani di borgata –&nbsp;ad esempio al Quarticciolo&nbsp;– conferisce dignità letteraria e convalida l'esistenza del romanesco, una lingua che grazie a lui entra nella cultura italiana.</p>
       ]]></desc>
       <desc xml:lang="de"><![CDATA[
+      <blockquote class="de">Pier Paolo wurde Römer, auch wenn er Rom gegenüber eine gewisse kritische und sprachliche Distanz bewahrt hat. Er eignete sich gründliche Kenntnisse des Römischen an, aber natürlich sprach er nicht so wie Sergio Citti oder ich; er machte aus dem Römischen eine literarische Sprache, er benutzte die erlebte Rede in der Art von Gadda; in gewisser Weise ahmte er diesen Dialekt nach. Er machte uns die ganze Atmosphäre dieser Welt fühlbar, er gab eine Vorstellung von ihr, die aber nichts Naturalistisches hatte.</blockquote>
+      <cite>Gespräch mit Vincenzo Cerami, einstiger Schüler von Pasolini in <a href="#!/de/map/4">Ciampino</a>, Drehbuchautor, Schriftsteller.</cite>
+      <p>Pasolinis Schriften und Filme gaben eine neue Vorstellung der italienischen Hauptstadt. Die Stadt ist ihm nicht nur Kulisse für seine Romane und Filme, er hat durch die Literatur und das Kino Rom „neu gegründet“. Indem er mit der Jugend aus den „Borgate“ verkehrte – etwa mit der aus Quarticciolo – verlieh er der römischen Mundart eine Existenz und eine literarische Würde, die durch ihn in die große italienische Kultur eingegangen ist.</p>
       ]]></desc>
       <latLng>41.89164, 12.576513</latLng>
       <pos>2007</pos>
@@ -2514,6 +2558,8 @@
       <cite>Totò, frase raccolta nell'intervista di Giacomo Gambetti, in <em>Breve vita di Pasolini</em> di Nico Naldini.</cite>
       ]]></desc>
       <desc xml:lang="de"><![CDATA[
+      <blockquote class="de">Es gab anstrengende Szenen, sehr anstrengende. Wir mussten z.B. durch Schlick laufen, durch Schlamm, durch Treibsand. Pasolini drehte manchmal an den unvorstellbarsten Orten, im Übrigen hatte er damit ja auch recht, denn die Bilder sind doch sehr schön und ungewöhnlich.</blockquote>
+      <cite>Totò, Gesprächsaufzeichnung von Giacomo Gambetti, in <em>Pasolini</em> von Nico Naldini</cite>
       ]]></desc>
       <latLng>41.845013,12.431436</latLng>
       <pos>6482</pos>
@@ -2524,6 +2570,7 @@
         <caption xml:lang="ca">Totò i Pier Paolo Pasolini durant el rodatge d'Uccellacci e uccellini</caption>
         <caption xml:lang="en">Totò and Pier Paolo Pasolini on the set of Uccellacci e uccellini</caption>
         <caption xml:lang="it">Totò e Pier Paolo Pasolini sul set di Uccellacci e uccellini</caption>
+        <caption xml:lang="de">Totò und Pier Paolo Pasolini bei Dreharbeiten zu Große Vögel, kleine Vögel</caption>
         <rights>© Divo Cavicchioli / Reporters Associati srl</rights>
       </m>
       <trello>IfDzCwaF</trello>
@@ -2534,6 +2581,7 @@
       <name xml:lang="es">Torre Righetti, colina de Montecucco</name>
       <name xml:lang="fr">Tour Righetti, colline de Montecucco</name>
       <name xml:lang="it">Torre Righetti, collina di Montecucco</name>
+      <name xml:lang="de">Righetti-Turm, Montecucco-Hügel</name>
       <desc xml:lang="fr"><![CDATA[
       <blockquote>Quand il m'a proposé de jouer dans <em>Uccellacci e uccellini</em>, je lui ai dit non tout de suite. <br />«&nbsp;Allons, disait Pier Paolo, c'est une belle expérience.<br />– Non, mais attends, je répondais, faut pas qu'je cause par hasard&nbsp;? J'me rappelle même pas ce que j'ai bouffé hier.&nbsp;» <br />Et Pier Paolo&nbsp;: «&nbsp;Nino, tu es payé, tu sais.<br />– J'suis payé&nbsp;?<br />– Bien sûr, on te donnera au moins 800&nbsp;000 lires, peut-être un million.<br />– Combien&nbsp;? Et qu'est-ce que j'dois faire&nbsp;? Avec qui j'dois bosser&nbsp;?<br />– Tu dois bosser avec Totò.<br />– Arrête, Totò, celui du cinéma&nbsp;?<br />– Oui, lui-même.&nbsp;»<br />Pour moi, Totò, c'était un mythe, j'allais au cinéma, je m'achetais du pain d'épices, je le regardais, avec Charlot, avec Laurel et Hardy. Mais ça me faisait vraiment bizarre&nbsp;: non seulement j'allais avoir la chance de travailler avec Totò, mais en plus on me payait&nbsp;!</blockquote>
       <cite>Ninetto Davoli</cite>
@@ -2552,10 +2600,12 @@
       ]]></desc>
       <desc xml:lang="it"><![CDATA[
       <blockquote>Quando mi offrì di recitare in Uccellacci e uccellini dissi subito di no.<br />«Ma dai –&nbsp;diceva Pier Paolo&nbsp;– è una bella cosa.<br />– Ma che –&nbsp;rispondevo io&nbsp;– devo per caso parlà? Io nun me ricordo neanche quello che ho mangiato ieri.»<br />
-      E Pier Paolo: «Nine', guarda che ti pagano.<br />– Mi pagano?<br />– Certo, ti daranno almeno 800&nbsp;000 lire, forse un milione.<br />– Che me danno? e che devo fa'? Con chi devo lavora'?<br />– Devi lavora' con Totò.<br />– Ma chi, Totò quello del cinema?<br />– Sì, lui.»<br />Per me Totò era un mito, io andavo al cinema, mi compravo i mostaccioli, me lo vedevo, con Charlot, con Stanlio e Ollio. Però mi sembrava strano. Non solo avevo la fortuna di lavorare con Totò, mi pagavano pure!</blockquote>
+E Pier Paolo: «Nine', guarda che ti pagano.<br />– Mi pagano?<br />– Certo, ti daranno almeno 800&nbsp;000 lire, forse un milione.<br />– Che me danno? e che devo fa'? Con chi devo lavora'?<br />– Devi lavora' con Totò.<br />– Ma chi, Totò quello del cinema?<br />– Sì, lui.»<br />Per me Totò era un mito, io andavo al cinema, mi compravo i mostaccioli, me lo vedevo, con Charlot, con Stanlio e Ollio. Però mi sembrava strano. Non solo avevo la fortuna di lavorare con Totò, mi pagavano pure!</blockquote>
       <cite>Ninetto Davoli</cite>
       ]]></desc>
       <desc xml:lang="de"><![CDATA[
+      <blockquote class="de">Als er mir vorschlug, in Uccellacci e uccellini (Große Vögel, kleine Vögel) mitzuspielen, habe ich sofort nein gesagt.<br />„Na komm“, sagte Pier Paolo, „das ist doch eine tolle Erfahrung.“<br />„Warte mal“, antwortete ich, „ich muss da doch nicht reden? Ich erinnere mich nicht mal mehr daran, was ich gestern gegessen habe.“<br />Und Pier Paolo: „Nino, du wirst dafür ja auch bezahlt“.<br />„Ich werde bezahlt?“<br />„Klar, du bekommst mindestens 800.000 Lire, vielleicht sogar eine Million.“<br />„Wie viel? Und was muss ich machen? Mit wem muss ich arbeiten?“<br />„Mit Totò.“<br />„Ich glaub's nicht, Totò, der vom Film?“<br />„Genau der.“<br />Für mich war Totò ein Mythos, ich ging ins Kino, ich kaufte mir Honigkuchen, ich sah in mir an, mit Charlie Chaplin, mit Laurel und Hardy. Das kam mir echt merkwürdig vor: Ich sollte nicht nur das Glück haben, mit Totò zu arbeiten, man bezahlte mich auch noch dafür!</blockquote>
+      <cite>Ninetto Davoli</cite>
       ]]></desc>
       <latLng>41.836656,12.443968</latLng>
       <pos>6482</pos>
@@ -2566,6 +2616,7 @@
         <caption xml:lang="ca">Totò i Ninetto Davoli durant el rodatge d'Uccellacci e uccellini</caption>
         <caption xml:lang="en">Totò and Ninetto Davoli on the set of Uccellacci e uccellini</caption>
         <caption xml:lang="it">Totò e Ninetto Davoli sul set di Uccellacci e uccellini</caption>
+        <caption xml:lang="de">Totò und Ninetto Davoli bei den Dreharbeiten zu Große Vögel, kleine Vögel</caption>
         <rights>© Archivio Storico del Cinema / AFE</rights>
       </m>
       <m type="img" id="35-2" width="1186" height="1200">
@@ -2574,6 +2625,7 @@
         <caption xml:lang="ca">Totò i Ninetto Davoli durant el rodatge d'Uccellacci e uccellini</caption>
         <caption xml:lang="en">Totò and Ninetto Davoli on the set of Uccellacci e uccellini</caption>
         <caption xml:lang="it">Totò e Ninetto Davoli sul set di Uccellacci e uccellini</caption>
+        <caption xml:lang="de">Totò und Ninetto Davoli bei den Dreharbeiten zu Große Vögel, kleine Vögel</caption>
         <rights>© Divo Cavicchioli / Reporters Associati srl</rights>
       </m>
       <m type="img" id="35-3" width="862" height="1200">
@@ -2582,6 +2634,7 @@
         <caption xml:lang="ca">Cartell de Uccellacci e uccellini</caption>
         <caption xml:lang="en">Poster of The Hawks and the Sparrows</caption>
         <caption xml:lang="it">Manifesto di Uccellacci e uccellini</caption>
+        <caption xml:lang="de">Plakat von Große Vögel, kleine Vögel</caption>
       </m>
       <trello>y9R9GQnc</trello>
     </place>
@@ -2591,6 +2644,7 @@
       <name xml:lang="fr">Galerie “La Nuova Pesa”, exposition Renato Guttuso</name>
       <name xml:lang="es">Galleria “La Nuova Pesa”, mostra di Renato Guttuso</name>
       <name xml:lang="en">“La Nuova Pesa” gallery, Renato Guttuso exhibition</name>
+      <name xml:lang="de">Galerie „La Nuova Pesa“, Guttuso-Ausstellung</name>
       <address>Via del Vantaggio, 46, 00186 Roma</address>
       <desc xml:lang="fr"><![CDATA[
       <blockquote>Dans ma chambre (un simple<br />petit lit, avec des couvertures fleuries<br />tissées par des femmes calabraises ou sardes),<br />j'accrocherais ma collection<br />de tableaux que j'aime encore&nbsp;: à côté<br />de mon Zigaina, je voudrais un beau Morandi,<br />un Mafai, de quarante, un De Pisis,<br />un petit Rosai, un grand Guttuso...</blockquote>
@@ -2619,6 +2673,9 @@
       <p>Nel corso degli anni, la vita culturale e sociale di Pasolini si sposta dalle borgate al centro di Roma. <a href="#!/it/map/9">Bar</a>, <a href="#!/it/map/13">ristoranti</a>, teatri... ma anche gallerie d'arte. Appassionato di pittura, il poeta stringe amicizia in particolare con Renato Guttuso, pittore adorato all'epoca.</p>
       ]]></desc>
       <desc xml:lang="de"><![CDATA[
+      <blockquote class="de">Im Schlafzimmer (ein einfaches<br />Bett, mit geblümten Decken<br />von kalabresischen oder sardischen Frauen gewebt)<br />würde ich meine Sammlung von Bildern<br />aufhängen, die ich immer noch liebe: An der Seite<br />meines Zigaina wünsche ich mir einen schönen Morandi,<br /> einen Mafai aus den 1940ern, einen De Pisis,<br />einen kleinen Rosai, einen gewaltigen Guttuso...</blockquote>
+      <cite>„Il mio desiderio di ricchezza“ („Mein Verlangen nach Reichtum“), Gedicht von Pier Paolo Pasolini aus <em>Die Religion meiner Zeit</em>, 1961</cite>
+      <p>Im Laufe der Jahre verschiebt sich Pasolinis kulturelles und soziales Leben von den „Borgate“ in Richtung Stadtzentrum. Er besucht <a href="#!/de/map/9">die Bars</a>, <a href="#!/de/map/13">Restaurants</a>, Theater... aber auch die Kunstgalerien. Durch seine Leidenschaft für die Malerei befreundet er sich insbesondere mit Renato Guttuso, einem damals verehrten Maler.</p>
       ]]></desc>
       <latLng>41.908777,12.474909</latLng>
       <date>1962-01-17</date>
@@ -2631,15 +2688,16 @@
         <caption xml:lang="fr">Pier Paolo Pasolini à l'exposition Guttuso</caption>
         <caption xml:lang="es">Pier Paolo Pasolini en la exposición Guttuso</caption>
         <caption xml:lang="it">Pier Paolo Pasolini alla mostra di Guttuso</caption>
+        <caption xml:lang="de">Pier Paolo Pasolini bei Guttusos Ausstellung</caption>
         <rights>© Archivio storico Istituto Luce Cinecittà srl</rights>
       </m>
       <m type="img" id="57-1" width="1772" height="1802">
         <caption xml:lang="ca">Renato Guttuso. Crucifixió</caption>
-        <caption xml:lang="de">Renato Guttuso. Kreuzigung</caption>
         <caption xml:lang="en">Renato Guttuso. Crucifixion</caption>
         <caption xml:lang="es">Renato Guttuso. Crucifixión</caption>
         <caption xml:lang="fr">Renato Guttuso. Crucifixion</caption>
         <caption xml:lang="it">Renato Guttuso. Crocifissione</caption>
+        <caption xml:lang="de">Renato Guttuso. Kreuzigung</caption>
         <rights>© Galleria nazionale d'arte moderna</rights>
       </m>
       <m type="img" id="57-3" width="1200" height="1200">
@@ -2648,6 +2706,7 @@
         <caption xml:lang="ca">Renato Guttuso i Pier Paolo Pasolini</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Renato Guttuso</caption>
         <caption xml:lang="it">Renato Guttuso e Pier Paolo Pasolini</caption>
+        <caption xml:lang="de">Renato Guttuso und Pier Paolo Pasolini</caption>
         <rights>© Archivio storico Istituto Luce Cinecittà srl</rights>
       </m>
     </place>
@@ -2657,6 +2716,7 @@
       <name xml:lang="es">Casa de Sandro Penna, via delle Mole Dè Fiorentini</name>
       <name xml:lang="fr">Chez Sandro Penna, via delle Mole Dè Fiorentini</name>
       <name xml:lang="it">Da Sandro Penna, via delle Mole Dè Fiorentini</name>
+      <name xml:lang="de">Bei Sandro Penna, Via delle Mole Dè Fiorentini</name>
       <address>Via delle Mole Dè Fiorentini, 00186 Roma</address>
       <desc xml:lang="fr"><![CDATA[
       <blockquote>Les quais du Tibre, noirs d'urinoirs, le Janicule avec ses putains, le port noir de merde et de préservatifs, la Ciriola avec ses garçons qui se fichent de tout et se donnent au premier regard, composent la Rome de Pasolini dans les années 50, visionnaire et musicale.</blockquote>
@@ -2689,6 +2749,10 @@
       <p>Nell'agosto del 1957, Sandro Penna con <em>Poesie</em> ottiene il Premio Viareggio che condivide con... Pier Paolo Pasolini, vincitore ex-aequo con <em>Le Ceneri di Gramsci</em>.</p>
       ]]></desc>
       <desc xml:lang="de"><![CDATA[
+      <blockquote class="de">Die Uferstraßen des Tibers, schwarz von Pissoirs, der Janiculus mit seinen Nutten, der Hafen, schwarz von Kot und Präservativen, die Badeanstalt Ciriola mit ihren Jungen, denen alles egal ist, die beim ersten Blick zu haben sind, machen Pasolinis visionäres und musikalisches Rom der 50er Jahre aus.</blockquote>
+      <cite>Nico Naldini, Biograph und Cousin von Pasolini</cite>
+      <p>Nach seinen vorsichtigen versteckten friaulischen Liebschaften entdeckt Pier Paolo Pasolini die freie direkte Sexualität mit den Ragazzi von Rom. In Begleitung namentlich von Sandro Penna, einem Schriftsteller, der über homosexuelle Liebe schreibt, ist er häufig an den Ufern des Tibers. Der Fluss wird im Übrigen zu einem seiner symbolischen und poetischen Bezugspunkte.</p>
+      <p>Im August 1957 erhält Sandro Penna mit Poesie den Preis Viareggio, den er sich mit... Pier Paolo Pasolini teilt, der für <em>Le Ceneri di Gramsci</em> (<em>Gramsci's Asche</em>) ausgezeichnet wird.</p>
       ]]></desc>
       <latLng>41.900121,12.464616</latLng>
       <date>1957</date>
@@ -2748,6 +2812,12 @@
       <cite>Franco Citti, protagonista del film</cite>
       ]]></desc>
       <desc xml:lang="de"><![CDATA[
+      <p>In der Via Ettore Giovenale steht das Haus von Accattone (Protagonist von <em>Accattone – wer nie sein Brot mit Tränen aß</em>).</p>
+      <p>Die Wirklichkeit holt die Fiktion ein, denn in diesem Viertel stand auch das Haus von Franco Citti, dem Hauptdarsteller des Films. Und in diesen Straßen, die er im Laufe der Jahre so oft entlangging, erdachte Pasolini die Figuren seiner kleinen Gauner.</p>
+      <blockquote class="de">Die Figuren in <em>Accattone</em> waren alles Diebe, Zuhälter, Einbrecher oder Menschen, die in den Tag hinein lebten. Kurz gesagt, es handelte sich um einen Film über die Unterwelt. Natürlich waren um sie herum auch die Menschen der „Borgata“ involviert, in ihrem verabredeten Stillschweigen mit der Unterwelt, meinetwegen, die aber letztlich in der Regel hart arbeiteten (für einen Hungerlohn, wenn man an Accattone Bruder Sabino denkt). Aber als Autor und italienischer Bürger fälle ich in dem Film keineswegs ein negatives Urteil über die Figuren dieses Milieus: all ihre Fehler erschienen mir nicht nur menschlich und verzeihlich, sondern aus sozialer Sicht auch vollkommen nachvollziehbar. Fehler von Menschen, die sich auf „andere“ Wertmaßstäbe beziehen als die Bourgeoisie: Menschen, die, wie gesagt, absolut „sie selbst“ sind.</blockquote>
+      <cite>Text von Pasolini, erschienen in <em>Il Corriere della Sera</em> am 8. Oktober 1975</cite>
+      <blockquote class="de">Pasolini suchte auf der Straße Schauspieler und nahm uns so, wie wir waren. Einige von uns kamen morgens zu spät zum Set, weil sie lieber noch stehlen wollten, um etwas zu essen zu haben... Andere kamen einfach gar nicht, weil sie am Abend vorher verhaftet worden waren.</blockquote>
+      <cite>Franco Citti, Hauptdarsteller des Films</cite>
       ]]></desc>
       <latLng>41.889841,12.531637</latLng>
       <date>1961</date>
@@ -2760,6 +2830,7 @@
         <caption xml:lang="ca">Pier Paolo Pasolini i Franco Citti durant el rodatge de Accattone</caption>
         <caption xml:lang="en">Pier Paolo Pasolini and Franco Citti on the set of Accattone</caption>
         <caption xml:lang="it">Pier Paolo Pasolini e Franco Citti sul set di Accattone</caption>
+        <caption xml:lang="de">Pier Paolo Pasolini und Franco Citti bei den Dreharbeiten zu Accattone</caption>
         <rights>© Angelo Pennoni / Reporters Associati srl</rights>
       </m>
       <m type="img" id="59-2" width="1600" height="1078">
@@ -2768,6 +2839,7 @@
         <caption xml:lang="ca">Pier Paolo Pasolini durant el rodatge de Accattone</caption>
         <caption xml:lang="en">Pier Paolo Pasolini on the set of Accattone</caption>
         <caption xml:lang="it">Pier Paolo Pasolini sul set di Accattone</caption>
+        <caption xml:lang="de">Pier Paolo Pasolini bei Dreharbeiten zu Accattone</caption>
         <rights>© Angelo Pennoni / Reporters Associati srl</rights>
       </m>
       <m type="video" id="2381449887001" wide="0">
@@ -2776,6 +2848,7 @@
         <caption xml:lang="es">Fragmento de Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="fr">Extrait d'Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="it">Da Accattone (Pier Paolo Pasolini, 1961)</caption>
+        <caption xml:lang="de">Ausschnitt aus Accattone (Pier Paolo Pasolini, 1961)</caption>
         <rights>© SNC / SND</rights>
       </m>
       <m type="video" id="2381452408001" wide="0">
@@ -2784,6 +2857,7 @@
         <caption xml:lang="ca">Fragment del documental A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <caption xml:lang="en">Excerpt from A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <caption xml:lang="it">Dal documentario A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
+        <caption xml:lang="de">Ausschnitt aus dem Dokumentarfilm A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <rights>© 1986 Antea Film srl / 23 Giugno srl © 2003 Ripley's Film srl - All rights reserved</rights>
       </m>
     </place>
