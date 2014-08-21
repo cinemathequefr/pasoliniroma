@@ -19,7 +19,7 @@
             <th class="w10">Catégorie</th>
         </tr>
         <xsl:apply-templates match="place">
-            <xsl:sort select="cat" data-type="number" order="ascending"/>
+            <!--<xsl:sort select="cat" data-type="number" order="ascending"/>-->
             <xsl:sort select="@id" data-type="number" order="ascending"/>
         </xsl:apply-templates>
     </table>
@@ -27,8 +27,8 @@
 
 <xsl:template match="place">
     <tr class="bg{cat}">
-        <td class="c"><a target="_blank" href="../index.htm#!/fr/map/{@id}"><xsl:value-of select="@id"/></a></td>
-        <td class="c"><a target="_blank" href="../data/places/{@id}-fr.json">Json</a></td>
+        <td class="c"><a target="_blank" href="../index.htm#!/de/map/{@id}"><xsl:value-of select="@id"/></a></td>
+        <td class="c"><a target="_blank" href="../data/places/{@id}-de.json">Json</a></td>
         <td class="c">
             <xsl:if test="trello/text()">
                 <a target="_blank" href="https://trello.com/c/{trello}">Card Trello</a>
@@ -39,7 +39,7 @@
         <td class="c"><xsl:value-of select="date"/></td>
         <td>
             <xsl:choose>
-                <xsl:when test="name[@xml:lang='fr']"><xsl:value-of select="name[@xml:lang='fr']"/></xsl:when>
+                <xsl:when test="name[@xml:lang='de']"><xsl:value-of select="name[@xml:lang='de']"/></xsl:when>
                 <xsl:otherwise><xsl:value-of select="name[1]"/></xsl:otherwise>
             </xsl:choose>
         </td>
@@ -48,7 +48,7 @@
 </xsl:template>
 
 <xsl:template match="place/cat">
-    <xsl:value-of select="/map/cats/cat[@id=current()]/name[@xml:lang='fr']"/>
+    <xsl:value-of select="/map/cats/cat[@id=current()]/name[@xml:lang='de']"/>
 </xsl:template>
 
 <xsl:template match="cats"></xsl:template>

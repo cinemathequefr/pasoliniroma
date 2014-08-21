@@ -15,7 +15,7 @@
             enter: "Entrar"
         },
         de: {
-            menu: "<ul class='dropdown-menu'><li><a href='#!/de/index'>Home</a></li><li><a href='javascript:void(0);' class='pagelink' data-type='intro'>Karte</a></li><li><a href='javascript:void(0);' class='pagelink' data-type='credits'>Impressum</a></li><li class='dropdown-divider'></li><li><a href='http://blog.pasoliniroma.com' target='_blank'>Blog</a></li></ul>",
+            menu: "<ul class='dropdown-menu'><li><a href='#!/de/index'>Home</a></li><li><a href='javascript:void(0);' class='pagelink' data-type='intro'>Karte</a></li><li><a href='javascript:void(0);' class='pagelink' data-type='credits'>Credits</a></li><li class='dropdown-divider'></li><li><a href='http://blog.pasoliniroma.com' target='_blank'>Blog</a></li></ul>",
             enter: "[Enter]"
         },
         en: {
