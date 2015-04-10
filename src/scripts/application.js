@@ -97,7 +97,7 @@
     };
 
     //app.defaultLang = "it";
-    app.defaultLang = "de";
+    app.defaultLang = "es";
 
     app.templates = { // Mustache templates
         indexTitle: "<a href='#!/{{lang}}/map'><h1>Pasolini Roma</h1></a>",
