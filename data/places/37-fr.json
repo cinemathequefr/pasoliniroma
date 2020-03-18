@@ -1,0 +1,41 @@
+{
+  "id":37,
+  "name":"Quartier de l'EUR, via Eufrate, 9",
+  "address":"Via Eufrate, 9, 00144 Roma",
+  "desc":"      <p>D\u00e9sormais plus \u00e0 l'aise financi\u00e8rement, Pasolini peut s'offrir un grand appartement dans le quartier calme et r\u00e9sidentiel de l'EUR (Esposizione Universale di Roma, une zone construite dans les ann\u00e9es 30 et destin\u00e9e \u00e0 accueillir l'exposition universelle de 1942, qui n'eut pas lieu).<\/p>      <p>Il s'installe donc en mars 1963 avec sa m\u00e8re et sa cousine Graziella Chiarcossi, qui les a rejoints d\u00e9finitivement, au n\u00b0 9 de la via Eufrate. Le quartier, qui s'\u00e9l\u00e8ve sur une colline, est plut\u00f4t bourgeois, prot\u00e9g\u00e9. La vue offre au regard ce qui subsiste encore de campagne et de fermes, mais aussi les grands chantiers en construction de la p\u00e9riph\u00e9rie, et m\u00eame, par temps clair, la mer et la plage d'Ostie. L'appartement est situ\u00e9 non loin de la grande coupole de l'\u00e9glise Saint-Pierre-et-Paul et poss\u00e8de un petit jardin suspendu dans lequel sa m\u00e8re peut jardiner \u00e0 sa guise.<\/p>      <p>Au regard du parcours romain de Pasolini, l'EUR est un choix \u00e9trange. Le quartier, moderne et visionnaire, a \u00e9t\u00e9 dessin\u00e9 et pens\u00e9 par les fascistes, \u00e0 l'oppos\u00e9 des <em>borgate<\/em> et du centre anim\u00e9 de la ville. Ce d\u00e9m\u00e9nagement marque d'une certaine fa\u00e7on un tournant dans la vie de Pasolini, entre sa d\u00e9cision de venir s'\u00e9tablir \u00e0 Rome en 1950, et la derni\u00e8re phase de sa vie, plus tendue, tragique, qui co\u00efncide avec les r\u00e9flexions des <em>\u00c9crits corsaires<\/em> ou du roman <em>P\u00e9trole<\/em>.<\/p>      <p>Bien que tourn\u00e9 vers la mer, comme une ouverture sur le monde, cet appartement sera son dernier domicile (si l'on excepte ses \u00ab&nbsp;retraites&nbsp;\u00bb de <a href=\"#!\/fr\/map\/40\">Chia<\/a> et <a href=\"#!\/fr\/map\/41\">Sabaudia<\/a>). Les premiers vers du po\u00e8me \u00ab&nbsp;La recherche d'une maison&nbsp;\u00bb (dans le recueil <em>Po\u00e9sies en forme de rose<\/em>) rev\u00eatent ainsi un caract\u00e8re pr\u00e9monitoire&nbsp;: <em>\u00ab&nbsp;Je recherche la maison de ma s\u00e9pulture...&nbsp;\u00bb<\/em>.<\/p>      ",
+  "latLng":[
+    41.832489,
+    12.457924
+  ],
+  "date":1963,
+  "pos":5538,
+  "cat":{
+    "id":1,
+    "name":"Maisons, d\u00e9m\u00e9nagements"
+  },
+  "trello":"wlr9ZNF5",
+  "m":[
+    {
+      "type":"img",
+      "id":"37-1",
+      "width":845,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini et sa m\u00e8re, dans leur appartement de l'EUR, via Eufrate, 9",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    },
+    {
+      "type":"video",
+      "id":2381449889001, "vimeo":245388286,
+      "wide":0,
+      "caption":"Extrait de Pasolini l'enrag\u00e9 (Jean-Andr\u00e9 Fieschi, 1966)",
+      "rights":"\u00a9 INA"
+    },
+    {
+      "type":"video",
+      "id":2292442024001, "vimeo":245388090,
+      "wide":0,
+      "caption":"Extrait de Pier Paolo Pasolini : vivre et encore plus (Michel Random, 1974)"
+    }
+  ],
+  "lang":"fr"
+}

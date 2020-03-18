@@ -1,0 +1,41 @@
+{
+  "id":37,
+  "name":"Quartiere dell'EUR, via Eufrate, 9",
+  "address":"Via Eufrate, 9, 00144 Roma",
+  "desc":"      <p>Pasolini, ormai pi\u00f9 tranquillo dal punto di vista economico, pu\u00f2 permettersi un grande appartamento nella tranquilla zona residenziale dell'EUR, un'area edificata negli anni trenta e destinata a ospitare l'Esposizione Universale di Roma del 1942, che per\u00f2 non ebbe luogo.<\/p>      <p>Nel marzo 1963 si trasferisce quindi al numero 9 di via Eufrate con la madre e la cugina Graziella Chiarcossi, che \u00e8 venuta ad abitare con loro. Il quartiere, situato su una collina, \u00e8 piuttosto borghese e ben riparato. La vista offre allo sguardo quel che ancora rimane della campagna e delle fattorie, ma anche i cantieri della periferia in costruzione, e nelle giornate pi\u00f9 limpide, persino il mare e la spiaggia di Ostia. L'appartamento non \u00e8 lontano dalla grande cupola della basilica di San Pietro e Paolo e ha un piccolo giardino-terrazza in cui la madre pu\u00f2 coltivare i suoi fiori.<\/p>      <p>Nel percorso romano di Pasolini, quella dell'EUR \u00e8 una scelta strana. Il quartiere, moderno e visionario, \u00e8 stato progettato e ideato dai fascisti, al contrario delle borgate e dell'animato centro citt\u00e0. Questo spostamento segna in un certo senso un punto di svolta nella vita di Pasolini, tra la decisione del 1950 di trasferirsi a Roma, e l'ultima fase della sua vita, pi\u00f9 tesa e tragica, che coincide con le riflessioni degli <em>Scritti corsari<\/em> e del romanzo <em>Petrolio<\/em>.<\/p>      <p>L'appartamento, rivolto verso il mare come a una finestra sul mondo, sar\u00e0 la sua ultima dimora (se si escludono i suoi \u00abrifugi\u00bb di <a href=\"#!\/it\/map\/40\">Chia<\/a> e <a href=\"#!\/it\/map\/41\">Sabaudia<\/a>). I versi iniziali della poesia \u00abLa Ricerca di una casa\u00bb (nella raccolta <em>Poesia in forma di rosa<\/em>) hanno carattere di premonizione: <em>\u00abRicerco la casa della mia sepoltura...\u00bb<\/em><\/p>      ",
+  "latLng":[
+    41.832489,
+    12.457924
+  ],
+  "date":1963,
+  "pos":5538,
+  "cat":{
+    "id":1,
+    "name":"Case, traslochi"
+  },
+  "trello":"wlr9ZNF5",
+  "m":[
+    {
+      "type":"img",
+      "id":"37-1",
+      "width":845,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini e la madre, nell'appartamento dell'EUR in via Eufrate 9",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    },
+    {
+      "type":"video",
+      "id":2381449889001, "vimeo":245388286,
+      "wide":0,
+      "caption":"Da Pasolini l'enrag\u00e9 (Jean-Andr\u00e9 Fieschi, 1966)",
+      "rights":"\u00a9 INA"
+    },
+    {
+      "type":"video",
+      "id":2292442024001, "vimeo":245388090,
+      "wide":0,
+      "caption":"Da Pier Paolo Pasolini: vivre et encore plus (Michel Random, 1974)"
+    }
+  ],
+  "lang":"it"
+}

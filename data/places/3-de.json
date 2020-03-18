@@ -1,0 +1,42 @@
+{
+  "id":3,
+  "name":"Ponte Mammolo",
+  "address":"Via Giovanni Tagliere, 3, 00156 Roma",
+  "desc":"      <p>Im Sommer 1950 ist Pier Paolo Pasolini ohne Arbeit, was ihn veranlasst, mit seiner Mutter nach Ponte Mammolo zu ziehen, einem Viertel an der Peripherie, unweit vom <a href=\"#!\/de\/map\/47\">Gef\u00e4ngnis Rebibbia<\/a>. Bald zieht auch der Vater in die kleine Zweizimmerwohnung mit K\u00fcche nach.<\/p>      <blockquote class=\"de\">Wir wohnten in einem Haus ohne Dach und Verputz,<br \/>ein Haus armer Leute am \u00e4u\u00dfersten Stadtrand, bei einem Gef\u00e4ngnis.<br \/>Fu\u00dfhoher Staub im Sommer; ein Sumpf im Winter.<br \/>Doch es war Italien, Italien nackt und wimmelnd,<br \/>mit seiner Jugend, seinen Frauen,<br \/>seinen \u00bbGer\u00fcchen von Jasmin und armen Suppen\u00ab,<br \/>den Sonnenunterg\u00e4ngen \u00fcber den Feldern am Aniene, den M\u00fcllhalden,<br \/>und, was mich betrifft,<br \/>das meiner unversehrten Tr\u00e4ume von Poesie.<\/blockquote>      <cite>Aus \u201ePoeta delle ceneri\u201c (\u201eDichter der Asche\u201c) (1996-1967)<\/cite>      <p>Der zuk\u00fcnftige Dichter entdeckt die \u201eBorgate\u201c, jene Slums \u00e4hnlichen Vorst\u00e4dte, die aus dem faschistischen Willen entstanden waren, das Subproletariat vom Stadtzentrum fernzuhalten. Diese sich wandelnden Gebiete aus unsicheren Barackenlagern, Orte der Marginalisierung und sozialen Trennung, beherbergen eine zwielichtige Welt von verzweifelter Vitalit\u00e4t.<\/p>      ",
+  "latLng":[
+    41.932308,
+    12.567709
+  ],
+  "date":1951,
+  "pos":1276,
+  "cat":{
+    "id":1,
+    "name":"H\u00e4user"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"3-1",
+      "width":783,
+      "height":729,
+      "caption":"Wohnung in Ponte Mammolo, Via Giovanni Tagliere 3",
+      "rights":"\u00a9 Romano Siciliani \/ Imago Mundi"
+    },
+    {
+      "type":"video",
+      "id":2325854985001, "vimeo":245388157,
+      "wide":0,
+      "caption":"Ausschnitt aus Pasolini, der Zornige (Jean-Andr\u00e9 Fieschi, 1966)",
+      "rights":"\u00a9 INA"
+    },
+    {
+      "type":"video",
+      "id":2380419928001,
+      "wide":0,
+      "caption":"Ausschnitt aus Vivre et encore plus (Michel Random, 1976)",
+      "rights":"\u00a9 INA"
+    }
+  ],
+  "trello":"AQhC7GQy",
+  "lang":"de"
+}

@@ -1,0 +1,39 @@
+{
+  "id":13,
+  "name":"Fiaschetteria Beltramme (Da Cesaretto)",
+  "address":"Via della Croce, 39, Roma",
+  "desc":"      <p>In questo ristorante \u00e8 stata scattata la famosa foto con Alberto Moravia, Pier Paolo Pasolini e Laura Betti che cenano insieme. La Fiaschetteria Beltramme \u00e8 un altro luogo simbolo della vita culturale \u2013 e culinaria \u2013 di Roma, un locale mitico dove si poteva incontrare Pasolini ma anche Curzio Malaparte, Giorgio Bassani o Francesco Rosi.<\/p>      <p>\u00c8 stato anche un dei ristoranti prediletti da celebri sceneggiatori italiani, importanti politici come Sandro Pertini e Luigi Einaudi, ma anche attori e attrici, come anche la Trattoria Romana di Via Frattina (che non esiste pi\u00f9)...<\/p>      <blockquote>Li' c'erano per esempio Zeffirelli, Bolognini, Piero Tosi, Mario Missiroli, la Betti, la Asti, qualche volta Pasolini, perch\u00e9 lavorava con Bolognini. E' l\u00ec che praticamente ho conosciuto tutti. Erano tutti giovani registi, giovani scenografi, giovani sceneggiatori, e anche per questo era tutto un frullare, un fiorire di spunti, di battute, perch\u00e9, per esempio, mi ricordo che quando si usciva verso le tre del pomeriggio, dopo aver fatto colazione, le strade erano praticamente deserte, tutta la Roma del centro dormiva e noi eravamo liberi di canticchiare \u00able tre del pomeriggio, \u00e8 l'ora del dileggio\u00bb in Piazza di Spagna. Si andava al cinema o alle 'prime' teatrali con gli amici di Via Veneto e Chiaromonte e \u00abLele\u00bb D'Amico, e poi a cena, e poi da Rosati, con orari praticamente spagnoli. Si andava a dormire verso le due o le tre.<\/blockquote>      <cite>Alberto Arbasino, intervistato da Gianni Borgna nell'ottobre 2012<\/cite>      ",
+  "latLng":[
+    41.906246,
+    12.479922
+  ],
+  "date":1961,
+  "cat":{
+    "id":8,
+    "name":"Vita sociale et intellettuale"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"13-1",
+      "width":1600,
+      "height":1056,
+      "caption":"Alberto Moravia, Pier Paolo Pasolini e Laura Betti cenano alla Fiaschetteria Beltramme",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    },
+    {
+      "type":"img",
+      "id":"13-2",
+      "width":1600,
+      "height":1065,
+      "caption":"Alberto Moravia, Pier Paolo Pasolini e Laura Betti cenano alla Fiaschetteria Beltramme",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    }
+  ],
+  "pos":4868,
+  "comment":{
+    
+  },
+  "trello":"imyf2duA",
+  "lang":"it"
+}

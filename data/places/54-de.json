@@ -1,0 +1,53 @@
+{
+  "id":54,
+  "name":"Das Viertel Quarticciolo",
+  "address":{
+    
+  },
+  "desc":"      <blockquote class=\"de\">Pier Paolo wurde R\u00f6mer, auch wenn er Rom gegen\u00fcber eine gewisse kritische und sprachliche Distanz bewahrt hat. Er eignete sich gr\u00fcndliche Kenntnisse des R\u00f6mischen an, aber nat\u00fcrlich sprach er nicht so wie Sergio Citti oder ich; er machte aus dem R\u00f6mischen eine literarische Sprache, er benutzte die erlebte Rede in der Art von Gadda; in gewisser Weise ahmte er diesen Dialekt nach. Er machte uns die ganze Atmosph\u00e4re dieser Welt f\u00fchlbar, er gab eine Vorstellung von ihr, die aber nichts Naturalistisches hatte.<\/blockquote>      <cite>Gespr\u00e4ch mit Vincenzo Cerami, einstiger Sch\u00fcler von Pasolini in <a href=\"#!\/de\/map\/4\">Ciampino<\/a>, Drehbuchautor, Schriftsteller.<\/cite>      <p>Pasolinis Schriften und Filme gaben eine neue Vorstellung der italienischen Hauptstadt. Die Stadt ist ihm nicht nur Kulisse f\u00fcr seine Romane und Filme, er hat durch die Literatur und das Kino Rom \u201eneu gegr\u00fcndet\u201c. Indem er mit der Jugend aus den \u201eBorgate\u201c verkehrte \u2013 etwa mit der aus Quarticciolo \u2013 verlieh er der r\u00f6mischen Mundart eine Existenz und eine literarische W\u00fcrde, die durch ihn in die gro\u00dfe italienische Kultur eingegangen ist.<\/p>      ",
+  "latLng":[
+    41.89164,
+    " 12.576513"
+  ],
+  "pos":2007,
+  "cat":{
+    "id":2,
+    "name":"Pasolini Schriftsteller"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"54-1",
+      "width":1663,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Federico Garolla \/ Archivi Farabola"
+    },
+    {
+      "type":"img",
+      "id":"54-2",
+      "width":1840,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Federico Garolla \/ Archivi Farabola"
+    },
+    {
+      "type":"img",
+      "id":"54-3",
+      "width":1815,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Federico Garolla \/ Archivi Farabola"
+    },
+    {
+      "type":"img",
+      "id":"54-4",
+      "width":1784,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Federico Garolla \/ Archivi Farabola"
+    }
+  ],
+  "trello":"vlbC9kEL",
+  "lang":"de"
+}

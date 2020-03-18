@@ -1,0 +1,26 @@
+{
+  "id":39,
+  "name":"Estudis de la RAI",
+  "desc":"      <p>A la It\u00e0lia del final dels anys seixanta Pasolini \u00e9s un dels oponents m\u00e9s ac\u00e8rrims al mitj\u00e0 televisiu. Com Marshall McLuhan, el cineasta considerava la televisi\u00f3 com una font de desinformaci\u00f3 i \u00abdeseducaci\u00f3\u00bb d'un p\u00fablic cada vegada m\u00e9s passiu. La gesta de Pasolini consistir\u00e0 a manifestar la seva oposici\u00f3 a la televisi\u00f3 en el seu propi camp. Convidat per Enzo Biagi, c\u00e8lebre periodista del <em>Corriere della Sera<\/em>, s'enfronta al periodista i al sistema medi\u00e0tic en directe, durant el programa al qual ha estat convidat.<\/p>      <p>Pasolini desenvolupar\u00e0 aquest discurs cr\u00edtic principalment en el seu documental <em>La R\u00e0bia<\/em>, text fundacional, totalment en vers, llegit pel pintor <a href=\"#!\/ca\/map\/57\">Renato Guttuso<\/a> i el c\u00e8lebre escriptor Giorgio Bassani, amic \u00edntim de Pasolini. S\u00f3n dues veus no professionals, una mica \u00abbrutes\u00bb per\u00f2 extremadament expressives.<\/p>      ",
+  "address":"Viale Giuseppe Mazzini, 14, 00195 Roma",
+  "latLng":[
+    41.91764,
+    " 12.467064"
+  ],
+  "pos":8607,
+  "cat":{
+    "id":3,
+    "name":"Pol\u00edtica"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"39-1",
+      "width":856,
+      "height":568,
+      "caption":"Seu de la RAI"
+    }
+  ],
+  "trello":"DUcrzwlX",
+  "lang":"ca"
+}

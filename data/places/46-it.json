@@ -1,0 +1,26 @@
+{
+  "id":46,
+  "name":"L'appartamento di Tot\u00f2",
+  "address":"Viale Bruno Buozzi, 64, 00197 Roma",
+  "desc":"      <p>Per il suo terzo lungometraggio, <em>Uccellacci e uccellini<\/em>, Pier Paolo Pasolini sceglie due attori dalle caratteristiche molto peculiari che ha conosciuto sul set de <a href=\"#!\/it\/map\/34\"><em>La Ricotta<\/em><\/a>, il suo primo film: Tot\u00f2, attore leggendario della commedia italiana e Ninetto Davoli, non-attore, giovanotto ignorante della periferia romana.<\/p>      <p>L'alchimia di questo duo, che risulta formidabile, non \u00e8 affatto scontata. Tot\u00f2, di origini aristocratiche, vive ai Parioli, il quartiere pi\u00f9 esclusivo e pi\u00f9 borghese di Roma. Invitato a cena a casa di un tale divo, Ninetto si presenta in jeans e con un aspetto decisamente trascurato... tanto che finita la cena, Tot\u00f2 chiede che la poltrona di Ninetto venga disinfettata con il DDT! Alla fine, il rapporto fra i tre sar\u00e0 idilliaco: nonostante le differenze di classe e di professione, Pasolini, Ninetto e Tot\u00f2 si trovano e si accettano a vicenda.<\/p>      <p><em>Uccellacci e uccellini<\/em> nasce da un'intuizione geniale: parlare della crisi dell'ideologia marxista, della sinistra, della fine del cinema neorealista, di Rossellini, attraverso un racconto picaresco. La storia di Pasolini \u00e8 molto amara, ma acuta e premonitrice. Ben prima della sinistra ufficiale, il poeta aveva capito la situazione, la morte dell'ideologia e dell'impegno.<\/p>      ",
+  "latLng":[
+    41.921627,
+    " 12.482041"
+  ],
+  "pos":6481,
+  "cat":{
+    "id":6,
+    "name":"Uccellacci e uccellini"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"46-1",
+      "width":1191,
+      "height":1200,
+      "caption":"Tot\u00f2 e Ninetto Davoli sul set di Uccellini e uccellacci"
+    }
+  ],
+  "trello":"KLV6Od8I",
+  "lang":"it"
+}

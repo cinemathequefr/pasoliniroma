@@ -1,0 +1,28 @@
+{
+  "id":1,
+  "name":"Piazza Mattei",
+  "address":"Piazza Mattei, 00186 Roma",
+  "desc":"      <p>A pocas calles de <a href=\"#!\/es\/map\/2\">su primer piso<\/a> se encuentra la Piazza Mattei y su c\u00e9lebre fuente de las Tortugas, que Pasolini adora y que describir\u00e1 en <em>Ali dagli occhi azzurri [Al\u00ed, \u00e9l de los ojos azules]<\/em>, una compilaci\u00f3n de novelas cortas publicada en 1965. En ella, describe las noches romanas y habla en particular de la plaza de las tortugas y sus efebos <em>\u00abrelucientes, locamente brillantes, son lo \u00fanico que se escapa de ser presa del viento: penetran la noche con su desnudez. Los muchachos, depositados por el domingo como una espuma por las calles nuevas, no se aproximan ni un mil\u00edmetro a la sagrada, pura y seductora cualidad compacta de ese desnudo.\u00bb<\/em><\/p>      <p>No cabe duda de que estos efebos p\u00fadicamente desnudados atraen la singularidad de su eros.<\/p>      <p>Habla tambi\u00e9n de este periodo en el prefacio de una compilaci\u00f3n de poes\u00edas, en 1970:<\/p>      <blockquote>A Roma dapprima vissi a Piazza Costaguti, vicino al Portico d'Ottavia (il ghetto!), poi andati nel ghetto delle borgate, vicino alla prigione di Rebibbia, in una casa restata definitivamente senza tetto (tredicimila lire al mese di affitto). Per due anni fui un disoccupato disperato, di quelli che finiscono suicidi; poi trovai da insegnare in una scuola privata a <a href=\"#!\/es\/map\/4\">Ciampino<\/a> per ventisettemila lire al mese.<\/blockquote>      ",
+  "latLng":[
+    41.893887,
+    12.477525
+  ],
+  "date":1950,
+  "pos":763,
+  "cat":{
+    "id":2,
+    "name":"Pasolini escritor"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"1-1",
+      "width":1600,
+      "height":1199,
+      "caption":"Piazza Mattei, la fuente de las Tortugas",
+      "rights":"\u00a9 Archivio Storico Capitolino \u2013 Biblioteca Romana"
+    }
+  ],
+  "trello":"VMcQZ3f7",
+  "lang":"es"
+}

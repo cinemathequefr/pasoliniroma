@@ -1,0 +1,27 @@
+{
+  "id":15,
+  "name":"Cimitero di Testaccio",
+  "address":"Via Caio Cestio, 6",
+  "desc":"      <p>A differenza di oggi, negli anni cinquanta Testaccio era una zona molto popolare. Ci\u00f2 era dovuto in particolare all'iniziativa di Ernesto Nathan, sindaco di Roma dal 1907 al 1913, le cui posizioni politiche e religiose contrastavano nettamente con quelle dei suoi predecessori: inglese, massone, ebreo e anticlericale, al volgere del secolo decise di trasformare il centro della citt\u00e0 in un modello di amalgama sociale, offrendo alle classi inferiori la possibilit\u00e0 di vivere in rioni come Testaccio.<\/p>      <p>Giustamente Antonio Gramsci riposa in questo quartiere \u00abutopico\u00bb, nel cosiddetto Cimitero degli inglesi. Scrittore e membro fondatore del Partito comunista italiano, Gramsci aveva un rapporto speciale e personale col comunismo, di cui dava un'interpretazione radicale che contrastava con la linea dogmatica del partito.<\/p>      <p>Anche la posizione di Pasolini rispetto al comunismo era piuttosto critica, quindi il poeta non poteva non identificarsi con il teorico marxista del quale condivideva la convinzione, contrastante col marxismo ortodosso, che la classe contadina dovesse avere un ruolo nel processo rivoluzionario.<\/p>      <p>Con <em>Le Ceneri di Gramsci<\/em> Pasolini firma un'opera poetica che testimonia la sua inesauribile passione sociale. Straordinaria descrizione della Roma dell'immediato dopoguerra, questa raccolta di versi esprime in maniera limpida la poetica pasoliniana, il suo \u00abscandalo della contraddizione\u00bb, il suo \u00abcomunismo\u00bb che si rivolge a Cristo molto pi\u00f9 che a Marx. \u00c8 un omaggio commovente oltre che una grande opera ideologica che anticipa in un certo senso la fine del comunismo.<\/p>      ",
+  "latLng":[
+    41.876408,
+    12.479472
+  ],
+  "pos":3288,
+  "cat":{
+    "id":2,
+    "name":"Pasolini scrittore"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"15-1",
+      "width":786,
+      "height":1200,
+      "caption":"Tomba di Antonio Gramsci, cimitero di Testaccio",
+      "rights":"\u00a9 Francesco Pierangeli"
+    }
+  ],
+  "trello":"2TBhRRiX",
+  "lang":"it"
+}

@@ -1,0 +1,67 @@
+{
+  "id":29,
+  "name":"Il Palazzo di Giustizia, piazza Cavour",
+  "desc":"      <blockquote>L'accusa era quella di vilipendio alla religione. Molto pi\u00f9 giusto sarebbe stato incolpare il regista di aver vilipeso i valori della piccola e media borghesia italiana.<\/blockquote>      <cite>Alberto Moravia<\/cite>      <p>Il processo contro Pasolini per <a href=\"#!\/it\/map\/34\"><em>La Ricotta<\/em><\/a> prende rapidamente una piega pi\u00f9 che assurda: volendo dare pi\u00f9 forza alla sua requisitoria, il pubblico ministero fa portare in aula una moviola per poter analizzare una ad una le inquadrature incriminate, il corpo del reato. In una prima fase, il magistrato riesce comunque a sequestrare la pellicola, poi a far tagliare il segmento realizzato da Pasolini. <em>Ro.Go.Pa.G.<\/em>, film in quattro episodi il cui titolo \u00e8 formato dalle prime sillabe dei registi Rossellini, Godard, Pasolini e Gregoretti, viene cos\u00ec amputato del suo pezzo fondamentale, della durata di circa mezz'ora. Il 7 marzo 1963, al termine del processo di primo grado, Pasolini viene condannato a quattro mesi con la condizionale. In seguito il regista riuscir\u00e0 a far valere le sue ragioni e il 6 maggio 1964 sar\u00e0 assolto dalla Corte d'appello. Il processo a <em>La Ricotta<\/em>, in varie istanze e con diverse motivazioni, durer\u00e0 in tutto quasi sei anni e terminer\u00e0 il 23 febbraio 1968 con il proscioglimento di Pasolini, che otterr\u00e0 anche il pagamento dei danni e degli interessi.<\/p>      <p>Questo processo \u00e8 un evento fondamentale nella vita di Pasolini, tanto che il poeta decide di girare <em>Il Vangelo secondo Matteo<\/em> per dimostrare che, pur essendo ateo, rispetta la religione intesa come ideologia del popolo. In Italia infatti \u2013 soprattutto in regioni come il Friuli o nella Roma pi\u00f9 popolare \u2013 la religione \u00e8 molto simile a una filosofia di vita. Inoltre, poich\u00e9 pensa che la storia del <em>Vangelo secondo Matteo<\/em> non si possa raccontare allo stesso modo della Roma di <a href=\"#!\/it\/map\/16\"><em>Accattone<\/em><\/a>, Pasolini modifica radicalmente il suo stile. Se Accattone ha un taglio frontale ed quasi medievale nella rappresentazione estetica del mondo, <em>Il Vangelo secondo Matteo<\/em> \u00e8 invece pi\u00f9 dinamico, girato con una sorta di nuova scioltezza nei movimenti di camera.<\/p>      ",
+  "latLng":[
+    41.905743,
+    12.469485
+  ],
+  "date":"4 octobre 1962",
+  "pos":5389,
+  "cat":{
+    "id":3,
+    "name":"Politica"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"29-1",
+      "width":1101,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini va al Palazzo di Giustizia per il processo a La Ricotta",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"29-2",
+      "width":1600,
+      "height":1085,
+      "caption":"Pier Paolo Pasolini durante un'udienza al processo a La Ricotta",
+      "rights":"\u00a9 Carlo Riccardi \/ Archivio Riccardi"
+    },
+    {
+      "type":"img",
+      "id":"29-3",
+      "width":1600,
+      "height":1193,
+      "caption":"Pier Paolo Pasolini con, tra gli altri, Alberto Moravia durante il processo a La Ricotta",
+      "rights":"\u00a9 DUfoto \/ Foto Scala \/ Cineteca di Bologna"
+    },
+    {
+      "type":"img",
+      "id":"29-4",
+      "width":1600,
+      "height":1159,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"29-5",
+      "width":1587,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"29-6",
+      "width":1600,
+      "height":1059,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Archivi Farabola"
+    }
+  ],
+  "trello":"L0lrIAiD",
+  "lang":"it"
+}

@@ -1,0 +1,50 @@
+{
+  "id":59,
+  "name":"Via Ettore Giovenale",
+  "address":"Via Ettore Giovenale",
+  "desc":"      <p>La casa d'Accattone \u00e9s a la via Ettore Giovenale.<\/p>      <p>La realitat es troba amb la ficci\u00f3, ja que la casa de Franco Citti, l'actor principal de la pel\u00b7l\u00edcula, tamb\u00e9 estava en aquest barri. En aquests carrers, tantes vegades recorreguts al llarg dels anys, Pasolini va anar imaginant els seus personatges de petits macarres.<\/p>      <blockquote>Els personatges d'<em>Accattone<\/em> eren tots lladres, o macarres, o atracadors, o gent que vivia al dia, es tractava d'una pel\u00b7l\u00edcula, en definitiva, sobre la mala vida. Naturalment tamb\u00e9 hi havia, al voltant seu, el m\u00f3n de la gent de barriada, implicada, encara que nom\u00e9s fos pel silenci, amb la mala vida, per\u00f2, de fet, normalment treballadora (per un salari miserable: vegeu Sabino, el germ\u00e0 d'Accattone). Per\u00f2, en la mesura que autor, i que ciutad\u00e0 itali\u00e0, jo a la pel\u00b7l\u00edcula no expressava cap judici negatiu sobre aquells personatges de la mala vida: tots els seus defectes em semblaven defectes humans, perdonables, a m\u00e9s de ser, socialment, perfectament justificables. Els defectes dels homes que obeeixen una escala de valors \u00abdiferent\u00bb respecte de la burgesa: \u00e9s a dir \u00abells mateixos\u00bb d'una manera absoluta, com ja he dit.<\/blockquote>      <cite>Text de Pasolini, publicat a <em>Il Corriere della Sera<\/em>, 8 d'octubre de 1975<\/cite>      <blockquote>Pasolini va escollir els actors al carrer, ens va acceptar tal com \u00e9rem. Alguns de nosaltres arrib\u00e0vem tard a plat\u00f3 al mat\u00ed, perqu\u00e8 prefer\u00edem anar a robar per poder menjar... Altres senzillament no venien perqu\u00e8 els havien detingut el dia anterior.<\/blockquote>      <cite>Franco Citti, actor principal de la pel\u00b7l\u00edcula<\/cite>      ",
+  "latLng":[
+    41.889841,
+    12.531637
+  ],
+  "date":1961,
+  "pos":4839,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"59-1",
+      "width":1600,
+      "height":1067,
+      "caption":"Pier Paolo Pasolini i Franco Citti durant el rodatge de Accattone",
+      "rights":"\u00a9 Angelo Pennoni \/ Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"59-2",
+      "width":1600,
+      "height":1078,
+      "caption":"Pier Paolo Pasolini durant el rodatge de Accattone",
+      "rights":"\u00a9 Angelo Pennoni \/ Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2381449887001,
+      "wide":0,
+      "caption":"Fragment d'Accattone (Pier Paolo Pasolini, 1961)",
+      "rights":"\u00a9 SNC \/ SND"
+    },
+    {
+      "type":"video",
+      "id":2381452408001, "vimeo":245388203,
+      "wide":0,
+      "caption":"Fragment del documental A futura memoria (Ivo Barnab\u00f2 Micheli, 1986)",
+      "rights":"\u00a9 1986 Antea Film srl \/ 23 Giugno srl \u00a9 2003 Ripley's Film srl - All rights reserved"
+    }
+  ],
+  "lang":"ca"
+}

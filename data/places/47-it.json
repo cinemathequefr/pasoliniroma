@@ -1,0 +1,28 @@
+{
+  "id":47,
+  "name":"Carcere di Rebibbia",
+  "address":"Via Bartolo Longo, 78, 00156 Roma",
+  "desc":"      <p>A Roma ci sono due carceri: Regina Coeli, nel centro della citt\u00e0 vicino a Trastevere, e Rebibbia nel sobborgo di Ponte Mammolo. Quest'ultimo, che aveva la particolarit\u00e0 di essere misto, era a pochi isolati dall'<a href=\"#!\/it\/map\/3\">appartamento della famiglia Pasolini<\/a>.<\/p>      <p>Nella poesia \u00abIl Pianto della scavatrice\u00bb, contenuta in <em>Le Ceneri di Gramsci<\/em>, Pier Paolo Pasolini evoca con nostalgia Ponte Mammolo e Rebibbia, la prigione che per metonimia d\u00e0 il nome al quartiere in cui vive.<\/p>      <blockquote>Mi spoglio in una delle mille stanze<br \/>dove a via Fonteiana si dorme.<br \/>Su tutto puoi scavare, tempo: speranze<br \/>passioni. Ma non su queste forme<br \/>pure della vita... Si riduce<br \/>ad esse l'uomo, quando colme<br \/>siano esperienza e fiducia<br \/>nel mondo... Ah, giorni di Rebibbia,<br \/>che io credevo persi in una luce<br \/>di necessit\u00e0, e che ora so cos\u00ec liberi!<\/blockquote>      <p>Pasolini avr\u00e0 l'idea di <a href=\"#!\/it\/map\/61\"><em>Mamma Roma<\/em><\/a> leggendo un articolo di giornale sulla tragica morte di Marcello Elisei, giovane detenuto di Rebibbia, morto legato a un letto di contenzione. E nel 2011 i fratelli Taviani hanno girato <em>Cesare deve morire<\/em>, Orso d'Oro al Festival di Berlino del 2012, proprio nel carcere di Rebibbia.<\/p>      ",
+  "latLng":[
+    41.93669,
+    " 12.570669"
+  ],
+  "date":1951,
+  "pos":1338,
+  "cat":{
+    "id":2,
+    "name":"Pasolini scrittore"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"47-1",
+      "width":1000,
+      "height":999,
+      "caption":"Il carcere di Rebibbia",
+      "rights":"\u00a9 Archivio dell'Immagine di Cesena"
+    }
+  ],
+  "trello":"EuZbfoUn",
+  "lang":"it"
+}

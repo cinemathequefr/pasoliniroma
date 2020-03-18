@@ -1,0 +1,25 @@
+{
+  "id":23,
+  "name":"Via Sagunto",
+  "desc":"      <blockquote class=\"de\">Ist doch sch\u00f6n, unser neues Haus! Hab ich's dir nicht gesagt?<\/blockquote>      <cite><em>Mamma Roma<\/em><\/cite>      <p>Um sozial aufzusteigen, peilt Mamma Roma das INA-Casa-Viertel von Tuscolano an. Dieses Quartier, ein Manifest des italienischen Rationalismus, entstand 1961 im Rahmen von Fanfanis Gesetz zum sozialen Wohnungsbau. Doch die neuen modernen Wohnanlagen verm\u00f6gen das Problem der sozialen Herkunft nicht zu l\u00f6sen, und der Umzug in dieses Viertel wird Ettores tragisches Ende nicht verhindern. <em>\u00bbManche st\u00e4dtebaulichen und gesellschaftlichen Entscheidungen sind f\u00fcr die \u00c4rmsten folgenschwer, und der materielle Fortschritt, den die Moderne mit sich gebracht hat, ist eine Illusion. Ungl\u00fcck, so legt Pasolini in seinem Film dar, resultiert nicht unbedingt daraus, dass das Kapital arm macht, sondern daraus, dass das materielle Wohlergehen mit einem Verlust von Menschlichkeit einhergeht.\u00ab<\/em> (Eugenio Renzi)<\/p>      ",
+  "latLng":[
+    41.857861,
+    12.551314
+  ],
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "m":[
+    {
+      "type":"video",
+      "id":2381358462001, "vimeo":245388274,
+      "wide":1,
+      "caption":"Ausschnitt aus Mamma Roma (Pier Paolo Pasolini, 1962)",
+      "rights":"\u00a9 Mediaset"
+    }
+  ],
+  "trello":"kBTK9evY",
+  "lang":"de"
+}

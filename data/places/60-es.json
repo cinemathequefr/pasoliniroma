@@ -1,0 +1,57 @@
+{
+  "id":60,
+  "name":"Cine Barberini",
+  "address":" Piazza Barberini",
+  "desc":"      <p>La muchedumbre y los amigos de Pier Paolo Pasolini se aglomeran en el convulso preestreno de <a href=\"#!\/es\/map\/16\"><em>Accattone<\/em><\/a>. Un centenar de j\u00f3venes neofascistas se re\u00fane delante del cine Barberini e intenta impedir la proyecci\u00f3n de la pel\u00edcula. Tinta lanzada sobre la pantalla, broncas y altercados: la sesi\u00f3n, presentada por el cineasta y sus actores, empieza con una hora de retraso.<\/p>      <p>Seis meses m\u00e1s tarde, la pel\u00edcula es parte de la selecci\u00f3n del 26\u00b0 Festival de Venecia. A pesar del contexto, la proyecci\u00f3n se hace en un clima igual de tenso.<\/p>      ",
+  "latLng":[
+    41.903714,
+    12.488548
+  ],
+  "date":"1961-11-22",
+  "pos":5074,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"60-1",
+      "width":1600,
+      "height":1067,
+      "caption":"Laura Betti y Pier Paolo Pasolini delante del cartel de Accattone",
+      "rights":"\u00a9 Corbis"
+    },
+    {
+      "type":"img",
+      "id":"60-3",
+      "width":1200,
+      "height":1171,
+      "caption":"Giuseppe Ungaretti, Pier Paolo Pasolini, Franco y Sergio Citti y Alfredo Leggi",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"60-4",
+      "width":1200,
+      "height":1200,
+      "caption":"Franco Citti, Laura Betti, Pier Paolo Pasolini y Elsa de Giorgi"
+    },
+    {
+      "type":"img",
+      "id":"60-2",
+      "width":1200,
+      "height":1195,
+      "caption":"Pier Paolo Pasolini, Federico Fellini y Alfredo Bini",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"video",
+      "id":2381457423001, "vimeo":  245388324,
+      "wide":0,
+      "caption":"Trailer d'Accattone (Pier Paolo Pasolini, 1961)"
+    }
+  ],
+  "lang":"es"
+}

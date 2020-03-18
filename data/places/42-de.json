@@ -1,0 +1,32 @@
+{
+  "id":42,
+  "name":"Torpignattara-Viertel",
+  "desc":"      <p>Vor seinem Tod beginnt Pier Paolo Pasolini ein monumentales Werk zu schreiben, das er selbst als eine Art Testament begreift, als eine Rekapitulation seines gesamten k\u00fcnstlerischen, beruflichen und pers\u00f6nlichen Lebens. Es ist der Roman <em>Petrolio<\/em>. Das lange Kapitel \u201eLa visione del Merda\u201c (\u201eDie Vision des Merdas\u201c) spielt in der Arbeitergegend von Torpignattara im S\u00fcden der Stadt, zwischen der Via Casilina und der Via Prenestina.<\/p>      <p>Die Ermordung Pasolinis setzt dem Schreiben von <em>Petrolio<\/em> ein vorzeitiges Ende. Das Manuskript blieb \u00fcber Jahre im Zustand von Entw\u00fcrfen und Skizzen, die \u00d6ffentlichkeit wusste nicht einmal von seiner Existenz. Pasolini wollte mit diesem Buch die Geschichte des modernen Italiens neu schreiben, insbesondere die des Skandals um ENI \u2013 der gro\u00dfen italienischen Erd\u00f6lgesellschaft, dessen Gr\u00fcnder Enrico Mattei ermordet wurde, sicherlich wegen seiner Politik der \u00d6ffnung zur Dritten Welt. Diese Aff\u00e4re ist Thema von Francesco Rosis Film <em>Die Aff\u00e4re Mattei<\/em> mit Gian Maria Volont\u00e8 in der Hauptrolle.<\/p>      <p><em>Petrolio<\/em> ist ein vielschichtiges, fast experimentelles Buch. Es verbindet Philosophie mit Fragen der Innenpolitik, existenzielle Fragen mit den Skandalen von ENI. Es ist ein unvollendetes Monument der pasolinischen Kunst und eines der wenigen B\u00fccher der damaligen Zeit, die die Lage Italiens tiefergehend zu verstehen suchen. Pasolini versucht tats\u00e4chlich, die Verwicklungen der Morde und politischen Attentate seiner Zeit zu entwirren und den roten Faden, der sich durch all diese Dramen zieht, erkennbar werden zu lassen. Ein au\u00dfergew\u00f6hnlich gewagtes Buch, in dem manche einen m\u00f6glichen Grund f\u00fcr <a href=\"#!\/de\/map\/51\">die Ermordung Pasolinis<\/a> gesehen haben, die bis heute gro\u00dfe R\u00e4tsel aufgibt...<\/p>      ",
+  "latLng":[
+    41.873650,
+    12.545013
+  ],
+  "pos":8766,
+  "cat":{
+    "id":2,
+    "name":"Pasolini Schriftsteller"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"42-1",
+      "width":886,
+      "height":1132,
+      "caption":"Manuskriptseite von Petrolio"
+    },
+    {
+      "type":"img",
+      "id":"42-2",
+      "width":835,
+      "height":1200,
+      "caption":"Cover der franz\u00f6sischen Ausgabe von Petrolio"
+    }
+  ],
+  "trello":"oG8xV8yx",
+  "lang":"de"
+}

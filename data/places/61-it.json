@@ -1,0 +1,28 @@
+{
+  "id":61,
+  "name":"Casal Bruciato",
+  "address":"Casal Bruciato",
+  "desc":"      <p><em>Mamma Roma<\/em> \u00e8 il film della Roma popolare che cerca di adeguarsi alla nuova situazione economica degli anni '60. Anna Magnani interpreta una prostituta, un'emarginata che cerca in qualche modo di adattarsi ai cambiamenti della societ\u00e0, e tenta di integrarsi, per suo figlio, nella piccola borghesia. Naturalmente i suoi tentativi falliranno e il figlio, Ettore, finito in carcere per un piccolo furto, finir\u00e0 praticamente annientato da una societ\u00e0 indifferente.<\/p>      <p>Con questo secondo film, Pasolini produce un'opera antropologica, sociologica e non solo poetica. La scelta delle location riflette la reale situazione sociale del paese. A differenza del <a href=\"#!\/it\/map\/16\">miserabile Pigneto di <em>Accattone<\/em><\/a>, i quartieri di <em>Mamma Roma<\/em> sono quelli dello sviluppo urbano della capitale. Casal Bruciato, ad esempio, \u00e8 emblematico della rinascita italiana dell'epoca.<\/p>      <p>Alla fine, Mamma Roma e il figlio non riusciranno a integrarsi in questo nuovo ordine sociale n\u00e9 nei quartieri che lo simboleggiano. Resteranno degli emarginati. Per Pasolini \u2013&nbsp;che \u00e8 sempre stato contrario al conformismo e al qualunquismo&nbsp;\u2013 questo fallimento ha un valore esemplare.<\/p>      ",
+  "latLng":[
+    41.906797,
+    12.546773
+  ],
+  "date":1962,
+  "pos":5201,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"61-1",
+      "width":1600,
+      "height":1189,
+      "caption":"Anna Magnani e Roberto Rossellini sul set di Mamma Roma",
+      "rights":"\u00a9 Angelo Novi \/ Archivio Pier Paolo Pasolini"
+    }
+  ],
+  "lang":"it"
+}

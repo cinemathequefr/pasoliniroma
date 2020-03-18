@@ -1,0 +1,27 @@
+{
+  "id":15,
+  "name":"Friedhof in Testaccio",
+  "address":"Via Caio Cestio, 6",
+  "desc":"      <p>Im Unterschied zu heute war das Testaccio in den 50er Jahren eine sehr volkst\u00fcmliche Gegend. Dies war insbesondere der Initiative Ernesto Nathans zu verdanken, der von 1907 bis 1913 B\u00fcrgermeister von Rom war und der grunds\u00e4tzlich andere politische und religi\u00f6se Einstellungen hatte als seine Vorg\u00e4nger: Der geb\u00fcrtige Engl\u00e4nder, Jude, Freimaurer und Kirchengegner beschloss, das Zentrum der Hauptstadt zu einem Modell der sozialen Vermischung zu machen, das es auch den Unterschichten erm\u00f6glichen sollte, in Stadtteilen wie Testaccio zu wohnen.<\/p>      <p>Zu Recht hat Antonio Gramsci seine letzte Ruhest\u00e4tte in diesem utopischen Viertel \u2013 genauer gesagt auf dem Friedhof der Engl\u00e4nder. Als Schriftsteller und Mitbegr\u00fcnder der Kommunistischen Partei Italiens hatte Gramsci eine besondere und sehr pers\u00f6nliche Beziehung zum Kommunismus, die sich mit der dogmatischen Linie der Partei nicht vertrug.<\/p>      <p>Auch Pasolini hatte ein kritisches Verh\u00e4ltnis zum Kommunismus und konnte sich mit dem marxistischen Theoretiker nur all zu gut identifizieren. Er teilte Gramscis \u00dcberzeugung, der im Gegensatz zur marxistischen Orthodoxie der Meinung war, die Klasse der Bauern m\u00fcsse eine Rolle im revolution\u00e4ren Prozess spielen.<\/p>      <p>Mit <em>Le ceneri di Gramsci<\/em> (<em>Gramsci's Asche<\/em>) legt Pasolini ein poetisches Werk vor, das von seiner grenzenlosen sozialen Leidenschaft zeugt. Dieser Gedichtband, eine gro\u00dfartige Beschreibung des Roms der unmittelbaren Nachkriegszeit, dr\u00fcckt auf klare Weise die pasolinische Poetik aus, seinen \u201eSkandal des Widerspruchs\u201c, seinen \u201eKommunismus\u201c, der sich eher an Christus wendet denn an Marx. Das Werk, eine ergreifende Hommage und eine bedeutende ideologische Arbeit, nimmt in gewisser Weise das Ende des Kommunismus vorweg.<\/p>      ",
+  "latLng":[
+    41.876408,
+    12.479472
+  ],
+  "pos":3288,
+  "cat":{
+    "id":2,
+    "name":"Pasolini Schriftsteller"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"15-1",
+      "width":786,
+      "height":1200,
+      "caption":"Grab von Antonio Gramsci, Friedhof in Testaccio",
+      "rights":"\u00a9 Francesco Pierangeli"
+    }
+  ],
+  "trello":"2TBhRRiX",
+  "lang":"de"
+}

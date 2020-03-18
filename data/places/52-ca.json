@@ -1,0 +1,35 @@
+{
+  "id":52,
+  "name":"Campo de' Fiori: el funeral de Pasolini",
+  "desc":"      <p>L'elecci\u00f3 d'aquesta pla\u00e7a \u00e9s simb\u00f2lica: all\u00e0 \u00e9s on el fil\u00f2sof i f\u00edsic Giordano Bruno, acusat d'heretgia per la Inquisici\u00f3, va ser condemnat a la foguera i executat el 1600. A m\u00e9s, \u00e9s principalment un lloc emblem\u00e0tic de la vida quotidiana de Pasolini. Laura Betti vivia a la <a href=\"#!\/ca\/map\/11\">Via di Montoro<\/a>, un carrer\u00f3 proper. I La Carbonara era un dels restaurants preferits de Pasolini i dels seus amics intel\u00b7lectuals.<\/p>      <p>El dia de l'enterrament els intel\u00b7lectuals, per\u00f2 tamb\u00e9 el poble de Roma, es mouen en massa. El funeral \u00e9s grandi\u00f3s i atreu tan aviat Moravia, Rosi, Bertolucci, Betti, Morante com la gent dels <em>borgate<\/em> a qui Pasolini va estimar tant. Alberto Moravia pren la paraula \u2013seguit per Gianni Borgna\u2013 i pronuncia un discurs commovedor, sense notes.<\/p>      <p><em>\u00abEm persegueix la imatge de Pasolini corrent, fugint d'alguna cosa que no t\u00e9 rostre i que l'ha matat, una imatge simb\u00f2lica del nostre pa\u00eds, una imatge que ens ha d'emp\u00e8nyer a millorar el nostre pa\u00eds, tal com Pasolini mateix hauria volgut.\u00bb<\/em><\/p>      <p><em>\u00abUna societat que mata els seus poetes \u00e9s una societat malalta\u00bb<\/em>, afegeix.<\/p>      <p>La multitud respon emocionada, amb passi\u00f3. El funeral es converteix en una manifestaci\u00f3 pol\u00edtica ja que el poble ha ent\u00e8s que l'assumpte \u00e9s molt m\u00e9s complex del que deixen veure els mitjans de comunicaci\u00f3.<\/p>      <p>Pasolini est\u00e0 enterrat al costat de la seva mare. Ocupen dues tombes bessones del petit cementiri de Casarsa della Delizia, el poble de la mare al Fri\u00fcl. El pare i el germ\u00e0 estan enterrats en una altra parcel\u00b7la del mateix cementiri.<\/p>      ",
+  "address":{
+    
+  },
+  "latLng":[
+    41.895502,
+    " 12.472004"
+  ],
+  "pos":10166,
+  "date":"1975-11-05",
+  "cat":{
+    "id":9,
+    "name":"L'\u00faltim dia"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"52-1",
+      "width":1600,
+      "height":980,
+      "caption":"Piazza Campo de' Fiori",
+      "rights":"\u00a9 Agenzia Fotogramma"
+    },
+    {
+      "type":"video",
+      "id":2384281328001, "vimeo":245388106,
+      "wide":0
+    }
+  ],
+  "trello":"PJk8yZRF",
+  "lang":"ca"
+}

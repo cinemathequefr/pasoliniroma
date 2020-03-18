@@ -1,0 +1,27 @@
+{
+  "id":5,
+  "name":"Kino \u201eTeatro Nuovo\u201c",
+  "address":"Largo Ascianghi, 1, 00192 Roma",
+  "desc":"      <p>1953 wohnt Pier Paolo Pasolini noch immer in <a href=\"#!\/de\/map\/3\">Ponte Mammolo<\/a>. Wenngleich er die vielen Bekanntschaften, die sein Leben ver\u00e4ndern sollten, in den Vororten macht, so ist er doch auch h\u00e4ufig in der Innenstadt unterwegs, insbesondere in Trastevere. In seinem zweiten Film wird sich Pasolini an diese Zeit erinnern: In dem heute noch existierenden Restaurant Da Meo Patacca in Trastevere gelingt es Mamma Roma, ihrem Sohn Ettore mittels Erpressung eine Stelle zu verschaffen.<\/p>      <p>Heute ist Trastevere ein schickes Viertel, doch 1953 ist es noch eine Gegend der einfachen Leute, ein Herd intensiver antiklerikaler und anti-p\u00e4pstlicher Regungen, die Pasolini nicht unber\u00fchrt lassen. Und es ist das Viertel, in dem Pasolini im Kino Teatro Nuovo am Largo Ascianghi 1 Roberto Rossellinis Film <em>Roma citt\u00e0 aperta<\/em> (<em>Rom, offene Stadt<\/em>) wiedersieht. Ein \u00e4sthetischer Schock, den der werdende Cineast in dem Poem <em>La Religione del mio tempo<\/em> (<em>Die Religion meiner Zeit<\/em>) zur Sprache bringt:<\/p>      <blockquote>Aber welch Stich ins Herz, als auf einem fadenscheinigen<br \/>Anschlagbrett... Ich trete n\u00e4her, betrachte die Farbe<br \/>aus einer bereits anderen Zeit, des warmen ovalen<br \/>Gesichts der Heldin, die heroische<br \/>Schmutzigkeit des armseligen verblichenen Plakats.<br \/>Ich gehe sofort rein: ersch\u00fcttert von einem heftigem Aufruhr,<br \/>entschlossen, in Erinnerung zu erzittern,<br \/>die Herrlichkeit meiner Geste zu vollenden.<br \/>Ich betrete den Zuschauerraum zur letzten Vorstellung,<br \/>fast leer, mit grauen Menschen,<br \/>Familien, Freunden, verstreut auf den B\u00e4nken,<br \/>verloren im Dunkel in getrennten wei\u00dflichen<br \/>Kreisen, in dem k\u00fchlen Zufluchtsort...<br \/>Gleich bei den ersten Einstellungen<br \/>\u00fcberw\u00e4ltigt und entr\u00fcckt mich... l'intermittence<br \/>du c\u0153ur. Ich befinde mich auf den dunklen<br \/>Wegen der Erinnerung, in den geheimnisvollen<br \/>R\u00e4umen, wo der Mensch physisch ein anderer ist,<br \/>und die Vergangenheit ihn mit ihren Tr\u00e4nen n\u00e4sst...<br \/>Aber durch lange Gewohnheit kundig geworden,<br \/>verliere ich nicht den Faden: hier... die Casilina,<br \/>an der die traurigen Pforte<br \/>der Stadt Rossellinis liegen...<br \/>hier die epische neorealistische Landschaft,<br \/>mit Telegrafendr\u00e4hten, Pflastersteinen, Pinien,<br \/>br\u00f6ckelnden Mauern, die mystische<br \/>Menge verloren in ihrem Alltagstreiben,<br \/>die d\u00fcsteren Gestalten der Naziherrschaft...<br \/>Einem Sinnbild gleich ert\u00f6nt nun der Schrei Der Magnani<br \/>unter einer absolut zerzausten M\u00e4hne,<br \/>in den verzweifelten Panoramabildern,<br \/>und in ihren lebhaften und stummen Augenh\u00f6hlen<br \/>verdichtet sich die Bedeutung der Trag\u00f6die.<br \/>Dort wird die Gegenwart aufgel\u00f6st und<br \/>verst\u00fcmmelt, und die epischen S\u00e4nger verstummen.<\/blockquote>      <p>Durch eine leise Ironie und eine Art \u00e4sthetischer und politischer Logik wurde das Kino Nuovo sp\u00e4ter von Nanni Moretti \u00fcbernommen, einem anderen Gro\u00dfen des engagierten italienischen Films. Er hat daraus sein Refugium gemacht, das bekannte Kino Nuovo Sacher.<\/p>      ",
+  "latLng":[
+    41.884579,
+    12.472401
+  ],
+  "date":1953,
+  "pos":1827,
+  "cat":{
+    "id":8,
+    "name":"Soziales und intellektuelles Leben"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"5-1",
+      "width":856,
+      "height":1200,
+      "caption":"Filmplakat von Rom, offene Stadt (Roberto Rossellini, 1945)"
+    }
+  ],
+  "trello":"FLR8ypxt",
+  "lang":"de"
+}

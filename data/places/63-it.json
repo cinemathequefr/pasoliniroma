@@ -1,0 +1,25 @@
+{
+  "id":63,
+  "name":"Via del Mandrione: Sal\u00f2",
+  "desc":"      <p>Prendete le strade secondarie seguendo \u017dilda, artista di strada originaria di Rennes, i cui collages evocano i fantasmi di Pasolini in giro per le vie di Roma.<\/p>      ",
+  "latLng":[
+    41.875617,
+    12.537611
+  ],
+  "cat":{
+    "id":10,
+    "name":"\u017dilda"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"63-1",
+      "width":903,
+      "height":1300,
+      "caption":"Sal\u00f2",
+      "rights":"\u00a9 \u017dilda"
+    }
+  ],
+  "lang":"it"
+}

@@ -1,0 +1,26 @@
+{
+  "id":50,
+  "name":"Bahnhof Rom Termini: Ankunft in Rom",
+  "desc":"      <blockquote class=\"de\">Du kannst Dir nicht vorstellen, wie schlecht es meiner Mutter geht. Ich ertrage es nicht l\u00e4nger, sie so unsagbar und unmenschlich leiden zu sehen. Daher habe ich mich entschlossen, sie noch morgen ohne Wissen meines Vaters nach Rom zu bringen und der Obhut meines Onkels anzuvertrauen; ich selbst wer- de in Rom nicht bleiben, da mein Onkel mir zu verstehen gegeben hat, dass er mich nicht aufnehmen kann, hoffe aber, dass es f\u00fcr meine Mutter nicht so sein wird. Wohin ich von Rom aus gehen werde, wei\u00df ich noch nicht, vielleicht nach Florenz. Wie Du siehst, befinde ich mich in einer traurigen Lage [...].Wenn Du mir also schreiben willst, hier ist meine Adresse, zumindest f\u00fcr einige Tage: bei Gino Colussi, Via Porta Pinciana, 34, Rom. Wohin ich danach gehen und was ich tun werde, wei\u00df ich nicht; mein Leben befindet sich an einer entscheidenden Wende.<\/blockquote>      <cite>Der letzte in Casarsa geschriebene Brief, am 27. Januar 1950, an Silvana Mauri<\/cite>      <p>Pasolini und seine Mutter haben am 27. Januar ihr Haus in Casarsa verlassen. Tags darauf kommen sie an einem eiskalten Morgen am Bahnhof Termini an... <em>\u201eArm wie die Katzen im Kolosseum\u201c<\/em>, wird er sp\u00e4ter in einem seiner ersten und ber\u00fchmtesten r\u00f6mischen Gedicht schreiben.<\/p>      ",
+  "latLng":[
+    41.898492,
+    " 12.506111"
+  ],
+  "cat":{
+    "id":1,
+    "name":"H\u00e4user"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"50-1",
+      "width":1280,
+      "height":885,
+      "caption":"Bahnhof Termini"
+    }
+  ],
+  "date":"1950-01-28",
+  "pos":758,
+  "trello":"LsZjg4gU",
+  "lang":"de"
+}

@@ -1,0 +1,26 @@
+{
+  "id":46,
+  "name":"Casa de Tot\u00f2",
+  "address":"Viale Bruno Buozzi, 64, 00197 Roma",
+  "desc":"     <p>Per a la seva faula, Pasolini tria dos actors de perfil molt singular: Tot\u00f2, actor m\u00edtic de la com\u00e8dia italiana, i Ninetto, que no \u00e9s actor, \u00e9s un jove inculte dels suburbis de Roma que Pasolini ha conegut durant el rodatge de <a href=\"#!\/ca\/map\/34\"><em>La Ricotta<\/em><\/a> i que no ha actuat mai en una pel\u00b7l\u00edcula.<\/p>      <p>No hi havia res que garant\u00eds, per\u00f2, que la mec\u00e0nica del duo \u2013fant\u00e0stica\u2013, funcionaria. Tot\u00f2, d'origen aristocr\u00e0tic, viu al Parioli, el barri m\u00e9s elegant i m\u00e9s burg\u00e8s de Roma. Ninetto, convidat a sopar a casa seva, arriba vestit amb texans i amb un aspecte for\u00e7a descuidat... fins a tal punt que, despr\u00e9s del sopar, Tot\u00f2 demana que netegin la butaca de Ninetto amb insecticida! Finalment la relaci\u00f3 entre els tres homes ser\u00e0 id\u00edllica. Pasolini, Ninetto i Tot\u00f2 s'han trobat i s'han adoptat, malgrat les difer\u00e8ncies de classe i ofici.<\/p>      <p><em>Uccellacci e uccellini<\/em> es construeix sobre una intu\u00efci\u00f3 genial: es tracta de parlar de la crisi de la ideologia marxista, de l'esquerra, de la fi del cinema neorealista, de Rossellini, a trav\u00e9s d'una faula picaresca. El conte de Pasolini \u00e9s amarg per\u00f2 clarivident, i premonitori. Abans que l'esquerra oficial, ha ent\u00e8s la situaci\u00f3, la mort de la ideologia i del comprom\u00eds.<\/p>      ",
+  "latLng":[
+    41.921627,
+    " 12.482041"
+  ],
+  "pos":6481,
+  "cat":{
+    "id":6,
+    "name":"Uccellacci e uccellini"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"46-1",
+      "width":1191,
+      "height":1200,
+      "caption":"Tot\u00f2 i Ninetto Davoli durant el rodatge de Uccellacci e uccellini"
+    }
+  ],
+  "trello":"KLV6Od8I",
+  "lang":"ca"
+}

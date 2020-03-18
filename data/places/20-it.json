@@ -1,0 +1,26 @@
+{
+  "id":20,
+  "name":"Via Portuense",
+  "desc":"      <p>Nel 1959, Pier Paolo Pasolini evoca per la prima volta via Portuense nel romanzo <em>Una vita violenta<\/em>, nell'episodio della corsa selvaggia di Tommaso e dei suoi amici a bordo di un'auto rubata.<\/p>      <p>Due anni dopo, la stessa via Portuense diventa lo sfondo delle scene di prostituzione di <em>Accattone<\/em>. Una delle strade pi\u00f9 nobili della Roma antica, in Pasolini diventa il simbolo della periferia romana in continuo mutamento, in cui si mescolano \u00abragazzi di vita\u00bb, prostitute e operai.<\/p>      <p>Sullo sfondo delle inquadrature si vedono raffinerie di petrolio, edifici in costruzione e gru, quelle del vasto progetto di ristrutturazione delle periferie avviato a Roma per le Olimpiadi del 1960.<\/p>      ",
+  "latLng":[
+    41.866988,
+    12.464179
+  ],
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"20-1",
+      "width":1600,
+      "height":1054,
+      "caption":"Bernardo Bertolucci e Pier Paolo Pasolini sul set di Accattone",
+      "rights":"\u00a9 Reporters Associati srl"
+    }
+  ],
+  "trello":"BsNk0pOZ",
+  "lang":"it"
+}

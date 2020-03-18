@@ -1,0 +1,26 @@
+{
+  "id":50,
+  "name":"Estaci\u00f3n de Termini: la llegada en Roma",
+  "desc":"      <blockquote>No te puedes ni imaginar c\u00f3mo est\u00e1 mi pobre madre. Ya no puedo soportar verla sufrir de un modo tan inhumano e indecible. He decidido llev\u00e1rmela ma\u00f1ana mismo a Roma, a instancias de mi padre, para que se quede en casa de mi t\u00edo; yo no me podr\u00e9 quedar en Roma, puesto que mi t\u00edo me ha dado a entender que no puede alojarme, pero espero que en lo que respecta a mi madre la cosa sea distinta. Despu\u00e9s de Roma, no s\u00e9 ad\u00f3nde ir\u00e9, quiz\u00e1 a Florencia; ya ves en qu\u00e9 triste situaci\u00f3n me encuentro (....). As\u00ed que si quieres escribirme algo, mi direcci\u00f3n ser\u00e1, al menos por unos d\u00edas: en casa de Gino Colussi, via Porta Pincinia, 34 Roma. Despu\u00e9s, no s\u00e9 d\u00f3nde ir\u00e9 ni lo qu\u00e9 cosa har\u00e9; mi vida est\u00e1 atravesando un momento crucial.<\/blockquote>      <cite>\u00daltima carta escrita en Casarsa, el 27 de enero de 1950, dirigida a su amiga Silvana Mauri<\/cite>      <p>Pasolini y su madre han abandonado su casa de Casarsa el d\u00eda anterior. Llegan a la estaci\u00f3n de Termini el 28 de enero de 1950, en una ma\u00f1ana helada... <em>\u00ab M\u00e1s pobre que un gato del Coliseo \u00bb<\/em>, como escribir\u00e1 m\u00e1s tarde en uno de sus primeros y m\u00e1s c\u00e9lebres poemas romanos.<\/p>      ",
+  "latLng":[
+    41.898492,
+    " 12.506111"
+  ],
+  "cat":{
+    "id":1,
+    "name":"Casas, mudanzas"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"50-1",
+      "width":1280,
+      "height":885,
+      "caption":"Estaci\u00f3n de Termini"
+    }
+  ],
+  "date":"1950-01-28",
+  "pos":758,
+  "trello":"LsZjg4gU",
+  "lang":"es"
+}

@@ -1,0 +1,58 @@
+{
+  "id":26,
+  "name":"Cementerio de Verano, barrio del Tiburtino",
+  "desc":"      <blockquote>Yo he entendido muy bien c\u00f3mo funcionas con los actores que buscas y moldeas como una materia en bruto. Ellos, aun con su inteligencia instintiva, son como robots en tus manos. Pero yo no soy un robot; yo he tenido tu gui\u00f3n en la mano tres meses, lo le\u00ed por lo menos cuatro veces, he analizado el m\u00e1s peque\u00f1o estado de \u00e1nimo, el m\u00e1s importante, el m\u00e1s sutil.<\/blockquote>      <cite>Anna Magnani, diario grabado en el magnet\u00f3fono de Pier Paolo Pasolini, 4 de mayo de 1962<\/cite>      <p>Para el papel principal de <em>Mamma Roma<\/em>, Pasolini elige a Anna Magnani, cuya imagen arquet\u00edpica de romana del pueblo se forj\u00f3 con <a href=\"#!\/es\/map\/5\"><em>Roma, ciudad abierta<\/em><\/a> de Roberto Rossellini. La colaboraci\u00f3n entre la actriz y el cineasta no ser\u00e1 un camino de rosas: acostumbrado a rodar con actores no profesionales, a Pasolini le cuesta aceptar la profesionalidad de la actuaci\u00f3n de la Magnani y su obsesi\u00f3n por mimar lo \u00abnatural\u00bb. Adem\u00e1s, considera que ella se ha vuelto demasiado \u00abpeque\u00f1oburguesa\u00bb para interpretar como \u00e9l quer\u00eda este papel de <em>Mamma Roma<\/em>.<\/p>      ",
+  "address":"Via Del verano, 39",
+  "latLng":[
+    41.901718,
+    12.519929
+  ],
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"26-1",
+      "width":1600,
+      "height":1071,
+      "caption":"Pier Paolo Pasolini y Anna Magnani durante el rodaje de Mamma Roma",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"26-2",
+      "width":1200,
+      "height":1202,
+      "caption":"Pier Paolo Pasolini y Anna Magnani durante el rodaje de Mamma Roma",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"26-3",
+      "width":1200,
+      "height":1252,
+      "caption":"Pier Paolo Pasolini y Anna Magnani durante el rodaje de Mamma Roma",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"26-4",
+      "width":1200,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini y Anna Magnani durante el rodaje de Mamma Roma",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"video",
+      "id":2381358461001, "vimeo":245388260,
+      "wide":0,
+      "caption":"Fragmento del documental A futura memoria (Ivo Barnab\u00f2 Micheli, 1986)",
+      "rights":"\u00a9 1986 Antea Film srl \/ 23 Giugno srl \u00a9 2003 Ripley's Film srl - All rights reserved"
+    }
+  ],
+  "trello":"A7UFifoJ",
+  "lang":"es"
+}

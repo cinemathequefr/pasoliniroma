@@ -1,0 +1,26 @@
+{
+  "id":55,
+  "name":"Via del Monte delle Capre",
+  "desc":"      <blockquote class=\"de\">Es gab anstrengende Szenen, sehr anstrengende. Wir mussten z.B. durch Schlick laufen, durch Schlamm, durch Treibsand. Pasolini drehte manchmal an den unvorstellbarsten Orten, im \u00dcbrigen hatte er damit ja auch recht, denn die Bilder sind doch sehr sch\u00f6n und ungew\u00f6hnlich.<\/blockquote>      <cite>Tot\u00f2, Gespr\u00e4chsaufzeichnung von Giacomo Gambetti, in <em>Pasolini<\/em> von Nico Naldini<\/cite>      ",
+  "latLng":[
+    41.845013,
+    12.431436
+  ],
+  "pos":6482,
+  "cat":{
+    "id":6,
+    "name":"Gro\u00dfe V\u00f6gel, kleine V\u00f6gel"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"55-1",
+      "width":1600,
+      "height":1139,
+      "caption":"Tot\u00f2 und Pier Paolo Pasolini bei Dreharbeiten zu Gro\u00dfe V\u00f6gel, kleine V\u00f6gel",
+      "rights":"\u00a9 Divo Cavicchioli \/ Reporters Associati srl"
+    }
+  ],
+  "trello":"IfDzCwaF",
+  "lang":"de"
+}

@@ -1,0 +1,42 @@
+{
+  "id":3,
+  "name":"Ponte Mammolo",
+  "address":"Via Giovanni Tagliere, 3, 00156 Roma",
+  "desc":"      <p>\u00c0 l'\u00e9t\u00e9 1950, Pier Paolo Pasolini est sans emploi, ce qui le pousse \u00e0 emm\u00e9nager avec sa m\u00e8re \u00e0 Ponte Mammolo, quartier de la p\u00e9riph\u00e9rie situ\u00e9 \u00e0 quelques encablures de la <a href=\"#!\/fr\/map\/47\">prison de Rebibbia<\/a>. Le p\u00e8re va rapidement les rejoindre dans ce petit appartement de deux pi\u00e8ces s\u00e9par\u00e9es par une petite cuisine.<\/p>      <blockquote>Nous habit\u00e2mes une maison sans toit ni cr\u00e9pi,<br \/>une maison de pauvres, dans l'extr\u00eame banlieue, pr\u00e8s d'une prison.<br \/>Il y avait un pied de poussi\u00e8re l'\u00e9t\u00e9&nbsp;; l'hiver c'\u00e9tait un marais.<br \/>Mais c'\u00e9tait l'Italie, l'Italie nue et fourmillante,<br \/>avec ses gar\u00e7ons, ses femmes,<br \/>\u00ab&nbsp;ses odeurs de jasmin et de pauvres soupes&nbsp;\u00bb,<br \/>les couchers de soleil sur les champs de l'Aniene, les tas d'ordures,<br \/>et, pour ma part,<br \/>mes r\u00eaves int\u00e8gres de po\u00e9sie.<\/blockquote>      <cite>Extrait de \u00ab&nbsp;Poeta delle ceneri&nbsp;\u00bb (1966-1967)<\/cite>      <p>Pour le futur po\u00e8te, c'est la d\u00e9couverte des <em>borgate<\/em>, ces faubourgs aux allures de bidonvilles n\u00e9s de la volont\u00e9 fasciste d'\u00e9loigner le sous-prol\u00e9tariat du centre-ville. Lieux d'exclusion et de s\u00e9gr\u00e9gation sociale, ces territoires en mutation faits de baraquements pr\u00e9caires abritent un monde interlope au vitalisme d\u00e9sesp\u00e9r\u00e9.<\/p>      ",
+  "latLng":[
+    41.932308,
+    12.567709
+  ],
+  "date":1951,
+  "pos":1276,
+  "cat":{
+    "id":1,
+    "name":"Maisons, d\u00e9m\u00e9nagements"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"3-1",
+      "width":783,
+      "height":729,
+      "caption":"L'appartement de Ponte Mammolo, via Giovanni Tagliere, 3",
+      "rights":"\u00a9 Romano Siciliani \/ Imago Mundi"
+    },
+    {
+      "type":"video",
+      "id":2325854985001, "vimeo":245388157,
+      "wide":0,
+      "caption":"Extrait de Pasolini l'enrag\u00e9 (Jean-Andr\u00e9 Fieschi, 1966)",
+      "rights":"\u00a9 INA"
+    },
+    {
+      "type":"video",
+      "id":2380419928001,
+      "wide":0,
+      "caption":"Extrait de Vivre et encore plus (Michel Random, 1976)",
+      "rights":"\u00a9 INA"
+    }
+  ],
+  "trello":"AQhC7GQy",
+  "lang":"fr"
+}

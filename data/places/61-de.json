@@ -1,0 +1,28 @@
+{
+  "id":61,
+  "name":"Casal Bruciato",
+  "address":"Casal Bruciato",
+  "desc":"      <p><em>Mamma Roma<\/em> ist der Film \u00fcber dieses Rom des Volks, das bestrebt ist, sich auf die neue wirtschaftliche Situation der 60er Jahre einzustellen. Anna Magnani spielt darin eine Prostituierte, eine Au\u00dfenseiterin, die nach Kr\u00e4ften versucht, sich den Umbr\u00fcchen der italienischen Gesellschaft anzupassen und sich, f\u00fcr ihren Sohn, in das Kleinb\u00fcrgertum zu integrieren. Nat\u00fcrlich werden ihre Versuche scheitern. Und ihr Sohn Ettore, der wegen eines winzigen Diebstahls ins Gef\u00e4ngnis kommt, wird von einer gleichg\u00fcltigen Gesellschaft quasi ausgel\u00f6scht.<\/p>      <p>Mit diesem zweiten Film zeigt sich Pasolini nicht nur als Poet, sondern auch als Anthropologe und Soziologe. Die Wahl der Drehorte spiegelt die tats\u00e4chliche soziale Lage des Landes wieder. Im Gegensatz zum <a href=\"#!\/de\/map\/16\">elenden Pigneto in <em>Accattone<\/em><\/a> (<em>Accattone \u2013 wer nie sein Brot mit Tr\u00e4nen a\u00df<\/em>) befinden sich die Stadtviertel, in denen <em>Mamma Roma<\/em> spielt, in einer urbanen Entwicklung. Der Casal Bruciato beispielsweise ist Symbol des neuen Aufschwungs des damaligen Italiens.<\/p>      <p>Mamma Roma und ihr Sohn werden es am Ende nicht schaffen, Teil dieser neuen sozialen Ordnung zu werden, f\u00fcr die das Viertel steht. Sie bleiben Au\u00dfenseiter. F\u00fcr Pasolini hat dieses Scheitern beispielhaften Wert \u2013 er war immer gegen \u201eQualunquismo\u201c, gegen Konformismus.<\/p>      ",
+  "latLng":[
+    41.906797,
+    12.546773
+  ],
+  "date":1962,
+  "pos":5201,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"61-1",
+      "width":1600,
+      "height":1189,
+      "caption":"Anna Magnani und Roberto Rossellini bei Dreharbeiten zu Mamma Roma",
+      "rights":"\u00a9 Angelo Novi \/ Archivio Pier Paolo Pasolini"
+    }
+  ],
+  "lang":"de"
+}

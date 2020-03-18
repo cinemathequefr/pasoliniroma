@@ -1,0 +1,35 @@
+{
+  "id":10,
+  "name":"A casa di Laura Betti, via del Babuino, 68",
+  "address":"Via del Babuino, 68, 00187 Roma",
+  "desc":"      <blockquote>Quando sono arrivata a Roma per cantare, mi sono messa alla ricerca di buoni testi e ci\u00f2 ha incuriosito gli scrittori. Io frequentavo l'ambiente degli intellettuali e una sera Alberto Moravia mi ha portato a casa Pier Paolo Pasolini. Ha suscitato subito il mio interesse: se ne stava l\u00ec, in un angolo, mi fissava dietro gli occhiali scuri. Io mi sono piantata di fronte a lui, gli ho tolto gli occhiali e con una voce molto Marlene Dietrich, gli ho chiesto: \u00abAllora, hai paura di me?\u00bb \u00c8 stato un colpo di fulmine.<\/blockquote>      <cite>Laura Betti in <em>Lib\u00e9ration<\/em>, 2 agosto 2004<\/cite>      <blockquote>Be', s\u00ec. Pensa solo che il primo bagno in una vasca l'ho fatto da Laura Betti quando abitava in via del Babuino. Io non avevo mai visto una vasca, me sembrava una bara. Poi ci entrai, allora si usava il Badedas, e la riempii di sapone immergendomi in quella schiuma. Comunque, a quel punto, gi\u00e0 conoscevo Alberto Moravia, Elsa Morante, Sandro Penna, Enzo Siciliano, ero gi\u00e0 entrato in quel mondo.<\/blockquote>      <cite>Ninetto Davoli, intervistato da Gianni Borgna nel settembre 2012<\/cite>      <p>Laura Betti, personaggio delle notti romane, presto diventa la musa di Pier Paolo Pasolini, tanto che per un periodo i due convivono nell'appartamento di lei in via del Babuino. All'epoca il duo ridefin\u00ec il concetto di coppia, infatti Pasolini aveva con Betti un rapporto in cui si mescolavano amicizia, amore e collaborazione artistica. Si ritroveranno insieme sul set di <em>Teorema<\/em>, <em>Edipo re<\/em> e <em>I Racconti di Canterbury<\/em>.<\/p>      <p>In una lettera a Godard, Pasolini parla di Laura Betti come della sua \u00absposa non carnale\u00bb.<\/p>      ",
+  "latLng":[
+    41.907787,
+    12.479884
+  ],
+  "pos":4306,
+  "cat":{
+    "id":8,
+    "name":"Vita sociale et intellettuale"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"10-1",
+      "width":1260,
+      "height":1200,
+      "caption":"Laura Betti, nel suo primo appartamento, mostra la locandina dello spettacolo Giro a vuoto, 1960",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"10-2",
+      "width":1600,
+      "height":1073,
+      "caption":"Laura Betti nel suo primo appartamento",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    }
+  ],
+  "trello":"Sb6Sfsrq",
+  "lang":"it"
+}

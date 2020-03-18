@@ -1,0 +1,34 @@
+{
+  "id":25,
+  "name":"Piazza Tommaso de Cristoforis",
+  "desc":"      <blockquote>Esta es nuestra casa, \u00bfla ves? Esta ventana, arriba de todo, a pleno sol. Se ven unas bragas tendidas, en el \u00faltimo piso. Solo ser\u00e1 por unos d\u00edas. Despu\u00e9s, ya ver\u00e1s qu\u00e9 casa\u2026 Una bonita casa. Solo ver\u00e1s gente guapa. En un buen barrio.<\/blockquote>      <cite><em>Mamma Roma<\/em><\/cite>      <p>Con su segunda pel\u00edcula (y tambi\u00e9n en <a href=\"#!\/es\/map\/16\"><em>Accattone<\/em><\/a>) el cineasta se desmarca firmemente de la herencia naturalista de sus maestros, <a href=\"#!\/es\/map\/5\">Roberto Rossellini<\/a> y Vittorio De Sica. Opina que su estilo neorrealista se corresponde con una visi\u00f3n del mundo totalmente superada a principios de los a\u00f1os sesenta. La contrabalancea radicalmente, esforz\u00e1ndose en infundir grandeza y lirismo a esos espacios urbanos precarios, chapuceros, despreciados por los arquitectos y los urbanistas.<\/p>      ",
+  "latLng":[
+    41.900578,
+    12.534721
+  ],
+  "date":1962,
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"25-1",
+      "width":1600,
+      "height":1055,
+      "caption":"Ettore Garofolo, Anna Magnani y Pier Paolo Pasolini durante el rodaje de Mamma Roma",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2324676534001, "vimeo":245388148,
+      "wide":1,
+      "caption":"Fragmento de Mamma Roma (Pier Paolo Pasolini, 1962)",
+      "rights":"\u00a9 Mediaset"
+    }
+  ],
+  "trello":"fSElUnPG",
+  "lang":"es"
+}

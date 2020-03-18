@@ -1,0 +1,39 @@
+{
+  "id":13,
+  "name":"Fiaschetteria Beltramme (Da Cesaretto)",
+  "address":"Via della Croce, 39, Roma",
+  "desc":"      <p>La c\u00e8lebre fotografia en qu\u00e8 apareixen Alberto Moravia, Pier Paolo Pasolini i Laura Betti sopant junts es va fer en aquest restaurant. La Fiaschetteria Beltramme \u00e9s un altre s\u00edmbol de la vida cultural \u2013&nbsp;i culin\u00e0ria&nbsp;\u2013 romana, on un es podia topar tant amb Pasolini com amb Curzio Malaparte, Giorgio Bassani o Francesco Rosi.<\/p>      <p>Era tamb\u00e9 el lloc predilecte de coneguts guionistes italians, d'importants homes pol\u00edtics com Sandro Pertini i Luigi Einaudi, i d'actors i actrius...<\/p>      <blockquote>Hi havia, per exemple, Zeffirelli, Bolognini, Piero Tosi, Mario Missiroli, Laura Betti, Adriana Asti, i de vegades Pasolini, perqu\u00e8 treballava amb Bolognini. All\u00e0 \u00e9s on vaig con\u00e8ixer pr\u00e0cticament tothom. Tots eren joves cineastes, escen\u00f2grafs, guionistes, cosa que explica tanta efervesc\u00e8ncia, tanta explosi\u00f3 d'ocurr\u00e8ncies i frases enginyoses; recordo, per exemple, que quan ens aixec\u00e0vem de la taula, cap a les tres de la tarda, els carrers estaven pr\u00e0cticament deserts, tot el centre de Roma dormia, i ten\u00edem plena llibertat per cantussejar \"le tre del pomeriggio, \u00e8 l'ora del dileggio\" ['les tres de la tarda \u00e9s l'hora de la burla'] a la Piazza di Spagna. An\u00e0vem al cinema o a les estrenes teatrals amb els amics de la via Veneto, Chiaromonte i \"Lele\" D'Amico. Despr\u00e9s, an\u00e0vem a sopar a <a href=\"#!\/ca\/map\/8\">Rosati<\/a>, amb horaris gaireb\u00e9 espanyols. An\u00e0vem a dormir cap a les dues o les tres de la matinada.<\/blockquote>      <cite>Alberto Arbasino, 2 d'octubre de 2012<\/cite>      ",
+  "latLng":[
+    41.906246,
+    12.479922
+  ],
+  "date":1961,
+  "cat":{
+    "id":8,
+    "name":"Vida social i intel\u00b7lectual"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"13-1",
+      "width":1600,
+      "height":1056,
+      "caption":"Alberto Moravia, Pier Paolo Pasolini i Laura Betti sopant a la Fiaschetteria Beltramme",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    },
+    {
+      "type":"img",
+      "id":"13-2",
+      "width":1600,
+      "height":1065,
+      "caption":"Alberto Moravia, Pier Paolo Pasolini i Laura Betti sopant a la Fiaschetteria Beltramme",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    }
+  ],
+  "pos":4868,
+  "comment":{
+    
+  },
+  "trello":"imyf2duA",
+  "lang":"ca"
+}

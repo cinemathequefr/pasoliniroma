@@ -1,0 +1,28 @@
+{
+  "id":1,
+  "name":"Piazza Mattei",
+  "address":"Piazza Mattei, 00186 Roma",
+  "desc":"      <p>Ein paar Stra\u00dfen von <a href=\"#!\/de\/map\/2\">seiner ersten Wohnung<\/a> entfernt liegt die Piazza Mattei und ihr ber\u00fchmter Schildkr\u00f6tenbrunnen, den Pasolini so liebt und den er in dem 1965 ver\u00f6ffentlichten Erz\u00e4hlband <em>Ali dagli occhi azzurri<\/em> (<em>Ali mit den blauen Augen<\/em>) beschreibt. In diesem Buch schildert er r\u00f6mische N\u00e4chte und schreibt unter anderem \u00fcber den Platz der Schildkr\u00f6ten mit ihren Epheben, die <em>\u00bbgl\u00e4nzend, wie verr\u00fcckt gl\u00e4nzend, sind sie das einzige, das dem Griff des Windes entgeht. Mit ihrer Nacktheit durchdringen sie die Nacht. Keinen Millimeter kommen die Burschen, die der Sonntag auf den neuen Stra\u00dfen abgelegt hat wie Schaum, der heiligen, reinen, verf\u00fchrerischen Dichte jener Nacktheit nahe. Das einzige, was man noch lieben kann, sind Statuen...\u00ab<\/em><\/p>      <p>Zweifellos sprachen diese keusch entbl\u00f6\u00dften Epheben die Eigenart seines Eros an.<\/p>      <p>Auch 1970 erw\u00e4hnt er im Vorwort eines Lyrikbandes diese Zeit: <em>\u00bbIn Rom lebte ich an der Piazza Costaguti, nahe dem Portikus der Octavia (dem Ghetto!), bevor ich in das Ghetto der \u201eBorgate\u201c zog, in die N\u00e4he des Gef\u00e4ngnisses Rebibbia, in ein Haus, das nie ein Dach bekam (f\u00fcr 13.000 Lire Monatsmiete). Zwei Jahre war ich arbeitslos, einer jener Verzweifelten, deren Leben nicht selten mit Selbstmord endet; dann fand ich eine Stelle als Lehrer in der Privatschule in <a href=\"#!\/de\/map\/4\">Ciampino<\/a> f\u00fcr 27.000 Lire im Monat.\u00ab<\/em><\/p>      ",
+  "latLng":[
+    41.893887,
+    12.477525
+  ],
+  "date":1950,
+  "pos":763,
+  "cat":{
+    "id":2,
+    "name":"Pasolini Schriftsteller"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"1-1",
+      "width":1600,
+      "height":1199,
+      "caption":"Piazza Mattei mit Schildkr\u00f6tenbrunnen",
+      "rights":"\u00a9 Archivio Storico Capitolino \u2013 Biblioteca Romana"
+    }
+  ],
+  "trello":"VMcQZ3f7",
+  "lang":"de"
+}

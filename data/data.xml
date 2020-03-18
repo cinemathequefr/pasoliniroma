@@ -146,7 +146,7 @@
         <caption xml:lang="de">Wohnung in Ponte Mammolo, Via Giovanni Tagliere 3</caption>
         <rights>© Romano Siciliani / Imago Mundi</rights>
       </m>
-      <m type="video" id="2325854985001" wide="0">
+      <m type="video" vimeo="245388157" id="2325854985001" wide="0">
         <caption xml:lang="ca">Fragment de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <caption xml:lang="en">Excerpt from Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <caption xml:lang="es">Fragmento de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
@@ -155,8 +155,9 @@
         <caption xml:lang="de">Ausschnitt aus Pasolini, der Zornige (Jean-André Fieschi, 1966)</caption>
         <rights>© INA</rights>
       </m>
+      <!--
       <m type="video" id="2380419928001" wide="0">
-        <caption xml:lang="ca">Fragment Vivre et encore plus (Michel Random, 1976)</caption>
+        <caption xml:lang="ca">Fragment de Vivre et encore plus (Michel Random, 1976)</caption>
         <caption xml:lang="en">Excerpt from Vivre et encore plus (Michel Random, 1976)</caption>
         <caption xml:lang="es">Fragmento de Vivre et encore plus (Michel Random, 1976)</caption>
         <caption xml:lang="fr">Extrait de Vivre et encore plus (Michel Random, 1976)</caption>
@@ -164,6 +165,7 @@
         <caption xml:lang="de">Ausschnitt aus Vivre et encore plus (Michel Random, 1976)</caption>
         <rights>© INA</rights>
       </m>
+      -->
       <trello>AQhC7GQy</trello>
     </place>
     <place id="4">
@@ -903,7 +905,7 @@
         <caption xml:lang="de">Pier Paolo Pasolini bei Dreharbeiten zu Accattone</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
-      <m type="video" id="2380416892001" wide="0">
+      <m type="video" vimeo="245388175" id="2380416892001" wide="0">
         <caption xml:lang="ca">Fragment d'Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="en">Excerpt from Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="es">Fragmento de Accattone (Pier Paolo Pasolini, 1961)</caption>
@@ -983,7 +985,7 @@
         <caption xml:lang="de">Pier Paolo Pasolini und Franco Citti während einer Pause bei den Dreharbeiten zu Accattone</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
-      <m type="video" id="2380419919001" wide="0">
+      <m type="video" vimeo="245388189" id="2380419919001" wide="0">
         <caption xml:lang="ca">Fragment d'Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="en">Excerpt from Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="es">Fragmento de Accattone (Pier Paolo Pasolini, 1961)</caption>
@@ -1052,7 +1054,7 @@
         <caption xml:lang="de">Federico Fellini zu Besuch bei den Dreharbeiten zu Accattone</caption>
         <rights>© Tazio Secchiaroli / David Secchiaroli</rights>
       </m>
-      <m type="video" id="2380420008001" wide="0">
+      <m type="video" vimeo="245388229" id="2380420008001" wide="0">
         <caption xml:lang="ca">Fragment d'Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="en">Excerpt from Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="es">Fragmento de Accattone (Pier Paolo Pasolini, 1961)</caption>
@@ -1152,7 +1154,7 @@
         <caption xml:lang="de">Foto vom Set für Accattone</caption>
         <rights>© Cicconi</rights>
       </m>
-      <m type="video" id="2381118286001" wide="0">
+      <m type="video" vimeo="245388248" id="2381118286001" wide="0">
         <caption xml:lang="ca">Fragment d'Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="en">Excerpt from Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="es">Fragmento de Accattone (Pier Paolo Pasolini, 1961)</caption>
@@ -1161,6 +1163,7 @@
         <caption xml:lang="de">Ausschnitt aus Accattone (Pier Paolo Pasolini, 1961)</caption>
         <rights>© SNC / SND</rights>
       </m>
+      <!--
       <m type="video" id="2380420004001" wide="0">
         <caption xml:lang="fr">Extrait du documentaire A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <caption xml:lang="es">Fragmento del documental A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
@@ -1170,6 +1173,7 @@
         <caption xml:lang="de">Ausschnitt aus dem Dokumentarfilm A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <rights>© 1986 Antea Film srl / 23 Giugno srl © 2003 Ripley's Film srl - All rights reserved</rights>
       </m>
+      -->
       <trello>x38yMZYH</trello>
     </place>
     <place id="23">
@@ -1207,7 +1211,7 @@
       <latLng>41.857861,12.551314</latLng>
       <pos>5203</pos>
       <cat>5</cat>
-      <m type="video" id="2381358462001" wide="1">
+      <m type="video" vimeo="245388274" id="2381358462001" wide="1">
         <caption xml:lang="fr">Extrait de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="es">Fragmento de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="ca">Fragment de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
@@ -1263,7 +1267,7 @@
         <caption xml:lang="de">Ettore Garofolo, Anna Magnani und Pier Paolo Pasolini am Set von Mamma Roma</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
-      <m type="video" id="2324676534001" wide="1">
+      <m type="video" vimeo="245388148" id="2324676534001" wide="1">
         <caption xml:lang="fr">Extrait de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="es">Fragmento de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="ca">Fragment de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
@@ -1351,7 +1355,7 @@
         <caption xml:lang="de">Pier Paolo Pasolini und Anna Magnani am Set von Mamma Roma</caption>
         <rights>© Archivio storico Istituto Luce Cinecittà srl</rights>
       </m>
-      <m type="video" id="2381358461001" wide="0">
+      <m type="video" vimeo="245388260" id="2381358461001" wide="0">
         <caption xml:lang="fr">Extrait du documentaire A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <caption xml:lang="es">Fragmento del documental A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <caption xml:lang="ca">Fragment del documental A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
@@ -1423,7 +1427,7 @@
         <caption xml:lang="it">Dallo storyboard di Mamma Roma, disegni di Pier Paolo Pasolini</caption>
         <caption xml:lang="de">Auszug aus dem Storyboard von Mamma Roma, gezeichnet von Pier Paolo Pasolini</caption>
       </m>
-      <m type="video" id="2385634862001" wide="1">
+      <m type="video" vimeo="245388122" id="2385634862001" wide="1">
         <caption xml:lang="fr">Extrait de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="es">Fragmento de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="ca">Fragment de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
@@ -1622,7 +1626,7 @@
         <caption xml:lang="de">Pier Paolo Pasolini am Set von Der Weichkäse</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
-      <m type="video" id="2320237572001" wide="1">
+      <m type="video" vimeo="245388137" id="2320237572001" wide="1">
         <caption xml:lang="fr">Extrait de La Ricotta</caption>
         <caption xml:lang="es">Fragmento de La Ricotta</caption>
         <caption xml:lang="ca">Fragment de La Ricotta</caption>
@@ -1630,7 +1634,7 @@
         <caption xml:lang="it">Da La Ricotta</caption>
         <caption xml:lang="de">Ausschnitt aus Der Weichkäse</caption>
       </m>
-      <m type="video" id="2381452419001" wide="0">
+      <m type="video" vimeo="245388311" id="2381452419001" wide="0">
         <caption xml:lang="ca">Fragment de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <caption xml:lang="en">Excerpt from Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <caption xml:lang="es">Fragmento de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
@@ -1678,7 +1682,7 @@
         <caption xml:lang="de">Totò, Ninetto Davoli und Pier Paolo Pasolini am Set von Große Vögel, kleine Vögel</caption>
         <rights>© Reporters Associati srl</rights>
       </m>
-      <m type="video" id="2381579825001" wide="1">
+      <m type="video" vimeo="245388089" id="2381579825001" wide="1">
         <caption xml:lang="ca">Fragment de Uccellacci e uccellini (Pier Paolo Pasolini, 1966)</caption>
         <caption xml:lang="en">Excerpt from The Hawks and the Sparrows (Pier Paolo Pasolini, 1966)</caption>
         <caption xml:lang="es">Fragmento de Uccellacci e uccellini (Pier Paolo Pasolini, 1966)</caption>
@@ -1745,7 +1749,7 @@
         <caption xml:lang="de">Pier Paolo Pasolini und seine Mutter in ihrer Wohnung in EUR, Via Eufrate 9</caption>
         <rights>© Mario Dondero, Elisa Dondero</rights>
       </m>
-      <m type="video" id="2381449889001" wide="0">
+      <m type="video" vimeo="245388286" id="2381449889001" wide="0">
         <caption xml:lang="ca">Fragment de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <caption xml:lang="en">Excerpt from Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
         <caption xml:lang="es">Fragmento de Pasolini l'enragé (Jean-André Fieschi, 1966)</caption>
@@ -1754,7 +1758,7 @@
         <caption xml:lang="de">Ausschnitt aus Pasolini, der Zornige (Jean-André Fieschi, 1966)</caption>
         <rights>© INA</rights>
       </m>
-      <m type="video" id="2292442024001" wide="0">
+      <m type="video" vimeo="245388090" id="2292442024001" wide="0">
         <caption xml:lang="fr">Extrait de Pier Paolo Pasolini : vivre et encore plus (Michel Random, 1974)</caption>
         <caption xml:lang="es">Fragmento del documental Pier Paolo Pasolini : vivre et encore plus (Michel Random, 1974)</caption>
         <caption xml:lang="ca">Fragment del documental Pier Paolo Pasolini : vivre et encore plus (Michel Random, 1974)</caption>
@@ -2437,7 +2441,7 @@
         <caption>Piazza Campo de' Fiori</caption>
         <rights>© Agenzia Fotogramma</rights>
       </m>
-      <m type="video" id="2384281328001" wide="0"/>
+      <m type="video" vimeo="245388106" id="2384281328001" wide="0"/>
       <trello>PJk8yZRF</trello>
     </place>
     <place id="53">
@@ -2474,7 +2478,7 @@
       <latLng>41.883728, 12.473832</latLng>
       <pos>5203</pos>
       <cat>5</cat>
-      <m type="video" id="2381452413001" wide="1">
+      <m type="video" vimeo="245388302" id="2381452413001" wide="1">
         <caption xml:lang="fr">Extrait de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="es">Fragmento de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
         <caption xml:lang="ca">Fragment de Mamma Roma (Pier Paolo Pasolini, 1962)</caption>
@@ -2851,7 +2855,8 @@ E Pier Paolo: «Nine', guarda che ti pagano.<br />– Mi pagano?<br />– Certo,
         <caption xml:lang="de">Pier Paolo Pasolini bei Dreharbeiten zu Accattone</caption>
         <rights>© Angelo Pennoni / Reporters Associati srl</rights>
       </m>
-      <m type="video" id="2381449887001" wide="0">
+      <!--
+      <m type="video" id="2381449887001" vimeo="245388338" wide="0">
         <caption xml:lang="ca">Fragment d'Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="en">Excerpt from Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="es">Fragmento de Accattone (Pier Paolo Pasolini, 1961)</caption>
@@ -2860,7 +2865,8 @@ E Pier Paolo: «Nine', guarda che ti pagano.<br />– Mi pagano?<br />– Certo,
         <caption xml:lang="de">Ausschnitt aus Accattone (Pier Paolo Pasolini, 1961)</caption>
         <rights>© SNC / SND</rights>
       </m>
-      <m type="video" id="2381452408001" wide="0">
+      -->
+      <m type="video" vimeo="245388203" id="2381452408001" wide="0">
         <caption xml:lang="fr">Extrait du documentaire A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <caption xml:lang="es">Fragmento del documental A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
         <caption xml:lang="ca">Fragment del documental A futura memoria (Ivo Barnabò Micheli, 1986)</caption>
@@ -2942,7 +2948,7 @@ E Pier Paolo: «Nine', guarda che ti pagano.<br />– Mi pagano?<br />– Certo,
         <caption xml:lang="de">Pier Paolo Pasolini, Federico Fellini und Alfredo Bini</caption>
         <rights>© Archivio storico Istituto Luce Cinecittà srl</rights>
       </m>
-      <m type="video" id="2381457423001" wide="0">
+      <m type="video" vimeo="245388324" id="2381457423001" wide="0">
         <caption xml:lang="fr">Bande annonce d'Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="es">Trailer d'Accattone (Pier Paolo Pasolini, 1961)</caption>
         <caption xml:lang="ca">Trailer d'Accattone (Pier Paolo Pasolini, 1961)</caption>
@@ -3178,7 +3184,7 @@ E Pier Paolo: «Nine', guarda che ti pagano.<br />– Mi pagano?<br />– Certo,
       <cat></cat>
       <trello></trello>
       <m type="img" id="" width="" height=""><caption></caption></m>
-      <m type="video" id="" wide=""><caption></caption></m>
+      <m type="video" vimeo="" id="" wide=""><caption></caption></m>
     </place>
     -->
   </places>

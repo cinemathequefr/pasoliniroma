@@ -1,0 +1,50 @@
+{
+  "id":59,
+  "name":"Via Ettore Giovenale",
+  "address":"Via Ettore Giovenale",
+  "desc":"      <p>In der Via Ettore Giovenale steht das Haus von Accattone (Protagonist von <em>Accattone \u2013 wer nie sein Brot mit Tr\u00e4nen a\u00df<\/em>).<\/p>      <p>Die Wirklichkeit holt die Fiktion ein, denn in diesem Viertel stand auch das Haus von Franco Citti, dem Hauptdarsteller des Films. Und in diesen Stra\u00dfen, die er im Laufe der Jahre so oft entlangging, erdachte Pasolini die Figuren seiner kleinen Gauner.<\/p>      <blockquote class=\"de\">Die Figuren in <em>Accattone<\/em> waren alles Diebe, Zuh\u00e4lter, Einbrecher oder Menschen, die in den Tag hinein lebten. Kurz gesagt, es handelte sich um einen Film \u00fcber die Unterwelt. Nat\u00fcrlich waren um sie herum auch die Menschen der \u201eBorgata\u201c involviert, in ihrem verabredeten Stillschweigen mit der Unterwelt, meinetwegen, die aber letztlich in der Regel hart arbeiteten (f\u00fcr einen Hungerlohn, wenn man an Accattone Bruder Sabino denkt). Aber als Autor und italienischer B\u00fcrger f\u00e4lle ich in dem Film keineswegs ein negatives Urteil \u00fcber die Figuren dieses Milieus: all ihre Fehler erschienen mir nicht nur menschlich und verzeihlich, sondern aus sozialer Sicht auch vollkommen nachvollziehbar. Fehler von Menschen, die sich auf \u201eandere\u201c Wertma\u00dfst\u00e4be beziehen als die Bourgeoisie: Menschen, die, wie gesagt, absolut \u201esie selbst\u201c sind.<\/blockquote>      <cite>Text von Pasolini, erschienen in <em>Il Corriere della Sera<\/em> am 8. Oktober 1975<\/cite>      <blockquote class=\"de\">Pasolini suchte auf der Stra\u00dfe Schauspieler und nahm uns so, wie wir waren. Einige von uns kamen morgens zu sp\u00e4t zum Set, weil sie lieber noch stehlen wollten, um etwas zu essen zu haben... Andere kamen einfach gar nicht, weil sie am Abend vorher verhaftet worden waren.<\/blockquote>      <cite>Franco Citti, Hauptdarsteller des Films<\/cite>      ",
+  "latLng":[
+    41.889841,
+    12.531637
+  ],
+  "date":1961,
+  "pos":4839,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"59-1",
+      "width":1600,
+      "height":1067,
+      "caption":"Pier Paolo Pasolini und Franco Citti bei den Dreharbeiten zu Accattone",
+      "rights":"\u00a9 Angelo Pennoni \/ Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"59-2",
+      "width":1600,
+      "height":1078,
+      "caption":"Pier Paolo Pasolini bei Dreharbeiten zu Accattone",
+      "rights":"\u00a9 Angelo Pennoni \/ Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2381449887001,
+      "wide":0,
+      "caption":"Ausschnitt aus Accattone (Pier Paolo Pasolini, 1961)",
+      "rights":"\u00a9 SNC \/ SND"
+    },
+    {
+      "type":"video",
+      "id":2381452408001, "vimeo":245388203,
+      "wide":0,
+      "caption":"Ausschnitt aus dem Dokumentarfilm A futura memoria (Ivo Barnab\u00f2 Micheli, 1986)",
+      "rights":"\u00a9 1986 Antea Film srl \/ 23 Giugno srl \u00a9 2003 Ripley's Film srl - All rights reserved"
+    }
+  ],
+  "lang":"de"
+}

@@ -1,0 +1,43 @@
+{
+  "id":8,
+  "name":"Caf\u00e8 Rosati",
+  "address":"Piazza del Popolo, 5, 00196 Roma",
+  "desc":"      <p>Com el <a href=\"#!\/ca\/map\/9\">caf\u00e8 Canova<\/a> o els restaurants Il Bolognese i <a href=\"#!\/ca\/map\/13\">Beltramme<\/a>, el caf\u00e8 Rosati \u00e9s, als anys cinquanta, un dels llocs emblem\u00e0tics de la vida intel\u00b7lectual romana. Aqu\u00ed \u00e9s on, despr\u00e9s de les estrenes teatrals, quan surten de les projeccions de pell\u00edcules de Vittorio De Sica o <a href=\"#!\/ca\/map\/5\">Roberto Rossellini<\/a>, s'apleguen tots els artistes i pensadors de la capital romana. Pasolini es troba aqu\u00ed, entre altres, amb els seus amics <a href=\"#!\/ca\/map\/10\">Laura Betti<\/a>, Elsa Morante, Alberto Moravia, Giorgio Bassani, Carmelo Bene, Bernardo Bertolucci o Italo Calvino, per a llargues nits de debats apassionats.<\/p>      <blockquote>Qui [al Caff\u00e8 Rosati] negli anni cinquanta incontravi Pier Paolo Pasolini ed Elsa Morante, ma anche tanti giovani pittori e cineasti, tutti immersi in un clima di vivacit\u00e0 culturale che, solo a distanza di anni, riesco ad apprezzare appieno\u2026<\/blockquote>      <cite>Ugo Pirro, guionista d'<em>Indagine su un cittadino al di sopra di ogni sospetto<\/em>, d'Elio Petri i d'<em>El jard\u00ed dels Finzi-Contini<\/em>, de Vittorio De Sica<\/cite>      ",
+  "latLng":[
+    41.910099,
+    12.476106
+  ],
+  "date":1956,
+  "pos":3026,
+  "cat":{
+    "id":8,
+    "name":"Vida social i intel\u00b7lectual"
+  },
+  "trello":"D6sXe9Ea",
+  "m":[
+    {
+      "type":"img",
+      "id":"8-1",
+      "width":1560,
+      "height":1600,
+      "caption":"Pier Paolo Pasolini a la terrassa del caf\u00e8 Rosati",
+      "rights":"\u00a9 Archivi Farabola"
+    },
+    {
+      "type":"img",
+      "id":"8-2",
+      "width":1178,
+      "height":1200,
+      "caption":"Piazza del Popolo"
+    },
+    {
+      "type":"img",
+      "id":"8-3",
+      "width":1564,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini i Italo Calvino a la terrassa del caf\u00e8 Rosati",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    }
+  ],
+  "lang":"ca"
+}

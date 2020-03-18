@@ -1,0 +1,31 @@
+{
+  "id":36,
+  "name":"Fiumicino",
+  "desc":"      <p><em>Uccellacci e uccellini<\/em> is not a film about neighbourhoods, as <a href=\"#!\/en\/map\/16\"><em>Accattone<\/em><\/a> or<a href=\"#!\/en\/map\/61\"><em>Mamma Roma<\/em><\/a> might have been. Pasolini's third film draws perspective lines. The two her\u0153s, portrayed by Tot\u00f2 and Ninetto, go increasingly far from the centre to explore the different circles of a Roman periphery in full upheaval in the 1960s: the slums where poor concrete buildings were springing up, the great construction site of the ring road (the <em>anulare<\/em>), the remains of countryside and farms doomed to disappear in the very near future.<\/p>      <p>In so doing, the filmmaker shows a Rome in full transformation, not only ideological, political, or intellectual, but also physical. A capital that was in the process of 'colonizing' the countryside and the rest of Italy. By filming the ring road and the motorway out to Fiumicino (the airport built for the1960 Olympic Games), Pasolini describes his city as one from which it would henceforth be necessary to flee the evolution and to seek an alternative, going as far as possible in the Third World: Cuba, Istanbul, Africa, Asia...<\/p>      ",
+  "latLng":[
+    41.764141,
+    12.238770
+  ],
+  "pos":6482,
+  "cat":{
+    "id":6,
+    "name":"The Hawks and the Sparrows"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"36-1",
+      "width":1600,
+      "height":1155,
+      "caption":"Tot\u00f2, Ninetto Davoli and Pier Paolo Pasolini on the set of The Hawks and the Sparrows",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2381579825001, "vimeo":245388089,
+      "wide":1,
+      "caption":"Excerpt from The Hawks and the Sparrows (Pier Paolo Pasolini, 1966)"
+    }
+  ],
+  "lang":"en"
+}

@@ -1,0 +1,49 @@
+{
+  "id":38,
+  "name":"Valle Giulia, facolt\u00e0 di archittura",
+  "desc":"      <p>La fine degli anni sessanta \u00e8 per Pasolini un momento di crescente delusione di fronte all'evoluzione dell'Italia contemporanea. Lui che ha sempre combattuto per la legittimazione del piccolo popolo dei bassifondi di Roma, ora assiste impotente all'emergere di una societ\u00e0 dei consumi che detesta profondamente. E gli sembra che nulla potr\u00e0 fermare questo processo di disumanizzazione.<\/p>      <p>Neanche le manifestazioni studentesche del 1968, che il poeta interpreta come semplice esuberanza giovanile dei figli della borghesia. I violenti scontri tra polizia e studenti si concentrano nei pressi della facolt\u00e0 di Architettura, a Valle Giulia (nel quartiere Parioli, vicino a Villa Borghese). Mentre si prepara all'uscita nelle sale di <em>Teorema<\/em>, Pasolini pubblica una lunga poesia su <em>Nuovi Argomenti<\/em>, la rivista a tiratura limitata di cui \u00e8 co-direttore con Alberto Moravia e Alberto Carocci. I versi contrappongono i giovani poliziotti provenienti dal proletariato del sud Italia, ai rivoltosi borghesi sessantottini. Il settimanale <em>L'Espresso<\/em> fiuta lo scoop e decide di pubblicare la poesia col titolo mistificatorio \u00abVi odio, cari studenti\u00bb. Un titolo del tutto diverso da quello originale che recitava: \u00abIl PCI ai giovani\u00bb !<\/p>      <p>La confusione \u00e8 totale, e il senso primo della poesia \u2013&#160;infinitamente pi\u00f9 complessa di quanto lasci supporre il suo titolo riduttivo&#160;\u2013 viene del tutto fuorviato. I rapporti tra Pasolini e la giovent\u00f9 studentesca si fanno allora davvero tesi...<\/p>      ",
+  "latLng":[
+    41.918648,
+    12.480033
+  ],
+  "pos":7365,
+  "cat":{
+    "id":3,
+    "name":"Politica"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"38-2",
+      "width":1600,
+      "height":1196,
+      "caption":"Scontri fra studenti e forze dell'ordine alla facolt\u00e0 di Architettura, Valle Giulia",
+      "rights":"\u00a9 Contrasto"
+    },
+    {
+      "type":"img",
+      "id":"38-3",
+      "width":1600,
+      "height":1067,
+      "caption":"Scontri fra studenti e forze dell'ordine alla facolt\u00e0 di Architettura, Valle Giulia"
+    },
+    {
+      "type":"img",
+      "id":"38-4",
+      "width":1600,
+      "height":1067,
+      "caption":"Scontri fra studenti e forze dell'ordine alla facolt\u00e0 di Architettura, Valle Giulia",
+      "rights":"\u00a9 Contrasto"
+    },
+    {
+      "type":"img",
+      "id":"38-5",
+      "width":803,
+      "height":1200,
+      "caption":"Nel 1974, otto anni dopo, Pier Paolo Pasolini interviene a un'assemblea dei Giovani Comunisti. In secondo piano, Gianni Borgna e Antonio Semerari",
+      "rights":"\u00a9 Istituto Luce Historical Archive"
+    }
+  ],
+  "trello":"yJhmZcaq",
+  "lang":"it"
+}

@@ -1,0 +1,67 @@
+{
+  "id":29,
+  "name":"Il Palazzaccio, Piazza Cavour",
+  "desc":"      <blockquote>Se le acusaba de haber insultado a la religi\u00f3n. Hubiera sido mucho m\u00e1s exacto acusar al cineasta de haber insultado los valores de la peque\u00f1a y mediana burgues\u00eda italiana.<\/blockquote>      <cite>Alberto Moravia<\/cite>      <p>El juicio toma un giro m\u00e1s que absurdo. Para darle m\u00e1s fuerza a su alegaci\u00f3n, el fiscal hace instalar en la sala del tribunal una mesa de montaje a fin de analizar las secuencias imputadas de la pel\u00edcula, objeto del delito. Al principio, el magistrado consigue retirar la pel\u00edcula. Luego logra que se suprima la parte dirigida por Pasolini. <em>RoGoPaG<\/em>, pel\u00edcula compuesta de sketches, cuyo t\u00edtulo es un compendio de las primeras s\u00edlabas de Rossellini, Godard, Pasolini y Gregoretti, sus directores, se ve as\u00ed amputada de su episodio fundamental, de casi media hora de duraci\u00f3n. Aparte, Pasolini es condenado a cuatro meses de prisi\u00f3n condicional en primera instancia el 7 de marzo de 1963. Finalmente, el director conseguir\u00e1 explicarse y ser\u00e1 absuelto el 6 de mayo de 1964 por el tribunal de apelaci\u00f3n. En total, el juicio de <a href=\"#!\/es\/map\/34\"><em>La Ricotta<\/em><\/a> durar\u00e1 casi seis a\u00f1os, en distintas instancias y causas. Acabar\u00e1 el 23 de febrero de 1968 con la absoluci\u00f3n de Pasolini, que cobrar\u00e1 incluso una indemnizaci\u00f3n por da\u00f1os y perjuicios.<\/p>      <p>Para Pasolini, este juicio es realmente determinante, hasta el punto de que decide rodar <em>El Evangelio seg\u00fan san Mateo<\/em> para demostrar que, aunque \u00e9l sea ateo, respeta la religi\u00f3n como ideolog\u00eda del pueblo. Porque en Italia, en regiones como Friul o en la Roma popular, la religi\u00f3n equivale a una filosof\u00eda de la vida popular. Incluso modificar\u00e1 radicalmente su estilo, convencido de que no se puede filmar la historia del <em>Evangelio<\/em> del mismo modo que se reconstruye la Roma de <a href=\"#!\/es\/map\/16\"><em>Accattone<\/em><\/a>. En este sentido, <em>El Evangelio<\/em> es una pel\u00edcula distinta de <em>Accattone<\/em>, cuyo punto de vista es frontal, casi medieval, en su representaci\u00f3n est\u00e9tica del mundo. <em>El Evangelio<\/em> es m\u00e1s din\u00e1mico, filmado con una especie de libertad en los movimientos de la c\u00e1mara de la que carecen las primeras pel\u00edculas.<\/p>      ",
+  "latLng":[
+    41.905743,
+    12.469485
+  ],
+  "date":"4 octobre 1962",
+  "pos":5389,
+  "cat":{
+    "id":3,
+    "name":"Pol\u00edtica"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"29-1",
+      "width":1101,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"29-2",
+      "width":1600,
+      "height":1085,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Carlo Riccardi \/ Archivio Riccardi"
+    },
+    {
+      "type":"img",
+      "id":"29-3",
+      "width":1600,
+      "height":1193,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 DUfoto \/ Foto Scala \/ Cineteca di Bologna"
+    },
+    {
+      "type":"img",
+      "id":"29-4",
+      "width":1600,
+      "height":1159,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"29-5",
+      "width":1587,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"29-6",
+      "width":1600,
+      "height":1059,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Archivi Farabola"
+    }
+  ],
+  "trello":"L0lrIAiD",
+  "lang":"es"
+}

@@ -1,0 +1,48 @@
+{
+  "id":28,
+  "name":"Cecafumo, via dell'Acqua Santa",
+  "desc":"      <p>Pier Paolo Pasolini hat zwar nicht in Cecafumo gewohnt, doch er kennt die Gegend so gut wie alle anderen Viertel Roms. Als echter Anthropologe analysiert und erforscht er eingehend die Vorst\u00e4dte, die ihm als Schaupl\u00e4tze f\u00fcr seine Filme, Gedichte und Romane dienen werden. Seine Wahl ist immer durchdacht, gewollt, schl\u00fcssig. Nichts bleibt dem Ungef\u00e4hren \u00fcberlassen.<\/p>      <p>Dass <em>Mamma Roma<\/em> in Cecafumo gefilmt wird, einem Stadtgebiet, das an den herrlichen Park der Aquadukte mit seinen arch\u00e4ologischen Ruinen grenzt, ist kein Zufall. Es folgt einer Logik. Pasolini konfrontiert das Rom des kleinb\u00fcrgerlichen Wandels zu Anfang der 60er Jahre, welches er mit Abscheu kommen sieht, mit dem antiken Rom. Er stellt das gro\u00dfe Rom einer idealisierten Vergangenheit dem Rom des 20. Jahrhunderts gegen\u00fcber, in dem massenhaft Wohnsiedlungen gebaut werden, um die Arbeiter in ihnen zusammenzupferchen. Das ist eine starke Gegen\u00fcberstellung, rein stilistisch, jedoch auch unter symbolischem, ideologischem Aspekt.<\/p>      <p>Dieser Antagonismus findet sich auch in <em>La Ricotta<\/em> (<a href=\"#!\/de\/map\/34\"><em>Der Weichk\u00e4se<\/em><\/a>), der ebenfalls teilweise in Cecafumo gedreht wurde.<\/p>      ",
+  "latLng":[
+    41.855362,
+    12.536807
+  ],
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"28-1",
+      "width":1111,
+      "height":1200,
+      "caption":"Ettore Garofolo, Anna Magnani und Pier Paolo Pasolini am Set von Mamma Roma",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"28-2",
+      "width":1163,
+      "height":1200,
+      "caption":"Ettore Garofolo und Anna Magnani am Set von Mamma Roma",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"28-3",
+      "width":870,
+      "height":1144,
+      "caption":"Auszug aus dem Storyboard von Mamma Roma, gezeichnet von Pier Paolo Pasolini"
+    },
+    {
+      "type":"video",
+      "id":2385634862001, "vimeo":245388122,
+      "wide":1,
+      "caption":"Ausschnitt von Mamma Roma (Pier Paolo Pasolini, 1962)",
+      "rights":"\u00a9 Mediaset"
+    }
+  ],
+  "trello":"GfWxXOB3",
+  "lang":"de"
+}

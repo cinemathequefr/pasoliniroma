@@ -1,0 +1,40 @@
+{
+  "id":22,
+  "name":"Ponte Sant'Angelo",
+  "desc":"      <p>Pier Paolo Pasolini ambienta il suo primo film nella periferia di Roma ma fa anche alcune incursioni in centro. Gi\u00e0 intravisti sette anni prima in <em>Lo Sceicco bianco<\/em> di Federico Fellini (la scena del tentato suicidio di Wanda), gli argini del Tevere e ponte Sant'Angelo ricompaiono sulla pellicola offrendo in <em>Accattone<\/em> i loro splendidi primi piani.<\/p>      <p>L'eroe decide di tuffarsi dal ponte di fronte a Castel Sant'Angelo. Un atto di coraggio insensato, ma tutt'altro che gratuito. Franco Citti nel documentario <em>A futura memoria<\/em> lo spiega: il tuffo di Accattone \u00e8 anche un modo simbolico del proletariato romano di ricordare la sua esistenza alla borghesia del centro citt\u00e0. Se Accattone morisse nella sua periferia nessuno ne saprebbe mai niente, invece l\u00ec, nel cuore di Roma, espone la sua miserabile esistenza e il suo libero arbitrio sotto gli occhi di tutti.<\/p>      ",
+  "latLng":[
+    41.901788,
+    " 12.466462"
+  ],
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"22-1",
+      "width":1600,
+      "height":1036,
+      "caption":"Foto dal set di Accattone",
+      "rights":"\u00a9 Cicconi"
+    },
+    {
+      "type":"video",
+      "id":2381118286001, "vimeo":245388248,
+      "wide":0,
+      "caption":"Da Accattone (Pier Paolo Pasolini, 1961)",
+      "rights":"\u00a9 SNC \/ SND"
+    },
+    {
+      "type":"video",
+      "id":2380420004001,
+      "wide":0,
+      "caption":"Dal documentario A futura memoria (Ivo Barnab\u00f2 Micheli, 1986)",
+      "rights":"\u00a9 1986 Antea Film srl \/ 23 Giugno srl \u00a9 2003 Ripley's Film srl - All rights reserved"
+    }
+  ],
+  "trello":"x38yMZYH",
+  "lang":"it"
+}

@@ -1,0 +1,43 @@
+{
+  "id":8,
+  "name":"Caff\u00e8 Rosati",
+  "address":"Piazza del Popolo, 5, 00196 Roma",
+  "desc":"      <p>Come il <a href=\"#!\/it\/map\/9\">caff\u00e8 Canova<\/a> o i ristoranti Il Bolognese e <a href=\"#!\/it\/map\/13\">Beltramme<\/a>, negli anni cinquanta il caff\u00e8 Rosati \u00e8 uno dei luoghi emblematici della vita intellettuale romana. Dopo le prime a teatro o al termine della proiezione dei film di De Sica o <a href=\"#!\/it\/map\/5\">Rossellini<\/a>, tutta la Roma che conta, gli artisti e gli intellettuali si ritrovano qui. Pier Paolo Pasolini frequenta il caff\u00e8 Rosati insieme ad altri amici, tra i quali <a href=\"#!\/it\/map\/10\">Laura Betti<\/a>, Elsa Morante, Alberto Moravia, Giorgio Bassani, Carmelo Bene, Bernardo Bertolucci o Italo Calvino, trascorrendo serate animate da accese discussioni.<\/p>      <blockquote>Qui negli anni cinquanta si potevano incontrare Pier Paolo Pasolini ed Elsa Morante, ma anche molti giovani pittori e cineasti, in un clima culturale di cui solo molti anni dopo ho avuto modo di apprezzare appieno la vivacit\u00e0.<\/blockquote>      <cite>Ugo Pirro, sceneggiatore di <em>Indagine su un cittadino al di sopra di ogni sospetto<\/em>, di Elio Petri e del <em>Giardino dei Finzi-Contini<\/em>, di Vittorio De Sica<\/cite>      ",
+  "latLng":[
+    41.910099,
+    12.476106
+  ],
+  "date":1956,
+  "pos":3026,
+  "cat":{
+    "id":8,
+    "name":"Vita sociale et intellettuale"
+  },
+  "trello":"D6sXe9Ea",
+  "m":[
+    {
+      "type":"img",
+      "id":"8-1",
+      "width":1560,
+      "height":1600,
+      "caption":"Pier Paolo Pasolini al caff\u00e8 Rosati",
+      "rights":"\u00a9 Archivi Farabola"
+    },
+    {
+      "type":"img",
+      "id":"8-2",
+      "width":1178,
+      "height":1200,
+      "caption":"Piazza del Popolo"
+    },
+    {
+      "type":"img",
+      "id":"8-3",
+      "width":1564,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini e Italo Calvino al caff\u00e8 Rosati",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    }
+  ],
+  "lang":"it"
+}

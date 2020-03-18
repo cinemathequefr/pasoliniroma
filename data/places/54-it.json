@@ -1,0 +1,53 @@
+{
+  "id":54,
+  "name":"Quartiere del Quarticciolo",
+  "address":{
+    
+  },
+  "desc":"      <blockquote>Pier Paolo \u00e8 diventato romano, anche se ha sempre mantenuto nei confronti di Roma una certa distanza critica e anche linguistica. Ha acquisito una profonda conoscenza del romanesco, ma naturalmente non lo parlava come Sergio Citti o me, ne faceva un uso letterario, si serviva del discorso indiretto libero alla maniera di Gadda; in una certa misura imitava il dialetto. Ti faceva sentire tutto il sapore di questa realt\u00e0, ma ne dava una rappresentazione che non aveva nulla di naturalistico.<\/blockquote>      <cite>Intervista a Vincenzo Cerami, ex studente di Pasolini a <a href=\"#!\/it\/map\/4\">Ciampino<\/a>, sceneggiatore, scrittore.<\/cite>      <p>Gli scritti e i film di Pasolini creano un nuovo immaginario della capitale. Il poeta non si accontenta di inserire la citt\u00e0 come sfondo dei suoi film e romanzi, ma \u00abrifonda\u00bb Roma attraverso la letteratura e il cinema. Frequentando i giovani di borgata \u2013&nbsp;ad esempio al Quarticciolo&nbsp;\u2013 conferisce dignit\u00e0 letteraria e convalida l'esistenza del romanesco, una lingua che grazie a lui entra nella cultura italiana.<\/p>      ",
+  "latLng":[
+    41.89164,
+    " 12.576513"
+  ],
+  "pos":2007,
+  "cat":{
+    "id":2,
+    "name":"Pasolini scrittore"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"54-1",
+      "width":1663,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Federico Garolla \/ Archivi Farabola"
+    },
+    {
+      "type":"img",
+      "id":"54-2",
+      "width":1840,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Federico Garolla \/ Archivi Farabola"
+    },
+    {
+      "type":"img",
+      "id":"54-3",
+      "width":1815,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Federico Garolla \/ Archivi Farabola"
+    },
+    {
+      "type":"img",
+      "id":"54-4",
+      "width":1784,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Federico Garolla \/ Archivi Farabola"
+    }
+  ],
+  "trello":"vlbC9kEL",
+  "lang":"it"
+}

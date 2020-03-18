@@ -1,0 +1,28 @@
+{
+  "id":2,
+  "name":"Piazza Costaguti",
+  "address":"Piazza Costaguti, 14, 00186 Roma",
+  "desc":"      <p>Upon his arrival in Rome, Pasolini discovered a capital of contrasts, both pious - this was the year of Pius XII's Jubilee - and wildly pagan: the banks of the Tiber and the ghetto, where one lived his sexuality quite freely, which was radically different from his maternal Friuli. It was there, in Piazza Costaguti of the Jewish ghetto, that his uncle lent him a room for awhile.<\/p>      <p>The poet lived right next to Isola Tiberina, the island in the Tiber, and Trastevere, amidst the <em>ragazzi<\/em>, those tough kids with shameless desires who lived off petty larceny on the banks of the river. Quite far from the bourgeois, religious Rome of Pius XII's Jubilee.<\/p>      <p>A few metres from there lay the <a href=\"#!\/en\/map\/1\">Piazza Mattei<\/a> and its \"Turtle Fountain\".<\/p>      ",
+  "latLng":[
+    41.893620,
+    12.476747
+  ],
+  "date":1950,
+  "pos":762,
+  "cat":{
+    "id":1,
+    "name":"Houses"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"2-1",
+      "width":1019,
+      "height":960,
+      "caption":"Piazza Costaguti",
+      "rights":"\u00a9 Francesco Pierangeli"
+    }
+  ],
+  "trello":"yJBnbec4",
+  "lang":"en"
+}

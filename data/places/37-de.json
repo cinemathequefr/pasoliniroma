@@ -1,0 +1,41 @@
+{
+  "id":37,
+  "name":"Das EUR-Viertel, Via Eufrate 9",
+  "address":"Via Eufrate, 9, 00144 Roma",
+  "desc":"      <p>Inzwischen finanziell besser gestellt, kann sich Pasolini nun eine gro\u00dfe Wohnung im ruhigen Wohngebiet EUR leisten (Esposizione Universale di Roma, gebaut in den 30er Jahren f\u00fcr die Weltausstellung von 1942, die aber nie stattfand).<\/p>      <p>Im M\u00e4rz 1963 zieht er also mit seiner Mutter und seiner Cousine Graziella Chiarcossi, die nun endg\u00fcltig bei ihnen wohnen wird, in die Via Eufrate 9. Der auf einem H\u00fcgel gelegene Stadtteil ist eher b\u00fcrgerlich beh\u00fctet. Man hat einen Blick auf das, was von dem Land und den Geh\u00f6ften Bauernh\u00f6fe noch \u00fcbrig ist, aber auch auf die gro\u00dfen Baustellen in der Peripherie, und bei klarem Wetter sogar auf das Meer und den Strand von Ostia. Die Wohnung liegt in der N\u00e4he der Basilika St. Peter und Paul und hat eine kleine Garten-Terrasse, wo seine Mutter nach Belieben g\u00e4rtnern kann.<\/p>      <p>Angesichts Pasolinis bisheriger Wohnorte in Rom ist das EUR-Viertel eine merkw\u00fcrdige Wahl. Dieser moderne, vision\u00e4re Stadtteil wurde von den Faschisten entworfen und konzipiert und bildet den Gegensatz zu den \u201eBorgate\u201c und dem belebten Stadtzentrum. In gewisser Hinsicht markiert dieser Umzug eine Wende in Pasolinis Leben, zwischen seiner 1950 gef\u00e4llten Entscheidung, sich in Rom niederzulassen und seinem letzten spannungsreicheren, tragischeren Lebensabschnitt, der mit den Reflexionen der <em>Scritti corsari<\/em> (<em>Freibeuterschriften<\/em>) und dem Roman <em>Petrolio<\/em> zusammenf\u00e4llt.<\/p>      <p>Diese Wohnung, dem Meer zugewandt, gleichsam eine \u00d6ffnung zur Welt, wird zu seinem letzten Domizil (l\u00e4sst man seine Refugien <a href=\"#!\/de\/map\/40\">Chia<\/a> und <a href=\"#!\/de\/map\/41\">Sabaudia<\/a> au\u00dfer Acht). Und die Anfangsverse des Gedichts \u201eLa ricerca di una casa\u201c (\u201eDie Suche nach einem Zuhause\u201c) (aus dem Band <em>Dichtung in Form einer Rose<\/em>) bekommen somit etwas Ahnungsvolles: <em>\u201eIch suche nach dem Haus meiner Grabst\u00e4tte...\u201c<\/em>.<\/p>      ",
+  "latLng":[
+    41.832489,
+    12.457924
+  ],
+  "date":1963,
+  "pos":5538,
+  "cat":{
+    "id":1,
+    "name":"H\u00e4user"
+  },
+  "trello":"wlr9ZNF5",
+  "m":[
+    {
+      "type":"img",
+      "id":"37-1",
+      "width":845,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini und seine Mutter in ihrer Wohnung in EUR, Via Eufrate 9",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    },
+    {
+      "type":"video",
+      "id":2381449889001, "vimeo":245388286,
+      "wide":0,
+      "caption":"Ausschnitt aus Pasolini, der Zornige (Jean-Andr\u00e9 Fieschi, 1966)",
+      "rights":"\u00a9 INA"
+    },
+    {
+      "type":"video",
+      "id":2292442024001, "vimeo":245388090,
+      "wide":0,
+      "caption":"Ausschnitt aus Pier Paolo Pasolini: Vivre et encore plus (Michel Random, 1974)"
+    }
+  ],
+  "lang":"de"
+}

@@ -1,0 +1,25 @@
+{
+  "id":23,
+  "name":"Via Sagunto",
+  "desc":"      <blockquote>Elle est belle notre nouvelle maison, hein&nbsp;? Qu'est ce que je t'avais dit&nbsp;?<\/blockquote>      <cite><em>Mamma Roma<\/em><\/cite>      <p>C'est le quartier INA-Casa del Tuscolano que Mamma Roma vise pour s'\u00e9lever socialement. Ce quartier, manifeste du rationalisme urbain italien, a \u00e9t\u00e9 \u00e9chafaud\u00e9 en 1961 gr\u00e2ce \u00e0 la loi Fanfani en faveur du logement social. Mais ces nouveaux ensembles modernes n'apportent aucune solution aux questions de l'origine sociale, et emm\u00e9nager dans ce nouveau quartier n'emp\u00eachera pas Ettore de finir tragiquement. <em>\u00ab&nbsp;Certains choix urbanistes et sociaux sont lourds de cons\u00e9quence pour les plus modestes, et le progr\u00e8s mat\u00e9riel apport\u00e9 par la modernit\u00e9 est un leurre. Le malheur, explique Pasolini dans son film, ne vient pas forc\u00e9ment du fait que le Capital appauvrit, mais de ce que le bien-\u00eatre mat\u00e9riel s'accompagne d'une perte d'humanit\u00e9.&nbsp;\u00bb<\/em> (Eugenio Renzi)<\/p>      ",
+  "latLng":[
+    41.857861,
+    12.551314
+  ],
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "m":[
+    {
+      "type":"video",
+      "id":2381358462001, "vimeo":245388274,
+      "wide":1,
+      "caption":"Extrait de Mamma Roma (Pier Paolo Pasolini, 1962)",
+      "rights":"\u00a9 Mediaset"
+    }
+  ],
+  "trello":"kBTK9evY",
+  "lang":"fr"
+}

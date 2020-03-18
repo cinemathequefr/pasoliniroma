@@ -1,0 +1,48 @@
+{
+  "id":28,
+  "name":"Cecafumo, via dell'Acqua Santa",
+  "desc":"      <p>Aunque no ha vivido en Cecafumo, Pasolini conoce perfectamente este barrio, igual que los dem\u00e1s barrios de Roma. Cual aut\u00e9ntico antrop\u00f3logo, explora y estudia con detenimiento los suburbios que le servir\u00e1n de decorado, ya sea para sus pel\u00edculas, sus poemas o sus novelas. Son elecciones pensadas, queridas, coherentes. No deja ning\u00fan resquicio para lo aproximado.<\/p>       <p>No es ninguna casualidad que Pasolini filme en <em>Mamma Roma<\/em> Cecafumo, que linda con el precioso parque de los Acueductos y sus ruinas arqueol\u00f3gicas. Es un discurso. Pasolini confronta la Roma cuya llegada siente aproximarse con repulsi\u00f3n, la de la transformaci\u00f3n peque\u00f1oburguesa de principios de los a\u00f1os sesenta, con la Roma de la Antig\u00fcedad. Opone la gran Roma, la de un pasado sublimado, a la de las ciudades dormitorio del siglo XX, construidas en serie para agrupar en ellas a los obreros. Es una oposici\u00f3n fuerte, no solo en un plano puramente estil\u00edstico, sino tambi\u00e9n en las dimensiones simb\u00f3lica e ideol\u00f3gica.<\/p>      <p>Este antagonismo volver\u00e1 a surgir en <a href=\"#!\/es\/map\/34\"><em>La Ricotta<\/em><\/a>, pel\u00edcula filmada tambi\u00e9n en parte en el barrio de Cecafumo.<\/p>      ",
+  "latLng":[
+    41.855362,
+    12.536807
+  ],
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"28-1",
+      "width":1111,
+      "height":1200,
+      "caption":"Ettore Garofolo, Anna Magnani y Pier Paolo Pasolini durante el rodaje de Mamma Roma",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"28-2",
+      "width":1163,
+      "height":1200,
+      "caption":"Ettore Garofolo y Anna Magnani durante el rodaje de Mamma Roma",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"28-3",
+      "width":870,
+      "height":1144,
+      "caption":"Fragmento del storyboard de Mamma Roma dise\u00f1ado por Pier Paolo Pasolini"
+    },
+    {
+      "type":"video",
+      "id":2385634862001, "vimeo":245388122,
+      "wide":1,
+      "caption":"Fragmento de Mamma Roma (Pier Paolo Pasolini, 1962)",
+      "rights":"\u00a9 Mediaset"
+    }
+  ],
+  "trello":"GfWxXOB3",
+  "lang":"es"
+}

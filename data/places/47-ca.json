@@ -1,0 +1,28 @@
+{
+  "id":47,
+  "name":"Pres\u00f3 de Rebibbia",
+  "address":"Via Bartolo Longo, 78, 00156 Roma",
+  "desc":"      <p>Hi ha dues grans presons a Roma: Regina Coeli, al centre de la ciutat, a tocar del  Trastevere, i Rebibbia, al suburbi de Ponte Mammolo. Aquesta, que oferia la particularitat de ser mixta, era a pocs carrers del pis de la fam\u00edlia Pasolini.<\/p>      <p>Al poema \u00abEl plany de l'excavadora\u00bb, que forma part de <em>Les cendres de Gramsci<\/em>, Pier Paolo Pasolini evoca amb nost\u00e0lgia Ponte Mammolo i Rebibbia. La pres\u00f3 representa per meton\u00edmia el barri popular on viu.<\/p>      <blockquote>Em despullo en una de les mil estances<br \/>on a la via Fonteiana es dorm.<br \/>En tot pots excavar, temps: esperances,<br \/>passions. Per\u00f2 no en aquestes formes<br \/>pures de la vida... Es redueix<br \/>a elles l'home, quan t\u00e9 plena<br \/>l'experi\u00e8ncia i la confian\u00e7a<br \/>en el m\u00f3n... Ah, dies de Rebibbia,<br \/>que jo creia perduts en una llum<br \/>de necessitat, i que ara s\u00e9 tan lliures!<\/blockquote>      <p>Pasolini t\u00e9 la idea de <a href=\"#!\/ca\/map\/61\"><em>Mamma Roma<\/em><\/a> en llegir un article a la premsa sobre la dram\u00e0tica mort de Marcello Elisei, un jove detingut a Rebibbia, en un llit de contenci\u00f3. D'altra banda, el 2012 els germans Taviani van rodar <em>C\u00e9sar debe morir<\/em>, \u00d3s d'Or del Festival de Berl\u00edn 2012, en aquesta mateixa pres\u00f3 de Rebibbia.<\/p>      ",
+  "latLng":[
+    41.93669,
+    " 12.570669"
+  ],
+  "date":1951,
+  "pos":1338,
+  "cat":{
+    "id":2,
+    "name":"Pasolini escriptor"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"47-1",
+      "width":1000,
+      "height":999,
+      "caption":"La pres\u00f3 de Rebibbia",
+      "rights":"\u00a9 Archivio dell'Immagine di Cesena"
+    }
+  ],
+  "trello":"EuZbfoUn",
+  "lang":"ca"
+}

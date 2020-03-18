@@ -1,0 +1,26 @@
+{
+  "id":39,
+  "name":"Studi della RAI",
+  "desc":"      <p>Nell'Italia della fine degli anni sessanta, Pasolini \u00e8 uno dei pi\u00f9 fieri oppositori del mezzo televisivo. Al pari di Marshall McLuhan, il regista vede la televisione come fonte di disinformazione e \u00abdiseducazione\u00bb di un pubblico sempre pi\u00f9 passivo. Il colpo da maestro di Pasolini \u00e8 criticare la televisione dal suo stesso interno. Ospite di Enzo Biagi, noto giornalista del <em>Corriere della Sera<\/em>, Pasolini contesta il giornalista e il sistema mediatico in diretta, durante il programma al quale \u00e8 stato invitato.<\/p>      <p>Pasolini svilupper\u00e0 questa valutazione critica soprattutto nel documentario <em>La Rabbia<\/em>. Un testo fondamentale, in cui la parte in prosa \u00e8 letta dal pittore <a href=\"#!\/it\/map\/57\">Renato Guttuso<\/a> e quella in poesia dal celebre scrittore Giorgio Bassani, caro amico di Pasolini. Due voci non professioniste, un po' \u00absporche\u00bb ma particolarmente espressive.<\/p>      ",
+  "address":"Viale Giuseppe Mazzini, 14, 00195 Roma",
+  "latLng":[
+    41.91764,
+    " 12.467064"
+  ],
+  "pos":8607,
+  "cat":{
+    "id":3,
+    "name":"Politica"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"39-1",
+      "width":856,
+      "height":568,
+      "caption":"Sede della RAI"
+    }
+  ],
+  "trello":"DUcrzwlX",
+  "lang":"it"
+}

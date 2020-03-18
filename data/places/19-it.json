@@ -1,0 +1,42 @@
+{
+  "id":19,
+  "name":"Ponte Testaccio",
+  "desc":"      <p>La realizzazione del primo film di Pier Paolo Pasolini non \u00e8 semplice e veloce come il regista sperava. Inizialmente <em>Accattone<\/em> doveva essere prodotto da Federico Fellini che, dopo il trionfo de <a href=\"#!\/it\/map\/9\"><em>La Dolce vita<\/em><\/a>, aspirava a diventare produttore. Dopo alcune collaborazioni a sceneggiature di successo, la prospettiva di lavorare di nuovo con l'amico affascina Pasolini. Ma il progetto fallisce: dopo aver visto i primi giornalieri, Fellini ritiene che il Pasolini poeta abbia sbagliato a voler diventare regista. La delusione di Pasolini \u00e8 enorme, ma non offusca l'amicizia tra i due. Dopo il rifiuto di Fellini, Pasolini compie il suo primo viaggio in Africa per \u00abcurare l\u00ec la sua ferita narcisistica\u00bb.<\/p>      <p>In seguito Fellini ammetter\u00e0 il suo errore di giudizio e incoragger\u00e0 l'amico facendogli visita sul set. Inoltre lo sosterr\u00e0 con passione nella fase movimentata dell'<a href=\"#!\/it\/map\/60\">uscita del film<\/a>.<\/p>      <p>Alla fine sar\u00e0 Alfredo Bini, un giovane produttore allora praticamente sconosciuto, a rilevare la produzione venendo in aiuto a Pasolini. Le riprese possono continuare pi\u00f9 serenamente.<\/p>      <p>Le scene finali, in cui la vicenda si conclude in tragedia, sono girate a Testaccio. Non \u00e8 un caso: area popolare e utopica voluta da Ernesto Nathan, <a href=\"#!\/it\/map\/15\">ultima dimora di Gramsci<\/a>, quartiere dell'infanzia di Elsa Morante, Testaccio \u00e8 uno dei quartieri pi\u00f9 emblematici della Roma pasoliniana.<\/p>      ",
+  "latLng":[
+    41.875373,
+    " 12.470834"
+  ],
+  "date":1961,
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"19-1",
+      "width":1626,
+      "height":1200,
+      "caption":"Federico Fellini visita il set di Accattone",
+      "rights":"\u00a9 Tazio Secchiaroli \/ David Secchiaroli"
+    },
+    {
+      "type":"img",
+      "id":"19-2",
+      "width":1642,
+      "height":1200,
+      "caption":"Federico Fellini visita il set di Accattone",
+      "rights":"\u00a9 Tazio Secchiaroli \/ David Secchiaroli"
+    },
+    {
+      "type":"video",
+      "id":2380420008001, "vimeo":245388229,
+      "wide":0,
+      "caption":"Da Accattone (Pier Paolo Pasolini, 1961)",
+      "rights":"\u00a9 SNC \/ SND"
+    }
+  ],
+  "trello":"FwUxnWJv",
+  "lang":"it"
+}

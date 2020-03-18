@@ -107,7 +107,10 @@
         //page: "<a href='#!/{{lang}}/index'><img class='title281' src='css/images/title281.png' alt='Pasolini Roma' /></a><div id='pagei'>{{{text}}}</div>",
         place: "<span class='sqrbtn sprite' id='ctrl-pane-close' title='Close'>Close</span>{{#cat}}<span id='ctrl-filter-markers' class='icon{{cat.id}} off'>{{cat.name}}</span>{{/cat}}<h2>{{name}} <span class='date'>{{date}}</span></h2><div id='pane-content'>{{{desc}}}<div>{{#m}}{{#_fn1}}{{/_fn1}}{{/m}}</div></div>",
         placeImg: "<div class='media-container' style='width:{{thumbWidth}}px;'><div class='media' style='height:{{thumbHeight}}px;'><img src='http://static.pasoliniroma.com/images/{{id}}.jpg' alt='{{caption}} {{rights}}' width='{{thumbWidth}}' height='{{thumbHeight}}' data-width='{{width}}' data-height='{{height}}' /></div><div class='caption'>{{caption}}<br />{{rights}}</div></div>",
-        placeVideo: "<div class='media-container' style='width:{{thumbWidth}}px;'><iframe class='media' scroll='no' src='video.php?id={{id}}&amp;width={{thumbWidth}}&amp;height={{thumbHeight}}' style='width:{{thumbWidth}}px; height:{{thumbHeight}}px;' width='{{thumbWidth}}' height='{{thumbHeight}}'></iframe><div class='caption'>{{caption}}<br />{{rights}}</div></div>"
+        placeVideo: "<div class='media-container' style='width:{{thumbWidth}}px;'><iframe class='media' scroll='no' src='https://player.vimeo.com/video/{{id}}' style='width:{{thumbWidth}}px; height:{{thumbHeight}}px;' width='{{thumbWidth}}' height='{{thumbHeight}}' allowfrullscreen  allow='fullscreen'></iframe><div class='caption'>{{caption}}<br />{{rights}}</div></div>"
+        // placeVideo: "<div class='media-container' style='width:{{thumbWidth}}px;'><iframe class='media' scroll='no' src='video.php?id={{id}}&amp;width={{thumbWidth}}&amp;height={{thumbHeight}}' style='width:{{thumbWidth}}px; height:{{thumbHeight}}px;' width='{{thumbWidth}}' height='{{thumbHeight}}'></iframe><div class='caption'>{{caption}}<br />{{rights}}</div></div>"
+
+
     };
     
 

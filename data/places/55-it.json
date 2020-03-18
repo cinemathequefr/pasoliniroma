@@ -1,0 +1,26 @@
+{
+  "id":55,
+  "name":"Via del Monte delle Capre",
+  "desc":"      <blockquote>Sono state scene faticose, molto faticose, camminare nel fango, nella melma, nelle sabbie mobili. Pasolini cerca a volte i luoghi pi\u00f9 impensati, e del resto ha ragione lui perch\u00e9 poi i risultati sono molto belli, non sono comuni.<\/blockquote>      <cite>Tot\u00f2, frase raccolta nell'intervista di Giacomo Gambetti, in <em>Breve vita di Pasolini<\/em> di Nico Naldini.<\/cite>      ",
+  "latLng":[
+    41.845013,
+    12.431436
+  ],
+  "pos":6482,
+  "cat":{
+    "id":6,
+    "name":"Uccellacci e uccellini"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"55-1",
+      "width":1600,
+      "height":1139,
+      "caption":"Tot\u00f2 e Pier Paolo Pasolini sul set di Uccellacci e uccellini",
+      "rights":"\u00a9 Divo Cavicchioli \/ Reporters Associati srl"
+    }
+  ],
+  "trello":"IfDzCwaF",
+  "lang":"it"
+}

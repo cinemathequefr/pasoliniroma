@@ -1,0 +1,57 @@
+{
+  "id":60,
+  "name":"Kino Barberini",
+  "address":" Piazza Barberini",
+  "desc":"      <p>Eine Menschenmenge und Pier Paolo Pasolinis Freunde dr\u00e4ngen sich bei der Preview von <em>Accattone<\/em> (<a href=\"#!\/de\/map\/16\"><em>Accattone \u2013 wer nie sein Brot mit Tr\u00e4nen a\u00df<\/em><\/a>) die zu einem turbulenten Abend wird. Etwa hundert junge Neofaschisten versammeln sich vor dem Kino Barberini und versuchen, die Filmvorf\u00fchrung zu verhindern. Farbbeutel gegen die Leinwand, Buhrufe und Handgemenge \u2013 erst mit einer Stunde Versp\u00e4tung kann die Vorstellung des Filmemachers und seiner Schauspieler beginnen.<\/p>      <p>Sechs Monate sp\u00e4ter wird der Film zum 26. Filmfestival von Venedig eingeladen. Trotz des Kontextes findet die Vorf\u00fchrung ebenfalls in einem angespannten Klima statt.<\/p>      ",
+  "latLng":[
+    41.903714,
+    12.488548
+  ],
+  "date":"1961-11-22",
+  "pos":5074,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"60-1",
+      "width":1600,
+      "height":1067,
+      "caption":"Laura Betti und Pier Paolo Pasolini vor dem Plakat zu Accattone",
+      "rights":"\u00a9 Corbis"
+    },
+    {
+      "type":"img",
+      "id":"60-3",
+      "width":1200,
+      "height":1171,
+      "caption":"Giuseppe Ungaretti, Pier Paolo Pasolini, Franco und Sergio Citti und Alfredo Leggi",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"60-4",
+      "width":1200,
+      "height":1200,
+      "caption":"Franco Citti, Laura Betti, Pier Paolo Pasolini und Elsa de Giorgi"
+    },
+    {
+      "type":"img",
+      "id":"60-2",
+      "width":1200,
+      "height":1195,
+      "caption":"Pier Paolo Pasolini, Federico Fellini und Alfredo Bini",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"video",
+      "id":2381457423001, "vimeo":  245388324,
+      "wide":0,
+      "caption":"Vorspann von Accattone (Pier Paolo Pasolini, 1961)"
+    }
+  ],
+  "lang":"de"
+}

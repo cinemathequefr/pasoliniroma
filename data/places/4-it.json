@@ -1,0 +1,27 @@
+{
+  "id":4,
+  "name":"Scuola media Francesco Petrarca, Ciampino",
+  "desc":"      <blockquote>Finalmente, dunque, avevo trovato un lavoro, che mi veniva pagato venticinquemila lire al mese: io, felice, disperato, ogni mattina affrontavo il lungo viaggio che si concludeva a pomeriggio avanzato, sotto il sole che ormai cominciava a declinare sulle infinite, tremende periferie. Ma pensavo. La mia consolazione era pensare. Pensare era la mia ricchezza e il mio privilegio. Pi\u00f9 della met\u00e0 dei miei versi sono stati pensati, o scritti, in treno.<\/blockquote>      <cite>Pier Paolo Pasolini, <em>Un paese di temporali e di primule<\/em><\/cite>      <p>Nella primavera del 1951, Pasolini trova lavoro nel comune di Ciampino. Paradossalmente, \u00e8 la scuola media privata (la \"Francesco Petrarca\") e non quella pubblica ad assumerlo, grazie all'intercessione di un amico poeta. I mesi passano, Pier Paolo Pasolini avr\u00e0 come allievi alcuni giovani molto dotati, tra i quali ad esempio Vincenzo Cerami, che in seguito sar\u00e0 assistente alla regia in <em><a href=\"#!\/it\/map\/36\">Uccellacci e uccellini<\/a><\/em> e poi sceneggiatore di Roberto Benigni, in particolare per <em>La Vita \u00e8 bella<\/em>.<\/p>      <p>Ogni giorno per andare a scuola Pasolini prende l'autobus e il treno: <a href=\"#!\/it\/map\/3\">Ponte Mammolo<\/a>, Rebibbia, Stazione Termini, Ciampino. E lo stesso al ritorno... Praticamente quasi tre ore sui mezzi pubblici. Questo lungo tragitto \u00e8 ricordato in Le ceneri di Gramsci e in La religione del mio tempo, in cui Pasolini menziona <em>\u00abl'amico finestrino\u00bb<\/em> e rievoca quelle ore di viaggio di cui approfittava per pensare a romanzi e poesie.<\/p>      ",
+  "latLng":[
+    41.799444,
+    " 12.603002"
+  ],
+  "date":1952,
+  "pos":1521,
+  "cat":{
+    "id":2,
+    "name":"Pasolini scrittore"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"4-1",
+      "width":606,
+      "height":900,
+      "caption":"Studenti di Pier Paolo Pasolini a Ciampino",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    }
+  ],
+  "trello":"ggJxMW2L",
+  "lang":"it"
+}

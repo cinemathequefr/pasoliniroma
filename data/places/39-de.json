@@ -1,0 +1,26 @@
+{
+  "id":39,
+  "name":"Die Studios der RAI",
+  "desc":"      <p>Im Italien der sp\u00e4ten 60er Jahre geh\u00f6rt Pasolini zu den vehementesten Gegnern des Mediums Fernsehen. Wie Marshall MacLuhan sah auch der Filmemacher das Fernsehen als Quelle von Desinformation und \u201eBildungsverflachung\u201c f\u00fcr ein zunehmend passiver werdendes Publikum. Pasolini gelang der Coup, das Fernsehen von innen heraus anzugreifen. Als Gast von Enzo Biagi, einem bekannten Journalisten des <em>Corriere della Sera<\/em>, greift er ihn und das Mediensystem in der Sendung, zu der er eingeladen wurde, direkt an.<\/p>      <p>Diesen kritischen Diskurs wird Pasolini vor allem in seinem Dokumentarfilm <em>La rabbia<\/em> (<em>Die Wut<\/em>) entfalten, einem poetischen Grundlagentext, gelesen von dem Maler <a href=\"#!\/de\/map\/57\">Renato Guttuso<\/a> und dem Schriftsteller Giorgio Bassani, beides enge Freunde von Pasolini \u2013 von zwei nicht professionellen, ein wenig \u201eschmutzigen\u201c, aber au\u00dfergew\u00f6hnlich expressiven Stimmen.<\/p>      ",
+  "address":"Viale Giuseppe Mazzini, 14, 00195 Roma",
+  "latLng":[
+    41.91764,
+    " 12.467064"
+  ],
+  "pos":8607,
+  "cat":{
+    "id":3,
+    "name":"Politik"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"39-1",
+      "width":856,
+      "height":568,
+      "caption":"Hauptsitz der RAI"
+    }
+  ],
+  "trello":"DUcrzwlX",
+  "lang":"de"
+}

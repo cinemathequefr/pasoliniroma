@@ -1,0 +1,36 @@
+{
+  "id":9,
+  "name":"Caff\u00e8 Canova",
+  "address":"Piazza del Popolo, 16-17, 00187 Roma",
+  "desc":"      <p>Vicino a <a href=\"#!\/it\/map\/8\">Rosati<\/a>, il caff\u00e8 Canova \u00e8 un altro fulcro della vita intellettuale romana. Seduto ai suoi tavolini all'aperto, Pasolini incontra gli amici scrittori, poeti, registi, sceneggiatori... Sono questi i circoli ai quali Federico Fellini si ispira per <em>La Dolce vita<\/em>. E anche se Pasolini non voleva apparire nei crediti del film, tutti sanno che partecip\u00f2 almeno all'episodio con Anouk Aim\u00e9e e alla scena dell'orgia. Per l'ultima scena, quella con la ragazza, la sceneggiatura di Pasolini in cui Mastroianni dialoga con la ragazza \u00e8 diversa da quella poi filmata da Fellini, in cui i due comunicano solo a gesti, perch\u00e9 sono separati da un braccio di mare.<\/p>      <blockquote>Certo, di questo, rappresenta l'esempio pi\u00f9 pertinente, pi\u00f9 eroico e pi\u00f9 tragico. (...) Io ho avuto un'enorme simpatia per Pasolini. Lessi <em>Ragazzi di vita<\/em>, e fu un innamoramento totale. Lo cercai, e lui arriv\u00f2 da Canova con il suo passetto elastico, intimidito, con gli occhiali neri, e mi fu subito simpatico, lo sentii come una sorta di fratellino, tenero, delicato e monello, sassaiolo, di quelli che fanno a sassate a fiume. Lo invitai a collaborare a <em>Le Notti di Cabiria<\/em>, riferendogli il soggetto. (...) Accett\u00f2 la proposta di collaborazione con entusiasmo, una qualit\u00e0 che me lo rese subito familiare. Era un uomo generoso, immediato.<\/blockquote>      <cite>Federico Fellini<\/cite>      <p>Infatti, prima di cimentarsi con la realizzazione dei propri film, Pasolini ha collaborato alla stesura di numerose sceneggiature tra le quali: <em>La Notte brava<\/em> (film di Mauro Bolognini, in gran parte ispirato a <em>Ragazzi di vita<\/em>), <em>Il Bell'Antonio<\/em> (sempre di Mauro Bolognini), <em>La Donna del fiume<\/em> di Mario Soldati, o ancora per Fellini <em>Le Notti di Cabiria<\/em>, con Ennio Flaiano, altro protagonista delle serate intellettuali romane.<\/p>      ",
+  "latLng":[
+    41.907803,
+    12.479585
+  ],
+  "date":1957,
+  "pos":3377,
+  "cat":{
+    "id":8,
+    "name":"Vita sociale et intellettuale"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"9-1",
+      "width":1600,
+      "height":1128,
+      "caption":"Pier Paolo Pasolini e Federico Fellini sul set di Le Notti di Cabiria",
+      "rights":"\u00a9 Pierluigi Praturlon \/ Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"9-2",
+      "width":1591,
+      "height":1058,
+      "caption":"Marcello Mastroianni, Anouk Aim\u00e9e e Pier Paolo Pasolini sul set di La Dolce vita",
+      "rights":"\u00a9 Reporters Associati srl"
+    }
+  ],
+  "trello":"VSYHrQ2f",
+  "lang":"it"
+}

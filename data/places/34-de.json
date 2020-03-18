@@ -1,0 +1,69 @@
+{
+  "id":34,
+  "name":"Park von Acqua Santa",
+  "desc":"      <p><em>La Ricotta<\/em> (<em>Der Weichk\u00e4se<\/em>) wird an denselben Schaupl\u00e4tzen gedreht wie die zweite H\u00e4lfte von <a href=\"#!\/de\/map\/28\">Mamma Roma<\/a>: in den Vierteln Cecafumo, Cinecitt\u00e0 und haupts\u00e4chlich in der Acqua Santa genannten Gegend, mit ihren antiken Ruinen.<\/p>      <p>Bei diesen Dreharbeiten lernt Pier Paolo Pasolini Ninetto Davoli kennen, einen Jungen aus der \u201eBorgate\u201c. Der Tischlerlehrling wird seine gro\u00dfe Liebe und bringt viel Freude und Fr\u00f6hlichkeit in sein Leben. Ninetto ist von nun an regelm\u00e4\u00dfig bei seinen Reisen und auch bei seinen Filmen dabei, in denen er Rollen des unschuldigen Engels mit lockigem Haar spielt.<\/p>      <p>Der Film l\u00f6st einen gewaltigen Skandal aus. Bei der Premiere von <em>RoGoPaG<\/em> am 1. M\u00e4rz 1963 wird die Vorstellung von einem durch Roms stellvertretenden Oberstaatsanwalt bevollm\u00e4chtigten Carabinieri unterbrochen. Begr\u00fcndung: Die Episode <em>La Ricotta<\/em> (<em>Der Weichk\u00e4se<\/em>) enthalte die Staatsreligion verunglimpfende Szenen, die Passion Christi werde ins L\u00e4cherliche gezogen. Es kommt zu <a href=\"#!\/de\/map\/29\">einem Prozess<\/a> gegen Pasolini, der trotz Unterst\u00fctzung durch vortreffliche Anw\u00e4lte beschlie\u00dft, sich selbst zu verteidigen. In einem politisch h\u00f6chst angespannten Klima und einem Kontext des kulturellen und religi\u00f6sen Wandels sorgt der Prozess gegen Pasolini f\u00fcr Diskussionen, Zeitungsartikel, l\u00e4sst vermehrt Stimmen gegen die Zensur laut werden und forciert Kontroversen, in denen es l\u00e4ngst nicht nur um die Person des Regisseurs geht. Die Zensurkommission des Vatikans hat jedoch den Film nicht verurteilt. Pasolini hat daran festgehalten, sich gegen die Anklage Punkt f\u00fcr Punkt mit einem argumentativen Text selbst zu verteidigen, in dem er erkl\u00e4rt: <em>\u201eDie Passionsgeschichte ist die bedeutendste Geschichte, die ich kenne\u201c<\/em>.<\/p>      ",
+  "latLng":[
+    41.854092,
+    12.532825
+  ],
+  "pos":5388,
+  "cat":{
+    "id":7,
+    "name":"La Ricotta"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"34-1",
+      "width":1600,
+      "height":1093,
+      "caption":"Orson Welles am Set von Der Weichk\u00e4se",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    },
+    {
+      "type":"img",
+      "id":"34-2",
+      "width":1584,
+      "height":1200,
+      "caption":"Elsa Morante, Bernardo Bertolucci und Pier Paolo Pasolini am Set von Der Weichk\u00e4se"
+    },
+    {
+      "type":"img",
+      "id":"34-4",
+      "width":1600,
+      "height":1067,
+      "caption":"Pier Paolo Pasolini und Orson Welles am Set von Der Weichk\u00e4se",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"34-3",
+      "width":812,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini und Mario Cipriani am Set von Der Weichk\u00e4se",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"34-5",
+      "width":824,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini am Set von Der Weichk\u00e4se",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2320237572001, "vimeo":245388137,
+      "wide":1,
+      "caption":"Ausschnitt aus Der Weichk\u00e4se"
+    },
+    {
+      "type":"video",
+      "id":2381452419001, "vimeo":245388311,
+      "wide":0,
+      "caption":"Ausschnitt aus Pasolini, der Zornige (Jean-Andr\u00e9 Fieschi, 1966)",
+      "rights":"\u00a9 INA"
+    }
+  ],
+  "lang":"de"
+}

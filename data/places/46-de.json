@@ -1,0 +1,26 @@
+{
+  "id":46,
+  "name":"Tot\u00f2s Wohnung",
+  "address":"Viale Bruno Buozzi, 64, 00197 Roma",
+  "desc":"      <p>F\u00fcr seinen dritten Spielfilm, <em>Uccellacci e uccellini<\/em> (<em>Gro\u00dfe V\u00f6gel, kleine V\u00f6gel<\/em>) w\u00e4hlt Pier Paolo Pasolini zwei ausgesprochen besondere Charaktere: den legend\u00e4ren Komiker Tot\u00f2 und den Nicht-Schauspieler Ninetto, einen ungebildeten jungen Mann aus Roms Peripherie, den er bei den Drehabreiten zu <em>La Ricotta<\/em> (<a href=\"#!\/de\/map\/34\"><em>Der Weichk\u00e4se<\/em><\/a>) kennengelernt hat und f\u00fcr den dies die erste Filmrolle ist.<\/p>      <p>Die beiden erg\u00e4nzen sich wunderbar, was allerdings nicht unbedingt vorauszusehen war. Tot\u00f2, der sich eine aristokratische Herkunft zugelegt hat, wohnt in Parioli, Roms schickstem und b\u00fcrgerlichsten Stadtteil. Zu einer abendlichen Essenseinladung bei dem Star erscheint Ninetto in Jeans und macht einen ausgesprochen ungepflegten Eindruck... sodass Tot\u00f2 nach dem Essen Ninettos Stuhl mit einem Pestizid reinigen l\u00e4sst! Doch letztlich wird das Verh\u00e4ltnis der drei M\u00e4nner idyllisch. Pasolini, Ninetto und Tot\u00f2 haben sich gefunden, sich gegenseitig angenommen, trotz der Unterschiede ihrer Klassen und Berufe.<\/p>      <p><em>Gro\u00dfe V\u00f6gel, kleine V\u00f6gel<\/em> baut auf einer genialen Eingebung auf: das Reden \u00fcber die Krise der marxistischen Ideologie, der Linken, dem Ende des neorealistischen Films und Rosselinis, eingebettet in eine pikareske Fabel. Pasolinis Geschichte ist \u00fcberaus bitter, dabei aber hellsichtig und warnend. Er hat, fr\u00fcher als die offizielle Linke, die Lage begriffen \u2013 den Tod der Ideologie und des Engagements.<\/p>      ",
+  "latLng":[
+    41.921627,
+    " 12.482041"
+  ],
+  "pos":6481,
+  "cat":{
+    "id":6,
+    "name":"Gro\u00dfe V\u00f6gel, kleine V\u00f6gel"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"46-1",
+      "width":1191,
+      "height":1200,
+      "caption":"Tot\u00f2 und Ninetto Davoli bei Dreharbeiten f\u00fcr Gro\u00dfe V\u00f6gel, kleine V\u00f6gel"
+    }
+  ],
+  "trello":"KLV6Od8I",
+  "lang":"de"
+}

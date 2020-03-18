@@ -1,0 +1,35 @@
+{
+  "id":10,
+  "name":"Bei Laura Betti, Via del Babuino 68",
+  "address":"Via del Babuino, 68, 00187 Roma",
+  "desc":"      <blockquote class=\"de\">Als ich nach Rom kam, um zu singen, war ich auf der Suche nach guten Texten, was Schriftsteller auf mich neugierig machte. Ich verkehrte im Intellektuellenmilieu. Eines Abends kam Alberto Moravia mit Pier Paolo zu mir. Er hat mich gleich interessiert, wie er da so in der Ecke stand und mich durch seine schwarze Brille ansah. Ich ging zu ihm hin, nahm ihm die Brille ab und fragte mit einer Marlene-Dietrich-Stimme: \u201eDu hast doch keine Angst vor mir?\u201c Es hat sofort zwischen uns gefunkt.<\/blockquote>      <cite>Laura Betti in <em>Lib\u00e9ration<\/em>, 2. August 2004<\/cite>      <blockquote class=\"de\">Stell dir vor, mein erstes Bad in einer Badewanne genoss ich bei Laura Betti, als sie noch in der Via del Babuino wohnte. Ich hatte vorher noch nie eine Badewanne gesehen und f\u00fchlte mich irgendwie an einen Sarg erinnert. Ich stieg also rein, f\u00fcllte die Wanne und versank in Schaum \u2013 es war die Zeit von Badedas. Jedenfalls kannte ich da schon Alberto Moravia, Elsa Morante, Sandro Penna, Enzo Siciliano, ich war bereits in diese Welt vorgedrungen.<\/blockquote>      <cite>Ninetto Davoli, in einem Interview mit Gianni Borgna September 2012<\/cite>       <p>Laura Betti, eine Gestalt des r\u00f6mischen Nachtlebens, wird bald die Muse von Pier Paolo Pasolini und lebt sogar eine Zeitlang mit ihm zusammen in ihrer Wohnung in der Via del Babuino. Das Duo definierte damals den Paarbegriff neu, denn Pasolini lebte mit Betti in einer Beziehung, in der sich Freundschaft, Liebe und k\u00fcnstlerische Zusammenarbeit verbanden. Sie machten gemeinsam die Filme <em>Teorema<\/em>, <em>Edipo Re<\/em> und <em>Canterbury Tales<\/em>.<\/p>      <p>In einem Brief an Godard spricht Pasolini einmal von Laura Betti als seiner \u00bbnicht fleischlichen Ehefrau\u00ab.<\/p>      ",
+  "latLng":[
+    41.907787,
+    12.479884
+  ],
+  "pos":4306,
+  "cat":{
+    "id":8,
+    "name":"Soziales und intellektuelles Leben"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"10-1",
+      "width":1260,
+      "height":1200,
+      "caption":"Laura Betti in ihrer ersten Wohnung mit dem Plakat zu Giro a vuoto, 1960",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"10-2",
+      "width":1600,
+      "height":1073,
+      "caption":"Laura Betti in ihrer ersten Wohnung",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    }
+  ],
+  "trello":"Sb6Sfsrq",
+  "lang":"de"
+}

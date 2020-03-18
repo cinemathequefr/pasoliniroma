@@ -1,0 +1,35 @@
+{
+  "id":52,
+  "name":"Campo de' Fiori : les obs\u00e8ques de Pasolini",
+  "desc":"      <p>Le choix de cette place est symbolique&nbsp;: c'est l\u00e0 que le philosophe et physicien Giordano Bruno, accus\u00e9 d'h\u00e9r\u00e9sie par l'Inquisition, fut condamn\u00e9 au b\u00fbcher et ex\u00e9cut\u00e9 en 1600. C'est aussi et surtout une adresse embl\u00e9matique du quotidien de Pasolini. Laura Betti vivait <a href=\"#!\/fr\/map\/11\">via di Montoro<\/a>, une ruelle proche. Et La Carbonara \u00e9tait l'un des restaurants f\u00e9tiches de Pasolini et de ses amis intellectuels.<\/p>      <p>Le jour de l'enterrement, les intellectuels mais aussi le peuple de Rome se d\u00e9placent en masse&nbsp;: les fun\u00e9railles sont grandioses, et attirent aussi bien Moravia, Rosi, Bertolucci, Betti, Morante que le peuple des <em>borgate<\/em> que Pasolini a tant aim\u00e9. Alberto Moravia prend la parole \u2013&nbsp;suivi par Gianni Borgna&nbsp;\u2013 et prononce un discours bouleversant, sans notes.<\/p>      <p><em>\u00ab&nbsp;L'image me poursuit de Pasolini qui fuit en courant quelque chose qui n'a pas de visage et qui est ce qui l'a tu\u00e9, une image symbolique de notre pays, une image qui doit nous pousser \u00e0 am\u00e9liorer notre pays, comme Pasolini lui-m\u00eame l'aurait voulu.&nbsp;\u00bb<\/em><\/p>      <p><em>\u00ab&nbsp;Une soci\u00e9t\u00e9 qui tue ses po\u00e8tes est une soci\u00e9t\u00e9 malade&nbsp;\u00bb<\/em>, ajoute-t-il.<\/p>      <p>La foule r\u00e9pond avec \u00e9motion, passionn\u00e9ment. Les fun\u00e9railles se transforment en manifestation politique, le peuple ayant saisi que l'affaire \u00e9tait infiniment plus complexe que ce que les m\u00e9dias voulaient bien leur en dire.<\/p>      <p>Pasolini est d\u00e9sormais enterr\u00e9 \u00e0 c\u00f4t\u00e9 de sa m\u00e8re, dans deux tombes jumelles, dans le petit cimeti\u00e8re de Casarsa della Delizia, le village maternel du Frioul. Le p\u00e8re et le fr\u00e8re sont enterr\u00e9s dans un autre carr\u00e9 du m\u00eame cimeti\u00e8re.<\/p>      ",
+  "address":{
+    
+  },
+  "latLng":[
+    41.895502,
+    " 12.472004"
+  ],
+  "pos":10166,
+  "date":"1975-11-05",
+  "cat":{
+    "id":9,
+    "name":"La derni\u00e8re journ\u00e9e"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"52-1",
+      "width":1600,
+      "height":980,
+      "caption":"Piazza Campo de' Fiori",
+      "rights":"\u00a9 Agenzia Fotogramma"
+    },
+    {
+      "type":"video",
+      "id":2384281328001, "vimeo":245388106,
+      "wide":0
+    }
+  ],
+  "trello":"PJk8yZRF",
+  "lang":"fr"
+}

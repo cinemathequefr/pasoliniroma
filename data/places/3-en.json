@@ -1,0 +1,42 @@
+{
+  "id":3,
+  "name":"Ponte Mammolo",
+  "address":"Via Giovanni Tagliere, 3, 00156 Roma",
+  "desc":"      <p>In the summer of 1950, Pasolini was unemployed, which prompted him to move in with his mother in Ponte Mammolo, a quarter on the periphery located a few cable's lengths from the Rebibbia prison. His father would soon join them in this little flat of two rooms separated by a small kitchen.<\/p>      <p>For the future poet, it was the discovery of the <em>borgate<\/em>, those inner suburbs that looked like slums, born of the Fascist desire to banish the underclass from the city centre. Areas of exclusion and social segregation, these territories, made up of precarious hovels and harbouring a shady world of desperate vitalism, were undergoing massive changes.<\/p>      <blockquote>We lived in a house without a roof or roughcast,<br \/>a paupers' house, in the outer suburbs, near a prison.<br \/>There was a foot of dust in the summer; in the winter, it was a swamp.<br \/>But it was Italy, naked, teeming Italy,<br \/>with its boys, its women,<br \/>its 'odours of jasmine and poor soups',<br \/>sunsets over the fields of the Aniene, the rubbish heaps,<br \/>and, for my part,<br \/>my honest dreams of poetry.<\/blockquote>      <cite>Excerpt from \"Poeta delle ceneri\" (1966-67)<\/cite>      ",
+  "latLng":[
+    41.932308,
+    12.567709
+  ],
+  "date":1951,
+  "pos":1276,
+  "cat":{
+    "id":1,
+    "name":"Houses"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"3-1",
+      "width":783,
+      "height":729,
+      "caption":"The Ponte Mammolo flat, via Giovanni Tagliere, 3",
+      "rights":"\u00a9 Romano Siciliani \/ Imago Mundi"
+    },
+    {
+      "type":"video",
+      "id":2325854985001, "vimeo":245388157,
+      "wide":0,
+      "caption":"Excerpt from Pasolini l'enrag\u00e9 (Jean-Andr\u00e9 Fieschi, 1966)",
+      "rights":"\u00a9 INA"
+    },
+    {
+      "type":"video",
+      "id":2380419928001,
+      "wide":0,
+      "caption":"Excerpt from Vivre et encore plus (Michel Random, 1976)",
+      "rights":"\u00a9 INA"
+    }
+  ],
+  "trello":"AQhC7GQy",
+  "lang":"en"
+}

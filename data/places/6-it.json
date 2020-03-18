@@ -1,0 +1,59 @@
+{
+  "id":6,
+  "name":"Monteverde Nuovo, via Fonteiana, 86",
+  "address":"Via Fonteiana, 86, 00152 Roma",
+  "desc":"      <p>Nel 1951 Pasolini si guadagna da vivere come pu\u00f2, collaborando alla stesura di sceneggiature e scrivendo articoli per varie riviste. Gli scritti si accumulano fino a formare gradualmente il suo primo romanzo, <em>Ragazzi di vita<\/em>, il romanzo della Roma del dopoguerra. Per documentarsi sulla giovent\u00f9 proletaria della capitale e avvalorare i propri scritti, Pasolini amplia il raggio d'azione delle sue peregrinazioni in periferia: Trastevere ovviamente, ma anche Monteverde Nuovo, anche detto <em>\u00abzona di Donna Olimpia\u00bb<\/em>.<\/p>      <p>Il legame d'amicizia tra Pasolini e i piccoli delinquenti della zona si rafforza al punto che nel marzo 1954 il poeta decide di trasferirsi a Monteverde Nuovo, in via Fonteiana 86. \u00c8 qui che fa amicizia con i fratelli Franco e Sergio Citti, due giovani imbianchini che insegnano al poeta la lingua, gli usi e i costumi della periferia romana. Sar\u00e0 un incontro che cambier\u00e0 radicalmente la vita dei due uomini: Sergio diventer\u00e0 sceneggiatore e poi regista, mentre Franco un paio di anni dopo avr\u00e0 il ruolo di Accattone nel <a href=\"#!\/it\/map\/16\">film omonimo<\/a>.<\/p>      <blockquote>Io non credo che ci sia stato o ci sia un solo Dio. Se dovessi amare, a questo punto amerei Pasolini.<\/blockquote>      <cite>Franco Citti, <em>Vita di un ragazzo di vita<\/em><\/cite>      ",
+  "latLng":[
+    41.880894,
+    12.454447
+  ],
+  "date":1954,
+  "pos":2251,
+  "cat":{
+    "id":1,
+    "name":"Case, traslochi"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"6-1",
+      "width":1219,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini nel suo appartamento di Monteverde Nuovo, via Fonteiana, 86",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"6-2",
+      "width":1222,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini nel suo appartamento di Monteverde Nuovo, via Fonteiana, 86",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"6-3",
+      "width":1216,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini nel suo appartamento di Monteverde Nuovo, via Fonteiana, 86. Ha in mano una copia di Ragazzi di vita",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"6-4",
+      "width":480,
+      "height":721,
+      "caption":"Copertina originale della prima edizione di Ragazzi di vita, con i disegni di Pier Paolo Pasolini",
+      "rights":"\u00a9 Gabinetto Vieusseux"
+    },
+    {
+      "type":"img",
+      "id":"6-5",
+      "width":783,
+      "height":1200,
+      "caption":"Pagina del manoscritto di Ragazzi di vita"
+    }
+  ],
+  "trello":"POFXGDUh",
+  "lang":"it"
+}

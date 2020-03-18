@@ -1,0 +1,25 @@
+{
+  "id":53,
+  "name":"Flohmarkt von Porta Portese",
+  "desc":"      <p>Der Flohmarkt in <em>Mamma Roma<\/em>, ein Symbol des Elend und der Findigkeit der \u201eBorgate\u201c, dient auch als Schauplatz f\u00fcr das 5. Kapitel von Pasolinis <em>Ragazzi di Vita<\/em>.<\/p>      <p>Im Film verkauft Ettore in einer Bude an der Porta Portese die Schallplatten seiner Mutter, sogar die, nach denen sie ihm das Tanzen beigebracht hat. Im Roman landet Ricetto nach einem winzigen Diebstahl im selben Viertel im Gef\u00e4ngnis f\u00fcr Minderj\u00e4hrige.<\/p>      ",
+  "latLng":[
+    41.883728,
+    " 12.473832"
+  ],
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "m":[
+    {
+      "type":"video",
+      "id":2381452413001, "vimeo":245388302,
+      "wide":1,
+      "caption":"Ausschnitt aus Mamma Roma (Pier Paolo Pasolini, 1962)",
+      "rights":"\u00a9 Mediaset"
+    }
+  ],
+  "trello":"LpYBN96a",
+  "lang":"de"
+}

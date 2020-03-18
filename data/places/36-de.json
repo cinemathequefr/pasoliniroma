@@ -1,0 +1,31 @@
+{
+  "id":36,
+  "name":"Fiumicino",
+  "desc":"      <p><em>Uccellacci e Uccellini<\/em> (<em>Gro\u00dfe V\u00f6gel, kleine V\u00f6gel<\/em>) ist kein Film \u00fcber Roms Stadtviertel, wie es <em>Accattone<\/em> (<a href=\"#!\/de\/map\/16\"><em>Accattone - Wer nie sein Brot mit Tr\u00e4nen a\u00df<\/em><\/a>) oder <a href=\"#!\/de\/map\/61\"><em>Mamma Roma<\/em><\/a> sein m\u00f6gen. Der dritte Film Pasolinis entwirft eher Fluchtlinien. Die beiden Helden, gespielt von Tot\u00f2 und Ninetto, entfernen sich immer mehr vom Zentrum, um die sich im Umbruch befindende r\u00f6mische Peripherie der 60er Jahre zu durchstreifen: die Elendsviertel, in denen armselige Betongeb\u00e4ude entstehen, die gro\u00dfe Baustelle des Autobahnrings (der \u201eraccordo anulare\u201c), Reste des Landes und Bauernh\u00f6fe, die bald verschwinden sollen.<\/p>      <p>Damit zeigt der Filmemacher ein sich nicht nur ideologisch, politisch und geistig, sondern auch physisch rasant ver\u00e4nderndes Rom. Eine Hauptstadt, die dabei ist, die l\u00e4ndlichen Gebiete und den Rest Italiens zu \u201ekolonisieren\u201c. Indem er den Stadtring und die Autobahn nach Fiumicino (dem Flughafen, der f\u00fcr die Olympischen Spiele von 1960 gebaut wurde) filmt, beschreibt Pasolini sein Rom als eine Stadt, deren zuk\u00fcnftigen Entwicklung er nun wird entfliehen m\u00fcssen, um eine Alternative zu suchen, so weit weg wie m\u00f6glich: in Kuba, Istanbul, Afrika, Asien...<\/p>      ",
+  "latLng":[
+    41.764141,
+    12.238770
+  ],
+  "pos":6482,
+  "cat":{
+    "id":6,
+    "name":"Gro\u00dfe V\u00f6gel, kleine V\u00f6gel"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"36-1",
+      "width":1600,
+      "height":1155,
+      "caption":"Tot\u00f2, Ninetto Davoli und Pier Paolo Pasolini am Set von Gro\u00dfe V\u00f6gel, kleine V\u00f6gel",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2381579825001, "vimeo":245388089,
+      "wide":1,
+      "caption":"Ausschnitt aus Gro\u00dfe V\u00f6gel, kleine V\u00f6gel (Pier Paolo Pasolini, 1966)"
+    }
+  ],
+  "lang":"de"
+}

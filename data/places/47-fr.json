@@ -1,0 +1,28 @@
+{
+  "id":47,
+  "name":"Prison de Rebibbia",
+  "address":"Via Bartolo Longo, 78, 00156 Roma",
+  "desc":"      <p>\u00c0 Rome, il existe deux prisons principales&nbsp;: Regina Coeli, dans le centre-ville, pr\u00e8s du Trastevere, et Rebibbia, dans la banlieue de Ponte Mammolo. Cette prison, qui avait la particularit\u00e9 d'\u00eatre mixte, se trouvait \u00e0 quelques rues de <a href=\"#!\/fr\/map\/3\">l'appartement familial des Pasolini<\/a>.<\/p>      <p>Dans le po\u00e8me \u00ab La complainte de l'excavatrice \u00bb, que l'on trouve dans <em>Les Cendres de Gramsci<\/em>, Pier Paolo Pasolini \u00e9voque avec nostalgie Ponte Mammolo et Rebibbia, la prison figurant par m\u00e9tonymie le quartier prol\u00e9taire qu'il habite.<\/p>      <blockquote>Je me d\u00e9shabille, dans une des mille chambres<br \/>o\u00f9 l'on dort, via Fonteiana.<br \/>Tu peux tout \u00e9roder, temps&nbsp;: espoirs,<br \/>passions. Mais pas ces formes<br \/>pures de la vie... C'est avec elles<br \/>que se confond l'homme, venu \u00e0 bout<br \/>d'exp\u00e9rience et de confiance<br \/>en ce monde... Ah, journ\u00e9es de Rebibbia,<br \/>que je croyais perdues dans la lumi\u00e8re<br \/>de la n\u00e9cessit\u00e9, et que je d\u00e9couvre si libres&nbsp;!<\/blockquote>      <p>Pasolini aura l'id\u00e9e de <a href=\"#!\/fr\/map\/61\"><em>Mamma Roma<\/em><\/a> en lisant un article de presse sur la mort dramatique de Marcello Elisei, jeune d\u00e9tenu de Rebibbia, d\u00e9c\u00e9d\u00e9 sur un lit de contention. Et en 2011, les fr\u00e8res Taviani ont tourn\u00e9 <em>C\u00e9sar doit mourir<\/em>, Ours d'or du festival de Berlin 2012, dans cette prison de Rebibbia.<\/p>      ",
+  "latLng":[
+    41.93669,
+    " 12.570669"
+  ],
+  "date":1951,
+  "pos":1338,
+  "cat":{
+    "id":2,
+    "name":"Pasolini \u00e9crivain"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"47-1",
+      "width":1000,
+      "height":999,
+      "caption":"La prison de Rebibbia",
+      "rights":"\u00a9 Archivio dell'Immagine di Cesena"
+    }
+  ],
+  "trello":"EuZbfoUn",
+  "lang":"fr"
+}

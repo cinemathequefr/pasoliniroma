@@ -1,0 +1,28 @@
+{
+  "id":47,
+  "name":"C\u00e1rcel de Rebibbia",
+  "address":"Via Bartolo Longo, 78, 00156 Roma",
+  "desc":"      <p>Hay dos grandes c\u00e1rceles en Roma: Regina Coeli, en el centro de la ciudad, cerca del Trastevere, y Rebibbia, en el suburbio de Ponte Mammolo. Esta \u00faltima, que ofrec\u00eda la particularidad de ser mixta, estaba a pocas calles del piso de la familia Pasolini.<\/p>      <p>En el poema El llanto de la excavadora, que forma parte de <em>La cenizas de Gramsci<\/em>, Pier Paolo Pasolini evoca con nostalgia Ponte Mammolo y Rebibbia. La c\u00e1rcel representa por metonimia el barrio popular donde vive.<\/p>      <blockquote>Me desnudo en uno de los mil cuartos<br \/>donde se duerme en via Fonteiana. <br \/>Tiempo, t\u00fa puedes excavarlo todo:<br \/>esperanzas, pasiones. Pero no estas formas<br \/>puras de la vida... A ellas<br \/>el hombre se reduce cuando se hallan<br \/>colmas experiencia y confianza<br \/>en el mundo... \u00a1Ah d\u00edas de Rebibbia<br \/>que yo cre\u00eda perdidos en una luz<br \/>de necesidad y que ahora s\u00e9 tan libres!<\/blockquote>      <p>A Pasolini se le ocurrir\u00e1 la idea de <a href=\"#!\/es\/map\/61\"><em>Mamma Roma<\/em><\/a> al leer un art\u00edculo en la prensa sobre la dram\u00e1tica muerte de Marcello Elisei, un joven detenido en Rebibbia, fallecido en una cama de contenci\u00f3n. Por otro lado, en 2012, los hermanos Taviani rodaron <em>C\u00e9sar debe morir<\/em>, Oso de Oro del Festival de Berl\u00edn 2012, en esta misma prisi\u00f3n de Rebibbia.<\/p>      ",
+  "latLng":[
+    41.93669,
+    " 12.570669"
+  ],
+  "date":1951,
+  "pos":1338,
+  "cat":{
+    "id":2,
+    "name":"Pasolini escritor"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"47-1",
+      "width":1000,
+      "height":999,
+      "caption":"La c\u00e1rcel de Rebibbia",
+      "rights":"\u00a9 Archivio dell'Immagine di Cesena"
+    }
+  ],
+  "trello":"EuZbfoUn",
+  "lang":"es"
+}

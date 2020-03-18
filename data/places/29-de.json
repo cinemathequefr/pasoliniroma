@@ -1,0 +1,67 @@
+{
+  "id":29,
+  "name":"Justizpalast, Piazza Cavour",
+  "desc":"      <blockquote class=\"de\">Die Anklage lautete Verunglimpfung der Religion. Es w\u00e4re weitaus richtiger gewesen, den Regisseur wegen Beleidigung der Werte des italienischen kleinen und mittleren B\u00fcrgertums anzuklagen.<\/blockquote>      <cite>Alberto Moravia<\/cite>      <p>Der aufgrund des Films <em>La Ricotta<\/em> (<a href=\"#!\/de\/map\/34\"><em>Der Weichk\u00e4se<\/em><\/a>) gegen Pasolini angestrengte Prozess nimmt bald eine mehr als absurde Form an: Um seinen Strafantrag zu untermauern, l\u00e4sst der Staatsanwalt einen Schneidetisch in den Gerichtssaal bringen, um die beanstandeten Filmsequenzen, Gegenstand des Strafbestands, zu analysieren. Zun\u00e4chst erreicht das Gericht eine Beschlagnahmung des Films, dann muss der von Pasolini realisierte Teil aus <em>RoGoPaG<\/em> \u2013&nbsp;ein Film aus vier Episoden, dessen Titel aus den abgek\u00fcrzten Namen seiner Regisseure Rossellini, Godard, Pasolini und Gregoretti besteht&nbsp;\u2013 entfernt werden, womit das Werk um eine halbe Stunde gek\u00fcrzt wird und seine tragende Episode verliert. Des Weiteren wird Pasolini am 7. M\u00e4rz 1963 in erster Instanz zu vier Monaten Gef\u00e4ngnis auf Bew\u00e4hrung verurteilt. Doch der Regisseur erwirkt eine Aufhebung des Urteils und wird am 6. Mai 1964 von einem zweiten Gericht freigesprochen. Der Prozess um <em>Der Weichk\u00e4se<\/em> wird sich noch sechs Jahre hinziehen, \u00fcber mehrere Instanzen und aus verschiedenen Gr\u00fcnden. Er endet am 23. Februar 1968 mit einem Freispruch Pasolinis, der sogar Schadensersatz erh\u00e4lt.<\/p>      <p>Dieser Prozess ist f\u00fcr Pasolini ein so einschneidendes Erlebnis, dass er beschlie\u00dft, <em>Il Vangelo secondo Matteo<\/em> (<em>Das 1. Evangelium \u2013 Matth\u00e4us<\/em>) zu drehen. Er will beweisen, dass auch er als Atheist die Religion als Weltanschauung des Volkes achtet. Denn tats\u00e4chlich kommt die Religion in Italien, zumal in Gegenden wie dem Friaul oder in den einfachen Vierteln Roms, einer praktischen Lebensphilosophie gleich. F\u00fcr diesen Film \u00e4ndert er sogar radikal seinen Stil, denn er meint, man k\u00f6nne <em>Das 1. Evangelium<\/em> nicht in der gleichen Art und Weise inszenieren wie das Rom von <em>Accattone<\/em> (<a href=\"#!\/de\/map\/16\"><em>Accattone \u2013 wer nie sein Brot mit Tr\u00e4nen a\u00df<\/em><\/a>). Wenn in <em>Accattone<\/em> die \u00e4sthetische Vorstellung der Welt von frontalen, mittelalterlich anmutenden Bildern lebt, so findet man in <em>Das 1. Evangelium<\/em> dynamischere, freiere Kamerabewegungen, wie es sie in seinen ersten Filmen nicht gibt.<\/p>      ",
+  "latLng":[
+    41.905743,
+    12.469485
+  ],
+  "date":"4 octobre 1962",
+  "pos":5389,
+  "cat":{
+    "id":3,
+    "name":"Politik"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"29-1",
+      "width":1101,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini auf dem Weg in den Justizpalast von Rom anl\u00e4sslich des Prozesses um Der Weichk\u00e4se",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"29-2",
+      "width":1600,
+      "height":1085,
+      "caption":"Pier Paolo Pasolini bei einer Gerichtsverhandlung im Prozess um Der Weichk\u00e4se",
+      "rights":"\u00a9 Carlo Riccardi \/ Archivio Riccardi"
+    },
+    {
+      "type":"img",
+      "id":"29-3",
+      "width":1600,
+      "height":1193,
+      "caption":"Pier Paolo Pasolini mit unter anderem Alberto Moravia beim Prozess um Der Weichk\u00e4se",
+      "rights":"\u00a9 DUfoto \/ Foto Scala \/ Cineteca di Bologna"
+    },
+    {
+      "type":"img",
+      "id":"29-4",
+      "width":1600,
+      "height":1159,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"29-5",
+      "width":1587,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"29-6",
+      "width":1600,
+      "height":1059,
+      "caption":"Pier Paolo Pasolini",
+      "rights":"\u00a9 Archivi Farabola"
+    }
+  ],
+  "trello":"L0lrIAiD",
+  "lang":"de"
+}

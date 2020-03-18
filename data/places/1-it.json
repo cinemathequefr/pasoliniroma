@@ -1,0 +1,28 @@
+{
+  "id":1,
+  "name":"Piazza Mattei",
+  "address":"Piazza Mattei, 00186 Roma",
+  "desc":"      <p>A pochi isolati dal suo primo appartamento si trova piazza Mattei con la celebre fontana delle Tartarughe. Pasolini l'amava molto e la descriver\u00e0 in <em>Al\u00ec dagli occhi azzurri<\/em>, una raccolta di scritti pubblicata nel 1965 in cui racconta le notti romane ed evoca in particolare la piazza delle Tartarughe e i suoi giovani: <em>\u00ablucidi, follemente lucidi, sono l'unica cosa che sfugge alla presa del vento: penetrano la notte con la loro nudit\u00e0. I ragazzi deposti dalla domenica come una schiuma per le strade nuove, non si avvicinano di un millimetro alla compattezza sacra, pura e seducente di quel nudo.\u00bb<\/em><\/p>      <p>Questi giovani efebici con la loro nudit\u00e0 pudica fanno senza dubbio riferimento alla singolarit\u00e0 del suo immaginario erotico.<\/p>      <p>Pasolini evoca questo periodo anche nella prefazione a una raccolta di poesie del 1970: <em>\u00abA Roma dapprima vissi a piazza Costaguti, vicino al Portico d'Ottavia (il ghetto!), poi andati nel ghetto delle borgate, vicino alla prigione di Rebibbia, in una casa restata definitivamente senza tetto (tredicimila lire al mese di affitto). Per due anni fui un disoccupato disperato, di quelli che finiscono suicidi; poi trovai da insegnare in una scuola privata a <a href=\"#!\/it\/map\/4\">Ciampino<\/a> per ventisettemila lire al mese.\u00bb<\/em><\/p>      ",
+  "latLng":[
+    41.893887,
+    12.477525
+  ],
+  "date":1950,
+  "pos":763,
+  "cat":{
+    "id":2,
+    "name":"Pasolini scrittore"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"1-1",
+      "width":1600,
+      "height":1199,
+      "caption":"Piazza Mattei con la fontana delle Tartarughe",
+      "rights":"\u00a9 Archivio Storico Capitolino \u2013 Biblioteca Romana"
+    }
+  ],
+  "trello":"VMcQZ3f7",
+  "lang":"it"
+}

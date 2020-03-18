@@ -1,0 +1,36 @@
+{
+  "id":9,
+  "name":"Caf\u00e9 Canova",
+  "address":"Piazza del Popolo, 16-17, 00187 Roma",
+  "desc":"      <p>Unweit des <a href=\"#!\/de\/map\/8\">Caf\u00e9 Rosati<\/a> befindet sich das Caf\u00e9 Canova, ein weiteres Zentrum des r\u00f6mischen intellektuellen Lebens. Auf der Terrasse kommt Pasolini mit seinen Freunden zusammen - mit Schriftstellern, Dichtern, Regisseuren, Drehbuchautoren... Es sind vor allem diese Kreise, die Federico Fellini zu seinem Film <em>La Dolce vita<\/em> (<em>Das s\u00fc\u00dfe Leben<\/em>) inspirieren. Und auch wenn Pasolini nicht im Abspann des Films erscheinen wollte, so ist doch allgemein bekannt, dass ihm zumindest die Episode mit Anouk Aim\u00e9e und die Szene der Orgie zuzuschreiben sind . Bei der Schlussszene mit dem M\u00e4dchen gibt es einen Unterschied zwischen dem Drehbuch, wie Pasolini es geschrieben hat \u2013 hier spricht Mastroianni mit ihr \u2013 und der Version, wie Fellini sie inszeniert hat: Sie verst\u00e4ndigen sich nur durch Gesten, weil sie durch eine Meereszunge voneinander getrennt sind.<\/p>      <blockquote class=\"de\">Nachdem ich <em>Ragazzi di vita<\/em> gelesen hatte, rief ich Pasolini an, um ihm meine Begeisterung zu bekunden. Er war sehr sympathisch, sprach schmeichelhaft \u00fcber <em>Vitelloni<\/em> (<em>Die M\u00fc\u00dfigg\u00e4nger<\/em>) und <em>La Strada<\/em> (<em>Das Lied der Stra\u00dfe<\/em>). Sp\u00e4ter, als dann das Drehbuch f\u00fcr <em>Le Notti di Cabiria<\/em> (<em>Die N\u00e4chte der Cabiria<\/em>) fertig war, entschloss ich mich, es ihm zu lesen zu geben, um mir bei ihm in sprachlichen Dingen Rat zu holen, was gewisse Slang-Ausdrucksweisen anging. Wir waren in der Bar Canova an der Piazza del Popolo verabredet. Ich sah ihn kommen, und er wirkte auf Anhieb sympathisch, mit seinem kleinen staubigen Gesicht eines jungen Maurers, einem kleinen Proletariergesicht, dem Gesicht eines Bantamgewichts, eines Boxers aus der Vorstadt. Er nahm meinen Vorschlag zur Zusammenarbeit begeistert auf, was ihn mir sofort vertraut machte. Er war ein gro\u00dfherziger, direkter Mensch.<\/blockquote>      <cite>Federico Fellini<\/cite>      <p>Tats\u00e4chlich arbeitete Pasolini an zahlreichen Drehb\u00fcchern mit, bevor er sich an eigene Filme wagte. Darunter an den Drehb\u00fcchern zu <em>La Notte Brava<\/em> (<em>Wir von der Stra\u00dfe<\/em>) (ein Film von Mauro Bolognini, weitgehend inspiriert von <em>Raggazzi di vita<\/em>), zu <em>Il bell\u2019Antonio<\/em> (<em>Bel Antonio<\/em>) (ebenfalls von Mauro Bolognini), zu <em>La Donna del fiume<\/em> (<em>Die Frau vom Fluss<\/em>) von Mario Soldati oder \u2013 wiederum f\u00fcr Fellini \u2013 zu <em>Die N\u00e4chte der Cabiria<\/em>, das er gemeinsam mit Ennio Flaiano schrieb, einer Pers\u00f6nlichkeit des intellektuellen r\u00f6mischen Nachtlebens.<\/p>      ",
+  "latLng":[
+    41.907803,
+    12.479585
+  ],
+  "date":1957,
+  "pos":3377,
+  "cat":{
+    "id":8,
+    "name":"Soziales und intellektuelles Leben"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"9-1",
+      "width":1600,
+      "height":1128,
+      "caption":"Pier Paolo Pasolini und Federico Fellini bei Dreharbeiten zu Die N\u00e4chte der Cabiria",
+      "rights":"\u00a9 Pierluigi Praturlon \/ Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"9-2",
+      "width":1591,
+      "height":1058,
+      "caption":"Marcello Mastroianni, Anouk Aim\u00e9e und Pier Paolo Pasolini bei Dreharbeiten zu Das s\u00fc\u00dfe Leben",
+      "rights":"\u00a9 Reporters Associati srl"
+    }
+  ],
+  "trello":"VSYHrQ2f",
+  "lang":"de"
+}

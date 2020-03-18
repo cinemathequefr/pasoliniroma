@@ -1,0 +1,27 @@
+{
+  "id":11,
+  "name":"Bei Laura Betti, Via di Montoro 8",
+  "address":"Via di Montoro, 8, 00186 Roma",
+  "pos":9078,
+  "desc":"      <p>Laura Betti zieht sp\u00e4ter in die Via di Montoro 8. Auf dem <a href=\"#!\/de\/map\/52\">Campo de' Fiori<\/a>, wenige Stra\u00dfen von dieser zweiten Wohnung entfernt, wird die Trauerfeier von Pier Paolo Pasolini stattfinden.<\/p>      <p>Das Haus in der Via di Montoro mit der sch\u00f6nen Terrasse, dem Aufzug, der direkt ins Wohnzimmer f\u00fchrt, war der letzte \u201eSalon\u201c des intellektuellen r\u00f6mischen Lebens. Niemand h\u00e4tte es gewagt, eine Einladung \u201eder Betti\u201c zum Spaghettiessen, wobei sie selbst f\u00fcr ihre G\u00e4ste kochte, auszuschlagen. Alle Leute vom Film, alle Schriftsteller, alle Intellektuellen, die gerade in Rom waren, nahmen an diesen zwanglosen Abenden teil.<\/p>      <p>Nach dem Tod ihres Freundes k\u00fcmmerte sich Laura Betti als Direktorin der Stiftung Fondo Pier Paolo Pasolini um dessen Nachlass, bis sie selbst 2004 starb.<\/p>      ",
+  "latLng":[
+    41.896221,
+    12.469907
+  ],
+  "cat":{
+    "id":8,
+    "name":"Soziales und intellektuelles Leben"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"11-1",
+      "width":1570,
+      "height":1048,
+      "caption":"Laura Betti in ihrer zweiten Wohnung, Via di Montoro",
+      "rights":"\u00a9 Gabinetto Vieusseux"
+    }
+  ],
+  "trello":"dkewYSAJ",
+  "lang":"de"
+}

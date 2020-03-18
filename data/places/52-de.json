@@ -1,0 +1,35 @@
+{
+  "id":52,
+  "name":"Campo de' Fiori: Die Trauerfeier f\u00fcr Pasolini",
+  "address":{
+    
+  },
+  "desc":"      <p>Die Wahl diese Platzes hat symbolische Bedeutung: hier wurde im Jahr 1600 der von der Inquisition wegen Ketzerei verurteilte Philosoph und Physiker Giordano Bruno auf dem Scheiterhaufen hingerichtet. Aber er ist au\u00dferdem und vor allem ein wichtiger Ort im t\u00e4glichen Leben Pasolinis. Ganz in der N\u00e4he, in der <a href=\"#!\/de\/map\/11\">Via di Montoro<\/a>, wohnte Laura Betti. Und das Carbonara war eines der Lieblingslokale von Pasolini und seinen intellektuellen Freunden.<\/p>      <p>Am Tag der Trauerfeier str\u00f6men die Intellektuellen, aber auch viele Menschen aus dem Volk in Massen auf den Platz: Es wird eine ergreifende Zeremonie. Neben Moravia, Rosi, Bertolucci, Betti und Morante nimmt auch das von Pasolini so geliebte Volk aus den \u201eBorgate\u201c daran teil. Alberto Moravia beginnt zu sprechen \u2013 gefolgt von Gianni Borgna \u2013 und h\u00e4lt eine ersch\u00fctternde Rede aus dem Stegreif.<\/p>      <p><em>\u00bbDas Bild von Pasolini, das mich heimsucht, zu Fu\u00df auf der Flucht vor einem Wesen, das gesichts- los ist und ihn get\u00f6tet hat, ist das emblematische Bild dieses Landes. Es ist ein Bild, das uns dazu bringen muss, dieses Land zu verbessern, so wie Pasolini es gewollt h\u00e4tte.\u00ab<\/em><\/p>      <p><em>\u00bbEine Gesellschaft, die ihre Dichter t\u00f6tet, ist eine kranke Gesellschaft\u00ab<\/em>, f\u00fcgt er hinzu.<\/p>      <p>Die Menge reagiert nicht nur ergriffen, sondern auch leidenschaftlich. Die Trauerfeier verwandelt sich in eine politische Demonstration, denn das Volk hat begriffen, dass die Sache sehr viel komplexer war, als sie von den Medien dargestellt wurde.<\/p>      <p>Pasolini liegt neben seiner Mutter in einem Doppelgrab auf dem kleinen Friedhof von Casarsa della Delizia, dem Dorf seiner Mutter im Friaul. Der Vater und der Bruder sind auf einem anderen Teil des Friedhofs beerdigt.<\/p>      ",
+  "latLng":[
+    41.895502,
+    " 12.472004"
+  ],
+  "pos":10166,
+  "date":"1975-11-05",
+  "cat":{
+    "id":9,
+    "name":"Der letzte Tag"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"52-1",
+      "width":1600,
+      "height":980,
+      "caption":"Piazza Campo de' Fiori",
+      "rights":"\u00a9 Agenzia Fotogramma"
+    },
+    {
+      "type":"video",
+      "id":2384281328001, "vimeo":245388106,
+      "wide":0
+    }
+  ],
+  "trello":"PJk8yZRF",
+  "lang":"de"
+}

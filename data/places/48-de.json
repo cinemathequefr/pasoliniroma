@@ -1,0 +1,34 @@
+{
+  "id":48,
+  "name":"Bei Alberto Moravia und Elsa Morante, Via dell'Oca, 27",
+  "address":"Via dell'Oca, 27, 00186 Roma",
+  "desc":"      <p>Hier wohnte das Schriftstellerpaar Elsa Morante und Alberto Moravia, die Pier Paolo Pasolini 1955 kennenlernt und mit denen er sich eng befreundet. Diese beiden Protagonisten des intellektuellen Lebens Italiens machten ihre Wohnung, in der sie bis zu ihrer Trennung 1962 leben, zu einem Zentrum der Kulturszene Roms. Hier entsteht zwischen ihnen eine durch nichts zu ersch\u00fctternde geistige Verbundenheit, bestehend aus dem Wetteifern um Ideologien, Diskussionen \u00fcber den Zustand der italienischen Gesellschaft und der Neugier auf die Welt. So reisen sie zu dritt nach Afrika und Indien, ihre Reiseberichte erscheinen sp\u00e4ter unter dem Titel <em>L'odore dell'India<\/em> (<em>Der Geruch Indiens<\/em>).<\/p>      <p>Als ihn sein Vater einmal dr\u00e4ngt, zur Universit\u00e4t zu gehen, antwortet Bernardo Bertolucci entschieden: <em>\u201eMeine Universit\u00e4t sind die allabendlichen Essen bei Elsa Morante und Alberto Moravia mit Pier Paolo Pasolini\u201c<\/em>.<\/p>      ",
+  "latLng":[
+    41.909791,
+    12.475802
+  ],
+  "cat":{
+    "id":8,
+    "name":"Soziales und intellektuelles Leben"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"48-1",
+      "width":1082,
+      "height":1200,
+      "caption":"Elsa Morante in ihrer Wohnung in der Via dell'Oca, 27",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    },
+    {
+      "type":"img",
+      "id":"48-2",
+      "width":907,
+      "height":1200,
+      "caption":"Alberto Moravia, Pier Paolo Pasolini und Roberto Rossellini",
+      "rights":"\u00a9 Fotoarchivi & Multimedia"
+    }
+  ],
+  "trello":"imyf2duA",
+  "lang":"de"
+}

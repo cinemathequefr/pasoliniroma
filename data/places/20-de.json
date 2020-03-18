@@ -1,0 +1,26 @@
+{
+  "id":20,
+  "name":"Via Portuense",
+  "desc":"      <p>In seinem Roman <em>Una vita violenta<\/em> (<em>Ein gewalt\u00e4tiges Leben<\/em>) von 1959 erw\u00e4hnt Pier Paolo Pasolini zum ersten Mal die Via Portuense. Dort spielt die wilde Eskapade von Tommaso und seiner Freunde in einem gestohlenen Auto.<\/p>      <p>Zwei Jahre darauf liefert dieselbe Via Portuense den Schauplatz f\u00fcr die Prostitutionsszenen in <em>Accattone<\/em> (<em>Accattone \u2013 wer nie sein Brot mit Tr\u00e4nen a\u00df<\/em>). Eine der herrschaftlichsten Stra\u00dfen des antiken Roms wird bei Pasolini zum Symbol f\u00fcr die sich st\u00e4ndig wandelnde Peripherie der Stadt, wo \u201eragazzi di vita\u201c, Prostituierte und Arbeiter sich mischen.<\/p>      <p>Im Hintergrund der Einstellung sieht man \u00d6lraffinerien, Rohbauten und die Kr\u00e4ne der gewaltigen Bauarbeiten am Stadtrand f\u00fcr die Olympischen Spiele von 1960.<\/p>      ",
+  "latLng":[
+    41.866988,
+    12.464179
+  ],
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"20-1",
+      "width":1600,
+      "height":1054,
+      "caption":"Bernardo Bertolucci und Pier Paolo Pasolini bei den Dreharbeiten f\u00fcr Accattone",
+      "rights":"\u00a9 Reporters Associati srl"
+    }
+  ],
+  "trello":"BsNk0pOZ",
+  "lang":"de"
+}

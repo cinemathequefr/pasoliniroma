@@ -1,0 +1,59 @@
+{
+  "id":6,
+  "name":"Monteverde Nuovo, via Fonteiana, 86",
+  "address":"Via Fonteiana, 86, 00152 Roma",
+  "desc":"      <p>En 1951, Pasolini gagne sa vie tant bien que mal en \u00e9crivant des bouts de sc\u00e9narios et quelques articles pour divers magazines. Les \u00e9crits s'accumulent, au point de donner peu \u00e0 peu forme \u00e0 son premier roman, <em>Ragazzi di vita<\/em>, <em>le<\/em> roman de la Rome d'apr\u00e8s-guerre. Pour se documenter sur la jeunesse prol\u00e9tarienne de la capitale et \u00e9tayer ses \u00e9crits, Pasolini \u00e9tend ses p\u00e9r\u00e9grinations aux faubourgs&nbsp;: le Trastevere bien s\u00fbr, mais aussi Monteverde Nuovo, autrement appel\u00e9e la <em>\u00ab&nbsp;zona di Donna Olimpia&nbsp;\u00bb<\/em>.<\/p>      <p>Les liens d'amiti\u00e9 entre les petits d\u00e9linquants du quartier et Pasolini se renforcent, au point que ce dernier d\u00e9cide d'emm\u00e9nager \u00e0 Monteverde Nuovo, au 86, via Fonteiana, en mars 1954. C'est aussi dans ce quartier que Pasolini va sympathiser avec les fr\u00e8res Franco et Sergio Citti, deux jeunes peintres en b\u00e2timent, qui renseignent le po\u00e8te sur le langage et les us et coutumes des banlieues romaines. Une rencontre qui changera radicalement la vie des deux hommes&nbsp;: Sergio deviendra sc\u00e9nariste, puis cin\u00e9aste. Et Franco jouera quelques ann\u00e9es plus tard le r\u00f4le d'Accattone dans <a href=\"#!\/fr\/map\/16\">le film \u00e9ponyme<\/a>.<\/p>      <blockquote>Je ne crois pas qu'il y ait eu ou qu'il y ait un seul Dieu. Si je devais en aimer, ce serait plut\u00f4t Pasolini.<\/blockquote>      <cite>Franco Citti, <em>Vita di un ragazzo di vita<\/em><\/cite>      ",
+  "latLng":[
+    41.880894,
+    12.454447
+  ],
+  "date":1954,
+  "pos":2251,
+  "cat":{
+    "id":1,
+    "name":"Maisons, d\u00e9m\u00e9nagements"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"6-1",
+      "width":1219,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini dans son appartement de Monteverde Nuovo, via Fonteiana, 86",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"6-2",
+      "width":1222,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini dans son appartement de Monteverde Nuovo, via Fonteiana, 86",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"6-3",
+      "width":1216,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini dans son appartement de Monteverde Nuovo, via Fonteiana, 86. \u00c0 la main, un exemplaire de Ragazzi di vita",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"6-4",
+      "width":480,
+      "height":721,
+      "caption":"Couverture originale de la premi\u00e8re \u00e9dition de Ragazzi di vita, dessin\u00e9e par Pier Paolo Pasolini",
+      "rights":"\u00a9 Gabinetto Vieusseux"
+    },
+    {
+      "type":"img",
+      "id":"6-5",
+      "width":783,
+      "height":1200,
+      "caption":"Extrait du manuscrit de Ragazzi di vita"
+    }
+  ],
+  "trello":"POFXGDUh",
+  "lang":"fr"
+}

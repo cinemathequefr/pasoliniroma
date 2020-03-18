@@ -1,0 +1,25 @@
+{
+  "id":53,
+  "name":"Mercato di Porta Portese",
+  "desc":"      <p>Il mercato di <em>Mamma Roma<\/em>, simbolo della miseria e dell'arte di arrangiarsi della gente di borgata, serve anche come sfondo per il quinto capitolo di <em>Ragazzi di vita<\/em> di Pasolini.<\/p>      <p>Nel film, \u00e8 a una bancarella di Porta Portese che Ettore rivende i dischi rubati a sua madre, anche quelli con cui lei gli ha insegnato a ballare. Nel romanzo, \u00e8 nel carcere minorile dello stesso quartiere che viene spedito Riccetto, dopo aver commesso l'ennesima rapina.<\/p>      ",
+  "latLng":[
+    41.883728,
+    " 12.473832"
+  ],
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "m":[
+    {
+      "type":"video",
+      "id":2381452413001, "vimeo":245388302,
+      "wide":1,
+      "caption":"Da Mamma Roma (Pier Paolo Pasolini, 1962)",
+      "rights":"\u00a9 Mediaset"
+    }
+  ],
+  "trello":"LpYBN96a",
+  "lang":"it"
+}

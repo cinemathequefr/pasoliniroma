@@ -1,0 +1,26 @@
+{
+  "id":62,
+  "name":"Via di Porta Portese: Sal\u00f2",
+  "address":"Via di Porta Portese ",
+  "desc":"      <p>Pi\u00e9rdanse sin rumbo siguiendo a \u017dilda, un artista callejero de Rennes, cuyos <em>collages<\/em> convocan a los fantasmas de Pasolini en las esquinas de las callejuelas romanas.<\/p>      ",
+  "latLng":[
+    41.884751,
+    12.472275
+  ],
+  "cat":{
+    "id":10,
+    "name":"\u017dilda"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"62-1",
+      "width":1300,
+      "height":864,
+      "caption":"Sal\u00f2",
+      "rights":"\u00a9 \u017dilda"
+    }
+  ],
+  "lang":"es"
+}

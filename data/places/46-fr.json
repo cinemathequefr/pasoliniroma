@@ -1,0 +1,26 @@
+{
+  "id":46,
+  "name":"L'appartement de Tot\u00f2",
+  "address":"Viale Bruno Buozzi, 64, 00197 Roma",
+  "desc":"      <p>Pour son troisi\u00e8me long m\u00e9trage, <em>Des oiseaux, petits et gros (Uccellacci e uccellini)<\/em>, Pier Paolo Pasolini choisit deux com\u00e9diens aux profils tr\u00e8s particuliers&nbsp;: Tot\u00f2, acteur mythique de la com\u00e9die italienne, et Ninetto, non-acteur, jeune homme inculte de la banlieue de Rome qu'il a rencontr\u00e9 sur le tournage de <a href=\"#!\/fr\/map\/34\"><em>La Ricotta<\/em><\/a> et dont c'est le premier film.<\/p>      <p>La m\u00e9canique du duo, formidable, n'\u00e9tait pourtant pas gagn\u00e9e d'avance. Tot\u00f2, d'origine aristocratique, habite dans le Parioli, le quartier le plus chic et le plus bourgeois de Rome. Invit\u00e9 \u00e0 d\u00eener chez la star, Ninetto arrive en jean, l'aspect franchement n\u00e9glig\u00e9... \u00e0 tel point qu'apr\u00e8s le d\u00eener, Tot\u00f2 demande \u00e0 ce que le fauteuil de Ninetto soit nettoy\u00e9 avec un pesticide&nbsp;! Finalement, la relation entre les trois hommes sera idyllique. Pasolini, Ninetto et Tot\u00f2 se sont trouv\u00e9s et apprivois\u00e9s, malgr\u00e9 les diff\u00e9rences de classe et de m\u00e9tier.<\/p>      <p><em>Uccellacci e uccellini<\/em> est construit sur une intuition g\u00e9niale&nbsp;: parler de la crise de l'id\u00e9ologie marxiste, de la gauche, de la fin du cin\u00e9ma n\u00e9o-r\u00e9aliste, de Rossellini, \u00e0 travers une fable picaresque. Le conte de Pasolini est tr\u00e8s amer mais clairvoyant, et pr\u00e9monitoire. Il avait compris la situation, la mort de l'id\u00e9ologie et de l'engagement, avant qu'elle ne le soit par la gauche officielle.<\/p>      ",
+  "latLng":[
+    41.921627,
+    " 12.482041"
+  ],
+  "pos":6481,
+  "cat":{
+    "id":6,
+    "name":"Des oiseaux, petits et gros"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"46-1",
+      "width":1191,
+      "height":1200,
+      "caption":"Tot\u00f2 et Ninetto Davoli sur le tournage de Des oiseaux, petits et gros"
+    }
+  ],
+  "trello":"KLV6Od8I",
+  "lang":"fr"
+}

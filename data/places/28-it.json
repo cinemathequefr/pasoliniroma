@@ -1,0 +1,48 @@
+{
+  "id":28,
+  "name":"Cecafumo, via dell'Acqua Santa",
+  "desc":"      <p>Pier Paolo Pasolini non \u00e8 mai vissuto a Cecafumo ma conosce molto bene questa zona, come del resto altri quartieri di Roma. Da vero antropologo, analizza ed esplora a fondo le periferie in cui ambienter\u00e0 i suoi film, le poesie o i romanzi. Le sue sono sempre scelte ponderate, volute, coerenti. Nulla \u00e8 lasciato all'approssimazione.<\/p>      <p>Quando in <em>Mamma Roma<\/em> Pasolini riprende Cecafumo, un'area che confina con il magnifico Parco degli acquedotti e i suoi resti archeologici, non lo fa per caso. Segue un filo logico. Pasolini confronta la Roma che con orrore sente farsi sempre pi\u00f9 vicina, quella della trasformazione piccolo-borghese dei primi anni sessanta, con la Roma antica. Contrappone la grande Roma dal passato idealizzato a quella dei quartieri popolari costruiti in serie nel Novecento per ammassare gli operai. \u00c8 un'opposizione forte, condotta su un piano puramente stilistico, ma anche di grande portata simbolica e ideologica.<\/p>      <p>Questa stessa opposizione la ritroveremo in <a href=\"#!\/it\/map\/34\"><em>La Ricotta<\/em><\/a>, anch'esso in parte girato nel quartiere di Cecafumo.<\/p>      ",
+  "latLng":[
+    41.855362,
+    12.536807
+  ],
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"28-1",
+      "width":1111,
+      "height":1200,
+      "caption":"Ettore Garofolo, Anna Magnani e Pier Paolo Pasolini sul set di Mamma Roma",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"28-2",
+      "width":1163,
+      "height":1200,
+      "caption":"Ettore Garofolo e Anna Magnani sul set di Mamma Roma",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"28-3",
+      "width":870,
+      "height":1144,
+      "caption":"Dallo storyboard di Mamma Roma, disegni di Pier Paolo Pasolini"
+    },
+    {
+      "type":"video",
+      "id":2385634862001, "vimeo":245388122,
+      "wide":1,
+      "caption":"Da Mamma Roma (Pier Paolo Pasolini, 1962)",
+      "rights":"\u00a9 Mediaset"
+    }
+  ],
+  "trello":"GfWxXOB3",
+  "lang":"it"
+}

@@ -1,0 +1,42 @@
+{
+  "id":3,
+  "name":"Ponte Mammolo",
+  "address":"Via Giovanni Tagliere, 3, 00156 Roma",
+  "desc":"      <p>L'estiu de 1950 Pasolini no t\u00e9 feina, i aix\u00f2 l'obliga a traslladar-se, amb la mare, a Ponte Mammolo, un barri de la perif\u00e8ria situat molt a prop de la pres\u00f3 de Rebibbia. El pare no trigar\u00e0 a trobar-se amb ells en aquest piset de dues habitacions separades per una petita cuina.<\/p>       <p>El futur poeta descobreix els <em>borgate<\/em>, suburbis amb aspecte de barri de xaboles nascuts de la voluntat feixista d'allunyar el lumpemproletariat del centre de la ciutat. Llocs d'exclusi\u00f3 i segregaci\u00f3 social, aquests territoris en mutaci\u00f3 bastits per barracons precaris allotgen un m\u00f3n t\u00e8rbol que d\u00f3na mostres d'una vitalitat desesperada.<\/p>      <blockquote>Vam viure en una casa sense sostre i sense enguixar,<br \/>una casa de pobres, als suburbis extrems, a tocar d'una pres\u00f3.<br \/>A l'estiu hi havia quatre dits de pols, i a l'hivern un pam d'aigua.<br \/>Per\u00f2 era It\u00e0lia, la It\u00e0lia nua i formiguejant,<br \/>amb els seus nois, les seves dones,<br \/>les seves \u00abolors de gessam\u00ed i de pobres escudelles\u00bb,<br \/>les postes de sol sobre els camps de l'Aniene, els munts d'escombraries:<br \/>i, per la meva banda,<br \/>els meus somnis sencers de poesia.<\/blockquote>      <cite>Fragment de \u00abPoeta delle ceneri\u00bb (1966-1967)<\/cite>      ",
+  "latLng":[
+    41.932308,
+    12.567709
+  ],
+  "date":1951,
+  "pos":1276,
+  "cat":{
+    "id":1,
+    "name":"Cases, mudances"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"3-1",
+      "width":783,
+      "height":729,
+      "caption":"Pis de la familia, Ponte Mammolo, via Giovanni Tagliere, 3",
+      "rights":"\u00a9 Romano Siciliani \/ Imago Mundi"
+    },
+    {
+      "type":"video",
+      "id":2325854985001, "vimeo":245388157,
+      "wide":0,
+      "caption":"Fragment de Pasolini l'enrag\u00e9 (Jean-Andr\u00e9 Fieschi, 1966)",
+      "rights":"\u00a9 INA"
+    },
+    {
+      "type":"video",
+      "id":2380419928001,
+      "wide":0,
+      "caption":"Fragment Vivre et encore plus (Michel Random, 1976)",
+      "rights":"\u00a9 INA"
+    }
+  ],
+  "trello":"AQhC7GQy",
+  "lang":"ca"
+}

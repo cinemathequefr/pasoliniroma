@@ -1,0 +1,32 @@
+{
+  "id":42,
+  "name":"Barri de Torpignattara",
+  "desc":"      <p>Abans de morir, Pasolini empr\u00e8n l'escriptura d'una obra monumental, que ell mateix defineix com una mena de testament, de recapitulaci\u00f3 de tota la seva vida art\u00edstica, professional i personal. Es tracta de <em>Petroli<\/em>. El llarg cap\u00edtol \u00ab&nbsp;La visione del Merda&nbsp;\u00bb transcorre al barri popular de Torpignattara, que s'est\u00e9n al sud de la ciutat entre la via Casilina i la via Prenestina.<\/p>      <p>L'assassinat de Pasolini posa fi abruptament a l'escriptura de <em>Petroli<\/em>. Durant anys, el manuscrit va quedar com un esborrany, com un esb\u00f3s d'exist\u00e8ncia desconeguda per al p\u00fablic. Amb el seu llibre, Pasolini tenia pensat iniciar una relectura de la hist\u00f2ria de la It\u00e0lia moderna, amb, entre d'altres, l'esc\u00e0ndol de l'ENI, la important societat petroliera italiana el fundador de la qual, Enrico Mattei, va ser assassinat, probablement a causa de la seva pol\u00edtica d'obertura cap al tercer m\u00f3n. Francesco Rosi esmenta aquesta q\u00fcesti\u00f3 a <em>Il Caso Mattei<\/em>, amb Gian Maria Volont\u00e8 en el paper de l'empresari.<\/p>      <p>Petroli \u00e9s un llibre complex, gaireb\u00e9 experimental. Barreja la filosofia amb les q\u00fcestions de pol\u00edtica interior, les q\u00fcestions essencials amb els esc\u00e0ndols de l'ENI. \u00c9s un monument inacabat de l'art pasolini\u00e0 i una de les poques obres d'aquell moment que intenta aprofundir en la situaci\u00f3 d'It\u00e0lia.<\/p>      <p>Pasolini hi intenta desentranyar la confusi\u00f3 de les massacres i els atemptats pol\u00edtics de la seva \u00e8poca, procura trobar el fil vermell que uneix aquests drames. Per aix\u00f2 el llibre \u00e9s una bomba de rellotgeria. Alguns pensen que \u00e9s possiblement la causa de <a href=\"#!\/ca\/map\/51\">l'assassinat de Pasolini<\/a>, que avui continua pr\u00e0cticament sense haver-se posat en clar...<\/p>      ",
+  "latLng":[
+    41.873650,
+    12.545013
+  ],
+  "pos":8766,
+  "cat":{
+    "id":2,
+    "name":"Pasolini escriptor"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"42-1",
+      "width":886,
+      "height":1132,
+      "caption":"Fragment del manuscrit de Petroli"
+    },
+    {
+      "type":"img",
+      "id":"42-2",
+      "width":835,
+      "height":1200,
+      "caption":"Coberta de l'edici\u00f3 francesa de Petroli"
+    }
+  ],
+  "trello":"oG8xV8yx",
+  "lang":"ca"
+}

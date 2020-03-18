@@ -1,0 +1,34 @@
+{
+  "id":25,
+  "name":"Piazza Tommaso de Cristoforis",
+  "desc":"      <blockquote class=\"de\">Da dr\u00fcben ist unser Haus. Das Fenster da oben, wo gerade die Sonne rein scheint. Wo die Unterhosen h\u00e4ngen, im obersten Stock. Aber hier wohnen wir jetzt nicht mehr lang. Du wirst Augen machen, wohin deine Mutter dich bringt, in ein Haus... Ein sch\u00f6nes Haus. Dort gibt es nur anst\u00e4ndige Leute. In einem viel besseren Viertel.<\/blockquote>      <cite><em>Mamma Roma<\/em><\/cite>      <p>Mit seinem zweiten Film (aber auch bereits mit <a href=\"#!\/de\/map\/16\"><em>Accattone<\/em><\/a>) distanziert sich Pasolini nachdr\u00fccklich vom naturalistischen Erbe seiner Lehrmeister <a href=\"#!\/de\/map\/5\">Roberto Rossellini<\/a> und Vittorio De Sica, weil er Anfang der 1960er Jahre ihre Weltsicht des Neorealismus f\u00fcr v\u00f6llig \u00fcberholt h\u00e4lt. In radikaler Gegenposition zu ihnen, ist er bestrebt, diesen prek\u00e4ren, improvisierten, von Architekten und Stadtplanern verachteten Stadtr\u00e4umen Gr\u00f6\u00dfe und Poesie zu verleihen.<\/p>      ",
+  "latLng":[
+    41.900578,
+    12.534721
+  ],
+  "date":1962,
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"25-1",
+      "width":1600,
+      "height":1055,
+      "caption":"Ettore Garofolo, Anna Magnani und Pier Paolo Pasolini am Set von Mamma Roma",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2324676534001, "vimeo":245388148,
+      "wide":1,
+      "caption":"Ausschnitt aus Mamma Roma (Pier Paolo Pasolini, 1962)",
+      "rights":"\u00a9 Mediaset"
+    }
+  ],
+  "trello":"fSElUnPG",
+  "lang":"de"
+}

@@ -1,0 +1,28 @@
+{
+  "id":2,
+  "name":"Piazza Costaguti",
+  "address":"Piazza Costaguti, 14, 00186 Roma",
+  "desc":"      <p>Al suo arrivo a Roma, Pasolini trova una capitale piena di contraddizioni, al tempo stesso devota \u2013 \u00e8 l'anno del giubileo di Pio XII \u2013 e follemente pagana: gli argini del Tevere e il ghetto, in cui si vive una sessualit\u00e0 molto libera, differiscono radicalmente dal Friuli materno. Ed \u00e8 proprio qui a piazza Costaguti, nel ghetto ebraico, che per qualche tempo lo zio gli d\u00e0 in affitto una stanza.<\/p>      <p>Il poeta abita quindi a due passi dall'isola Tiberina e da Trastevere, in mezzo ai \u00abragazzi di vita\u00bb, piccoli bulletti dai desideri spudorati che vivono di piccoli furti sugli argini del Tevere. Ben lontano dalla Roma borghese e religiosa del giubileo di Pio XII.<\/p>      <p>A pochi metri, <a href=\"#!\/it\/map\/1\">piazza Mattei<\/a> con la fontana delle Tartarughe.<\/p>      ",
+  "latLng":[
+    41.893620,
+    12.476747
+  ],
+  "date":1950,
+  "pos":762,
+  "cat":{
+    "id":1,
+    "name":"Case, traslochi"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"2-1",
+      "width":1019,
+      "height":960,
+      "caption":"Piazza Costaguti",
+      "rights":"\u00a9 Francesco Pierangeli"
+    }
+  ],
+  "trello":"yJBnbec4",
+  "lang":"it"
+}

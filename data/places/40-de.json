@@ -1,0 +1,35 @@
+{
+  "id":40,
+  "name":"Der Turm von Chia",
+  "desc":"      <blockquote class=\"de\">Wenn ich nicht einen so au\u00dfergew\u00f6hnlich sch\u00f6nen Ort gefunden h\u00e4tte (einen Turm in einem Eichenwald mit Blick auf das Tal), w\u00e4re ich wahrscheinlich nie dazu gekommen, mich so oft auf dem Land aufzuhalten. Eine \u00e4sthetische, keine praktische Entscheidung. Im Nachhinein habe ich dann gemerkt, dass es sich in Wahrheit um eine R\u00fcckkehr handelte, meine ganze Kindheit war d\u00f6rflich und l\u00e4ndlich gepr\u00e4gt. Au\u00dfer- dem kann ich nirgendwo so gut arbeiten wie dort unter den Eichen in einer v\u00f6llig archaischen Umgebung \u2013 arbeiten, wohlgemerkt, nicht leben! Denn leben will ich in einer gro\u00dfen Stadt. Und ich h\u00e4tte nie gedacht, dass aus den gro\u00dfen italienischen St\u00e4dte einmal solch grauenhafte Orte werden w\u00fcrden.<\/blockquote>      <cite>Pier Paolo Pasolini, unver\u00f6ffentlichter Text, 1975<\/cite>      <p>Pier Paolo Pasolini entdeckt den Turm von Chia im Fr\u00fchjahr 1964 bei den Dreharbeiten f\u00fcr <em>Il Vangelo secondo Matteo<\/em> (<em>Das 1. Evangelium \u2013 Matth\u00e4us<\/em>). W\u00e4hrend er unten am Wildbach von Chia die Szene der Taufe Jesu dreht, \u00fcberkommen ihn Zweifel \u00fcber den Stil der Bilder, die er in der ersten Woche gedreht hat. Nach einer krisenhaften Nacht entscheidet er sich daf\u00fcr, die Szenen noch einmal vom Hubschrauber aus zu drehen, vertikal von oben. Da die Produktion daf\u00fcr kein Geld hat, beschlie\u00dft er, die Schlucht hinaufzuklettern und die Szene von der Bergspitze aus mit langer Brennweite zu filmen. Dort oben st\u00f6\u00dft er auf die \u00dcberreste dieses mittelalterlichen Turms, bei dessen Anblick er sich an eine Landschaft von Ariosto erinnert f\u00fchlt. Er will ihn unbedingt erwerben, was ihm 1970 auch gelingt. Er l\u00e4sst an die Ruinenmauern ein Haus anbauen, in dem er schreiben und malen und ab und zu auch Freunde empfangen will.<\/p>      <p>Zu dieser Zeit beschlie\u00dft er, wieder zu malen, wie in seiner Anfangszeit im Friaul. Er l\u00e4sst unterhalb des Hauses eine Halle errichten, die sein Malatelier werden soll. Sie ist asketisch und sparsam m\u00f6bliert, die gro\u00dffl\u00e4chigen Fenster gehen direkt auf die Landschaft. Hier schreibt er einen erheblichen Teil seiner <em>Scritti corsari<\/em> (<em>Freibeuterschriften<\/em>) sowie viele Seiten seines letzten unvollendet gebliebenen Romans <em>Petrolio<\/em>.<\/p>      <p>Zudem macht der junge Fotograf Dino Pedriali im Turm von Chia ein paar der repr\u00e4sentativsten Fotos aus diesem Lebensabschnitt Pasolinis.<\/p>      ",
+  "latLng":[
+    42.466045,
+    12.309065
+  ],
+  "date":1970,
+  "pos":8340,
+  "cat":{
+    "id":1,
+    "name":"H\u00e4user"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"40-2",
+      "width":1600,
+      "height":1180,
+      "caption":"Dreharbeiten f\u00fcr Das Erste Evangelium \u2013 Matth\u00e4us, unten am Wildbach von Chia",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"40-1",
+      "width":519,
+      "height":768,
+      "caption":"Pier Paolo Pasolini vor dem Turm von Chia",
+      "rights":"\u00a9 Deborah Beer \/ Archivio fotografico Cinemazero"
+    }
+  ],
+  "trello":"tll8DI8s",
+  "lang":"de"
+}

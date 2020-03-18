@@ -1,0 +1,35 @@
+{
+  "id":40,
+  "name":"La torre di Chia",
+  "desc":"      <blockquote>Se non avessi trovato un luogo di cos\u00ec straordinaria bellezza (una torre in un bosco di querce che domina una vallata), probabilmente non mi sarei mai deciso a passare tanto tempo in campagna. La mia scelta non \u00e8 stata di ordine pratico, ma estetico. Poi, a cose fatte, mi sono reso conto che in realt\u00e0 si trattava di un ritorno: tutta la mia infanzia \u00e8 stata contadina e rurale. Inoltre, in nessun altro luogo lavoro cos\u00ec bene come in questo bosco di querce cos\u00ec perfettamente arcaico. Dico \u00ablavoro\u00bb, e non \u00abvivo\u00bb. In realt\u00e0 io amo vivere nella grande citt\u00e0. Ma non avrei mai immaginato che le citt\u00e0 italiane sarebbero diventate luoghi cos\u00ec orribili.<\/blockquote>      <cite>Pier Paolo Pasolini, testo inedito, 1975<\/cite>      <p>Pier Paolo Pasolini scopre la torre di Chia nella primavera del 1964, durante le riprese de <em>Il Vangelo secondo Matteo<\/em>. Mentre gira la scena del battesimo di Ges\u00f9 lungo il torrente di Chia, viene colto da dubbi riguardo allo stile della prima settimana di riprese. Dopo una notte di crisi stabilisce di cambiare tecnica e vuole filmare di nuovo la scena dall'alto, in elicottero. Ma la produzione non ha i mezzi, quindi il regista decide di scalare le pendici del torrente e filmare la scena dalla sommit\u00e0 con una focale lunga. Si imbatte allora nei resti della torre medievale: la vista che si gode da l\u00ec gli ricorda un paesaggio ariostesco e non avr\u00e0 pace finch\u00e9 non avr\u00e0 acquistata. All'inizio degli anni settanta riuscir\u00e0 nel suo intento e far\u00e0 costruire una casa addossata alle mura in rovina, in cui andr\u00e0 a scrivere, a dipingere, e di tanto in tanto ricever\u00e0 gli amici.<\/p>      <p>In questo periodo Pasolini torna a dedicarsi alla pittura, come faceva all'inizio in Friuli, e si fa costruire una d\u00e9pendance, al di sotto della casa, da adibire a laboratorio. L'abitazione \u00e8 piuttosto austera, arredata in modo semplice, con grandi vetrate che si affacciano direttamente sul paesaggio. \u00c8 qui che il poeta scriver\u00e0 gran parte degli <em>Scritti corsari<\/em> e molte pagine di <em>Petrolio<\/em>, l'ultimo romanzo rimasto incompiuto.<\/p>      <p>Inoltre nella torre di Chia un giovane fotografo, Dino Pedriali, scatta alcune tra le foto pi\u00f9 rappresentative di questo periodo della vita di Pasolini.<\/p>      ",
+  "latLng":[
+    42.466045,
+    12.309065
+  ],
+  "date":1970,
+  "pos":8340,
+  "cat":{
+    "id":1,
+    "name":"Case, traslochi"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"40-2",
+      "width":1600,
+      "height":1180,
+      "caption":"Riprese de Il Vangelo secondo Matteo, lungo il torrente di Chia",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"40-1",
+      "width":519,
+      "height":768,
+      "caption":"Pier Paolo Pasolini davanti alla torre di Chia",
+      "rights":"\u00a9 Deborah Beer \/ Archivio fotografico Cinemazero"
+    }
+  ],
+  "trello":"tll8DI8s",
+  "lang":"it"
+}

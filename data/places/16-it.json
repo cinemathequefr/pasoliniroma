@@ -1,0 +1,50 @@
+{
+  "id":16,
+  "name":"Via Fanfulla da Lodi",
+  "address":"Via Fanfulla da Lodi, 00176 Roma, Italie",
+  "desc":"      <p>Il 1960 \u00e8 l'anno de <a href=\"#!\/it\/map\/9\"><em>La Dolce vita<\/em><\/a> di Federico Fellini e delle Olimpiadi di Roma...<\/p>      <p>\u00c8 durante questa estate particolare che Pier Paolo Pasolini concepisce l'ambientazione e il soggetto di <em>Accattone<\/em>, la storia di un emarginato, un miserabile, dal comportamento istintivo e quasi animale. Mentre l'Italia sta vivendo un boom economico senza precedenti, <em>Accattone<\/em> si concentra su un'altra Roma, povera, emarginata, esclusa dai canali ufficiali. \u00c8 un film sulla cultura sottoproletaria che sopravvive nonostante i cambiamenti sociali e urbani di questo inizio di decennio.<\/p>      <p>Per evocare questa disparit\u00e0 sociale, Pasolini decide di girare il suo primo film nella \u00absemi-periferia\u00bb di Roma, nel quartiere del Pigneto. Dalle riprese la zona appare desolata e triste \u2013 mentre paradossalmente si tratta di un quartiere abbastanza centrale, infatti via Fanfulla da Lodi, set principale del film, si trova vicino a Porta Maggiore e alla <a href=\"#!\/it\/map\/50\">Stazione Termini<\/a>. Scegliendo di proposito questo quartiere povero, Pasolini parla anche indirettamente del terzo mondo, che ha avuto l'opportunit\u00e0 di scoprire nel corso del suo primo viaggio in Africa e in India con Alberto Moravia, compiuto poco prima delle riprese di <em>Accattone<\/em>.<\/p>      <blockquote>Erano giorni stupendi, in cui l'estate ardeva ancora purissima, appena svuotata un po' dentro, dalla sua furia. Via Fanfulla da Lodi, in mezzo al Pigneto, con le casupole basse, i muretti screpolati, era di una granulosa grandiosit\u00e0, nella sua estrema piccolezza; una povera, umile, sconosciuta stradetta, perduta sotto il sole, in una Roma che non era Roma. L'abbiamo riempita: una dozzina di attori, l'operatore, i macchinisti, i fonici. Ma poich\u00e9 non c'erano i 'gruppi' \u2013 di cui io non ho mai voluto sentir parlare \u2013 l'operazione aveva unaria tranquilla: sembravamo operai in mezzo agli altri operai che lavoravano nelle piccole officine del Pigneto.<\/blockquote>      <cite>Pier Paolo Pasolini a proposito delle riprese di <em>Accattone<\/em> (\u00abIl 4 ottobre\u00bb in <em>Il Giorno<\/em>, 16 ottobre 1960)<\/cite>      ",
+  "latLng":[
+    41.889809,
+    12.530284
+  ],
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"16-2",
+      "width":1600,
+      "height":1198,
+      "caption":"Pier Paolo Pasolini sul set di Accattone",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"16-1",
+      "width":1600,
+      "height":1181,
+      "caption":"Pier Paolo Pasolini e Bernardo Bertolucci sul set di Accattone",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"16-3",
+      "width":1735,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini sul set di Accattone",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2380416892001, "vimeo":245388175,
+      "wide":0,
+      "caption":"Da Accattone (Pier Paolo Pasolini, 1961)",
+      "rights":"\u00a9 SNC \/ SND"
+    }
+  ],
+  "trello":"tBbON3r3",
+  "lang":"it"
+}

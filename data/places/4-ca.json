@@ -1,0 +1,27 @@
+{
+  "id":4,
+  "name":"Institut Francesco Petrarca, Ciampino",
+  "desc":"      <blockquote>Al final havia trobat una feina en qu\u00e8 em pagaven 25.000 lires al mes: jo, feli\u00e7, desesperat, cada mat\u00ed afrontava un llarg viatge que acabava al final de la tarda, sota un sol que comen\u00e7ava a desapar\u00e8ixer sobre els ravals infinits, terribles. Per\u00f2 pensava. El meu consol era pensar. Pensar era la meva riquesa i el meu privilegi. M\u00e9s de la meitat de les meves poesies van ser pensades o escrites al tren.<\/blockquote>      <cite>Pier Palo Pasolini, <em>Un paese di temporali e di primule<\/em><\/cite>      <p>La primavera de 1951, Pasolini troba feina a la petita ciutat de Ciampino gr\u00e0cies a la intervenci\u00f3 d'un amic poeta. Paradoxalment, el contracta l'institut privat de la ciutat (Francesco Petrarca) i no el p\u00fablic. Passen els mesos, Pier Paolo Pasolini coneix diversos joves amb molt talent, principalment Vincenzo Cerami, que ser\u00e0 el seu ajudant a <a href=\"#!\/ca\/map\/36\"><em>Uccellacci e uccellini<\/em><\/a> i guionista de Roberto Benigni per a <em>La Vida \u00e9s bella<\/em>.<\/p>      <p>Cada dia Pasolini fa el viatge en autob\u00fas i tren: Ponte Mammolo, Rebibbia, estaci\u00f3 de Termini, Ciampino. I despr\u00e9s torna... S\u00f3n gaireb\u00e9 tres hores di\u00e0ries. Pasolini recorda aquest llarg trajecte quotidi\u00e0 a <em>Les cendres de Gramsci<\/em> i <em>La religione del mio tempo<\/em>, en qu\u00e8 parla de la seva \u00abamiga, la finestra de l'autob\u00fas\u00bb, en refer\u00e8ncia a aquelles hores de viatge que aprofitava per imaginar novel les i poemes.<\/p>      ",
+  "latLng":[
+    41.799444,
+    " 12.603002"
+  ],
+  "date":1952,
+  "pos":1521,
+  "cat":{
+    "id":2,
+    "name":"Pasolini escriptor"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"4-1",
+      "width":606,
+      "height":900,
+      "caption":"Alumnes de Pier Paolo Pasolini a Ciampino",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    }
+  ],
+  "trello":"ggJxMW2L",
+  "lang":"ca"
+}

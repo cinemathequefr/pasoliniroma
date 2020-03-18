@@ -1,0 +1,27 @@
+{
+  "id":4,
+  "name":"Schule Francesco Petrarca, Ciampino",
+  "desc":"      <blockquote class=\"de\">Endlich hatte ich eine Arbeit gefunden, f\u00fcr 27.000 Lire im Monat: Jeden Morgen nahm ich, gl\u00fccklich, verzweifelt, eine lange Fahrt auf mich, die am sp\u00e4ten Nachmittag mit einer \u00fcber der endlosen, w\u00fcsten Peripherie bereits untergehenden Sonne endete. Aber ich dachte. Mein Trost war das Denken. Denken war mein Reichtum und mein Privileg. \u00dcber die H\u00e4lfte meiner Gedichte sind im Zug erdacht oder geschrieben worden.<\/blockquote>      <cite>Pier Paolo Pasolini, <em>Un paese di temporali e di primule<\/em> (<em>Ein Land von Gewittern und Primeln<\/em>)<\/cite>      <p>Im Fr\u00fchjahr 1951 findet Pasolini Arbeit in der Kleinstadt Ciampino. Paradoxerweise bekommt er \u2013 durch Vermittlung eines befreundeten Dichters \u2013 eine Stelle an der Privatschule Francesco Petrarca und nicht im st\u00e4dtischen Gymnasium. Die Monate vergehen, Pier Paolo Pasolini lernt au\u00dfergew\u00f6hnlich begabte junge Leute kennen, darunter Vincenzo Cerami, den sp\u00e4teren Regieassistenten von <em><a href=\"#!\/de\/map\/36\">Uccellacci e uccellini<\/a><\/em> (<em>Gro\u00dfe V\u00f6gel, kleine V\u00f6gel<\/em>) und Drehbuchautor von Roberto Benigni, insbesondere f\u00fcr <em>La Vita \u00e8 bella<\/em> (<em>Das Leben ist sch\u00f6n<\/em>).<\/p>      <p>Jeden Tag f\u00e4hrt Pasolini mit dem Bus und dem Zug die Strecke von <a href=\"#!\/de\/map\/3\">Ponte Mammolo<\/a> \u00fcber Rebibbia, Bahnhof Termini bis Ciampino. Und zur\u00fcck... Das sind nahezu drei Stunden. Diese t\u00e4gliche lange Fahrt wird von Pasolini in Le ceneri di Gransci (Gramsci's Asche) und in La religione del mio tempo (Die Religion meiner Zeit) thematisiert. \u201eSein Freund, das Autobusfenster\u201c, hei\u00dft es dort, in Anspielung an diese Stunden des Unterwegsseins, die er nutzte, um Romane und Gedichte zu erdenken.<\/p>      ",
+  "latLng":[
+    41.799444,
+    " 12.603002"
+  ],
+  "date":1952,
+  "pos":1521,
+  "cat":{
+    "id":2,
+    "name":"Pasolini Schriftsteller"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"4-1",
+      "width":606,
+      "height":900,
+      "caption":"Sch\u00fcler von Pier Paolo Pasolini in Ciampino",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    }
+  ],
+  "trello":"ggJxMW2L",
+  "lang":"de"
+}

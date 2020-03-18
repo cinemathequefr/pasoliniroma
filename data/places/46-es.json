@@ -1,0 +1,26 @@
+{
+  "id":46,
+  "name":"Casa de Tot\u00f2",
+  "address":"Viale Bruno Buozzi, 64, 00197 Roma",
+  "desc":"      <p>Para su f\u00e1bula, Pier Paolo Pasolini escoge a dos actores de perfil muy singular: Tot\u00f2, actor m\u00edtico de la comedia italiana, y Ninetto, que no es actor, es un joven inculto de los suburbios de Roma que Pasolini ha conocido durante el rodaje de <a href=\"#!\/es\/map\/34\"><em>La Ricotta<\/em><\/a> y que no ha actuado jam\u00e1s en una pel\u00edcula.<\/p>      <p>Nada garantizaba, sin embargo, que la mec\u00e1nica del d\u00fao, fant\u00e1stica, fuera a funcionar. Tot\u00f2, de origen aristocr\u00e1tico, vive en el Parioli, el barrio m\u00e1s elegante y m\u00e1s burgu\u00e9s de Roma. Invitado a cenar en casa de la estrella, Ninetto llega vestido con vaqueros y con aspecto bastante descuidado... hasta tal punto que, despu\u00e9s de la cena, Tot\u00f2 pide que limpien el sill\u00f3n de Ninetto \u00a1con insecticida! Finalmente, la relaci\u00f3n entre los tres hombres ser\u00e1 id\u00edlica. Pasolini, Ninetto y Tot\u00f2 se han encontrado y se han adoptado, a pesar de las diferencias de clase y de oficio.<\/p>      <p><em>Uccellacci e uccellini<\/em> se construye sobre una intuici\u00f3n genial: se trata de hablar de la crisis de la ideolog\u00eda marxista, de la izquierda, del fin del cine neorrealista, de Rossellini, a trav\u00e9s de una f\u00e1bula picaresca. El cuento de Pasolini es amargo pero clarividente, y premonitorio. Antes que la izquierda oficial ha comprendido la situaci\u00f3n, la muerte de la ideolog\u00eda y del compromiso.<\/p>      ",
+  "latLng":[
+    41.921627,
+    " 12.482041"
+  ],
+  "pos":6481,
+  "cat":{
+    "id":6,
+    "name":"Uccellacci e uccellini"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"46-1",
+      "width":1191,
+      "height":1200,
+      "caption":"Tot\u00f2 y Ninetto Davoli durante el rodaje de Uccellacci e uccellini"
+    }
+  ],
+  "trello":"KLV6Od8I",
+  "lang":"es"
+}

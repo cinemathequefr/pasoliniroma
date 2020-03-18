@@ -1,0 +1,26 @@
+{
+  "id":41,
+  "name":"La casa de Sabaudia",
+  "desc":"      <blockquote>En Italia, en cambio, aparte de Roma, pas\u00e1bamos mucho tiempo en Sabaudia. All\u00ed ten\u00edamos las casas adosadas con una terraza y un jard\u00edn comunes. A menudo com\u00edamos o cen\u00e1bamos juntos. Muchas veces ven\u00edan los hermanos Citti. Ninetto casi siempre estaba presente.<\/blockquote>      <cite>Dacia Maraini<\/cite>      <p>Hacia el final de su vida, Pasolini manda construir dos casas en la periferia de Roma, cada una a una hora y media en coche de la ciudad, en dos direcciones diametralmente opuestas: <a href=\"#!\/es\/map\/40\">la torre de Chia<\/a> y la casa de Sabaudia, construida con Alberto Moravia. Es una aut\u00e9ntica fantas\u00eda arquitect\u00f3nica y urban\u00edstica.<\/p>      <p>A primera vista, esta elecci\u00f3n sorprende: Sabaudia es una ciudad peque\u00f1a ideada por el r\u00e9gimen fascista que ambicionaba crear ciudades nuevas, en el Lacio principalmente. Esta contradicci\u00f3n, urbana y filos\u00f3fica, es fundamental: la vida cultural, y en particular la arquitect\u00f3nica, fue muy rica durante el fascismo. Tras la ca\u00edda de Mussolini, la izquierda italiana despreci\u00f3 durante mucho tiempo este s\u00edmbolo del fascismo. Pero a ojos de Pasolini, el urbanismo y la arquitectura de Sabaudia no reflejan la ideolog\u00eda fascista sino, muy al contrario, valores mucho m\u00e1s enraizados en la tradici\u00f3n italiana que el fascismo no consigui\u00f3 erradicar. Le gustaba la dimensi\u00f3n a escala humana de esta ciudad <em>\u00abmetaf\u00edsica y chiriquiana\u00bb<\/em>.<\/p>      <p>Esta reflexi\u00f3n es parte de una reinterpretaci\u00f3n mucho m\u00e1s general sobre la sociedad, la pol\u00edtica y la historia italianas. Vivir en Sabaudia equivale a rebuscar en las ra\u00edces del fascismo, pero da tambi\u00e9n la ocasi\u00f3n de analizar las respectivas influencias del poder autoritario y de Democracia Cristiana. Pasolini desarrollar\u00e1 este discurso en un excelente documental, <em>La Forma della citt\u00e0 [La Forma de la ciudad]<\/em>.<\/p>      ",
+  "latLng":[
+    41.25252,
+    13.034988
+  ],
+  "pos":9312,
+  "cat":{
+    "id":1,
+    "name":"Casas, mudanzas"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"41-1",
+      "width":1013,
+      "height":696,
+      "caption":"La casa de Sabaudia",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    }
+  ],
+  "trello":"TxrL5d9K",
+  "lang":"es"
+}

@@ -1,0 +1,49 @@
+{
+  "id":38,
+  "name":"Valle Giulia, Fakult\u00e4t f\u00fcr Architektur",
+  "desc":"      <p>Die sp\u00e4ten 1960er Jahre sind f\u00fcr Pier Paolo Pasolini eine Zeit wachsender Desillusionierung \u00fcber die Entwicklung des modernen Italiens. Er, der so sehr f\u00fcr die Anerkennung des kleinen Volks aus den Elendsvierteln Roms gek\u00e4mpft hat, muss ohnm\u00e4chtig dem Entstehen einer Konsumgesellschaft zusehen, die er verabscheut. Niemand, so scheint ihm, kann diesen Prozess der Entmenschlichung stoppen.<\/p>      <p>Auch nicht die Studentendemonstrationen von 1968, die er als einen simplen Ausbruch erlebnishungriger B\u00fcrgers\u00f6hne wahrnimmt. Die schweren Zusammenst\u00f6\u00dfe zwischen Polizei und Studenten konzentrieren sich um die Fakult\u00e4t f\u00fcr Architektur in Valle Giulia (im Stadtteil Parioli, neben der Villa Borghese). W\u00e4hrend er sich auf die Urauff\u00fchrung von <em>Teorema<\/em> (<em>Teorema \u2013 Geometrie des Liebes<\/em>) vorbereitet, ver\u00f6ffentlicht Pasolini ein Gedicht in der in kleiner Auflage erscheinenden Zeitschrift <em>Nuovi Argomenti<\/em>, die er gemeinsam mit Alberto Moravia herausgibt. Darin stellt er die jungen, aus dem Proletariat S\u00fcditaliens stammenden Polizisten den rebellierenden bourgeoisen Achtundsechzigern gegen\u00fcber. Das Wochenblatt L'Espresso wittert eine Story und druckt das Gedicht unter einem anderen, irref\u00fchrenden Titel ab: \u201eDer PCI an die Jugend!!\u201c, der sich grundlegend vom Originaltitel: \u201eIch hasse euch, liebe Studenten\u201c unterscheidet.<\/p>      <p>Die Verwirrung ist komplett, der eigentliche Inhalt des Gedichts \u2013 unendlich viel komplexer als sein vereinfachender Titel \u2013 wird v\u00f6llig entstellt. Dies hat eine deutliche Verh\u00e4rtung der Beziehungen zwischen Pasolini und der studentischen Jugend zur Folge.<\/p>      ",
+  "latLng":[
+    41.918648,
+    12.480033
+  ],
+  "pos":7365,
+  "cat":{
+    "id":3,
+    "name":"Politik"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"38-2",
+      "width":1600,
+      "height":1196,
+      "caption":"Zusammenst\u00f6\u00dfe zwischen Studenten und Ordnungskr\u00e4ften bei der Fakult\u00e4t f\u00fcr Architektur, Valle Giulia",
+      "rights":"\u00a9 Contrasto"
+    },
+    {
+      "type":"img",
+      "id":"38-3",
+      "width":1600,
+      "height":1067,
+      "caption":"Zusammenst\u00f6\u00dfe zwischen Studenten und Ordnungskr\u00e4ften bei der Fakult\u00e4t f\u00fcr Architektur, Valle Giulia"
+    },
+    {
+      "type":"img",
+      "id":"38-4",
+      "width":1600,
+      "height":1067,
+      "caption":"Zusammenst\u00f6\u00dfe zwischen Studenten und Ordnungskr\u00e4ften bei der Fakult\u00e4t f\u00fcr Architektur, Valle Giulia",
+      "rights":"\u00a9 Contrasto"
+    },
+    {
+      "type":"img",
+      "id":"38-5",
+      "width":803,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini bei einer Versammlung der Kommunistischen Jugend 8 Jahre sp\u00e4ter, 1974. Im Hintergrund Gianni Borgna und Antonio Semerari",
+      "rights":"\u00a9 Istituto Luce Historical Archive"
+    }
+  ],
+  "trello":"yJhmZcaq",
+  "lang":"de"
+}

@@ -1,0 +1,25 @@
+{
+  "id":66,
+  "name":"Porta Maggiore: Saustall",
+  "desc":"      <p>Nehmen Sie Seitenwege und folgen Sie \u017dilda, dem Street artist aus Rennes, dessen Collagen Pasolinis Geister in den Gassen von Rom heraufbeschw\u00f6ren.<\/p>      ",
+  "latLng":[
+    41.891833,
+    12.514077
+  ],
+  "cat":{
+    "id":10,
+    "name":"\u017dilda"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"66-1",
+      "width":1300,
+      "height":797,
+      "caption":"Porcherie",
+      "rights":"\u00a9 \u017dilda"
+    }
+  ],
+  "lang":"de"
+}

@@ -1,0 +1,42 @@
+{
+  "id":19,
+  "name":"Ponte Testaccio",
+  "desc":"      <p>Die Produktion seines ersten Films lief nicht so glatt und reibungslos, wie Pier Paolo Pasolini es sich gew\u00fcnscht h\u00e4tte. Anf\u00e4nglich sollte <em>Accattone<\/em> (<em>Accattone \u2013 wer nie sein Brot mit Tr\u00e4nen a\u00df<\/em>) von Federico Fellini produziert werden, der nach dem Triumph von <em>La Dolce vita<\/em> (<a href=\"#!\/de\/map\/9\"><em>Das s\u00fc\u00dfe Leben<\/em><\/a>) die Absicht hatte, Produzent zu werden. Nachdem sie bereits erfolgreich gemeinsam mehrere Drehb\u00fccher geschrieben haben, freut sich Pasolini auf die erneute Zusammenarbeit mit dem Freund. Doch das Projekt platzt: Nach der Sichtung des ersten Materials h\u00e4lt es Fellini f\u00fcr falsch, dass der Dichter Pasolini Filmemacher werden will. Pasolini ist zutiefst entt\u00e4uscht, auch wenn dies die Freundschaft der beiden M\u00e4nner nicht wirklich tr\u00fcben kann. Nach Fellinis Absage unternimmt er seine erste Reise nach Afrika, um dort <em>\u201eseine narzisstische Wunde zu heilen\u201c<\/em>.<\/p>      <p>Sp\u00e4ter wird Fellini \u00fcbrigens seine Fehleinsch\u00e4tzung zugeben und Pasolini ermutigen, indem er ihn bei den Dreharbeiten besucht. Er wird ihn sogar w\u00e4hrend der <a href=\"#!\/de\/map\/60\">tumultartigen Urauff\u00fchrung<\/a> leidenschaftlich unterst\u00fctzen.<\/p>      <p>Schlie\u00dflich kommt der junge, nahezu unbekannte Produzent Alfredo Bini Pasolini zu Hilfe und \u00fcbernimmt die Produktion. Die Dreharbeiten k\u00f6nnen relativ unbeschwert anlaufen.<\/p>      <p>Das tragische Ende des Films wird in Testaccio gedreht. Dies ist kein Zufall: Als ein von Ernesto Nathan geschaffener utopischer Raum f\u00fcr das Volk, wo <a href=\"#!\/de\/map\/15\">Gramsci seine letzte Ruhest\u00e4tte<\/a> hat, wo Elsa Morante aufwuchs, geh\u00f6rt Testaccio zu den symboltr\u00e4chtigen Vierteln von Pasolinis Rom.<\/p>      ",
+  "latLng":[
+    41.875373,
+    " 12.470834"
+  ],
+  "date":1961,
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"19-1",
+      "width":1626,
+      "height":1200,
+      "caption":"Federico Fellini zu Besuch bei den Dreharbeiten zu Accattone",
+      "rights":"\u00a9 Tazio Secchiaroli \/ David Secchiaroli"
+    },
+    {
+      "type":"img",
+      "id":"19-2",
+      "width":1642,
+      "height":1200,
+      "caption":"Federico Fellini zu Besuch bei den Dreharbeiten zu Accattone",
+      "rights":"\u00a9 Tazio Secchiaroli \/ David Secchiaroli"
+    },
+    {
+      "type":"video",
+      "id":2380420008001, "vimeo":245388229,
+      "wide":0,
+      "caption":"Ausschnitt aus Accattone (Pier Paolo Pasolini, 1961)",
+      "rights":"\u00a9 SNC \/ SND"
+    }
+  ],
+  "trello":"FwUxnWJv",
+  "lang":"de"
+}

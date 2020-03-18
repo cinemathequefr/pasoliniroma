@@ -1,0 +1,36 @@
+{
+  "id":58,
+  "name":"Da Sandro Penna, via delle Mole D\u00e8 Fiorentini",
+  "address":"Via delle Mole D\u00e8 Fiorentini, 00186 Roma",
+  "desc":"      <blockquote>I Lungotevere neri di pisciatoi, il Gianicolo con le sue battone, il Porto nero di sterco e di preservativi, la Ciriola coi suoi ragazzi strafottenti che si danno al primo sguardo, compongono la sua Roma del '50, visionaria e musicale.<\/blockquote>      <cite>Nico Naldini, biografo e cugino di Pasolini<\/cite>      <p>Dopo i cauti amori segreti dei ragazzi friulani, con i \u00abragazzi di vita\u00bb di Roma Pier Paolo Pasolini scopre una sessualit\u00e0 libera e diretta. In compagnia di Sandro Penna, poeta dell'amore omosessuale, frequenta gli argini del Tevere e il fiume diventa da allora uno dei suoi punti di riferimento simbolici e poetici.<\/p>      <p>Nell'agosto del 1957, Sandro Penna con <em>Poesie<\/em> ottiene il Premio Viareggio che condivide con... Pier Paolo Pasolini, vincitore ex-aequo con <em>Le Ceneri di Gramsci<\/em>.<\/p>      ",
+  "latLng":[
+    41.900121,
+    12.464616
+  ],
+  "date":1957,
+  "pos":3499,
+  "cat":{
+    "id":8,
+    "name":"Vita sociale et intellettuale"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"58-1",
+      "width":1600,
+      "height":1184,
+      "caption":"Sandro Penna",
+      "rights":"\u00a9 Contrasto"
+    },
+    {
+      "type":"img",
+      "id":"58-2",
+      "width":821,
+      "height":1200,
+      "caption":"Sandro Penna",
+      "rights":"\u00a9 Contrasto"
+    }
+  ],
+  "lang":"it"
+}

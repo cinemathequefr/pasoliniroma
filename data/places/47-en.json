@@ -1,0 +1,28 @@
+{
+  "id":47,
+  "name":"Rebibbia prison",
+  "address":"Via Bartolo Longo, 78, 00156 Roma",
+  "desc":"      <p>In Rome, there are two main prisons: Regina C\u0153li, in the city centre near Trastevere, and Rebibbia, in the Ponte Mammolo suburb. This prison, which had the particularity of being mixed, was located a few blocks from the Pasolini family's flat.<\/p>      <p>In the poem <em>The Tears of the Excavator<\/em>, which is in <em>The Ashes of Gramsci<\/em>, Pier Paolo Pasolini nostalgically evokes Ponte Mammolo and Rebibbia, the prison representing, by metonymy, the proletarian quarter where he lived.<\/p>      <blockquote>I undress, in one of a thousand rooms<br \/>where one sleeps, via Fonteiana.<br \/>You can erode everything, time: hopes,<br \/>passions. But not these pure forms<br \/>of life... It is with them<br \/>that man becomes confused, come to the end<br \/>of experience and confidence<br \/>in this world... Ah, days of Rebibbia,<br \/>that I thought lost in the light<br \/>of necessity, and which I discover so free!<\/blockquote>      <p>Pasolini would come up with the idea for <a href=\"#!\/en\/map\/61\"><em>Mamma Roma<\/em><\/a> reading an article in the press about the dramatic death of Marcello Elisei, a young prisoner at Rebibbia who died tied to a bed in isolation. And in 2012, the Taviani brothers filmed <em>Caesar Must Die<\/em>, winner of the Golden Bear at the 2012 Berlin Festival, in this prison of Rebibbia.<\/p>       ",
+  "latLng":[
+    41.93669,
+    " 12.570669"
+  ],
+  "date":1951,
+  "pos":1338,
+  "cat":{
+    "id":2,
+    "name":"Pasolini writer"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"47-1",
+      "width":1000,
+      "height":999,
+      "caption":"The Rebibbia prison",
+      "rights":"\u00a9 Archivio dell'Immagine di Cesena"
+    }
+  ],
+  "trello":"EuZbfoUn",
+  "lang":"en"
+}

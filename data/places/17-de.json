@@ -1,0 +1,50 @@
+{
+  "id":17,
+  "name":"Via dei Gordiani",
+  "desc":"      <p>Die Wahl des Viertels Pigneto als Drehort f\u00fcr <em>Accattone<\/em> (<em>Accattone \u2013 wer nie sein Brot mit Tr\u00e4nen a\u00df<\/em>) ist nicht zuf\u00e4llig. Denn von der Via dei Gordiani zur Via Montecuccoli ist es nicht weit. In dieser Stra\u00dfe, weitab der traditionellen Studios der Cinecitt\u00e0, drehte Roberto Rosselini ein paar Jahre zuvor seinen Film <em>Roma citt\u00e0 aperta<\/em> (<em>Rom, offene Stadt<\/em>) \u2013 insbesondere die Szene, in der Pina (Anna Magnani) stirbt, \u00fcber die Pasolini ein Gedicht schreibt, nachdem er den Film in Rom im <a href=\"#!\/de\/map\/5\">Kino \u201eTeatro Nuovo\u201c<\/a> wieder gesehen hatte, kurz nach seinem Ankunft in Rom. Die filmischen und geografischen Bez\u00fcge \u00fcberlappen sich: nur knapp zehn Meter trennen die Originalschaupl\u00e4tze der beiden Filme.<\/p>      <p>Heute sieht Pigneto ganz anders aus. Es ist zu einem angesagten Viertel geworden, wo sich Maler und junge K\u00fcnstler tummeln.<\/p>      <blockquote class=\"de\">Auf einer elenden Stra\u00dfe, umgeben von Baracken, alten H\u00e4usern, voller zerlumpter Kinder,<br \/>unter einer gl\u00fchenden Sonne, l\u00e4utete eine traurige, trostlose Totenglocke.<br \/>Accattone ging die Stra\u00dfe entlang, bet\u00e4ubt von der Sonne.<br \/>Er war ein echter Bettler, im Unterhemd \u2013&nbsp;ohne T-Shirt&nbsp;\u2013 mit verstaubter Hose.<br \/>Er hatte keine Goldkette mehr um den Hals.<br \/>Er hatte auch keine Ringe mehr an den Fingern.<br \/>Er hatte kein Armband und keine Uhr mehr am Handgelenk. Er war nackt wie ein Wurm.<br \/>Er ging auf der Stra\u00dfe, leer, geblendet, unter der Glocke, die f\u00fcr die Toten l\u00e4utete.<\/blockquote>      <cite>Aus dem Drehbuch f\u00fcr <em>Accattone<\/em><\/cite>      ",
+  "latLng":[
+    41.886129,
+    12.554196
+  ],
+  "date":1961,
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"17-2",
+      "width":1600,
+      "height":987,
+      "caption":"Via dei Gordiani",
+      "rights":"\u00a9 Carlo Riccardi \/ Archivio Riccardi"
+    },
+    {
+      "type":"img",
+      "id":"17-1",
+      "width":1600,
+      "height":1104,
+      "caption":"Pier Paolo Pasolini und Franco Citti w\u00e4hrend einer Pause bei den Dreharbeiten zu Accattone",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"17-3",
+      "width":1600,
+      "height":1070,
+      "caption":"Pier Paolo Pasolini und Franco Citti w\u00e4hrend einer Pause bei den Dreharbeiten zu Accattone",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2380419919001, "vimeo":245388189,
+      "wide":0,
+      "caption":"Ausschnitt aus Accattone (Pier Paolo Pasolini, 1961)",
+      "rights":"\u00a9 SNC \/ SND"
+    }
+  ],
+  "trello":"iWfW5w7g",
+  "lang":"de"
+}

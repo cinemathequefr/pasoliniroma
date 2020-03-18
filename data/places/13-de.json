@@ -1,0 +1,39 @@
+{
+  "id":13,
+  "name":"Fiaschetteria Beltramme (Bei Cesaretto)",
+  "address":"Via della Croce, 39, Roma",
+  "desc":"      <p>In diesem Restaurant entstand das ber\u00fchmte Foto von Alberto Moravia, Pier Paolo Pasolini und Laura Betti beim gemeinsamen Abendessen. Die Fiaschetteria Beltrame ist ein weiterer symbolhafter Ort des kulturellen \u2013&nbsp;und kulinarischen&nbsp;\u2013 r\u00f6mischen Lebens, ein legend\u00e4res Lokal, in dem Pasolini, Curzio Malaparte, Giorgio Bassani oder Francesco Rosi anzutreffen waren.<\/p>      <p>Es war auch das Lieblingsrestaurant von ber\u00fchmten italienischen Drehbuchautoren, wichtigen Politikern wie Sandro Petrini und Luigi Einaudi, von Schauspielern und Schauspielerinnen...<\/p>      <blockquote class=\"de\">Da waren zum Beispiel Zeffirelli, Bolognini, Piero Tosi, Mario Missiroli, Laura Betti, Adriana Asti und gelegentlich auch Pasolini, denn er arbeitete mit Bolognini zusammen. Dort habe ich so gut wie alle kennengelernt. Das waren alles junge Filmemacher, Szenenbildner, Drehbuchautoren, deshalb herrschte dort eine Kreativit\u00e4t, die vor pl\u00f6tzlichen Eingebungen und Witzen nur so sprudelte; so wei\u00df ich noch, wie wir gegen drei Uhr nachmittags vom Tisch aufstanden, die Stra\u00dfen nahezu leer, Roms Zentrum schlief, und wir waren so frei und tr\u00e4llerten auf der Piazza di Spagna <em>\u201ele tre del pomeriggio, \u00e8 l'ora del dileggio\u201c<\/em> [<em>\u201edrei Uhr nachmittags ist die Zeit des Spotts\u201c<\/em>]. Wir gingen ins Kino oder in Theaterpremieren mit unseren Freunden aus der Via Veneto, Chiaromonte und \u201eLele\u201c D'Amico, dann gingen wir essen und danach zu Rosati, mit fast spanischen Zeitpl\u00e4nen. Gegen zwei oder drei Uhr morgens gingen wir schlafen.<\/blockquote>      <cite>Alberto Arbasino in einem Interview mit Gianni Borgna, Oktober 2012<\/cite>      ",
+  "latLng":[
+    41.906246,
+    12.479922
+  ],
+  "date":1961,
+  "cat":{
+    "id":8,
+    "name":"Soziales und intellektuelles Leben"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"13-1",
+      "width":1600,
+      "height":1056,
+      "caption":"Alberto Moravia, Pier Paolo Pasolini und Laura Betti beim Abendessen in der Fiaschetteria Beltrame",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    },
+    {
+      "type":"img",
+      "id":"13-2",
+      "width":1600,
+      "height":1065,
+      "caption":"Alberto Moravia, Pier Paolo Pasolini und Laura Betti beim Abendessen in der Fiaschetteria Beltrame",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    }
+  ],
+  "pos":4868,
+  "comment":{
+    
+  },
+  "trello":"imyf2duA",
+  "lang":"de"
+}

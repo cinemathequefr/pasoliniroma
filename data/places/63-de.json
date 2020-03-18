@@ -1,0 +1,25 @@
+{
+  "id":63,
+  "name":"Via del Mandrione: Sal\u00f2",
+  "desc":"      <p>Nehmen Sie Seitenwege und folgen Sie \u017dilda, dem Street artist aus Rennes, dessen Collagen Pasolinis Geister in den Gassen von Rom heraufbeschw\u00f6ren.<\/p>      ",
+  "latLng":[
+    41.875617,
+    12.537611
+  ],
+  "cat":{
+    "id":10,
+    "name":"\u017dilda"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"63-1",
+      "width":903,
+      "height":1300,
+      "caption":"Sal\u00f2",
+      "rights":"\u00a9 \u017dilda"
+    }
+  ],
+  "lang":"de"
+}

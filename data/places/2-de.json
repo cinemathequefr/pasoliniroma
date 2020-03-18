@@ -1,0 +1,28 @@
+{
+  "id":2,
+  "name":"Piazza Costaguti",
+  "address":"Piazza Costaguti, 14, 00186 Roma",
+  "desc":"      <p>Bei seiner Ankunft in Rom entdeckt Pasolini eine Hauptstadt der Kontraste, zugleich fromm \u2013&nbsp;man begeht das Jubeljahr Pius XII&nbsp;\u2013 und irrsinnig heidnisch: Die Tiberufer und das Ghetto, wo man frei seine Sexualit\u00e4t auslebt, bilden einen krassen Gegensatz zu seinem m\u00fctterlichen Friaul. Hier, an der Piazza Costaguti im j\u00fcdischen Ghetto, vermietet ihm sein Onkel f\u00fcrs Erste ein Zimmer.<\/p>      <p>Der Dichter wohnt dicht an der Tiberinsel und an Trastevere, mitten unter den Ragazzi, jenen jungen Burschen, deren Begehren keine Scham kennt und die von kleinen Diebst\u00e4hlen an den Tiberufern leben. Weit weg vom b\u00fcrgerlichen und religi\u00f6sen Rom des Jubeljahrs Pius XII, nur ein paar Schritte von der <a href=\"#!\/de\/map\/1\">Piazza Mattei<\/a> mit ihrem Schildkr\u00f6tenbrunnen entfernt.<\/p>      ",
+  "latLng":[
+    41.893620,
+    12.476747
+  ],
+  "date":1950,
+  "pos":762,
+  "cat":{
+    "id":1,
+    "name":"H\u00e4user"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"2-1",
+      "width":1019,
+      "height":960,
+      "caption":"Piazza Costaguti",
+      "rights":"\u00a9 Francesco Pierangeli"
+    }
+  ],
+  "trello":"yJBnbec4",
+  "lang":"de"
+}

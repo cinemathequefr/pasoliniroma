@@ -1,0 +1,27 @@
+{
+  "id":5,
+  "name":"Cinema \u201cTeatro Nuovo\u201d",
+  "address":"Largo Ascianghi, 1, 00192 Roma",
+  "desc":"      <p>Nel 1953 Pier Paolo Pasolini abita ancora a <a href=\"#!\/it\/map\/3\">Ponte Mammolo<\/a>. Se \u00e8 nelle periferie che si svolgono gli incontri che gli cambieranno la vita, il poeta frequenta anche il centro di Roma, in particolare Trastevere. Di questo quartiere Pasolini si ricorder\u00e0 nel suo secondo film: proprio in un ristorante di Trastevere che esiste ancora oggi (\"Da Meo Patacca\") Mamma Roma riesce col ricatto a far assumere il figlio Ettore.<\/p>      <p>Oggi Trastevere \u00e8 un quartiere alla moda, ma nel 1953 era ancora una zona popolare, focolaio di sentimenti anti-clericali e anti-papisti particolarmente accesi, che non lasciavano indifferente Pasolini. E soprattutto questo \u00e8 il quartiere in cui Pasolini rivede <em>Roma citt\u00e0 aperta<\/em> di Roberto Rossellini, al cinema-teatro \u00abNuovo\u00bb di largo Ascianghi 1. Una rivelazione estetica, che il futuro regista evoca nella poesia <em>La Religione del mio tempo<\/em>:<\/p>      <blockquote>Ma che colpo al cuore, quando, su un liso<br \/> cartellone... Mi avvicino, guardo il colore<br \/> gi\u00e0 d'un altro tempo, che ha il caldo viso<br \/> ovale, dell'eroina, lo squallore<br \/> eroico del povero, opaco manifesto.<br \/> Subito entro: scosso da un intenso clamore,<br \/> deciso a tremare nel ricordo,<br \/> a consumare la gloria del mio gesto.<br \/> Entro nell'arena, all'ultimo spettacolo,<br \/> senza vita, con grigie persone,<br \/> parenti, amici, sparsi sulle panche,<br \/> prsi nell'ombra in cerchi distinti<br \/> e biancastri, nel fresco ricettacolo...<br \/> Subito, alle prime inquadrature,<br \/> mi travolge e rapisce... l'intermittence<br \/> du c\u0153ur. Mi trovo nelle scure<br \/> Vie della memoria, nelle stanze<br \/> Misteriose dove l'uomo fisicamente \u00e8 altro,<br \/> e il passato lo bagna col suo pianto...<br \/> Eppure, dal lungo uso fatto esperto,<br \/> non perdo i fili: ecco... la Casilina,<br \/> su cui tristemente si aprono<br \/> le porte della citt\u00e0 di Rossellini...<br \/> Ecco l'epico paesaggio neorealista,<br \/> coi fili del telegrafo, i selciati, i pini,<br \/> i muretti scrostati, la mistica<br \/> folla perduta nel daffare quotidiano,<br \/> le tetre forme della dominazione nazista...<br \/> Quasi emblema, ormai, l'urlo della Magnani,<br \/> sotto le ciocche disordinatamente assolute,<br \/> risuona nelle disperate panoramiche,<br \/> e nelle sue occhiaie vive e mute<br \/> si addensa il senso della tragedia.<br \/> \u00c8 l\u00ec che si dissolve e si mutila<br \/> il presente, e assorda il canto degli aedi.<\/blockquote>      <p>Per una sottile ironia, e secondo una forma di coerenza estetica e politica, il cinema \u00abNuovo\u00bb \u00e8 poi stato acquistato da Nanni Moretti, altro grande personaggio del cinema italiano engag\u00e9, che ne ha fatto il suo rifugio, trasformandolo nella celebre sala \u00abNuovo Sacher\u00bb.<\/p>      ",
+  "latLng":[
+    41.884579,
+    12.472401
+  ],
+  "date":1953,
+  "pos":1827,
+  "cat":{
+    "id":8,
+    "name":"Vita sociale et intellettuale"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"5-1",
+      "width":856,
+      "height":1200,
+      "caption":"Manifesto di Roma citt\u00e0 aperta (Roberto Rossellini, 1945)"
+    }
+  ],
+  "trello":"FLR8ypxt",
+  "lang":"it"
+}

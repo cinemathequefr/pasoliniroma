@@ -1,0 +1,27 @@
+{
+  "id":5,
+  "name":"\u201cTeatro Nuovo\u201d cinema",
+  "address":"Largo Ascianghi, 1, 00192 Roma",
+  "desc":"     <p>In 1953, Pasolini was still living in Ponte Mammolo. Although it was in the inner suburbs that he increased the encounters that would change his life, no less did he frequent the city centre and particularly Trastevere. Moreover, Pasolini would remember in his second film: it is in a restaurant in Trastevere, Meo pattaca, which still exists, that Mamma Roma succeeds, through blackmail, in getting her son Ettore hired.<\/p>      <p>These days, Trastevere is a chic district, but in '53, it was still a working-class sector where, in particular, strong anti-clerical and anti-papist feelings developed, to which Pasolini was not impervious. It was also and above all in this neighbourhood, at 1 Largo Ascianghi, at the cinema 'Teatro Nuovo', that Pasolini again saw Roberto Rossellini's <em>Rome, Open City<\/em>, an aesthetic shock that the budding filmmaker evokes in the poem 'The Religion of My Time':<\/p>      <blockquote>But what a blow to the heart when, on a washed-out<br \/>panel... I go closer, I look at the colour,<br \/>already from another era, of the heroine's warm oval face, <br \/>the heroic dirtiness of the poor faded poster.<br \/>I go in immediately: shaken by an inner clamour,<br \/>determined to tremble in memory,<br \/>to consume the glory of my gesture.<br \/>I go inside, for the last showing,<br \/>lifeless, with grey spectators,<br \/>parents, friends, scattered in the rows,<br \/>lost in the shadow in distinct, <br \/>whitish circles, in the cool receptacle...<br \/>Immediately, at the first framings,<br \/>transports and delights me... the intermittence<br \/>of the heart. I find myself in the dark<br \/>paths of memory, in the mysterious rooms <br \/>where man is physically different,<br \/>and the past bathes him in its tears...<br \/>And yet, made expert by long use,<br \/>I do not lose the threads: here... La Casilina<br \/>on which the gates of Rossellini's<br \/>city sadly open...<br \/>here is the epic neo-realistic landscape,<br \/>with the telegraph wires, paving stones, pines,<br \/>the decrepit low walls, the mystical crowd<br \/>lost in its bustling daily activity,<br \/>the dark forms of the Nazi domination...<br \/>Like an emblem, henceforth, La Magnani's scream,<br \/>under the locks in their absolute disorder,<br \/>resounds in the desperate pans,<br \/>and in her lively, silent glances<br \/>the feeling of the tragedy is concentrated.<br \/>It is there that the present dissolves and<br \/>mutilates itself, and that the song of the bards becomes unvoiced.<\/blockquote>      <p>By a gentle irony, and a form of aesthetic and political logic, the Nuovo cinema has since been bought out by Nanni Moretti, another major figure in committed Italian cinema, who has made it his landmark, the famous 'Nuovo Sacher' cinema.<\/p>      ",
+  "latLng":[
+    41.884579,
+    12.472401
+  ],
+  "date":1953,
+  "pos":1827,
+  "cat":{
+    "id":8,
+    "name":"Social and intellectual life"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"5-1",
+      "width":856,
+      "height":1200,
+      "caption":"Poster of Rome, Open City (Roberto Rossellini, 1945)"
+    }
+  ],
+  "trello":"FLR8ypxt",
+  "lang":"en"
+}

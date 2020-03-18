@@ -1,0 +1,26 @@
+{
+  "id":50,
+  "name":"Stazione Termini: l'arrivo a Roma",
+  "desc":"      <blockquote>Tu non sai a cosa si \u00e8 ridotta mia madre. Io non posso pi\u00f9 sopportare di vederla soffrire in questo modo disumano e indicibile. Ho deciso di portarla domani stesso a Roma, all'insaputa di mio padre, per affidarla a mio zio; io non potr\u00f2 stare a Roma, perch\u00e9 mio zio mi ha fatto capire che non pu\u00f2 tenermici, ma spero che per mia madre la cosa sar\u00e0 diversa. Da Roma non so dove andr\u00f2, forse a Firenze; come vedi sono in ben tristi frangenti [...]. Se dunque vorrai scrivermi qualcosa, il mio indirizzo per qualche giorno almeno, sar\u00e0: presso Gino Colussi, via Porta Pinciana, 34 Roma. Poi non so dove andr\u00f2 e cosa far\u00f2; la mia vita \u00e8 a una svolta pi\u00f9 che decisiva.<\/blockquote>      <cite>Ultima lettera scritta a Casarsa, il 27 gennaio 1950, indirizzata a Silvana Mauri<\/cite>      <p>Pasolini e la madre lasciano la casa di Casarsa il 27 gennaio 1950. Arrivano alla stazione Termini il giorno dopo, in una mattina glaciale... \u00abPovero come un gatto del Colosseo\u00bb, scriver\u00e0 in seguito in una delle sue prime e pi\u00f9 celebri poesie romane.<\/p>      ",
+  "latLng":[
+    41.898492,
+    " 12.506111"
+  ],
+  "cat":{
+    "id":1,
+    "name":"Case, traslochi"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"50-1",
+      "width":1280,
+      "height":885,
+      "caption":"Stazione Termini, Roma"
+    }
+  ],
+  "date":"1950-01-28",
+  "pos":758,
+  "trello":"LsZjg4gU",
+  "lang":"it"
+}

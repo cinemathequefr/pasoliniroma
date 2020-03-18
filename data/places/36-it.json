@@ -1,0 +1,31 @@
+{
+  "id":36,
+  "name":"Fiumicino",
+  "desc":"      <p><em>Uccellacci e uccellini<\/em> non \u00e8 un film sui quartieri romani, come potevano essere <a href=\"#!\/it\/map\/16\"><em>Accattone<\/em><\/a> o <a href=\"#!\/it\/map\/61\"><em>Mamma Roma<\/em><\/a>. Il terzo film di Pasolini disegna piuttosto delle linee di fuga. Nel pieno dei turbolenti anni sessanta, i due eroi, interpretati da Tot\u00f2 e Ninetto Davoli, si allontanano sempre pi\u00f9 dal centro per muoversi da un punto all'altro della periferia romana: le baraccopoli in mezzo alle quali spuntano poveri edifici di cemento, il grande cantiere del raccordo anulare, i pochi resti della campagna e delle fattorie, destinati a scomparire in fretta.<\/p>      <p>In tal modo il regista mostra una Roma in piena trasformazione non solo dal punto di vista ideologico, politico e intellettuale, ma anche fisico: una capitale che sta per \"colonizzare\" la campagna e il resto d'Italia. Filmando il raccordo anulare e l'autostrada per Fiumicino (l'aeroporto fu costruito per le Olimpiadi del 1960), Pasolini descrive la sua Roma come una citt\u00e0 dal cui futuro deve ormai fuggire il pi\u00f9 lontano possibile, andando magari a cercare un'alternativa nel terzo mondo: Cuba, Istanbul, Africa, Asia...<\/p>      ",
+  "latLng":[
+    41.764141,
+    12.238770
+  ],
+  "pos":6482,
+  "cat":{
+    "id":6,
+    "name":"Uccellacci e uccellini"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"36-1",
+      "width":1600,
+      "height":1155,
+      "caption":"Tot\u00f2, Ninetto Davoli e Pier Paolo Pasolini sul set di Uccellacci e uccellini",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2381579825001, "vimeo":245388089,
+      "wide":1,
+      "caption":"Da Uccellacci e uccellini (Pier Paolo Pasolini, 1966)"
+    }
+  ],
+  "lang":"it"
+}

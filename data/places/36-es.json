@@ -1,0 +1,31 @@
+{
+  "id":36,
+  "name":"Fiumicino",
+  "desc":"      <p><em>Uccellacci e uccellini<\/em> ya no es una pel\u00edcula de barrios, como lo fueran <a href=\"#!\/es\/map\/16\"><em>Accattone<\/em><\/a> o <a href=\"#!\/es\/map\/61\"><em>Mamma Roma<\/em><\/a>. La tercera pel\u00edcula de Pasolini traza l\u00edneas de fuga. Los dos protagonistas, interpretados por Tot\u00f2 y Ninetto,se alejan cada vez m\u00e1s del centro para recorrer los diferentes c\u00edrculos de una periferia romana en plena transformaci\u00f3n en los a\u00f1os sesenta: los barrios de chabolas donde crecen pobres edificios de hormig\u00f3n, las grandes obras de la carretera de circunvalaci\u00f3n (el <em>anulare<\/em>), lo que queda del campo y de las granjas, destinadas a desaparecer en breve.<\/p>      <p>De este modo, el cineasta ense\u00f1a una Roma en plena transformaci\u00f3n, no solo ideol\u00f3gica, pol\u00edtica e intelectual, sino tambi\u00e9n f\u00edsica. Una capital que est\u00e1 \u00abcolonizando\u00bb el campo y el resto de Italia. Al filmar la carretera de circunvalaci\u00f3n, la autopista que lleva a Fiumicino (el aeropuerto construido para los Juegos Ol\u00edmpicos de 1960), Pasolini describe su ciudad como una urbe de cuyo devenir, de aqu\u00ed en adelante, tendr\u00e1 que huir viajando lo m\u00e1s lejos posible, al Tercer Mundo, buscando una alternativa: Cuba, Estambul, \u00c1frica, Asia\u2026<\/p>      ",
+  "latLng":[
+    41.764141,
+    12.238770
+  ],
+  "pos":6482,
+  "cat":{
+    "id":6,
+    "name":"Uccellacci e uccellini"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"36-1",
+      "width":1600,
+      "height":1155,
+      "caption":"Tot\u00f2, Ninetto Davoli y Pier Paolo Pasolini durante el rodaje de Uccellacci e uccellini",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2381579825001, "vimeo":245388089,
+      "wide":1,
+      "caption":"Fragmento de Uccellacci e uccellini (Pier Paolo Pasolini, 1966)"
+    }
+  ],
+  "lang":"es"
+}

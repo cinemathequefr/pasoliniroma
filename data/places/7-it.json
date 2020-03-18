@@ -1,0 +1,34 @@
+{
+  "id":7,
+  "name":"Monteverde Vecchio, via Giacinto Carini, 45",
+  "address":"Via Giacinto Carini, 45, 00152 Roma",
+  "desc":"      <p>Attilio Bertolucci era un grande poeta che Pasolini conosceva e ammirava gi\u00e0 prima del suo arrivo a Roma. I due si erano conosciuti in Emilia-Romagna (Attilio era originario di Parma, Pasolini di Bologna, e tra le due citt\u00e0 ci sono 100 chilometri).<\/p>      <p>Negli anni cinquanta, la famiglia Bertolucci vive a Monteverde Vecchio, poco distante da <a href=\"#!\/it\/map\/6\">Monteverde Nuovo<\/a>. E proprio a via Giacinto Carini 45, Pasolini incontra per la prima volta il giovane figlio di Attilio, Bernardo Bertolucci. Quest'ultimo ha raccontato spesso come in quella prima occasione avesse scambiato Pasolini per un ladro e l'avesse lasciato sul pianerottolo davanti alla porta, fino a quando il padre gli disse: \u00abCorri ad aprire la porta, Pasolini \u00e8 un bravissimo poeta!\u00bb Inizia cos\u00ec un rapporto di iniziazione in cui Pasolini suscita in Bernardo la vocazione per il cinema e lo accompagna nel suo percorso. Qualche anno dopo, nel 1962, Pasolini proporr\u00e0 a Bernardo Bertolucci di fargli da aiuto regista nel suo primo film, <a href=\"#!\/it\/map\/16\"><em>Accattone<\/em><\/a>. Bertolucci inizialmente rifiuta, \u00e8 spaventato dalla propria inesperienza e spiega a Pasolini <em>\u00abNon l'ho mai fatto, non lo so fare\u00bb<\/em>, ma Pasolini replica: <em>\u00abNeanch'io\u00bb<\/em>.<\/p>      <p>A 21 anni Bernardo Bertolucci girer\u00e0 il suo primo lungometraggio, <em>La Commare secca<\/em>, basato su un soggetto scritto da Pasolini prima di <em>Accattone<\/em>, da lui involontariamente ereditato.<\/p>      <p>Nel 1959, Pasolini si trasferisce col padre e la madre nello stesso palazzo di via Carini.<\/p>      ",
+  "latLng":[
+    41.883453,
+    12.461021
+  ],
+  "date":1959,
+  "pos":4168,
+  "cat":{
+    "id":1,
+    "name":"Case, traslochi"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"7-1",
+      "width":1496,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini nel suo appartamento di Monteverde Vecchio, via Giacinto Carini, 45"
+    },
+    {
+      "type":"img",
+      "id":"7-2",
+      "width":749,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini e la madre nell'appartamento di Monteverde Vecchio, via Giacinto Carini, 45"
+    }
+  ],
+  "trello":"WVHaNWAV",
+  "lang":"it"
+}

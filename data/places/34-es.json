@@ -1,0 +1,72 @@
+{
+  "id":34,
+  "name":[
+    "Acqua Santa",
+    "Parco de la Acqua Santa"
+  ],
+  "desc":"      <p><em>La Ricotta<\/em> se film\u00f3 en los mismos decorados que <a href=\"#!\/es\/map\/28\">la segunda parte de <em>Mamma Roma<\/em><\/a>: los barrios de Cecafumo, de Cinecitt\u00e0, y m\u00e1s concretamente, la zona llamada de Acqua Santa, con ruinas de la Antig\u00fcedad.<\/p>      <p>Durante el rodaje, Pier Paolo Pasolini conoce a un chico de los <em>borgate<\/em>, Ninetto Davoli, aprendiz de carpintero, que ser\u00e1 el gran amor de su vida y dar\u00e1 mucha alegr\u00eda y diversi\u00f3n a su existencia. A partir de ese momento, Ninetto le acompa\u00f1a habitualmente en sus viajes y en sus pel\u00edculas, en las que interpreta papeles de \u00e1ngel inocente de pelo rizado.<\/p>      <p>En cuanto a la pel\u00edcula, es un esc\u00e1ndalo may\u00fasculo. Durante el estreno de <em>RoGoPaG<\/em> el 1 de marzo de 1963, la proyecci\u00f3n se ve interrumpida por la llegada de un carabinero enviado por el procurador de Roma. Raz\u00f3n aducida: la historia de <em>La Ricotta<\/em> ultraja la religi\u00f3n de Estado con algunas de sus escenas que se supone aluden a la Pasi\u00f3n de Cristo en tono jocoso. <a href=\"#!\/es\/map\/29\">Un juicio<\/a> se abre entonces contra Pasolini que, aunque respaldado por importantes abogados, prefiere encargarse de su propia defensa. En un clima de gran tensi\u00f3n pol\u00edtica, en un contexto cultural y religioso en plena mutaci\u00f3n, la inculpaci\u00f3n de Pasolini suscita debates, art\u00edculos, movimientos de opini\u00f3n contra la censura y numerosas pol\u00e9micas, que van mucho m\u00e1s all\u00e1 de la personalidad del director. No obstante, la Comisi\u00f3n de Censura del Vaticano no ha condenado la pel\u00edcula. Pasolini quiso a toda costa defenderse en persona de las acusaciones dirigidas contra su pel\u00edcula, y lo hizo en un texto argumentado punto por punto, en el que declara que <em>\u00abla historia de la Pasi\u00f3n es la m\u00e1s grande que conozco\u00bb<\/em>. Con todo, algunos peri\u00f3dicos cat\u00f3licos publicaron cr\u00edticas favorables a la pel\u00edcula\u2026<\/p>      ",
+  "latLng":[
+    41.854092,
+    12.532825
+  ],
+  "pos":5388,
+  "cat":{
+    "id":7,
+    "name":"La Ricotta"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"34-1",
+      "width":1600,
+      "height":1093,
+      "caption":"Orson Welles durante el rodaje de La Ricotta",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    },
+    {
+      "type":"img",
+      "id":"34-2",
+      "width":1584,
+      "height":1200,
+      "caption":"Elsa Morante, Bernardo Bertolucci y Pier Paolo Pasolini durante el rodaje de La Ricotta"
+    },
+    {
+      "type":"img",
+      "id":"34-4",
+      "width":1600,
+      "height":1067,
+      "caption":"Pier Paolo Pasoliniy y Orson Welles durante el rodaje de La Ricotta",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"34-3",
+      "width":812,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini y Mario Cipriani durante el rodaje de La Ricotta",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"34-5",
+      "width":824,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini durante el rodaje de La Ricotta",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2320237572001, "vimeo":245388137,
+      "wide":1,
+      "caption":"Fragmento de La Ricotta"
+    },
+    {
+      "type":"video",
+      "id":2381452419001, "vimeo":245388311,
+      "wide":0,
+      "caption":"Fragmento de Pasolini l'enrag\u00e9 (Jean-Andr\u00e9 Fieschi, 1966)",
+      "rights":"\u00a9 INA"
+    }
+  ],
+  "lang":"es"
+}

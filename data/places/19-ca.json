@@ -1,0 +1,42 @@
+{
+  "id":19,
+  "name":"Ponte Testaccio",
+  "desc":"      <p>La producci\u00f3 de la primera pel\u00b7l\u00edcula de Pasolini no va ser tan simple i r\u00e0pida com li hauria agradat. En un principi <em>Accattone<\/em> havia de ser produ\u00efda per Federico Fellini, que despr\u00e9s del triomf de <a href=\"#!\/ca\/map\/9\"><em>La Dolce vita<\/em><\/a> ambicionava convertir-se en productor. Despr\u00e9s de diverses collaboracions satisfact\u00f2ries com a guionista, a Pasolini li va agradar molt la idea de tornar a treballar amb el seu amic. Per\u00f2 el projecte va fracassar: despr\u00e9s de veure les primeres preses Fellini va considerar que el poeta Pasolini s'equivocava en voler convertir-se en cineasta. La desillusi\u00f3 de Pasolini va ser enorme, tot i que no va entelar l'amistat entre els dos homes. Despr\u00e9s del rebuig de Fellini, Pasolini fa el seu primer viatge a l'\u00c0frica per \u00abcurar la seva ferida narcisista\u00bb.<\/p>      <p>Fellini va admetre despr\u00e9s que havia com\u00e8s un error de judici, i va animar Pasolini amb una visita al lloc del rodatge. A m\u00e9s, li va donar un suport  apassionat en el convuls moment de <a href=\"#!\/ca\/map\/60\">l'estrena de la pel\u00b7l\u00edcula.<\/a><\/p>      <p>Finalment, Alfredo Bini, un productor jove que aleshores era pr\u00e0cticament desconegut, pren el relleu de la producci\u00f3 i ajuda Pasolini. Els dies de rodatge s'enllacen un rere l'altre amb calma fins arribar a les \u00faltimes escenes, rodades al Testaccio, on la pel\u00b7l\u00edcula acaba tr\u00e0gicament. El lloc no \u00e9s cap casualitat: sector popular utopista creat per Ernesto Nathan, <a href=\"#!\/ca\/map\/15\">\u00faltim estatge de Gramsci<\/a>, barri de la inf\u00e0ncia d'Elsa Morante , el barri del Testaccio \u00e9s un dels m\u00e9s emblem\u00e0tics de la Roma pasoliniana.<\/p>      ",
+  "latLng":[
+    41.875373,
+    " 12.470834"
+  ],
+  "date":1961,
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"19-1",
+      "width":1626,
+      "height":1200,
+      "caption":"Visita de Federico Fellini durant el rodatge d'Accattone",
+      "rights":"\u00a9 Tazio Secchiaroli \/ David Secchiaroli"
+    },
+    {
+      "type":"img",
+      "id":"19-2",
+      "width":1642,
+      "height":1200,
+      "caption":"Visita de Federico Fellini durant el rodatge d'Accattone",
+      "rights":"\u00a9 Tazio Secchiaroli \/ David Secchiaroli"
+    },
+    {
+      "type":"video",
+      "id":2380420008001, "vimeo":245388229,
+      "wide":0,
+      "caption":"Fragment d'Accattone (Pier Paolo Pasolini, 1961)",
+      "rights":"\u00a9 SNC \/ SND"
+    }
+  ],
+  "trello":"FwUxnWJv",
+  "lang":"ca"
+}

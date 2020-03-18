@@ -1,0 +1,34 @@
+{
+  "id":25,
+  "name":"Piazza Tommaso de Cristoforis",
+  "desc":"      <blockquote>Eccola laggi\u00f9 casa nostra, la vedi? Quella finestra lass\u00f9, dove batte il sole. Dove ci stanno quelle mutande stese! Lass\u00f9 all'ultimo piano. Oh, ma guarda che qua ci stiamo solo un altro po' di giorni eh! Poi vedrai in che casa ti porta tua madre... Vedrai quanto \u00e8 bella... Proprio una casa di gente perbene, di signori. Tutto un quartiere di un altro rango.<\/blockquote>      <cite><em>Mamma Roma<\/em><\/cite>      <p>Con il suo secondo film (ma anche con <a href=\"#!\/it\/map\/16\"><em>Accattone<\/em><\/a>), il regista prende decisamente le distanze dall'eredit\u00e0 naturalista dei suoi maestri <a href=\"#!\/it\/map\/5\">Roberto Rossellini<\/a> e Vittorio De Sica, poich\u00e9 ritiene che il loro stile neorealista corrisponda a una visione del mondo che nei primi anni sessanta \u00e8 ormai completamente superata. Pasolini assume una posizione radicalmente opposta e vuole infondere grandeur e poesia in queste aree urbane precarie, improvvisate e disprezzate da architetti e urbanisti.<\/p>      ",
+  "latLng":[
+    41.900578,
+    12.534721
+  ],
+  "date":1962,
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"25-1",
+      "width":1600,
+      "height":1055,
+      "caption":"Ettore Garofolo, Anna Magnani e Pier Paolo Pasolini sul set di Mamma Roma",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2324676534001, "vimeo":245388148,
+      "wide":1,
+      "caption":"Da Mamma Roma (Pier Paolo Pasolini, 1962)",
+      "rights":"\u00a9 Mediaset"
+    }
+  ],
+  "trello":"fSElUnPG",
+  "lang":"it"
+}

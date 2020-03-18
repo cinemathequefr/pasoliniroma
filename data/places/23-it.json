@@ -1,0 +1,25 @@
+{
+  "id":23,
+  "name":"Via Sagunto",
+  "desc":"      <blockquote>\u00c8 bella la nostra casa nuova, eh? Che ti diceva tua madre?<\/blockquote>      <cite><em>Mamma Roma<\/em><\/cite>      <p>Per riscattarsi ed elevare il suo status sociale, Mamma Roma punta al quartiere INA-casa, al Tuscolano. Quest'area, manifesto del razionalismo urbano italiano, era stata creata nel 1961 grazie alla legge Fanfani per l'edilizia sociale. Ma i nuovi complessi moderni non avevano per nulla risolto i problemi sociali e il trasloco nel nuovo quartiere non impedir\u00e0 a Ettore di finire tragicamente. <em>\u00abAlcune scelte urbanistiche e sociali hanno conseguenze pesanti per i pi\u00f9 poveri, e il progresso materiale portato dalla modernit\u00e0 \u00e8 solo un'illusione. La sventura, spiega Pasolini nel suo film, non deriva necessariamente dal fatto che il Capitale impoverisce, ma dal fatto che il benessere materiale si accompagna a una perdita di umanit\u00e0.\u00bb<\/em> (Eugenio Renzi)<\/p>      ",
+  "latLng":[
+    41.857861,
+    12.551314
+  ],
+  "pos":5203,
+  "cat":{
+    "id":5,
+    "name":"Mamma Roma"
+  },
+  "m":[
+    {
+      "type":"video",
+      "id":2381358462001, "vimeo":245388274,
+      "wide":1,
+      "caption":"Da Mamma Roma (Pier Paolo Pasolini, 1962)",
+      "rights":"\u00a9 Mediaset"
+    }
+  ],
+  "trello":"kBTK9evY",
+  "lang":"it"
+}

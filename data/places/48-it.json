@@ -1,0 +1,34 @@
+{
+  "id":48,
+  "name":"A casa di Alberto Moravia ed Elsa Morante, via dell'Oca 27",
+  "address":"Via dell'Oca, 27, 00186 Roma",
+  "desc":"      <p>A questo indirizzo Pier Paolo Pasolini ritrova i suoi amici veri: gli scrittori Elsa Morante e Alberto Moravia, conosciuti nel 1955. Questi due protagonisti della vita intellettuale italiana hanno trasformato il loro appartamento \u2013 in cui vivranno fino alla separazione, nel 1962 \u2013&nbsp;in uno dei centri culturali pi\u00f9 vivi della citt\u00e0. Qui si stabilisce tra i tre un'incrollabile complicit\u00e0 fatta di emulazione ideologica, di discussioni sullo stato della societ\u00e0 italiana, e di apertura al mondo. I tre visiteranno l'Africa e l'India, e i resoconti di questi viaggi daranno vita alla pubblicazione, pochi anni dopo, de <em>L'Odore dell'India<\/em>.<\/p>      <p>A suo padre che insisteva perch\u00e9 andasse all'universit\u00e0, Bernardo Bertolucci rispose deciso: <em>\u00abLa mia universit\u00e0 \u00e8 andare a cena ogni sera da Elsa Morante e Alberto Moravia con Pier Paolo Pasolini\u00bb<\/em>.<\/p>      ",
+  "latLng":[
+    41.909791,
+    12.475802
+  ],
+  "cat":{
+    "id":8,
+    "name":"Vita sociale et intellettuale"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"48-1",
+      "width":1082,
+      "height":1200,
+      "caption":"Elsa Morante nel suo appartamento di via dell'Oca 27",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    },
+    {
+      "type":"img",
+      "id":"48-2",
+      "width":907,
+      "height":1200,
+      "caption":"Alberto Moravia, Pier Paolo Pasolini e Roberto Rossellini",
+      "rights":"\u00a9 Fotoarchivi & Multimedia"
+    }
+  ],
+  "trello":"imyf2duA",
+  "lang":"it"
+}

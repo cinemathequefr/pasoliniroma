@@ -1,0 +1,39 @@
+{
+  "id":13,
+  "name":"Fiaschetteria Beltramme (Chez Cesaretto)",
+  "address":"Via della Croce, 39, Roma",
+  "desc":"      <p>C'est dans ce restaurant qu'a \u00e9t\u00e9 prise la c\u00e9l\u00e8bre photo montrant Alberto Moravia, Pier Paolo Pasolini et Laura Betti d\u00eenant ensemble. La <em>fiaschetteria<\/em> Beltramme est un autre symbole de la vie culturelle \u2013&nbsp;et culinaire&nbsp;\u2013 romaine, un lieu mythique o\u00f9 l'on pouvait aussi bien croiser Pasolini que Curzio Malaparte, Giorgio Bassani ou Francesco Rosi.<\/p>      <p>C'\u00e9tait aussi le lieu de pr\u00e9dilection de sc\u00e9naristes italiens c\u00e9l\u00e8bres, d'hommes politiques majeurs comme Sandro Pertini et Luigi Einaudi, ou encore d'acteurs et actrices...<\/p>      <blockquote>Il y avait, par exemple, Zeffirelli, Bolognini, Piero Tosi, Mario Missiroli, Laura Betti, Adriana Asti, et parfois Pasolini, car il travaillait avec Bolognini. C'est l\u00e0 que j'ai rencontr\u00e9 \u00e0 peu pr\u00e8s tout le monde. C'\u00e9taient tous de jeunes cin\u00e9astes, de jeunes sc\u00e9nographes, de jeunes sc\u00e9naristes, et cela explique aussi toute cette effervescence, cette floraison de trouvailles, de mots d'esprit&nbsp;; je me souviens par exemple que quand nous sortions de table, vers trois heures de l'apr\u00e8s-midi, les rues \u00e9taient presque d\u00e9sertes, tout le centre de Rome dormait, et nous \u00e9tions libres de chantonner <em>\u00ab&nbsp;le tre del pomeriggio, \u00e8 l'ora del dileggio&nbsp;\u00bb [\u00ab&nbsp;trois heures de l'apr\u00e8s-midi, c'est l'heure de la moquerie&nbsp;\u00bb]<\/em> sur la Piazza di Spagna. On allait au cin\u00e9ma ou aux premi\u00e8res th\u00e9\u00e2trales avec nos amis de la via Veneto, Chiaromonte et \u00ab&nbsp;Lele&nbsp;\u00bb D'Amico, puis on allait d\u00eener, et ensuite chez <a href=\"#!\/fr\/map\/8\">Rosati<\/a>, selon des horaires presque espagnols. On se couchait vers deux ou trois heures du matin.<\/blockquote>      <cite>Alberto Arbasino, interview\u00e9 par Gianni Borgna en octobre 2012<\/cite>      ",
+  "latLng":[
+    41.906246,
+    12.479922
+  ],
+  "date":1961,
+  "cat":{
+    "id":8,
+    "name":"Vie sociale et intellectuelle"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"13-1",
+      "width":1600,
+      "height":1056,
+      "caption":"Alberto Moravia, Pier Paolo Pasolini et Laura Betti d\u00eenant \u00e0 la Fiaschetteria Beltramme",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    },
+    {
+      "type":"img",
+      "id":"13-2",
+      "width":1600,
+      "height":1065,
+      "caption":"Alberto Moravia, Pier Paolo Pasolini et Laura Betti d\u00eenant \u00e0 la Fiaschetteria Beltramme",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    }
+  ],
+  "pos":4868,
+  "comment":{
+    
+  },
+  "trello":"imyf2duA",
+  "lang":"fr"
+}

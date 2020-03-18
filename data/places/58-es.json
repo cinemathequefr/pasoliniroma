@@ -1,0 +1,36 @@
+{
+  "id":58,
+  "name":"Casa de Sandro Penna, via delle Mole D\u00e8 Fiorentini",
+  "address":"Via delle Mole D\u00e8 Fiorentini, 00186 Roma",
+  "desc":"      <blockquote>Las orillas del T\u00edber, negras por la orina, el Jan\u00edculo con sus putas, el puerto negro por la mierda y los condones, la Ciriola con sus chicos, a quienes todo les da igual y que se entregan con solo una mirada, componen la Roma de Pasolini en los a\u00f1os cincuenta, visionaria y musical.<\/blockquote>      <cite>Nico Naldini, bi\u00f3grafo y primo de Pasolini<\/cite>      <p>Despu\u00e9s de los amores vividos con cautela y disimulaci\u00f3n en Friul, Pier Paolo Pasolini descubre la sexualidad libre e instant\u00e1nea con los <em>ragazzi<\/em> de Roma. En compa\u00f1\u00eda principalmente de Sandro Penna, escritor de las emociones amorosas masculinas, frecuenta las riberas del T\u00edber. El r\u00edo se convierte en uno de sus referentes simb\u00f3licos y po\u00e9ticos.<\/p>      <p>En agosto de 1957, Sandro Penna gana el Premio Viareggio con <em>Poes\u00eda<\/em>. Comparte este premio con... Pier Paolo Pasolini, ganador ex aequo con <em>Las cenizas de Gramsci<\/em>.<\/p>      ",
+  "latLng":[
+    41.900121,
+    12.464616
+  ],
+  "date":1957,
+  "pos":3499,
+  "cat":{
+    "id":8,
+    "name":"Vida social e intelectual"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"58-1",
+      "width":1600,
+      "height":1184,
+      "caption":"Sandro Penna",
+      "rights":"\u00a9 Contrasto"
+    },
+    {
+      "type":"img",
+      "id":"58-2",
+      "width":821,
+      "height":1200,
+      "caption":"Sandro Penna",
+      "rights":"\u00a9 Contrasto"
+    }
+  ],
+  "lang":"es"
+}

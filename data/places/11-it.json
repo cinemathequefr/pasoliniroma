@@ -1,0 +1,27 @@
+{
+  "id":11,
+  "name":"A casa di Laura Betti, via di Montoro, 8",
+  "address":"Via di Montoro, 8, 00186 Roma",
+  "pos":9078,
+  "desc":"      <p>In seguito Laura Betti si trasfer\u00ec in via di Montoro 8. \u00c8 a pochi isolati da questo secondo appartamento, a <a href=\"#!\/it\/map\/52\">Campo de' Fiori<\/a>, che saranno celebrati i funerali di Pier Paolo Pasolini.<\/p>      <p>La casa di via di Montoro, con la sua bella terrazza e l'ascensore che dava direttamente nel soggiorno, \u00e8 stato l'ultimo \u00absalotto\u00bb degli intellettuali romani: nessuno avrebbe mai osato rifiutare un invito \u00abdella Betti\u00bb a mangiare gli spaghetti che lei stessa cucinava per gli ospiti. Gli scrittori, gli intellettuali di passaggio e tutto il cinema italiano ha partecipato a queste informali serate.<\/p>      <p>Dopo la morte dell'amico, Laura Betti si dedicher\u00e0 a conservarne la memoria, dirigendo il Fondo Pier Paolo Pasolini fino alla morte, avvenuta nel 2004.<\/p>      ",
+  "latLng":[
+    41.896221,
+    12.469907
+  ],
+  "cat":{
+    "id":8,
+    "name":"Vita sociale et intellettuale"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"11-1",
+      "width":1570,
+      "height":1048,
+      "caption":"Laura Betti nel suo secondo appartamento in via di Montoro",
+      "rights":"\u00a9 Gabinetto Vieusseux"
+    }
+  ],
+  "trello":"dkewYSAJ",
+  "lang":"it"
+}

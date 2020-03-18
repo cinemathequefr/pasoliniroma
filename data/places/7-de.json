@@ -1,0 +1,34 @@
+{
+  "id":7,
+  "name":"Monteverde Vecchio, via Giacinto Carini, 45",
+  "address":"Via Giacinto Carini, 45, 00152 Roma",
+  "desc":"      <p>Attilio Bertolucci war ein bedeutender Dichter, den Pier Paolo Pasolini schon als solchen erkannt und bewundert hatte, bevor er nach Rom kam. Die beiden M\u00e4nner hatten sich in der Emilia-Romagna kennengelernt (Attilio kam aus Parma, Pasolini aus Bologna, die beiden St\u00e4dte sind 100 km voneinander entfernt).<\/p>      <p>In den 50er Jahren wohnt die Familie Bertolucci in Monteverde Vecchio, in unmittelbarer N\u00e4he von <a href=\"#!\/de\/map\/6\">Monteverde Nuovo<\/a>. Eben dort, in der Via Giacinto Carini 45, begegnet Pasolini Attilios jungem Sohn, Bernardo Bertolucci, zum ersten Mal. Dieser gab oft die Geschichte zum besten, wie er Pasolini, den er f\u00fcr einen Dieb hielt, auf dem Treppenabsatz vor der T\u00fcr stehen lie\u00df, bis sein Vater sagte: <em>\u201eSchnell, hol ihn rein, er ist ein gro\u00dfer Dichter\u201c.<\/em> Dies ist der Anfang einer Initiationsbeziehung, in der Pasolini in Bernardo Bertolucci die Berufung zum Filmemachen weckt und ihn auf seinem Weg begleitet. Wenige Jahre sp\u00e4ter, 1962, bietet er Bernardo Bertolucci an, Regieassistent bei seinen ersten Film <a href=\"#!\/de\/map\/16\"><em>Accattone<\/em><\/a> (<em>Accattone \u2013 wer nie sein Brot mit Tr\u00e4nen a\u00df<\/em>) zu sein. Aus Angst vor seiner eigenen Unerfahrenheit lehnt Bertolucci zun\u00e4chst ab und erkl\u00e4rt Pasolini, er habe so etwas noch nie gemacht und k\u00f6nne das nicht. Worauf Pasolini erwidert: <em>\u201eIch auch nicht\u201c.<\/em><\/p>      <p>Bernardo Bertolucci dreht mit 21 Jahren seinen ersten langen Spielfilm, <em>La Commare secca<\/em> (<em>Die d\u00fcrre Gevatterin<\/em>), nach einem Exposee von Pasolini, das vor <em>Accattone<\/em> entstand und das er unverhofft von ihm \u00fcbernehmen darf.<\/p>      <p>1959 ziehen Pasolini, sein Vater und seine Mutter in eben dieses Haus in der Via Carini.<\/p>      ",
+  "latLng":[
+    41.883453,
+    12.461021
+  ],
+  "date":1959,
+  "pos":4168,
+  "cat":{
+    "id":1,
+    "name":"H\u00e4user"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"7-1",
+      "width":1496,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini in seiner Wohnung in Monteverde Vecchio, Via Giacinto Carini 45"
+    },
+    {
+      "type":"img",
+      "id":"7-2",
+      "width":749,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini und seine Mutter in ihrer Wohnung in Monteverde Vecchio, Via Giacinto Carini 45"
+    }
+  ],
+  "trello":"WVHaNWAV",
+  "lang":"de"
+}

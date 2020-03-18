@@ -1,0 +1,50 @@
+{
+  "id":17,
+  "name":"Via dei Gordiani",
+  "desc":"      <p>The choice of Pigneto for shooting <em>Accattone<\/em> was no coincidence. Villa Gordiani is located a few blocks from via Montecuccoli. It was in this street, far from the traditional studios of Cinecitt\u00e0, that, a few years earlier, Rossellini had shot his <em>Rome, Open City<\/em> \u2013 in particular the scene of Anna Magnani's death on which Pasolini wrote a poem after seeing the film again after his arrival in Rome, at the <a href=\"#!\/en\/map\/5\">\u201cTeatro Nuovo\u201d cinema<\/a>. The cinematic heritage is coupled with a geographical reference: only some dozen metres separate the shooting locations of the two films.<\/p>      <p>These days, Pigneto has changed considerably, having become a fashionable neighbourhood, swarming with painters and young artists.<\/p>      <blockquote>On a miserable road, surrounded by shacks, old cottages, full of tattered little kids, under a furious sun, a sad, desolate bell tolled the knell.<br \/>Accattone advanced down the road pummeled by the sun.<br \/>He truly was an accattone [beggar], in a singlet with dusty trousers.<br \/>Around his neck, there was no longer the thick gold chain.<br \/>On his fingers, there was no longer a ring either.<br \/>On his wrist there was no longer a bracelet or a watch. Naked as a worm.<br \/>He walked down the empty, blinding road, under the bell tolling the knell.<\/blockquote>      <cite>Excerpt from the script<\/cite>      ",
+  "latLng":[
+    41.886129,
+    12.554196
+  ],
+  "date":1961,
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"17-2",
+      "width":1600,
+      "height":987,
+      "caption":"View of via dei Gordiani",
+      "rights":"\u00a9 Carlo Riccardi \/ Archivio Riccardi"
+    },
+    {
+      "type":"img",
+      "id":"17-1",
+      "width":1600,
+      "height":1104,
+      "caption":"Franco Citti and Pier Paolo Pasolini during a recess, on the set of Accattone",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"17-3",
+      "width":1600,
+      "height":1070,
+      "caption":"Franco Citti and Pier Paolo Pasolini on the set of Accattone",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2380419919001, "vimeo":245388189,
+      "wide":0,
+      "caption":"Excerpt from Accattone (Pier Paolo Pasolini, 1961)",
+      "rights":"\u00a9 SNC \/ SND"
+    }
+  ],
+  "trello":"iWfW5w7g",
+  "lang":"en"
+}

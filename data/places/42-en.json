@@ -1,0 +1,32 @@
+{
+  "id":42,
+  "name":"Torpignattara district",
+  "desc":"      <p>Before his death, Pasolini began writing a monumental work, which he himself described as a sort of testament, a recapitulation of his whole artistic, professional and personal life. This was <em>Petrolio<\/em>. The long chapter \"La visione del Merda\" is set in the working-class neighbourhood of Torpignattara, in the southern part of the city, between via Casilina and via Prenestina.<\/p>      <p>Pasolini's murder put a premature end to the writing of <em>Petrolio<\/em>. For years, the manuscript remained a rough draft, the public knowing nothing of its existence. Through his book, Pasolini was thinking of a rereading of the History of modern Italy, in particular with the ENI scandal involving the large Italian oil company whose founder, Enrico Mattei, was murdered, surely because of his policy of openness towards the Third World. This case was the subject of Francesco Rosi's film <em>The Mattei Affair<\/em>, with Gian Maria Volont\u00e8 in the title role.<\/p>      <p><em>Petrolio<\/em> is a complex, almost experimental book mixing philosophy with questions of domestic policy, and existential questions with ENI scandals. It is an unfinished monument of Pasolinian art and one of the rare works of that time attempting to understand Italy's situation in depth.<\/p>      <p>Indeed, Pasolini tried to unravel the tangle of massacres and political terrorist attacks of his time and to decipher the common theme of all those dramas, making this a particularly scandalous book. Some have seen it as a possible cause for <a href=\"#!\/en\/map\/51\">Pasolini's murder<\/a>, which still remains largely unexplained to the present day...<\/p>      ",
+  "latLng":[
+    41.873650,
+    12.545013
+  ],
+  "pos":8766,
+  "cat":{
+    "id":2,
+    "name":"Pasolini writer"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"42-1",
+      "width":886,
+      "height":1132,
+      "caption":"Excerpt from the manuscript of Petrolio"
+    },
+    {
+      "type":"img",
+      "id":"42-2",
+      "width":835,
+      "height":1200,
+      "caption":"Cover of the French edition of Petrolio"
+    }
+  ],
+  "trello":"oG8xV8yx",
+  "lang":"en"
+}

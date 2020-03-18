@@ -1,0 +1,26 @@
+{
+  "id":50,
+  "name":"Estaci\u00f3 de Roma Termini",
+  "desc":"      <blockquote>No saps com s'ha quedat la pobra mare. No puc suportar veure-la patir d'aquesta manera inhumana i indicible. He decidit que dem\u00e0 mateix me l'emporto a Roma, a inst\u00e0ncies del pare, per deixar-la a casa de l'oncle; jo no podr\u00e9 quedar-me a Roma, perqu\u00e8 l'oncle m'ha donat a entendre que no m'hi pot tenir, per\u00f2 espero que en el cas de la mare la cosa ser\u00e0 diferent. Des de Roma no s\u00e9 on anir\u00e9, potser a Flor\u00e8ncia; com veus, estic en una situaci\u00f3 ben trista [...]. Si de totes maneres em vols escriure alguna cosa, la meva adre\u00e7a, si m\u00e9s no per uns quants dies, ser\u00e0 a casa de Gino Colussi, via Porta Pincina, 34, Roma. Despr\u00e9s no s\u00e9 on anir\u00e9 ni qu\u00e8 far\u00e9; la meva vida es troba en una cru\u00eflla m\u00e9s que decisiva.<\/blockquote>      <cite>\u00daltima carta escrita a Casarsa, el 27 de gener de 1950, dirigida a la seva amiga Silvana Mauri<\/cite>      <p>Pasolini i la mare han abandonat la casa de Casarsa el dia anterior. Arriben a l'estaci\u00f3 de Termini el 28 de gener de 1950, un mat\u00ed g\u00e8lid... <em>\u00ab M\u00e9s pobre que un gat del Colosseu \u00bb<\/em>, com escriur\u00e0 m\u00e9s tard en un dels seus primers i m\u00e9s c\u00e8lebres poemes romans.<\/p>      ",
+  "latLng":[
+    41.898492,
+    " 12.506111"
+  ],
+  "cat":{
+    "id":1,
+    "name":"Cases, mudances"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"50-1",
+      "width":1280,
+      "height":885,
+      "caption":"Estaci\u00f3 de Termini"
+    }
+  ],
+  "date":"1950-01-28",
+  "pos":758,
+  "trello":"LsZjg4gU",
+  "lang":"ca"
+}

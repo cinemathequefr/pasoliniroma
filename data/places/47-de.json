@@ -1,0 +1,28 @@
+{
+  "id":47,
+  "name":"Das Gef\u00e4ngnis Rebibbia",
+  "address":"Via Bartolo Longo, 78, 00156 Roma",
+  "desc":"      <p>In Rom gab es zwei Gef\u00e4ngnisse: Regina Coeli im Stadtzentrum bei Trastevere, und Rebibbia im Vorort Ponte Mammolo. Dieses Gef\u00e4ngnis hatte die Besonderheit, dass es gemischt war. Es lag wenige Stra\u00dfen entfernt von <a href=\"#!\/de\/map\/3\">der Wohnung der Familie Pasolini<\/a>.<\/p>      <p>In dem Gedicht \u201eDie Klage des Baggers\u201c aus <em>Le Ceneri di Gransci<\/em> (<em>Gramsci's Asche<\/em>) schreibt Pier Paolo Pasolini wehm\u00fctig \u00fcber Ponte Mammolo und Rebibbia, wobei das Gef\u00e4ngnis eine Metonymie ist f\u00fcr das proletarische Viertel, in dem er wohnt.<\/p>      <blockquote class=\"de\">Ich entkleide mich in einem der tausend Zimmer,<br \/>in denen man schl\u00e4ft in der Via Fonteiana.<br \/>Du kannst alles umgraben, Zeit: Hoffnung<br \/>und Leidenschaft. Aber nicht diese reinen<br \/>Formen des Lebens... Auf sie<br \/>f\u00e4llt der Mensch zur\u00fcck, wenn Erfahrung<br \/>und Zutrauen zur Welt in ihm<br \/>sich erf\u00fcllen... Ach, ihr Tage von Rebibbia,<br \/>die ich verloren w\u00e4hnte im Lichte<br \/>der Not, und die ich euch nun so frei wei\u00df!<\/blockquote>      <p>Durch einen Zeitungsartikel \u00fcber den tragischen Tod des jungen H\u00e4ftlings Marcello Elisei in Rebibbia, der auf eine Pritsche gefesselt starb, kommt Pasolini die Idee zu <a href=\"#!\/de\/map\/61\"><em>Mamma Roma<\/em><\/a>. 2011 drehten die Br\u00fcder Taviani <em>Cesare deve morire<\/em> (<em>C\u00e4sar muss sterben<\/em>) im Gef\u00e4ngnis von Rebibbia. Der Film erhielt 2012 den Goldenen B\u00e4ren der Berlinale in Berlin.<\/p>      ",
+  "latLng":[
+    41.93669,
+    " 12.570669"
+  ],
+  "date":1951,
+  "pos":1338,
+  "cat":{
+    "id":2,
+    "name":"Pasolini Schriftsteller"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"47-1",
+      "width":1000,
+      "height":999,
+      "caption":"Das Gef\u00e4ngnis Rebibbia",
+      "rights":"\u00a9 Archivio dell'Immagine di Cesena"
+    }
+  ],
+  "trello":"EuZbfoUn",
+  "lang":"de"
+}

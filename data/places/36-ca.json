@@ -1,0 +1,31 @@
+{
+  "id":36,
+  "name":"Fiumicino",
+  "desc":"      <p><em>Uccellacci e uccellini<\/em> ja no \u00e9s una pel\u00b7l\u00edcula de barris, com ho van ser <a href=\"#!\/ca\/map\/16\"><em>Accattone<\/em><\/a> i <a href=\"#!\/ca\/map\/61\"><em>Mamma Roma<\/em><\/a>. La tercera pel\u00b7l\u00edcula de Pasolini tra\u00e7a l\u00ednies de fuga. Els dos protagonistes, interpretats per Tot\u00f2 i Ninetto, s'allunyen cada cop m\u00e9s del centre per rec\u00f3rrer els diferents cercles d'una perif\u00e8ria romana en plena transformaci\u00f3 en els anys seixanta: els barris de barraques on creixen edificis de formig\u00f3, les grans obres de la carretera de circumvallaci\u00f3 (l'<em>anulare<\/em>), el que queda del camp i de les granges, destinades a desapar\u00e8ixer ben aviat.<\/p>      <p>D'aquesta manera, el cineasta ensenya una Roma en plena transformaci\u00f3, no nom\u00e9s ideol\u00f2gica, pol\u00edtica i intel\u00b7lectual, sin\u00f3 tamb\u00e9 f\u00edsica. Una capital que est\u00e0 \u00abcolonitzant\u00bb el camp i la resta d'It\u00e0lia. En filmar la carretera de circumvallaci\u00f3, l'autopista que porta a Fiumicino (l'aeroport constru\u00eft per als Jocs Ol\u00edmpics de 1960), Pasolini descriu la seva ciutat com una urbs de la qual d'ara endavant haur\u00e0 de fugir, viatjant el m\u00e9s lluny possible, al Tercer M\u00f3n, buscant una alternativa: Cuba, Istanbul, \u00c0frica, \u00c0sia...<\/p>      ",
+  "latLng":[
+    41.764141,
+    12.238770
+  ],
+  "pos":6482,
+  "cat":{
+    "id":6,
+    "name":"Uccellacci e uccellini"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"36-1",
+      "width":1600,
+      "height":1155,
+      "caption":"Tot\u00f2, Ninetto Davoli i Pier Paolo Pasolini durant el rodatge de Uccellacci e uccellini",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2381579825001, "vimeo":245388089,
+      "wide":1,
+      "caption":"Fragment de Uccellacci e uccellini (Pier Paolo Pasolini, 1966)"
+    }
+  ],
+  "lang":"ca"
+}

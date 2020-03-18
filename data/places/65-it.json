@@ -1,0 +1,25 @@
+{
+  "id":65,
+  "name":"Via Casilina Vecchia (Ponte Casilino): Le Mille e una notte",
+  "desc":"      <p>Prendete le strade secondarie seguendo \u017dilda, artista di strada originaria di Rennes, i cui collages evocano i fantasmi di Pasolini in giro per le vie di Roma.<\/p>      ",
+  "latLng":[
+    41.886097,
+    12.526415
+  ],
+  "cat":{
+    "id":10,
+    "name":"\u017dilda"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"65-1",
+      "width":1300,
+      "height":864,
+      "caption":"Les Mille et une nuits",
+      "rights":"\u00a9 \u017dilda"
+    }
+  ],
+  "lang":"it"
+}

@@ -1,0 +1,40 @@
+{
+  "id":22,
+  "name":"Engelsbr\u00fccke",
+  "desc":"      <p>Pier Paolo Pasolinis dreht seinen ersten Film haupts\u00e4chlich in der Peripherie von Rom, doch er macht auch Abstecher ins Stadtzentrum. Die Uferb\u00f6schungen des Tibers und die Ponte Sant'Angelo dienen wieder als Filmkulisse, wie bereits sieben Jahre zuvor in Federico Fellinis <em>Lo Sceicco bianco<\/em> (<em>Der wei\u00dfe Scheich<\/em> oder <em>Die bittere Liebe<\/em>) (die Szene von Wandas missgl\u00fccktem Suizidversuch). Sie sind das Motiv der Er\u00f6ffnungssequenz.<\/p>      <p>Der Held beschlie\u00dft, von dieser Br\u00fccke mit Blick auf die Engelsburg zu springen. Ein unsinniger Mutbeweis, doch die Tat ist alles andere als grundlos. Franco Citti erinnert sich in dem Dokumentarfilm <em>A futura memoria<\/em>: Durch Accattones Sprung von der Br\u00fccke erinnert das r\u00f6mische Proletariat die Bourgeoisie der Innenstadt an seine Existenz. W\u00e4re Accattone einfach nur in seiner Vorstadt gestorben, h\u00e4tte niemand von ihm erfahren. Doch hier, im Zentrum von Rom, stellt er vor aller Augen seine elende Existenz und seinen freien Willen aus.<\/p>      ",
+  "latLng":[
+    41.901788,
+    " 12.466462"
+  ],
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"22-1",
+      "width":1600,
+      "height":1036,
+      "caption":"Foto vom Set f\u00fcr Accattone",
+      "rights":"\u00a9 Cicconi"
+    },
+    {
+      "type":"video",
+      "id":2381118286001, "vimeo":245388248,
+      "wide":0,
+      "caption":"Ausschnitt aus Accattone (Pier Paolo Pasolini, 1961)",
+      "rights":"\u00a9 SNC \/ SND"
+    },
+    {
+      "type":"video",
+      "id":2380420004001,
+      "wide":0,
+      "caption":"Ausschnitt aus dem Dokumentarfilm A futura memoria (Ivo Barnab\u00f2 Micheli, 1986)",
+      "rights":"\u00a9 1986 Antea Film srl \/ 23 Giugno srl \u00a9 2003 Ripley's Film srl - All rights reserved"
+    }
+  ],
+  "trello":"x38yMZYH",
+  "lang":"de"
+}

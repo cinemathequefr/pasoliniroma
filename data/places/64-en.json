@@ -1,0 +1,26 @@
+{
+  "id":64,
+  "name":"The EUR, Quadrato della Concordia: Sal\u00f2",
+  "address":"L'EUR, Quadrato della Concordia ",
+  "desc":"      <p>Follow \u017dilda, street artist from Rennes, whose works evoke the ghosts of Pasolini.<\/p>      ",
+  "latLng":[
+    41.836248,
+    12.4661
+  ],
+  "cat":{
+    "id":10,
+    "name":"\u017dilda"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"64-1",
+      "width":866,
+      "height":1300,
+      "caption":"Sal\u00f2",
+      "rights":"\u00a9 \u017dilda"
+    }
+  ],
+  "lang":"en"
+}

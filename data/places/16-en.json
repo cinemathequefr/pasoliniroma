@@ -1,0 +1,50 @@
+{
+  "id":16,
+  "name":"Via Fanfulla da Lodi",
+  "address":"Via Fanfulla da Lodi, 00176 Roma, Italie",
+  "desc":"      <p>1960 was the year of Federico Fellini's <a href=\"#!\/en\/map\/9\"><em>La Dolce vita<\/em><\/a> and the Rome Olympic Games...<\/p>       <p>It was during that particular summer that Pasolini imagined the settings and script for Accattone, the evocation of an unconventional figure, deprived of everything and demonstrating instinctive, almost animal, behaviour. Whereas Italy was experiencing an unprecedented economic boom, <em>Accattone<\/em> concentrated on another Rome: poor, marginalized, outside official channels. It is a film about the underclass culture that persisted in spite of societal and urban changes at the beginning of the decade.<\/p>      <p>To evoke those disparities, Pasolini decided to shoot his first film in the \"semi-suburb\" of Rome, in particular in the Pigneto quarter. At the time of shooting, the sector was desolate and miserable \u2013 even though, paradoxically, it is a fairly central neighbourhood: via Fanfulla da Lodi, the principal setting of the film, is located close to the Porta Maggiore and <a href=\"#!\/en\/map\/50\">the Termini station<\/a>. By intentionally choosing this disadvantaged quarter, Pasolini also speaks indirectly of the Third World, which he had occasion to discover on his first trip to Africa and India with Alberto Moravia, right before the shooting of <em>Accattone<\/em>.<\/p>      <blockquote>Those were marvellous days, when summer was still burning in all its purity, barely emptied, in its interior, of its fury. Via Fanfulla da Lodi, in the middle of Pigneto, with its low hovels and cracked walls, was of a granular majesty in its extreme smallness; a poor little street, humble and unknown, lost under the sun, in a Rome that was not Rome. We invaded it: a dozen actors, the cameraman, the grips, the sound engineers. But as there were no \"crews\" \u2013 which I never wanted to hear about \u2013, the shooting looked calm: we looked like workers scattered <cite>amongst the other workers who were working in the little workshops of Pigneto.<\/blockquote><\/cite>      <cite>Pier Paolo Pasolini on the shooting of <em>Accattone<\/em> in <em>Il Giorno<\/em>, 16 October 1960<\/cite>      ",
+  "latLng":[
+    41.889809,
+    12.530284
+  ],
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"16-2",
+      "width":1600,
+      "height":1198,
+      "caption":"Pier Paolo Pasolini on the set of Accattone",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"16-1",
+      "width":1600,
+      "height":1181,
+      "caption":"Pier Paolo Pasolini and Bernardo Bertolucci on the set of Accattone",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"16-3",
+      "width":1735,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini on the set of Accattone",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2380416892001, "vimeo":245388175,
+      "wide":0,
+      "caption":"Excerpt from Accattone (Pier Paolo Pasolini, 1961)",
+      "rights":"\u00a9 SNC \/ SND"
+    }
+  ],
+  "trello":"tBbON3r3",
+  "lang":"en"
+}

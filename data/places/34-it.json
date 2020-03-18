@@ -1,0 +1,69 @@
+{
+  "id":34,
+  "name":"Parco dell'Acqua Santa",
+  "desc":"      <p><em>La Ricotta<\/em> e <a href=\"#!\/it\/map\/28\">la seconda parte di <em>Mamma Roma<\/em><\/a> sono girati negli stessi luoghi: i quartieri Cecafumo, Cinecitt\u00e0 e soprattutto la zona detta dell'Acqua Santa, con le antiche rovine romane.<\/p>      <p>\u00c8 qui che Pier Paolo Pasolini incontra un giovane ragazzo di borgata, Ninetto Davoli, apprendista falegname, che sar\u00e0 il grande amore della sua vita e sapr\u00e0 accendere in lui gioia e buon umore. Da allora Ninetto sar\u00e0 sempre al suo fianco nei viaggi e nei film, in cui avr\u00e0 il ruolo di un angelo innocente dai capelli ricciuti.<\/p>      <p>Il film suscita un grande scandalo. Alla prima di <em>RoGoPaG<\/em>, il 1\u00b0 marzo 1963, la proiezione viene interrotta da un ufficiale dei carabinieri inviato dal sostituto procuratore della Repubblica di Roma. Motivo: l'episodio de <em>La Ricotta<\/em> vilipende la religione di stato con alcune scene che presentano la Passione di Cristo in una luce derisoria. Viene quindi istruito <a href=\"#!\/it\/map\/29\">un processo<\/a> contro Pasolini, il quale, pur avendo dalla sua parte vari avvocati importanti, decide di difendersi da s\u00e9. In un clima di grande tensione politica, in un contesto culturale e religioso in pieno mutamento, l'accusa contro Pasolini suscita dibattiti, articoli, movimenti d'opinione contro la censura e molte polemiche che vanno ben oltre le questioni sulla personalit\u00e0 del regista. Tuttavia la commissione di censura del Vaticano non condanna il film. Pasolini ha voluto difendersi dalle accuse in un testo argomentato punto per punto, in cui dichiara: <em>\u00abla storia della Passione \u00e8 la pi\u00f9 grande che io conosca\u00bb<\/em>.<\/p>      ",
+  "latLng":[
+    41.854092,
+    12.532825
+  ],
+  "pos":5388,
+  "cat":{
+    "id":7,
+    "name":"La Ricotta"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"34-1",
+      "width":1600,
+      "height":1093,
+      "caption":"Orson Welles sul set di La Ricotta",
+      "rights":"\u00a9 Mario Dondero, Elisa Dondero"
+    },
+    {
+      "type":"img",
+      "id":"34-2",
+      "width":1584,
+      "height":1200,
+      "caption":"Elsa Morante, Bernardo Bertolucci e Pier Paolo Pasolini sul set di La Ricotta"
+    },
+    {
+      "type":"img",
+      "id":"34-4",
+      "width":1600,
+      "height":1067,
+      "caption":"Pier Paolo Pasolini e Orson Welles sul set di La Ricotta",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"34-3",
+      "width":812,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini e Mario Cipriani sul set di La Ricotta",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"34-5",
+      "width":824,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini sul set di La Ricotta",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2320237572001, "vimeo":245388137,
+      "wide":1,
+      "caption":"Da La Ricotta"
+    },
+    {
+      "type":"video",
+      "id":2381452419001, "vimeo":245388311,
+      "wide":0,
+      "caption":"Da Pasolini l'enrag\u00e9 (Jean-Andr\u00e9 Fieschi, 1966)",
+      "rights":"\u00a9 INA"
+    }
+  ],
+  "lang":"it"
+}

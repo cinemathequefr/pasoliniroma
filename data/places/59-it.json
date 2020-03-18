@@ -1,0 +1,50 @@
+{
+  "id":59,
+  "name":"Via Ettore Giovenale",
+  "address":"Via Ettore Giovenale",
+  "desc":"      <p>La casa di Accattone \u00e8 in via Ettore Giovenale.<\/p>      <p>La realt\u00e0 incontra la finzione poich\u00e9 nello stesso quartiere si trova anche la casa di Franco Citti, protagonista del film. Ed \u00e8 proprio in queste strade, percorse in lungo e in largo negli anni, che Pasolini immagina le sue figure di piccoli delinquenti.<\/p>      <blockquote>I personaggi di Accattone erano tutti ladri o magnaccia o rapinatori o gente che viveva alla giornata: si trattava di un film, insomma, sulla malavita. Naturalmente, c'era anche, intorno, il mondo della gente di borgata, implicata, sia pure, dall'omert\u00e0 con la malavita, ma, infine, normalmente lavoratrice (per un salario miserabile: si veda Sabino, il fratello di Accattone). Ma, in quanto autore, e in quanto cittadino italiano, io nel film non esprimevo affatto un giudizio negativo su quei personaggi della malavita: tutti i loro difetti mi sembravano difetti umani, perdonabili, oltre che, socialmente, perfettamente giustificabili. I difetti degli uomini che ubbidiscono a una scala di valori \u00abaltra\u00bb rispetto a quella borghese: e cio\u00e8 \u00abse stessi\u00bb in modo assoluto, come ho detto.<\/blockquote>      <cite>Testo di Pasolini, pubblicato su <em>Il Corriere della Sera<\/em>, 8 ottobre 1975<\/cite>      <blockquote>Pasolini ha preso gli attori dalla strada, e ci ha presi per come eravamo. Alcuni di noi la mattina arrivavano in ritardo sul set, perch\u00e9 preferivano andare a rubare per mangiare... Altri semplicemente non arrivano perch\u00e9 erano stati arrestati il giorno prima.<\/blockquote>      <cite>Franco Citti, protagonista del film<\/cite>      ",
+  "latLng":[
+    41.889841,
+    12.531637
+  ],
+  "date":1961,
+  "pos":4839,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"59-1",
+      "width":1600,
+      "height":1067,
+      "caption":"Pier Paolo Pasolini e Franco Citti sul set di Accattone",
+      "rights":"\u00a9 Angelo Pennoni \/ Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"59-2",
+      "width":1600,
+      "height":1078,
+      "caption":"Pier Paolo Pasolini sul set di Accattone",
+      "rights":"\u00a9 Angelo Pennoni \/ Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2381449887001,
+      "wide":0,
+      "caption":"Da Accattone (Pier Paolo Pasolini, 1961)",
+      "rights":"\u00a9 SNC \/ SND"
+    },
+    {
+      "type":"video",
+      "id":2381452408001, "vimeo":245388203,
+      "wide":0,
+      "caption":"Dal documentario A futura memoria (Ivo Barnab\u00f2 Micheli, 1986)",
+      "rights":"\u00a9 1986 Antea Film srl \/ 23 Giugno srl \u00a9 2003 Ripley's Film srl - All rights reserved"
+    }
+  ],
+  "lang":"it"
+}

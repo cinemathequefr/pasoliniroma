@@ -1,0 +1,26 @@
+{
+  "id":41,
+  "name":"La villa di Sabaudia",
+  "desc":"      <blockquote>In Italia, invece, a parte Roma, passavamo molto tempo a Sabaudia. L\u00ec avevamo le case attaccate con una terrazza e un giardino in comune. Spesso pranzavamo o cenavamo insieme. Molte volte venivano i fratelli Citti. Ninetto era quasi sempre presente...<\/blockquote>      <cite>Dacia Maraini<\/cite>      <p>Verso la fine della sua vita, Pasolini si fa costruire due case vicino Roma, ciascuna a un'ora e mezza di auto dalla citt\u00e0, in due direzioni diametralmente opposte. <a href=\"#!\/it\/map\/40\">La torre di Chia<\/a> e la casa di Sabaudia, realizzata con Alberto Moravia. Una vera e propria fantasia architettonica e urbanistica.<\/p>      <p>A prima vista, questa scelta desta qualche curiosit\u00e0: Sabaudia \u00e8 una cittadina voluta dal fascismo, che paradossalmente aveva l'ambizione di creare citt\u00e0 nuove, pure creazioni del regime, in particolare nel Lazio. Questa contraddizione, sia sul piano urbano che filosofico, \u00e8 fondamentale: la vita culturale e in particolare l'architettura hanno avuto un grande impulso durante il periodo fascista e dopo la caduta di Mussolini, per molto tempo la sinistra italiana ha voltato le spalle ai simboli del fascismo. Invece per Pasolini l'assetto urbanistico e l'architettura di Sabaudia non sono lo specchio dell'ideologia fascista, ma al contrario riflettono i valori molto pi\u00f9 radicati nella tradizione italiana, che il fascismo non \u00e8 riuscito a cancellare. Il poeta amava la dimensione umana di questa citt\u00e0 \u00abmetafisica e dechirichiana\u00bb.<\/p>      <p>Questa riflessione fa parte di una pi\u00f9 ampia rilettura della societ\u00e0, della politica e della storia italiane. Vivere a Sabaudia significava immergersi nelle radici del fascismo, ma era anche l'occasione per analizzare le influenze rispettivamente del potere autoritario e della Democrazia Cristiana. Pasolini svilupper\u00e0 questa tesi in un grande documentario: <em>La Forma della citt\u00e0<\/em>.<\/p>      ",
+  "latLng":[
+    41.25252,
+    13.034988
+  ],
+  "pos":9312,
+  "cat":{
+    "id":1,
+    "name":"Case, traslochi"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"41-1",
+      "width":1013,
+      "height":696,
+      "caption":"La villa di Sabaudia",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    }
+  ],
+  "trello":"TxrL5d9K",
+  "lang":"it"
+}

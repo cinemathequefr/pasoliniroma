@@ -1,0 +1,41 @@
+{
+  "id":56,
+  "name":"Righetti-Turm, Montecucco-H\u00fcgel",
+  "desc":"      <blockquote class=\"de\">Als er mir vorschlug, in Uccellacci e uccellini (Gro\u00dfe V\u00f6gel, kleine V\u00f6gel) mitzuspielen, habe ich sofort nein gesagt.<br \/>\u201eNa komm\u201c, sagte Pier Paolo, \u201edas ist doch eine tolle Erfahrung.\u201c<br \/>\u201eWarte mal\u201c, antwortete ich, \u201eich muss da doch nicht reden? Ich erinnere mich nicht mal mehr daran, was ich gestern gegessen habe.\u201c<br \/>Und Pier Paolo: \u201eNino, du wirst daf\u00fcr ja auch bezahlt\u201c.<br \/>\u201eIch werde bezahlt?\u201c<br \/>\u201eKlar, du bekommst mindestens 800.000 Lire, vielleicht sogar eine Million.\u201c<br \/>\u201eWie viel? Und was muss ich machen? Mit wem muss ich arbeiten?\u201c<br \/>\u201eMit Tot\u00f2.\u201c<br \/>\u201eIch glaub's nicht, Tot\u00f2, der vom Film?\u201c<br \/>\u201eGenau der.\u201c<br \/>F\u00fcr mich war Tot\u00f2 ein Mythos, ich ging ins Kino, ich kaufte mir Honigkuchen, ich sah in mir an, mit Charlie Chaplin, mit Laurel und Hardy. Das kam mir echt merkw\u00fcrdig vor: Ich sollte nicht nur das Gl\u00fcck haben, mit Tot\u00f2 zu arbeiten, man bezahlte mich auch noch daf\u00fcr!<\/blockquote>      <cite>Ninetto Davoli<\/cite>      ",
+  "latLng":[
+    41.836656,
+    12.443968
+  ],
+  "pos":6482,
+  "cat":{
+    "id":6,
+    "name":"Gro\u00dfe V\u00f6gel, kleine V\u00f6gel"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"35-1",
+      "width":1600,
+      "height":1139,
+      "caption":"Tot\u00f2 und Ninetto Davoli bei den Dreharbeiten zu Gro\u00dfe V\u00f6gel, kleine V\u00f6gel",
+      "rights":"\u00a9 Archivio Storico del Cinema \/ AFE"
+    },
+    {
+      "type":"img",
+      "id":"35-2",
+      "width":1186,
+      "height":1200,
+      "caption":"Tot\u00f2 und Ninetto Davoli bei den Dreharbeiten zu Gro\u00dfe V\u00f6gel, kleine V\u00f6gel",
+      "rights":"\u00a9 Divo Cavicchioli \/ Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"35-3",
+      "width":862,
+      "height":1200,
+      "caption":"Plakat von Gro\u00dfe V\u00f6gel, kleine V\u00f6gel"
+    }
+  ],
+  "trello":"y9R9GQnc",
+  "lang":"de"
+}

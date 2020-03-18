@@ -1,0 +1,27 @@
+{
+  "id":51,
+  "name":"Spiaggia di Ostia",
+  "desc":"      <p>La notte tra il 1\u00b0 e il 2 novembre 1975, sulla spiaggia di Ostia viene trovato il corpo atrocemente martoriato di Pier Paolo Pasolini. Le circostanze della morte del poeta sono ancora oggi poco chiare, anche se il presunto assassino, Pelosi, all'epoca ha fornito alla polizia una versione dettagliata di quella tragica serata.<\/p>      <p>Prima Pasolini ha cenato con Ninetto Davoli al ristorante Pommidoro in piazza dei Sanniti 44 poi il poeta ha detto di dover andare a un appuntamento.<\/p>      <p>Nella prima versione, Pelosi racconta di aver incontrato Pasolini nei pressi della stazione Termini, poi avrebbero fatto insieme un giro per Roma, e infine sarebbero andati Al Biondo Tevere, in via Ostiense 178, un ristorante popolare sul lato della via in direzione di Ostia.<\/p>      <p>Il racconto \u00e8 pieno di incoerenze e zone d'ombra, e contro l'ipotesi di un tentativo di violenza omosessuale finito in tragedia si delinea, pi\u00f9 probabile, quella dell'agguato organizzato. Rimangono molti punti oscuri sul percorso compiuto dai due uomini e sul reale svolgimento della serata.<\/p>      <p>L'ipotesi pi\u00f9 verosimile \u00e8 che la morte di Pasolini non sia riducibile a un semplice fatto di cronaca omosessuale. Pare invece che si sia trattato del linciaggio di un uomo impegnato, militante, provocatore, la cui voce unica, forte, ribelle e particolarmente influente risultava pericolosa per il potere italiano di quegli anni.<\/p><p><\/p>      <p>Dopo aver ritrattato le sue precedenti dichiarazioni, Pelosi ha nominato in seguito i due fratelli Borsellino, legati all'estrema destra, e due o tre siciliani sconosciuti.<\/p>      <p>Negli ultimi anni la magistratura ha pi\u00f9 volte riaperto l'indagine.<\/p>      ",
+  "latLng":[
+    41.741721,
+    " 12.249034"
+  ],
+  "pos":10166,
+  "date":"1975-11-01",
+  "cat":{
+    "id":9,
+    "name":"L'ultima giornata"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"51-1",
+      "width":1596,
+      "height":1045,
+      "caption":"Il cadavere di Pier Paolo Pasolini sulla spiaggia di Ostia",
+      "rights":"\u00a9 Archivi Farabola"
+    }
+  ],
+  "trello":"BvQzudQ9",
+  "lang":"it"
+}

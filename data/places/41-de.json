@@ -1,0 +1,26 @@
+{
+  "id":41,
+  "name":"Die Villa in Sabaudia",
+  "desc":"      <blockquote class=\"de\">Abgesehen von Rom verbrachten wir viel Zeit in Sabaudia. Unsere H\u00e4user lagen neben einander und teilten sich eine Terrasse und einen Garten. Wir a\u00dfen oft gemeinsam zu Mittag oder zu Abend. Die Br\u00fcder Citti kamen h\u00e4ufig. Ninetto war so gut wie immer da...<\/blockquote>      <cite>Dacia Maraini<\/cite>      <p>Gegen Ende seines Lebens l\u00e4sst sich Pasolini in der N\u00e4he von Rom zwei H\u00e4user bauen, die diametral entgegengesetzt jeweils eineinhalb Autostunden von der Stadt entfernt liegen: <a href=\"#!\/de\/map\/40\">Den Turm von Chia<\/a> und das Haus, das er gemeinsam mit Alberto Moravia in Sabaudia baut. Eine echte architektonische und st\u00e4dtebauliche Fantasie.<\/p>      <p>Auf den ersten Blick ist die Wahl des Ortes verbl\u00fcffend: Die kleine Stadt Sabaudia ist ein Produkt der Faschisten, die paradoxerweise den Ehregeiz hatten, Retortenst\u00e4dte zu schaffen, reine Gr\u00fcndungen des Regimes, insbesondere im Latium. Dieser st\u00e4dteplanerische und philosophische Widerspruch ist grundlegend: Das kulturelle, insbesondere architektonische Leben war unter dem Faschismus ausgesprochen reich. Nach dem Sturz Mussolinis kehrte die italienische Linke diesem faschistischen Symbol lange den R\u00fccken. F\u00fcr Pasolini hingegen spiegeln die Stadtplanung und die Architektur von Sabaudia nicht die faschistische Ideologie wieder, vielmehr Werte, die sehr viel tiefer in der Tradition Italiens verankert sind und die auch der Faschismus nicht aus der Welt schaffen konnte. Er liebte die menschliche Dimension dieser <em>\u201emetaphysischen und chiricoischen\u201c<\/em> Stadt.<\/p>      <p>Diese Betrachtung war Teil einer weitereichenden neuen Auffassung der Gesellschaft, der Politik und der Geschichte Italiens. In Sabaudia zu wohnen bedeutete, zu den Wurzeln des Faschismus zur\u00fcckzukehren, zugleich aber bot es die M\u00f6glichkeit, den Einfluss der autorit\u00e4ren Staatsmacht beziehungsweise der Christdemokraten zu analysieren. Diesen Diskurs wird Pasolini in einem gro\u00dfartigen Dokumentarfilm <em>La Forma della citt\u00e0<\/em> (<em>Die Form der Stadt<\/em>) entfalten.<\/p>      ",
+  "latLng":[
+    41.25252,
+    13.034988
+  ],
+  "pos":9312,
+  "cat":{
+    "id":1,
+    "name":"H\u00e4user"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"41-1",
+      "width":1013,
+      "height":696,
+      "caption":"Die Villa in Sabaudia",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    }
+  ],
+  "trello":"TxrL5d9K",
+  "lang":"de"
+}

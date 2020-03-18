@@ -1,0 +1,44 @@
+{
+  "id":57,
+  "name":"Galerie \u201eLa Nuova Pesa\u201c, Guttuso-Ausstellung",
+  "address":"Via del Vantaggio, 46, 00186 Roma",
+  "desc":"      <blockquote class=\"de\">Im Schlafzimmer (ein einfaches<br \/>Bett, mit gebl\u00fcmten Decken<br \/>von kalabresischen oder sardischen Frauen gewebt)<br \/>w\u00fcrde ich meine Sammlung von Bildern<br \/>aufh\u00e4ngen, die ich immer noch liebe: An der Seite<br \/>meines Zigaina w\u00fcnsche ich mir einen sch\u00f6nen Morandi,<br \/> einen Mafai aus den 1940ern, einen De Pisis,<br \/>einen kleinen Rosai, einen gewaltigen Guttuso...<\/blockquote>      <cite>\u201eIl mio desiderio di ricchezza\u201c (\u201eMein Verlangen nach Reichtum\u201c), Gedicht von Pier Paolo Pasolini aus <em>Die Religion meiner Zeit<\/em>, 1961<\/cite>      <p>Im Laufe der Jahre verschiebt sich Pasolinis kulturelles und soziales Leben von den \u201eBorgate\u201c in Richtung Stadtzentrum. Er besucht <a href=\"#!\/de\/map\/9\">die Bars<\/a>, <a href=\"#!\/de\/map\/13\">Restaurants<\/a>, Theater... aber auch die Kunstgalerien. Durch seine Leidenschaft f\u00fcr die Malerei befreundet er sich insbesondere mit Renato Guttuso, einem damals verehrten Maler.<\/p>      ",
+  "latLng":[
+    41.908777,
+    12.474909
+  ],
+  "date":"1962-01-17",
+  "pos":5130,
+  "cat":{
+    "id":8,
+    "name":"Soziales und intellektuelles Leben"
+  },
+  "trello":"LMFMNbqT",
+  "m":[
+    {
+      "type":"img",
+      "id":"57-2",
+      "width":1200,
+      "height":1209,
+      "caption":"Pier Paolo Pasolini bei Guttusos Ausstellung",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    },
+    {
+      "type":"img",
+      "id":"57-1",
+      "width":1772,
+      "height":1802,
+      "caption":"Renato Guttuso. Kreuzigung",
+      "rights":"\u00a9 Galleria nazionale d'arte moderna"
+    },
+    {
+      "type":"img",
+      "id":"57-3",
+      "width":1200,
+      "height":1200,
+      "caption":"Renato Guttuso und Pier Paolo Pasolini",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    }
+  ],
+  "lang":"de"
+}

@@ -1,0 +1,32 @@
+{
+  "id":42,
+  "name":"Quartiere di Torpignattara",
+  "desc":"      <p>Prima di morire, Pier Paolo Pasolini comincia a scrivere un'opera monumentale, che egli stesso definisce una sorta di testamento, di riassunto di tutta la sua vita artistica, professionale e personale. Si tratta di <em>Petrolio<\/em>. Il lungo capitolo dal titolo \u00abLa visione del Merda\u00bb si svolge nel quartiere popolare di Torpignattara che si estende a sud della citt\u00e0, tra la via Casilina e la via Prenestina.<\/p>      <p>L'omicidio di Pasolini interrompe prematuramente la stesura di <em>Petrolio<\/em>. Per anni il manoscritto \u00e8 rimasto in forma di appunti e il pubblico non ne conosceva l'esistenza. Attraverso questo libro, Pasolini pensava di intraprendere una rilettura della storia dell'Italia moderna, in particolare dello scandalo ENI \u2013&nbsp;la grande compagnia petrolifera italiana il cui fondatore, Enrico Mattei, fu assassinato, probabilmente a causa della sua politica di apertura al terzo mondo. Lo scandalo ENI fu poi ricostruito da Francesco Rosi nel film <em>Il Caso Mattei<\/em>, con Gian Maria Volont\u00e8 nel ruolo del protagonista.<\/p>      <p><em>Petrolio<\/em> \u00e8 un libro complesso e quasi sperimentale, in cui si fondono filosofia e questioni di politica interna, domande esistenziali e scandalo dell'ENI. Si tratta di un capolavoro incompiuto dell'arte pasoliniana, e una delle rare opere dell'epoca che tentano di comprendere a fondo la situazione italiana. Pasolini cerca effettivamente di districare la matassa degli omicidi politici e delle stragi dei suoi anni, tentando di individuare il filo conduttore di tutti questi drammi. Tutto ci\u00f2 rende Petrolio un libro particolarmente provocatorio, tanto che alcuni lo identificano come una possibile causa dell'<a href=\"#!\/it\/map\/51\">omicidio di Pasolini<\/a>, che ancora oggi rimane in gran parte insoluto...<\/p>      ",
+  "latLng":[
+    41.873650,
+    12.545013
+  ],
+  "pos":8766,
+  "cat":{
+    "id":2,
+    "name":"Pasolini scrittore"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"42-1",
+      "width":886,
+      "height":1132,
+      "caption":"Pagina dal manoscritto di Petrolio"
+    },
+    {
+      "type":"img",
+      "id":"42-2",
+      "width":835,
+      "height":1200,
+      "caption":"Copertina dell'edizione francese di Petrolio"
+    }
+  ],
+  "trello":"oG8xV8yx",
+  "lang":"it"
+}

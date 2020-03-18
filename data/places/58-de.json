@@ -1,0 +1,36 @@
+{
+  "id":58,
+  "name":"Bei Sandro Penna, Via delle Mole D\u00e8 Fiorentini",
+  "address":"Via delle Mole D\u00e8 Fiorentini, 00186 Roma",
+  "desc":"      <blockquote class=\"de\">Die Uferstra\u00dfen des Tibers, schwarz von Pissoirs, der Janiculus mit seinen Nutten, der Hafen, schwarz von Kot und Pr\u00e4servativen, die Badeanstalt Ciriola mit ihren Jungen, denen alles egal ist, die beim ersten Blick zu haben sind, machen Pasolinis vision\u00e4res und musikalisches Rom der 50er Jahre aus.<\/blockquote>      <cite>Nico Naldini, Biograph und Cousin von Pasolini<\/cite>      <p>Nach seinen vorsichtigen versteckten friaulischen Liebschaften entdeckt Pier Paolo Pasolini die freie direkte Sexualit\u00e4t mit den Ragazzi von Rom. In Begleitung namentlich von Sandro Penna, einem Schriftsteller, der \u00fcber homosexuelle Liebe schreibt, ist er h\u00e4ufig an den Ufern des Tibers. Der Fluss wird im \u00dcbrigen zu einem seiner symbolischen und poetischen Bezugspunkte.<\/p>      <p>Im August 1957 erh\u00e4lt Sandro Penna mit Poesie den Preis Viareggio, den er sich mit... Pier Paolo Pasolini teilt, der f\u00fcr <em>Le Ceneri di Gramsci<\/em> (<em>Gramsci's Asche<\/em>) ausgezeichnet wird.<\/p>      ",
+  "latLng":[
+    41.900121,
+    12.464616
+  ],
+  "date":1957,
+  "pos":3499,
+  "cat":{
+    "id":8,
+    "name":"Soziales und intellektuelles Leben"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"58-1",
+      "width":1600,
+      "height":1184,
+      "caption":"Sandro Penna",
+      "rights":"\u00a9 Contrasto"
+    },
+    {
+      "type":"img",
+      "id":"58-2",
+      "width":821,
+      "height":1200,
+      "caption":"Sandro Penna",
+      "rights":"\u00a9 Contrasto"
+    }
+  ],
+  "lang":"de"
+}

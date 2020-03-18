@@ -1,0 +1,41 @@
+{
+  "id":56,
+  "name":"Torre Righetti, collina di Montecucco",
+  "desc":"      <blockquote>Quando mi offr\u00ec di recitare in Uccellacci e uccellini dissi subito di no.<br \/>\u00abMa dai \u2013&nbsp;diceva Pier Paolo&nbsp;\u2013 \u00e8 una bella cosa.<br \/>\u2013 Ma che \u2013&nbsp;rispondevo io&nbsp;\u2013 devo per caso parl\u00e0? Io nun me ricordo neanche quello che ho mangiato ieri.\u00bb<br \/>E Pier Paolo: \u00abNine', guarda che ti pagano.<br \/>\u2013 Mi pagano?<br \/>\u2013 Certo, ti daranno almeno 800&nbsp;000 lire, forse un milione.<br \/>\u2013 Che me danno? e che devo fa'? Con chi devo lavora'?<br \/>\u2013 Devi lavora' con Tot\u00f2.<br \/>\u2013 Ma chi, Tot\u00f2 quello del cinema?<br \/>\u2013 S\u00ec, lui.\u00bb<br \/>Per me Tot\u00f2 era un mito, io andavo al cinema, mi compravo i mostaccioli, me lo vedevo, con Charlot, con Stanlio e Ollio. Per\u00f2 mi sembrava strano. Non solo avevo la fortuna di lavorare con Tot\u00f2, mi pagavano pure!<\/blockquote>      <cite>Ninetto Davoli<\/cite>      ",
+  "latLng":[
+    41.836656,
+    12.443968
+  ],
+  "pos":6482,
+  "cat":{
+    "id":6,
+    "name":"Uccellacci e uccellini"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"35-1",
+      "width":1600,
+      "height":1139,
+      "caption":"Tot\u00f2 e Ninetto Davoli sul set di Uccellacci e uccellini",
+      "rights":"\u00a9 Archivio Storico del Cinema \/ AFE"
+    },
+    {
+      "type":"img",
+      "id":"35-2",
+      "width":1186,
+      "height":1200,
+      "caption":"Tot\u00f2 e Ninetto Davoli sul set di Uccellacci e uccellini",
+      "rights":"\u00a9 Divo Cavicchioli \/ Reporters Associati srl"
+    },
+    {
+      "type":"img",
+      "id":"35-3",
+      "width":862,
+      "height":1200,
+      "caption":"Manifesto di Uccellacci e uccellini"
+    }
+  ],
+  "trello":"y9R9GQnc",
+  "lang":"it"
+}

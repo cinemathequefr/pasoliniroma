@@ -1,0 +1,27 @@
+{
+  "id":51,
+  "name":"Der Strand von Ostia",
+  "desc":"      <p>In der Nacht vom 1. auf den 2. November 1975 findet man am Strand von Ostia die grauenvoll verst\u00fcmmelte Leiche von Pier Paolo Pasolini. Die Umst\u00e4nde seines Todes sind noch heute \u00e4u\u00dferst unklar, auch wenn sein mutma\u00dflicher M\u00f6rder Pelosi damals eine detaillierte Schilderung des tragischen Abends gab.<\/p>      <p>Zuerst a\u00df Pasolini mit Ninetto Davoli im Restaurant Pommidoro (Piazza dei Sanniti, 44). Dann ging er, so sagt Ninetto, zu einem Treffen.<\/p>      <p>In seiner ersten Version erz\u00e4hlt Pelosi, er habe Pasolini in unmittelbarer N\u00e4he des Bahnhofs Termini getroffen. Dann h\u00e4tten sie mit dem Auto eine Spazierfahrt durch Rom gemacht und w\u00e4ren schlie\u00dflich ins \u201eAl Biondo Tevere\u201c (Via Ostiense, 178) gegangen, ein einfaches Restaurant an der Stra\u00dfe, die zum Strand von Ostia f\u00fchrt.<\/p>      <p>Dieser Bericht enth\u00e4lt eine Menge Unstimmigkeiten und dunkle Stellen, und entgegen der These der versuchten Notzucht eines Homosexuellen, die tragisch endete, ist die Theorie eines organisierten Hinterhalts am glaubhaftesten. Es gibt viele ungekl\u00e4rte Punkte \u00fcber den Weg, den die beiden M\u00e4nner genommen haben, und den tats\u00e4chlichen Ablauf des Abends.<\/p>      <p>Am wahrscheinlichsten ist die Hypothese, dass der Tod Pasolinis sich nicht auf eine blo\u00dfe Zeitungsmeldung \u00fcber homosexuelle Gewalt reduzieren l\u00e4sst, sondern vielmehr eine Form von Lynchjustiz an einem engagierten, k\u00e4mpferischen Provokateur war, dessen einzigartige, laute, rebellische und au\u00dfergew\u00f6hnlich einflussreiche Stimme f\u00fcr die damalige italienische Staatsmacht eine Gefahr darstellte.<\/p>      <p>Nachdem Pelosi auf seine ersten Aussagen zur\u00fcckkam, erw\u00e4hnte er auch die beiden Br\u00fcder Borsellino, die der extremen Rechten angeh\u00f6rten, au\u00dferdem zwei oder drei Sizilianer.<\/p>      <p>Das Gericht nahm in den letzten Jahren die Ermittlungen mehrmals wieder auf.<\/p>      ",
+  "latLng":[
+    41.741721,
+    " 12.249034"
+  ],
+  "pos":10166,
+  "date":"1975-11-01",
+  "cat":{
+    "id":9,
+    "name":"Der letzte Tag"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"51-1",
+      "width":1596,
+      "height":1045,
+      "caption":"Pier Paolo Pasolinis Leiche am Strand von Ostia",
+      "rights":"\u00a9 Archivi Farabola"
+    }
+  ],
+  "trello":"BvQzudQ9",
+  "lang":"de"
+}

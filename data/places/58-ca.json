@@ -1,0 +1,36 @@
+{
+  "id":58,
+  "name":"Casa de Sandro Penna, via delle Mole D\u00e8 Fiorentini",
+  "address":"Via delle Mole D\u00e8 Fiorentini, 00186 Roma",
+  "desc":"      <blockquote>\u00abLes ribes del T\u00edber, negres per l'orina, el Gianicolo amb les seves putes, el port negre per la merda i els condons, la Ciriola amb els seus nois, a qui tot els \u00e9s igual i que es lliuren amb nom\u00e9s una mirada, componen la Roma de Pasolini en els anys cinquanta, vision\u00e0ria i musical\u00bb.<\/blockquote>      <p>Nico Naldini, bi\u00f2graf i cos\u00ed de Pasolini<\/p>      <p>Despr\u00e9s dels amors viscuts amb cautela i dissimulaci\u00f3 al Fri\u00fcl, Pier Paolo Pasolini descobreix la sexualitat lliure i instant\u00e0nia amb els ragazzi de Roma. En companyia principalment de Sandro Penna, escriptor de les emocions amoroses masculines, freq\u00fcenta les ribes del T\u00edber. El riu esdev\u00e9 un dels seus referents simb\u00f2lics i po\u00e8tics.<\/p>      <p>A l'agost de 1957, Sandro Penna guanya el Premi Viareggio amb <em>Poesia<\/em>. Comparteix aquest premi amb... Pier Paolo Pasolini, guanyador ex aequo amb <em>Les cendres de Gramsci<\/em>.<\/p>      ",
+  "latLng":[
+    41.900121,
+    12.464616
+  ],
+  "date":1957,
+  "pos":3499,
+  "cat":{
+    "id":8,
+    "name":"Vida social i intel\u00b7lectual"
+  },
+  "trello":"mCTUJcCn",
+  "m":[
+    {
+      "type":"img",
+      "id":"58-1",
+      "width":1600,
+      "height":1184,
+      "caption":"Sandro Penna",
+      "rights":"\u00a9 Contrasto"
+    },
+    {
+      "type":"img",
+      "id":"58-2",
+      "width":821,
+      "height":1200,
+      "caption":"Sandro Penna",
+      "rights":"\u00a9 Contrasto"
+    }
+  ],
+  "lang":"ca"
+}

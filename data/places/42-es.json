@@ -1,0 +1,32 @@
+{
+  "id":42,
+  "name":"Barrio de Torpignattara",
+  "desc":"      <p>Antes de su muerte, Pasolini emprende la escritura de una obra monumental, que \u00e9l mismo define como una especie de testamento, de recapitulaci\u00f3n de toda su vida art\u00edstica, profesional y personal. Se trata de <em>Petr\u00f3leo<\/em>. El largo cap\u00edtulo \u00ab&nbsp;La visione del Merda&nbsp;\u00bb transcurre en el barrio popular de Torpignattara que se extiende al sur de la ciudad, entre la via Casilina y la via Prenestina.<\/p>      <p>El asesinato de Pasolini pone fin abruptamente a la escritura de <em>Petr\u00f3leo<\/em>. Durante a\u00f1os, el manuscrito qued\u00f3 como borrador, como bosquejo de existencia desconocida para el p\u00fablico. Con su libro, Pasolini ten\u00eda pensado iniciar una relectura de la historia de la Italia moderna, con, entre otros, el esc\u00e1ndalo del ENI, importante sociedad petrolera italiana cuyo fundador, Enrico Mattei, fue asesinado, probablemente a causa de su pol\u00edtica de apertura hacia el tercer mundo. Francesco Rosi alude a este asunto en <em>Il Caso Mattei<\/em>, con Gian Maria Volont\u00e8 en el papel del empresario.<\/p>      <p><em>Petr\u00f3leo<\/em> es un libro complejo, casi experimental. Mezcla la filosof\u00eda con las cuestiones de pol\u00edtica interior, las cuestiones esenciales con los esc\u00e1ndalos del ENI. Es un monumento inacabado del arte pasoliniano y una de las pocas obras de entonces que intenta ahondar en la situaci\u00f3n de Italia.<\/p>      <p>En \u00e9l, Pasolini intenta desentra\u00f1ar la mara\u00f1a de las masacres y los atentados pol\u00edticos de su \u00e9poca, procura encontrar el hilo rojo que une estos dramas. Con lo cual el libro es una bomba de relojer\u00eda. Algunos piensan que es posiblemente la causa del <a href=\"#!\/es\/map\/51\">asesinato de Pasolini<\/a>, que sigue hoy pr\u00e1cticamente sin esclarecerse...<\/p>      ",
+  "latLng":[
+    41.873650,
+    12.545013
+  ],
+  "pos":8766,
+  "cat":{
+    "id":2,
+    "name":"Pasolini escritor"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"42-1",
+      "width":886,
+      "height":1132,
+      "caption":"Fragmento del manuscrito de Petr\u00f3leo"
+    },
+    {
+      "type":"img",
+      "id":"42-2",
+      "width":835,
+      "height":1200,
+      "caption":"Portada de la edici\u00f3n francesa de Petr\u00f3leo"
+    }
+  ],
+  "trello":"oG8xV8yx",
+  "lang":"es"
+}

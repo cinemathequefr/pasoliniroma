@@ -1,0 +1,50 @@
+{
+  "id":16,
+  "name":"Via Fanfulla da Lodi",
+  "address":"Via Fanfulla da Lodi, 00176 Roma, Italie",
+  "desc":"      <p>1960, das Jahr von Federico Fellinis <em>La Dolce vita<\/em> (<a href=\"#!\/de\/map\/9\"><em>Das s\u00fc\u00dfe Leben<\/em><\/a>) und der Olympischen Spiele in Rom...<\/p>      <p>In diesem besonderen Sommer denkt sich Pier Paolo Pasolini die Schaupl\u00e4tze und das Drehbuch f\u00fcr <em>Accattone<\/em> (<em>Accattone \u2013 wer nie sein Brot mit Tr\u00e4nen a\u00df<\/em>) aus, die Geschichte eines Au\u00dfenseiters, eines Hungerleiders mit instinktivem, fast tierischem Verhalten. W\u00e4hrend Italien einen beispiellosen Wirtschaftsboom erlebt, konzentriert sich <em>Accattone<\/em> auf ein anderes, ein armes, ausgegrenztes Rom, das in der offiziellen Berichterstattung nicht vorkommt. Es ist ein Film \u00fcber die Kultur des Subproletariats, die ungeachtet des sozialen und st\u00e4dtischen Wandels zu Anfang dieses Jahrzehnts fortbesteht.<\/p>      <p>Um von diesem sozialen Auseinanderdriften der Gesellschaft zu erz\u00e4hlen, beschlie\u00dft Pasolini, seinen ersten Film in Roms \u201eSemiperipherie\u201c, im Pigneto zu drehen. Zur Zeit der Dreharbeiten ist dies eine trostlose und armselige Gegend \u2013 dabei handelt es sich paradoxerweise um ein halbwegs zentrales Viertel: Die Via Fanfulla da Lodi, Hauptdrehort des Films, ist nicht weit weg von der Porta Maggiore und dem <a href=\"#!\/de\/map\/50\">Bahnhof Termini<\/a>. Durch seine bewusste Wahl dieses armen Stadtteils erz\u00e4hlt Pasolini indirekt auch von der Dritten Welt, die er kurz vor den Dreharbeiten zu Accattone auf seiner ersten Reise nach Afrika und Indien zusammen mit Alberto Moravia kennengelernt hat.<\/p>      <blockquote class=\"de\">Es waren wunderbare Tage, der Sommer gl\u00fchte noch in seiner ganzen Reinheit, war in seinem Inneren kaum seiner Wut entleert. Die Via Fanfulla da Lodi inmitten des Pigneto mit den niedrigen H\u00fctten und den rissigen kleinen Mauern war in ihrer extremen Bedeutungslosigkeit von k\u00f6rniger Gro\u00dfartigkeit; eine armselige, \u00e4rmliche, unbekannte kleine Stra\u00dfe, verloren unter der Sonne, in einem Rom, das nicht mehr Rom war. Wir haben sie bev\u00f6lkert: ein gutes Dutzend Schauspieler, der Kameramann, die B\u00fchnenarbeiter, die Tonleute. Doch da es keine feste Crew gab \u2013&nbsp; davon habe ich nie etwas wissen wollen&nbsp; \u2013 ging es bei den Dreharbeiten friedlich zu: Wir wirkten wie Arbeiter unter den anderen Arbeitern aus den kleinen Werkst\u00e4tten des Pignetos.<\/blockquote>      <cite>Pier Paolo Pasolini \u00fcber die Dreharbeiten zu <em>Accattone<\/em> (\u201eDer 4. Oktober\u201c, <em>Il Giorno<\/em>, 16. Oktober 1960)<\/cite>      ",
+  "latLng":[
+    41.889809,
+    12.530284
+  ],
+  "pos":4838,
+  "cat":{
+    "id":4,
+    "name":"Accattone"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"16-2",
+      "width":1600,
+      "height":1198,
+      "caption":"Pier Paolo Pasolini bei Dreharbeiten zu Accattone",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"16-1",
+      "width":1600,
+      "height":1181,
+      "caption":"Pier Paolo Pasolini bei Dreharbeiten zu Accattone",
+      "rights":"\u00a9 Archivio Pier Paolo Pasolini"
+    },
+    {
+      "type":"img",
+      "id":"16-3",
+      "width":1735,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini bei Dreharbeiten zu Accattone",
+      "rights":"\u00a9 Reporters Associati srl"
+    },
+    {
+      "type":"video",
+      "id":2380416892001, "vimeo":245388175,
+      "wide":0,
+      "caption":"Filmausschnitt aus Accattone (Pier Paolo Pasolini, 1961)",
+      "rights":"\u00a9 SNC \/ SND"
+    }
+  ],
+  "trello":"tBbON3r3",
+  "lang":"de"
+}

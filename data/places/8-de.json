@@ -1,0 +1,43 @@
+{
+  "id":8,
+  "name":"Caf\u00e9 Rosati",
+  "address":"Piazza del Popolo, 5, 00196 Roma",
+  "desc":"      <p>Wie das <a href=\"#!\/de\/map\/9\">Caf\u00e9 Canova<\/a> oder die Restaurants Il Bolognese und <a href=\"#!\/de\/map\/13\">Beltramme<\/a> geh\u00f6rt auch das Caf\u00e9 Rosati in den 50er Jahren zu den bekanntesten und bedeutungsvollsten Orten des intellektuellen r\u00f6mischen Lebens. Nach Theaterpremieren oder bei Urauff\u00fchrungen der Filme von Vittorio De Sica oder <a href=\"#!\/de\/map\/5\">Roberto Rossellini<\/a> findet sich hier alles, was Rom an K\u00fcnstlern und Denkern vorzuweisen hat. Hier trifft Pier Paolo Pasolini unter anderem seine Freunde <a href=\"#!\/de\/map\/10\">Laura Betti<\/a>, Elsa Morante, Alberto Moravia, Giorgio Bassani, Carmelo Bene, Bernardo Bertolucci, manchmal auch Italo Calvino, und f\u00fchrt mit ihnen n\u00e4chtelange hitzige Diskussionen.<\/p>      <blockquote class=\"de\">In den 50er Jahren konnte man hier Pier Paolo Pasolini und Elsa Morante begegnen, aber auch vielen jungen Malern und Filmleuten, in einem kulturellen Klima, dessen Lebendigkeit ich erst mehrere Jahre sp\u00e4ter in seiner G\u00e4nze zu sch\u00e4tzen wusste.<\/blockquote>      <cite>Ugo Pirro, Drehbuchautor f\u00fcr <em>Ermittlungen gegen einen \u00fcber jeden Verdacht erhabenen B\u00fcrger<\/em> von Elio Petri und f\u00fcr <em>Der Garten der Finzi-Contini<\/em> von Vittorio De Sica.<\/cite>      ",
+  "latLng":[
+    41.910099,
+    12.476106
+  ],
+  "date":1956,
+  "pos":3026,
+  "cat":{
+    "id":8,
+    "name":"Soziales und intellektuelles Leben"
+  },
+  "trello":"D6sXe9Ea",
+  "m":[
+    {
+      "type":"img",
+      "id":"8-1",
+      "width":1560,
+      "height":1600,
+      "caption":"Pier Paolo Pasolini auf der Terrasse des Caf\u00e9s Rosati",
+      "rights":"\u00a9 Archivi Farabola"
+    },
+    {
+      "type":"img",
+      "id":"8-2",
+      "width":1178,
+      "height":1200,
+      "caption":"Piazza del Popolo"
+    },
+    {
+      "type":"img",
+      "id":"8-3",
+      "width":1564,
+      "height":1200,
+      "caption":"Pier Paolo Pasolini und Italo Calvino auf der Terrasse des Caf\u00e9s Rosati",
+      "rights":"\u00a9 Archivio storico Istituto Luce Cinecitt\u00e0 srl"
+    }
+  ],
+  "lang":"de"
+}

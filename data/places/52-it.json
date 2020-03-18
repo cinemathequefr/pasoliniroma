@@ -1,0 +1,35 @@
+{
+  "id":52,
+  "name":"Campo de' Fiori: il funerale di Pasolini",
+  "desc":"      <p>La scelta del luogo \u00e8 simbolica, sia perch\u00e9 qui il filosofo e scrittore Giordano Bruno accusato di eresia dall'Inquisizione, nel 1600 fu condannato al rogo e giustiziato, ma anche e soprattutto in relazione alla vita quotidiana di Pasolini, infatti Laura Betti abita a due passi, in <a href=\"#!\/it\/map\/11\">via di Montoro<\/a> e La Carbonara \u00e8 uno dei ristoranti preferiti del poeta e dei suoi amici intellettuali.<\/p>      <p>Il giorno del funerale, gli intellettuali, ma anche il popolo di Roma accorrono in massa: la cerimonia \u00e8 toccante, e oltre a Moravia, Rosi, Bertolucci, Betti e Morante partecipa anche la gente delle borgate tanto amata da Pasolini. Alberto Moravia prende la parola \u2013&nbsp;seguito da Gianni Borgna&nbsp;\u2013 pronunciando a braccio un discorso sconvolgente.<\/p>      <p><em>\u00abQuest'immagine che mi perseguita, di Pasolini che fugge a piedi, \u00e8 inseguito da qualche cosa che non ha volto e che \u00e8 quello che l'ha ucciso, \u00e8 un'immagine emblematica di questo paese. Cio\u00e8 un'immagine che deve spingerci a migliorare questo paese come Pasolini stesso avrebbe voluto.\u00bb<\/em><\/p>      <p>E aggiunge: <em>\u00abAbbiamo perso prima di tutto un poeta e di poeti non ce ne sono tanti nel mondo, ne nascono 3 o 4 soltanto, in un secolo. Il poeta dovrebbe essere sacro\u00bb.<\/em><\/p>      <p>La folla risponde con emozione, con passione. I funerali si trasformano in una manifestazione politica, poich\u00e9 la gente ha capito che il caso \u00e8 molto pi\u00f9 complesso di quanto i media siano disposti a rivelare.<\/p>      <p>Oggi Pasolini e la madre giacciono uno accanto all'altra in due tombe gemelle nel piccolo cimitero di Casarsa della Delizia in Friuli, il paese materno. Il padre e il fratello sono sepolti in un altro settore dello stesso cimitero.<\/p>      ",
+  "address":{
+    
+  },
+  "latLng":[
+    41.895502,
+    " 12.472004"
+  ],
+  "pos":10166,
+  "date":"1975-11-05",
+  "cat":{
+    "id":9,
+    "name":"L'ultima giornata"
+  },
+  "m":[
+    {
+      "type":"img",
+      "id":"52-1",
+      "width":1600,
+      "height":980,
+      "caption":"Piazza Campo de' Fiori",
+      "rights":"\u00a9 Agenzia Fotogramma"
+    },
+    {
+      "type":"video",
+      "id":2384281328001, "vimeo":245388106,
+      "wide":0
+    }
+  ],
+  "trello":"PJk8yZRF",
+  "lang":"it"
+}
